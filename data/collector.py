@@ -11,33 +11,19 @@ REST_BASE = "https://en.wikipedia.org/api/rest_v1"
 LEGACY_BASE = "https://en.wikipedia.org/w/api.php"
 
 TARGET_PAGES = [
-    "2020 United States presidential election",
-    "Donald Trump",
-    "Joe Biden",
-    "Kamala Harris",
-    "Mike Pence"
+    'MV_Lazio',
+    # "2020 United States presidential election",
+    # "Donald Trump",
+    # "Joe Biden",
+    # "Kamala Harris",
+    # "Mike Pence"
 ]
 
-
-def fetch_summary(title):
-    # Decode once in case it's double-encoded
+def fetch_page_data(title):
+    # Decode first in case it's already encoded, then encode properly
     clean_title = unquote(title)
     encoded_title = quote(clean_title, safe='')
-    
-    url = f"https://en.wikipedia.org/api/rest_v1/page/summary/{encoded_title}"
-    
-    try:
-        response = requests.get(url)
-        response.raise_for_status()
-        return response.json().get("extract", "")
-    except requests.exceptions.RequestException as e:
-        print(f"Error fetching summary for {title}: {e}")
-        return None
-
-
-def fetch_page_data(title):
-    """Fetch title, URL, and first paragraph (REST API)."""
-    url = f"{REST_BASE}/page/summary/{quote(title)}"
+    url = f"{REST_BASE}/page/summary/{encoded_title}"
     try:
         response = requests.get(url, headers=HEADERS, timeout=10)
         response.raise_for_status()
@@ -50,6 +36,7 @@ def fetch_page_data(title):
     except requests.exceptions.RequestException as e:
         print(f"Error fetching summary for {title}: {e}")
         return None
+
 
 def fetch_links_legacy(title, link_type="links"):
     """Fetch links or backlinks (Legacy API)."""
@@ -74,21 +61,27 @@ def scrape_wikipedia():
     results = {}
     for page_title in TARGET_PAGES:
         print(f"Processing: {page_title}")
-        page_data = fetch_summary(page_title)
+        page_data = fetch_page_data(page_title)  # Changed from fetch_summary to fetch_page_data
         if not page_data:
             continue
         
         # Get linked pages (outgoing)
         linked_titles = get_hyperlinks(page_title)
-        page_data["linked_pages"] = [
-            fetch_summary(title) for title in linked_titles if fetch_summary(title)
-        ]
+        linked_pages = []
+        for title in linked_titles:
+            page_info = fetch_page_data(title)
+            if page_info:
+                linked_pages.append(page_info)
+        page_data["linked_pages"] = linked_pages
 
         # Get "What Links Here" (incoming)
         backlink_titles = get_backlinks(page_title)
-        page_data["what_links_here"] = [
-            fetch_summary(title) for title in backlink_titles if fetch_summary(title)
-        ]
+        backlink_pages = []
+        for title in backlink_titles:
+            page_info = fetch_page_data(title)
+            if page_info:
+                backlink_pages.append(page_info)
+        page_data["what_links_here"] = backlink_pages
 
         results[page_title] = page_data
 
