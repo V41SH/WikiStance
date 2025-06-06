@@ -2,8 +2,10 @@ import requests
 from bs4 import BeautifulSoup
 from urllib.parse import urljoin
 import wikipediaapi
+from typing import List
+import random
 
-def get_backlinks(title, limit=500):
+def get_backlinks(title: str, limit: int=1000) -> List:
     S = requests.Session()
     URL = "https://en.wikipedia.org/w/api.php"
 
@@ -12,8 +14,8 @@ def get_backlinks(title, limit=500):
         "format": "json",
         "list": "backlinks",
         "bltitle": title,
-        "blnamespace": 0,  # Only get backlinks in the main/article namespace
-        "bllimit": limit
+        "blnamespace": 0,
+        "bllimit": 500,
     }
 
     backlinks = []
@@ -27,10 +29,10 @@ def get_backlinks(title, limit=500):
             break
     
     backlinks = [i.split('/')[-1] for i in backlinks]
-    return backlinks
+    return random.sample(backlinks, limit) # get 1000 links randomly
 
 
-def get_hyperlinks(article_title):
+def get_hyperlinks(article_title: str, limit: int=1000) -> List:
     url = f"https://en.wikipedia.org/wiki/{article_title}"
     response = requests.get(url)
     soup = BeautifulSoup(response.content, "html.parser")
@@ -45,7 +47,7 @@ def get_hyperlinks(article_title):
             links.add(full_url)
 
     links = [i.split('/')[-1] for i in links]
-    return sorted(links)
+    return random.sample(sorted(links), limit) # get 1000 links randomly
 
 def get_article_hyperlinks(article_title):
     wiki_wiki = wikipediaapi.Wikipedia(user_agent='my-agent',language='en')
@@ -60,5 +62,6 @@ def get_article_backlinks(article_title):
     backlinks = page.backlinks
     return [title for title in backlinks]  # just return the titles
 
-# if __name__ == '__main__':
-#     print(get_backlinks('Python_(programming_language)'))
+if __name__ == '__main__':
+    back = get_backlinks('2020 United States presidential election')
+    print(len(back))

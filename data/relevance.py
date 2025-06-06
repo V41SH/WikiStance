@@ -73,7 +73,7 @@ def main():
     for doc in graph:
         for t in ("linked_pages", "what_links_here"):
             graph[doc][t] = [s for s in graph[doc][t]
-                             if s in allowed.get(graph[doc]["title"], set())]
+                                if s in allowed.get(graph[doc]["title"], set())]
 
     # write the filtered graph
     with open("wikipedia_filtered.json", "w") as f:
