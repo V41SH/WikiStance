@@ -37,26 +37,6 @@ def fetch_page_data(title):
         print(f"Error fetching summary for {title}: {e}")
         return None
 
-
-def fetch_links_legacy(title, link_type="links"):
-    """Fetch links or backlinks (Legacy API)."""
-    params = {
-        "action": "query",
-        "format": "json",
-        "titles": title,
-        "prop": "links" if link_type == "links" else "linkshere",
-        "pllimit": 50  # Limit to 50 links
-    }
-    try:
-        response = requests.get(LEGACY_BASE, params=params, headers=HEADERS, timeout=10)
-        response.raise_for_status()
-        data = response.json()
-        pages = data.get("query", {}).get("pages", {})
-        return [link["title"] for page in pages.values() for link in page.get(link_type, [])]
-    except requests.exceptions.RequestException as e:
-        print(f"Error fetching {link_type} for {title}: {e}")
-        return []
-
 def scrape_wikipedia():
     results = {}
     for page_title in TARGET_PAGES:
