@@ -4,7 +4,7 @@ from urllib.parse import quote
 import time
 from links import get_backlinks, get_hyperlinks
 from urllib.parse import unquote, quote
-from relevance import similarity, embedding
+from relevance import similarity, embed_batch
 
 USER_AGENT = "MyWikipediaBot/1.0 (me@example.com)"
 HEADERS = {"User-Agent": USER_AGENT}
@@ -56,8 +56,10 @@ def fetch_page_data_mw(title: str):
         data = response.json()
 
         pages = data.get("query", {}).get("pages", {})
-        page = next(iter(pages.values()))  # Get the first (and only) page object
-
+        try:
+            page = next(iter(pages.values()))  # Get the first (and only) page object
+        except:
+            print(f"[DEBUG] Pages received for title '{title}': {pages}")
         return {
             "title": page.get("title", title),
             "url": page.get("fullurl", ""),
@@ -75,7 +77,7 @@ def scrape_wikipedia():
         print(f"Processing: {page_title}")
 
         # get embeddings for target pages
-        target_embedding = embedding(fetch_page_data_mw(page_title)['first_paragraph'])
+        target_embedding = embed_batch(fetch_page_data_mw(page_title)['first_paragraph'])
         page_data = fetch_page_data_mw(page_title) 
         if not page_data:
             continue
@@ -88,7 +90,7 @@ def scrape_wikipedia():
             page_info = fetch_page_data_mw(title)
             
             if page_info:
-                page_embedding = embedding(page_info['first_paragraph'])
+                page_embedding = embed_batch([page_info['first_paragraph']])
     
                 # check relevance, skip if below threshold
                 if similarity(page_embedding, target_embedding) < 0.7 :
@@ -106,7 +108,7 @@ def scrape_wikipedia():
             page_info = fetch_page_data_mw(title)
             if page_info:
                 # print('first para type ', type(page_info['first_paragraph']))
-                page_embedding = embedding(page_info['first_paragraph'])
+                page_embedding = embed_batch([page_info['first_paragraph']])
     
                 # check relevance, skip if below threshold
                 if similarity(page_embedding, target_embedding) < 0.7 :
