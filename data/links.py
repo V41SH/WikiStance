@@ -5,7 +5,7 @@ import wikipediaapi
 from typing import List
 import random
 
-def get_backlinks(title: str, limit: int=1000) -> List:
+def get_backlinks(title: str, limit: int=None) -> List:
     S = requests.Session()
     URL = "https://en.wikipedia.org/w/api.php"
 
@@ -27,12 +27,15 @@ def get_backlinks(title: str, limit: int=1000) -> List:
             params.update(response["continue"])
         else:
             break
-    
+
     backlinks = [i.split('/')[-1] for i in backlinks]
-    return random.sample(backlinks, limit) # get 1000 links randomly
+    if limit is None:
+        return backlinks
+    # return random.sample(backlinks, limit) # get 1000 links randomly
+    return backlinks[:limit] # get 1000 links randomly
 
 
-def get_hyperlinks(article_title: str, limit: int=1000) -> List:
+def get_hyperlinks(article_title: str, limit: int=None) -> List:
     url = f"https://en.wikipedia.org/wiki/{article_title}"
     response = requests.get(url)
     soup = BeautifulSoup(response.content, "html.parser")
@@ -47,7 +50,10 @@ def get_hyperlinks(article_title: str, limit: int=1000) -> List:
             links.add(full_url)
 
     links = [i.split('/')[-1] for i in links]
-    return random.sample(sorted(links), limit) # get 1000 links randomly
+    if limit is None:
+        return links
+    # return random.sample(sorted(links), limit) # get 1000 links randomly
+    return links[:limit] # get 1000 links randomly
 
 def get_article_hyperlinks(article_title):
     wiki_wiki = wikipediaapi.Wikipedia(user_agent='my-agent',language='en')

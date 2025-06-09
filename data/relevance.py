@@ -2,23 +2,65 @@ import json
 import numpy as np
 from sentence_transformers import SentenceTransformer
 import pandas as pd
-import matplotlib.pyplot as plt
+import matplotlib.pyplot
+import time
+import pickle, atexit
+from pathlib import Path
+from collections.abc import Sequence                       # for type hint
+import numpy as np
+
+_CACHE_F = Path("embeddings.pkl")
+try:
+    _EMB_CACHE: dict[str, np.ndarray] = pickle.load(_CACHE_F.open("rb"))
+except FileNotFoundError:
+    _EMB_CACHE = {}
+
+def _flush_cache() -> None:
+    with _CACHE_F.open("wb") as fp:
+        pickle.dump(_EMB_CACHE, fp, protocol=pickle.HIGHEST_PROTOCOL)
+
+atexit.register(_flush_cache)
+
+
+
+t1 = time.time()
+MODEL = SentenceTransformer(
+    'bert-base-nli-mean-tokens',
+    device="cuda:0")
+print(f"Loaded BERT model in {time.time() - t1} seconds")
+
 
 def similarity(a: np.ndarray, b: np.ndarray) -> float:
     """Cosine similarity"""
     return np.dot(a, b) / (np.linalg.norm(a) * np.linalg.norm(b))
 
-MODEL = SentenceTransformer(
-        'bert-base-nli-mean-tokens'
-    )
-def embed_batch(texts: list[str], batch_size: int = 8) -> np.ndarray:
-    """Sentence-BERT embeddings with bounded memory."""
-    return MODEL.encode(
-        texts,
-        batch_size=batch_size,
-        convert_to_numpy=True,
-        show_progress_bar=False
-    )
+
+def embed_batch(
+    titles: Sequence[str],
+    texts: Sequence[str],
+    batch_size: int = 24,
+) -> np.ndarray:
+    assert len(titles) == len(texts), "titles and texts must align"
+
+    # work out which titles we have not embedded yet
+    missing_idx = [i for i, t in enumerate(titles) if t not in _EMB_CACHE]
+
+    if missing_idx:
+        to_encode = [texts[i] for i in missing_idx]
+        new_vecs = MODEL.encode(
+            to_encode,
+            batch_size=batch_size,
+            convert_to_numpy=True,
+            show_progress_bar=False,
+        )
+        for i, vec in zip(missing_idx, new_vecs):
+            _EMB_CACHE[titles[i]] = vec
+
+    return np.stack([_EMB_CACHE[t] for t in titles])
+
+
+
+
 def main():
     # read the JSON file
     with open("wikipedia_final_data.json", "r") as f:
