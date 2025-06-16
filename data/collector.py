@@ -7,11 +7,11 @@ from links import get_backlinks, get_hyperlinks
 from urllib.parse import unquote, quote
 from relevance import similarity, embed_batch
 from tqdm import tqdm
+import os
 
 THRESHOLD = 0.8
 LIMIT = 10_000
 DEPTH = 3
-
 
 USER_AGENT = "MyWikipediaBot/1.0 (me@example.com)"
 HEADERS = {"User-Agent": USER_AGENT}
@@ -103,8 +103,8 @@ def fetch_page_data_mw(title: str):
 
 def scrape_wikipedia(target_pages):
     
-    results = {}
     for page_title in target_pages:
+        results = {}
         print(f"Processing: {page_title}")
 
         first_para = fetch_page_data_mw(page_title)['first_paragraph']
@@ -116,7 +116,7 @@ def scrape_wikipedia(target_pages):
         
         # Get linked pages (outgoing)
         linked_titles = get_hyperlinks(page_title, limit=LIMIT)
-        print(f'Got {len(linked_titles)} hyperlinks for {page_title}')
+        # print(f'Got {len(linked_titles)} hyperlinks for {page_title}')
         linked_pages = []
         for title in tqdm(linked_titles):
             page_info = fetch_page_data_mw(title)
@@ -134,7 +134,7 @@ def scrape_wikipedia(target_pages):
 
         # Get backlinks (incoming)
         backlink_titles = get_backlinks(page_title, limit=LIMIT)
-        print(f'Got {len(backlink_titles)} backlinks for {page_title}')
+        # print(f'Got {len(backlink_titles)} backlinks for {page_title}')
         backlink_pages = []
         for title in tqdm(backlink_titles):
             page_info = fetch_page_data_mw(title)
@@ -148,10 +148,9 @@ def scrape_wikipedia(target_pages):
                     backlink_pages.append(page_info)
         
         page_data["what_links_here"] = backlink_pages
-
         results[page_title] = page_data
+        save_to_json(results)
 
-    save_to_json(results)
 
 
 def save_to_json(results):
@@ -183,22 +182,30 @@ def save_to_json(results):
                 "link_type": "backlink"
             })
 
-    with open("pages.json", "w", encoding="utf-8") as f:
+    with open("pages.json", "a", encoding="utf-8") as f:
         json.dump(list(all_pages.values()), f, indent=2, ensure_ascii=False)
 
-    with open("links.json", "w", encoding="utf-8") as f:
+    with open("links.json", "a", encoding="utf-8") as f:
         json.dump(all_links, f, indent=2, ensure_ascii=False)
 
 
 if __name__ == "__main__":
     # scrape_wikipedia()
     scraped: set[str] = set()  # everything we have already processed
-    frontier: list[str] = TARGET_PAGES[:]  # pages to process in this layer
+    if os.path.exists("pages.json"):
+        with open("pages.json", encoding="utf-8") as f:
+            current_titles = {p["title"] for p in json.load(f)}
+            frontier: list[str] = list(current_titles)
+            print(f"Continuing where we left off, from pages.json, starting with frontier = {len(frontier)}")
+    else:
+        frontier: list[str] = TARGET_PAGES[:]  # pages to process in this layer
 
     for _ in range(DEPTH):
         if not frontier:
             print("nothing left to expand, quitting")
             break  # nothing left to expand
+        else:
+            print(f"Starting with frontier = {len(frontier)}")
 
         scrape_wikipedia(frontier)  # ← uses the modified signature
         scraped.update(frontier)
