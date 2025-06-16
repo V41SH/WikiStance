@@ -1,0 +1,189 @@
+[
+  {
+    "title": "2020 Democratic Party presidential primaries",
+    "timestamp": "2020-11-09T21:50:25+00:00",
+    "added": [],
+    "deleted": [
+      "",
+      "=== Close races ===",
+      "States where the margin of victory was under 1%:",
+      "# '''<span style=\"color:#f2ba42;\">Iowa (SDEs), 0.04%</span>'''",
+      "# '''<span style=\"color:#224192;\">Maine, 0.92%</span>'''",
+      "",
+      "States where the margin of victory was under 5%:",
+      "# '''<span style=\"color:#228b22;\">New Hampshire, 1.31%</span>'''",
+      "# '''<span style=\"color:#224192;\">Washington, 1.37%</span>'''",
+      "# '''<span style=\"color:#228b22;\">Iowa (popular vote), 1.42%</span>'''",
+      "# '''<span style=\"color:#224192;\">Texas, 4.73%</span>'''",
+      "",
+      "States where the margin of victory was under 10%:",
+      "# '''<span style=\"color:#224192;\">Idaho, 6.48%</span>'''",
+      "# '''<span style=\"color:#224192;\">Massachusetts, 6.83%</span>'''",
+      "# '''<span style=\"color:#228b22;\">California, 8.07%</span>'''",
+      "# '''<span style=\"color:#224192;\">Minnesota, 8.75%</span>'''"
+    ]
+  },
+  {
+    "title": "2020 Democratic Party presidential primaries",
+    "timestamp": "2020-11-15T18:50:19+00:00",
+    "added": [
+      "{{pp-vandalism|small=yes}}"
+    ],
+    "deleted": []
+  },
+  {
+    "title": "2020 Democratic Party presidential primaries",
+    "timestamp": "2021-08-25T01:03:44+00:00",
+    "added": [
+      "{{Infobox election",
+      "| election_name     = [[2020 Democratic Party presidential primaries]]",
+      "| country           = United States",
+      "| type              = primary",
+      "| ongoing           = no",
+      "| previous_election = 2016 Democratic Party presidential primaries",
+      "| previous_year     = 2016",
+      "| next_election     = 2024 Democratic Party presidential primaries",
+      "| next_year         = 2024",
+      "| election_date     = February 3 to August 11, 2020",
+      "| votes_for_election = {{Unbulleted list|3,979 delegates to the [[2020 Democratic National Convention|Democratic National Convention]]{{efn|name=pledged delegate number|The overall number of pledged delegates is subject to change as possible penalties are not yet included.<ref name=\"delegates\">{{cite web|title= How to Win the Democratic Nomination, and Why It Could Get Complicated|url=https://www.nytimes.com/2020/02/22/us/politics/democratic-primary-dnc-superdelegates.amp.html|last=Stevens|first=Matt|publisher=New York Times|date=February 22, 2020 |access-date=March 2, 2020}}</ref>}}|1,991 delegates needed to win<ref name=\"delegates\"/>{{efn|name=unpledged delegate number|2,376 of 4,750 delegates needed to win any subsequent ballots at a [[Brokered convention|contested convention]].<ref name=\"delegates\"/> The number of extra unpledged delegates ([[superdelegates]]), who after the first ballot at a contested convention participate in any subsequently needed nominating ballots (together with the 3,979 pledged delegates), was expected to be 771 as of December 2019, but the exact number of superdelegates is still subject to change due to possible deaths, resignations, accessions, or potential election as a pledged delegate.<ref name=\"delegates\"/>}}}}",
+      "| candidate1        = '''[[Joe Biden]]'''",
+      "| color1            = 224192",
+      "| home_state1       = [[Delaware]]",
+      "| popular_vote1     = '''19,076,052'''<ref name=tgp>{{cite web |url=http://www.thegreenpapers.com/P20/D|publisher=The Green Papers|title=Democratic Convention - Nationwide Popular Vote| access-date=September 11, 2020}}</ref>",
+      "| percentage1       = '''51.8%'''",
+      "| delegate_count1   = '''2,687'''<ref name=delegate>{{cite web|url=https://interactives.ap.org/delegate-tracker/ |title=Associated Press Election Services - Delegate Tracker |publisher=[[Associated Press]] |access-date=April 30, 2020}}</ref>",
+      "| states_carried1   ='''46'''",
+      "| candidate2        = [[Bernie Sanders]]",
+      "| color2            = 228b22",
+      "| home_state2       = [[Vermont]]",
+      "| popular_vote2     = 9,679,213<ref name=tgp/>",
+      "| percentage2       = 26.3%",
+      "| delegate_count2   = 1,073<ref name=delegate/>",
+      "| states_carried2   = 9",
+      "| candidate3        = [[Elizabeth Warren]]",
+      "| color3            = b61b28",
+      "| home_state3       = [[Massachusetts]]",
+      "| popular_vote3     = 2,831,472<ref name=tgp/>",
+      "| percentage3       = 7.7%",
+      "| delegate_count3   = 63<ref name=delegate/>",
+      "| states_carried3   = 0",
+      "",
+      "| candidate4        = [[Michael Bloomberg]]",
+      "| color4            = 9370db",
+      "| home_state4       = [[New York (state)|New York]]",
+      "| popular_vote4     = 2,493,409<ref name=tgp/><!-- including 4,675 write-in votes -->",
+      "| percentage4       = 6.8%",
+      "| delegate_count4   = 59<ref name=delegate/>",
+      "| states_carried4   = 1",
+      "",
+      "| candidate5        = [[Pete Buttigieg]]",
+      "| color5            = ffbf00",
+      "| home_state5       = [[Indiana]]",
+      "| popular_vote5     = 924,237<ref name=tgp/>",
+      "| percentage5       = 2.5%",
+      "| delegate_count5   = 21<ref name=delegate/>",
+      "| states_carried5   = 1",
+      "",
+      "| candidate6        = [[Amy Klobuchar]]",
+      "| color6            = 43b3ae",
+      "| home_state6       = [[Minnesota]]",
+      "| states_carried6   = 0",
+      "| popular_vote6     = 529,713<ref name=tgp/>",
+      "| percentage6       = 1.4%",
+      "| delegate_count6   = 7<ref name=delegate/>",
+      "",
+      "| candidate7        = [[Tulsi Gabbard]]",
+      "| color7            = ff69b4",
+      "| home_state7       = [[Hawaii]]",
+      "| states_carried7   = 0",
+      "| popular_vote7     = 273,940<ref name=tgp/>",
+      "| percentage7       = 0.7%",
+      "| delegate_count7   = 2<ref name=delegate/>",
+      "",
+      "| map               = {{Switcher",
+      "| {{2020 Democratic Party presidential primaries imagemap}}",
+      "| First place by initial pledged delegate allocation",
+      "| {{2020 Democratic Party presidential primaries results by first instance imagemap}}",
+      "| First place by popular vote",
+      "| {{2020 Democratic National Convention roll call imagemap}}",
+      "| First place by convention roll call| default = 1",
+      "}}",
+      "",
+      "{{Col-begin}}",
+      "{{Col-break}}",
+      "{{legend|#224192|Joe Biden       |border=0}}",
+      "{{legend|#228B22|Bernie Sanders  |border=0}}",
+      "{{Col-break}}",
+      "{{legend|#f2ba42|Pete Buttigieg  |border=0}}",
+      "{{legend|#9370db|Michael Bloomberg|border=0}}",
+      "{{Col-end}}",
+      "",
+      "| before_election   = [[Hillary Clinton]]",
+      "| after_election    = [[Joe Biden]]",
+      "| template_name     = 2020 Democratic Party presidential primaries",
+      "}}"
+    ],
+    "deleted": []
+  },
+  {
+    "title": "2020 Democratic Party presidential primaries",
+    "timestamp": "2021-08-25T01:05:47+00:00",
+    "added": [],
+    "deleted": [
+      "| template_name     = 2020 Democratic Party presidential primaries"
+    ]
+  },
+  {
+    "title": "2020 Democratic Party presidential primaries",
+    "timestamp": "2021-09-16T15:15:24+00:00",
+    "added": [],
+    "deleted": [
+      "{{legend|#f2ba42|Pete Buttigieg  |border=0}}"
+    ]
+  },
+  {
+    "title": "2020 Democratic Party presidential primaries",
+    "timestamp": "2021-12-09T22:06:50+00:00",
+    "added": [],
+    "deleted": []
+  },
+  {
+    "title": "2020 Democratic Party presidential primaries",
+    "timestamp": "2022-08-31T06:09:30+00:00",
+    "added": [],
+    "deleted": [
+      "* [https://goo.gl/maps/peKPeii1Zi9sTagVA Squash] in Houston."
+    ]
+  },
+  {
+    "title": "2020 Democratic Party presidential primaries",
+    "timestamp": "2023-08-29T23:28:48+00:00",
+    "added": [],
+    "deleted": [
+      "| candidate7 = [[Tulsi Gabbard]]",
+      "| color7 = ff69b4",
+      "| home_state7 = [[Hawaii]]",
+      "| states_carried7 = 0",
+      "| popular_vote7 = 273,940<ref name=tgp/>",
+      "| percentage7 = 0.7%",
+      "| delegate_count7 = 2<ref name=delegate/>"
+    ]
+  },
+  {
+    "title": "2020 Democratic Party presidential primaries",
+    "timestamp": "2023-10-17T05:27:49+00:00",
+    "added": [],
+    "deleted": [
+      "| candidate5 = [[Volodymyr Zelensky]]"
+    ]
+  },
+  {
+    "title": "2020 Democratic Party presidential primaries",
+    "timestamp": "2025-05-14T10:56:50+00:00",
+    "added": [],
+    "deleted": [
+      "",
+      "The primaries were initially scheduled to go through June 6. The [[COVID-19 pandemic in the United States]] caused a number of states to shift their primaries to later in the year."
+    ]
+  }
+]
