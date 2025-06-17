@@ -5,11 +5,7 @@ import numpy as np
 from collections import defaultdict, Counter
 from datetime import datetime
 
-# -----------------------
-# Config
-# -----------------------
-
-DATA_DIR = 'data/election/' 
+DATA_DIR = '../data/edits/' 
 DELTA_DAYS = 2
 IMPLICIT_SIM_THRESHOLD = 0.3
 BURST_THRESHOLD_PERCENTILE = 90
@@ -23,7 +19,7 @@ def parse_entity_links(json_path):
     with open(json_path, 'r') as f:
         edits = json.load(f)
 
-    entity = os.path.splitext(os.path.basename(json_path))[0]
+    entity = os.path.splitext(os.path.basename(json_path))[0][6:]
     results = []
 
     for edit in edits:
@@ -133,22 +129,19 @@ def build_implicit_graph(all_edits, burst_map, similarity_threshold=0.3):
 
     return graph
 
-# -----------------------
-# Main Execution
-# -----------------------
 
 if __name__ == "__main__":
     print(f"Reading edit data from {DATA_DIR}")
     all_edits = build_all_edits(DATA_DIR)
     print(f"Loaded {len(all_edits)} total edits.")
 
-    print("\n➡ Building Explicit Graph...")
+    print("\n Building Explicit Graph...")
     explicit_graph = build_explicit_graph(all_edits, DELTA_DAYS)
-    print(f"✅ Explicit Graph has {len(explicit_graph)} entities with edges.")
+    print(f"Explicit Graph has {len(explicit_graph)} entities with edges.")
     for node, edges in explicit_graph.items():
         print(f"  {node}: {list(edges)}")
 
-    print("\n➡ Detecting bursts...")
+    print("\n Detecting bursts...")
     edits_by_entity = defaultdict(list)
     for e in all_edits:
         edits_by_entity[e['entity']].append(e)
@@ -158,6 +151,6 @@ if __name__ == "__main__":
     
     print("➡ Building Implicit Graph...")
     implicit_graph = build_implicit_graph(all_edits, burst_map, IMPLICIT_SIM_THRESHOLD)
-    print(f"✅ Implicit Graph has {len(implicit_graph)} entities with edges.")
+    print(f"Implicit Graph has {len(implicit_graph)} entities with edges.")
     for node, edges in implicit_graph.items():
         print(f"  {node}: {list(edges)}")
