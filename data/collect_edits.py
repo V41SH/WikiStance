@@ -9,7 +9,7 @@ with open("pages.json", "r", encoding="utf-8") as f:
 
 # compute chunk size & slice into 3 parts
 n = len(pages)
-chunk_size = math.ceil(n / 8)
+chunk_size = math.ceil(n / 40)
 chunks = [
     pages[i : i + chunk_size]
     for i in range(0, n, chunk_size)
@@ -23,7 +23,7 @@ def worker(pages_chunk):
         main(
             title=item["title"],
             start_ts="2020-11-03T23:50:00Z",
-            end_ts="2025-12-03T04:02:00Z",
+            end_ts="2020-12-03T04:02:00Z",
             limit=20000
         )
 
