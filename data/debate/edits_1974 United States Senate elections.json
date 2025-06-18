@@ -1,0 +1,45 @@
+[
+  {
+    "title": "1974 United States Senate elections",
+    "timestamp": "2020-09-14T00:33:56+00:00",
+    "added": [
+      "{{Infobox election",
+      "| election_name      = Missouri election",
+      "| country            = Missouri",
+      "| type               = Presidential",
+      "| ongoing            = no",
+      "| previous_election  = 1968 United States Senate election in Missouri",
+      "| previous_year      = 1968",
+      "| next_election      = 1980 United States Senate election in Missouri",
+      "| next_year          = 1980",
+      "| image_size         = x136px",
+      "| nominee1           = '''[[Thomas Eagleton]]'''",
+      "| party1             = Democratic Party (United States)",
+      "| popular_vote1      = '''735,433'''",
+      "| percentage1        = '''60.07%'''",
+      "| nominee2           = [[Thomas B. Curtis]]",
+      "| party2             = Republican Party (United States)",
+      "| popular_vote2      = 480,900",
+      "| percentage2        = 39.28%",
+      "| map_size           = 250px",
+      "| map_caption        = County Results <br/>'''Eagleton''': {{legend0|#a5b0ff|40–50%}} {{legend0|#7996e2|50–60%}} {{legend0|#6674de|60–70%}} {{legend0|#584cde|70–80%}}<br/>'''Curtis''': {{legend0|#ffb2b2|40-50%}} {{legend0|#e27f7f|50-60%}} {{legend0|#d75d5d|60-70%}}",
+      "| before_election    = [[Thomas Eagleton]]",
+      "| before_party       = Democratic Party (US)",
+      "| after_election     = [[Thomas Eagleton]]",
+      "| after_party        = Democratic Party (US)",
+      "}}"
+    ],
+    "deleted": []
+  },
+  {
+    "title": "1974 United States Senate elections",
+    "timestamp": "2020-09-14T14:12:55+00:00",
+    "added": [
+      "== Arkansas ==",
+      "{{Main|1974 United States Senate election in Arkansas}}",
+      "{{See also|List of United States senators from Arkansas|1974 United States House of Representatives elections in Arkansas}}",
+      "{{Clear}}"
+    ],
+    "deleted": []
+  }
+]

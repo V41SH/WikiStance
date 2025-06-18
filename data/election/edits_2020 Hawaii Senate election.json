@@ -1,0 +1,93 @@
+[
+  {
+    "title": "2020 Hawaii Senate election",
+    "timestamp": "2020-11-26T07:19:23+00:00",
+    "added": [
+      "| before_election = [[Ron Kouchi]]",
+      "| before_party = [[Hawaii Democratic Party|Democratic]]",
+      "| after_election = [[Ron Kouchi]]",
+      "| after_party = [[Hawaii Democratic Party|Democratic]]"
+    ],
+    "deleted": []
+  },
+  {
+    "title": "2020 Hawaii Senate election",
+    "timestamp": "2020-11-29T01:24:17+00:00",
+    "added": [
+      "",
+      "==Retiring incumbents==",
+      "Two incumbent senators (both Democrats) did not seek reelection in 2020.",
+      "",
+      "#District 2: [[Russell Ruderman]] (D)<ref>{{cite web|url=https://www.westhawaiitoday.com/2020/05/20/hawaii-news/ruderman-wont-seek-third-senate-term/|title=Ruderman won’t seek third Senate term|author=West Hawaii Today Staff|date=May 20, 2020|accessdate=November 28, 2020|work=[[West Hawaii Today]]}}</ref>",
+      "#District 25: [[Laura Thielen]] (D)<ref>{{cite web|url=https://www.civilbeat.org/2019/11/sen-laura-thielen-wont-seek-re-election-to-hawaii-senate/|title=Sen. Laura Thielen Won’t Seek Re-Election To Hawaii Senate|date=November 7, 2019|accessdate=November 28, 2020|first=Chad|last=Blair|work=[[Honolulu Civil Beat]]}}</ref>"
+    ],
+    "deleted": []
+  },
+  {
+    "title": "2020 Hawaii Senate election",
+    "timestamp": "2020-11-29T02:11:19+00:00",
+    "added": [
+      "",
+      "===District 16 (special)===",
+      "{{Election box begin no change",
+      "}}",
+      "{{Election box winning candidate with party link no change",
+      "| party = Democratic Party (United States)",
+      "| candidate = [[Bennette Misalucha]] (incumbent)",
+      "| votes = 11508",
+      "| percentage = 52.7",
+      "}}",
+      "{{Election box candidate with party link no change",
+      "| party = Republican Party (United States)",
+      "| candidate = Kelly Kitashima",
+      "| votes = 10335",
+      "| percentage = 47.3",
+      "}}",
+      "{{Election box total no change",
+      "| votes = 21843",
+      "| percentage = 100.0",
+      "}}",
+      "{{Election box hold with party link no change",
+      "|winner = Democratic Party (United States)",
+      "}}",
+      "{{Election box end}}"
+    ],
+    "deleted": []
+  },
+  {
+    "title": "2020 Hawaii Senate election",
+    "timestamp": "2020-11-29T02:29:01+00:00",
+    "added": [],
+    "deleted": [
+      "",
+      "==Margins of victory==",
+      "{{col-begin}}",
+      "{{col-2}}",
+      "===Primaries===",
+      "{|class=\"wikitable sortable\" style=\"text-align:center\"",
+      "|-",
+      "! District !! Primary !! Margin",
+      "|- {{Party shading/Democratic}}",
+      "| 19 || Democratic || 27.2%",
+      "|- {{Party shading/Democratic}}",
+      "| 10 || Democratic || 49.0%",
+      "|- {{Party shading/Democratic}}",
+      "| 2 || Democratic || 57.4%",
+      "|- {{Party shading/Democratic}}",
+      "| 22 || Democratic || 71.6%",
+      "|- {{Party shading/Democratic}}",
+      "| 13 || Democratic || 72.8%",
+      "|}",
+      "{{col-2}}",
+      "===General elections===",
+      "{|class=\"wikitable sortable\" style=\"text-align:center\"",
+      "|-",
+      "! District !! Winning party !! Margin",
+      "|}",
+      "{{small|Uncontested elections are not included.}}",
+      "{{col-end}}",
+      "{{-}}",
+      ""
+    ]
+  }
+]

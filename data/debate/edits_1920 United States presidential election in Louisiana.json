@@ -1,0 +1,25 @@
+[
+  {
+    "title": "1920 United States presidential election in Louisiana",
+    "timestamp": "2020-09-23T15:14:36+00:00",
+    "added": [
+      "| map_size = 350px",
+      "| map_caption = Parish Results",
+      "{{col-start}}",
+      "{{col-2}}",
+      "'''Cox'''",
+      "{{legend|#86b6f2|50-60%}}",
+      "{{legend|#4389e3|60-70%}}",
+      "{{legend|#1666cb|70-80%}}",
+      "{{legend|#0645b4|80-90%}}",
+      "{{legend|#002b84|90-100%}}",
+      "{{col-2}}",
+      "'''Harding'''",
+      "{{legend|#e27f90|50-60%}}",
+      "{{legend|#cc2f4a|60-70%}}",
+      "{{legend|#d40000|70-80%}}",
+      "{{col-end}}"
+    ],
+    "deleted": []
+  }
+]

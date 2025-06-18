@@ -1,0 +1,33 @@
+[
+  {
+    "title": "1972 United States presidential election",
+    "timestamp": "2021-01-19T19:37:35+00:00",
+    "added": [
+      "| popular_vote3 = None",
+      "| states_carried3 = None"
+    ],
+    "deleted": []
+  },
+  {
+    "title": "1972 United States presidential election",
+    "timestamp": "2021-01-19T20:33:57+00:00",
+    "added": [],
+    "deleted": [
+      "| ongoing =",
+      "| nominee3 = [[John Hospers]]",
+      "| party3 = [[Libertarian]]",
+      "| home_state3 = [[Iowa]]",
+      "| running_mate3 = [[Tonie Nathan]]",
+      "| electoral_vote3 = 1",
+      "| percentage3 = 1.8%"
+    ]
+  },
+  {
+    "title": "1972 United States presidential election",
+    "timestamp": "2021-02-20T20:16:26+00:00",
+    "added": [
+      "| nominee2 = [[George McGovern]]"
+    ],
+    "deleted": []
+  }
+]

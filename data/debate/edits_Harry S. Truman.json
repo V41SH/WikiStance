@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Harry S. Truman",
+    "timestamp": "2020-09-07T18:17:11+00:00",
+    "added": [],
+    "deleted": [
+      "",
+      "{| style=\"margin:1em auto;",
+      "|-align=center",
+      "|}",
+      "",
+      "{| class=\"wikitable\" style=\"margin:auto;",
+      "|-align=center",
+      "|[[World War I Victory Medal (United States)|World War I Victory Medal]]<br />with three bronze [[service star]]s",
+      "|[[Armed Forces Reserve Medal]]<br />with silver hourglass device",
+      "|}"
+    ]
+  },
+  {
+    "title": "Harry S. Truman",
+    "timestamp": "2020-09-13T15:35:18+00:00",
+    "added": [
+      "}}",
+      "* {{cite web",
+      "| publisher = Harry S. Truman Library & Museum",
+      "| url = https://www.trumanlibrary.gov/education/trivia/buck-stops-here-sign",
+      "| access-date = September 13, 2020",
+      "| ref = {{sfnRef|Truman Library, Buck|1957}}"
+    ],
+    "deleted": []
+  }
+]

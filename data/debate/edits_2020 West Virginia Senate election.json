@@ -1,0 +1,35 @@
+[
+  {
+    "title": "2020 West Virginia Senate election",
+    "timestamp": "2020-09-07T23:49:07+00:00",
+    "added": [
+      "{{Election box begin no change",
+      "}}",
+      "{{Election box candidate with party link no change",
+      "| party = Republican Party (United States)",
+      "| candidate = [[Chandler Swope]] (incumbent)",
+      "| votes =",
+      "| percentage =",
+      "}}",
+      "{{Election box total no change",
+      "| votes =",
+      "| percentage = 100.0%",
+      "}}",
+      "{{Election box hold with party link no change",
+      "| winner     = Republican Party (United States)",
+      "| swing      =",
+      "}}",
+      "{{Election box end}}",
+      ""
+    ],
+    "deleted": []
+  },
+  {
+    "title": "2020 West Virginia Senate election",
+    "timestamp": "2020-09-08T00:07:57+00:00",
+    "added": [],
+    "deleted": [
+      "{{incomplete section|date=August 2020}}"
+    ]
+  }
+]

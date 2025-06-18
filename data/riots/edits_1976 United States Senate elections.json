@@ -1,0 +1,33 @@
+[
+  {
+    "title": "1976 United States Senate elections",
+    "timestamp": "2021-01-02T19:29:51+00:00",
+    "added": [
+      "{{Infobox election",
+      "| election_name      = Wisconsin election",
+      "| country            = Wisconsin",
+      "| flag_year          = 1913",
+      "| type               = Presidential",
+      "| ongoing            = no",
+      "| previous_election  = 1970 United States Senate election in Wisconsin",
+      "| previous_year      = 1970",
+      "| next_election      = 1982 United States Senate election in Wisconsin",
+      "| next_year          = 1982",
+      "| nominee1           = '''[[William Proxmire]]'''",
+      "| party1             = Democratic Party (United States)",
+      "| popular_vote1      = '''1,396,970'''",
+      "| percentage1        = '''72.20%'''",
+      "| nominee2           = [[Stanley York]]",
+      "| party2             = Republican Party (United States)",
+      "| popular_vote2      = 521,902",
+      "| percentage2        = 26.97%",
+      "| before_election    = [[William Proxmire]]",
+      "| before_party       = Democratic Party (United States)",
+      "| after_election     = [[William Proxmire]]",
+      "| after_party        = Democratic Party (United States)",
+      "}}",
+      ""
+    ],
+    "deleted": []
+  }
+]

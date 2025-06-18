@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Eric Schmidt",
+    "timestamp": "2020-11-22T01:08:31+00:00",
+    "added": [],
+    "deleted": [
+      "| occupation         = Ex-CEO of Google Inc."
+    ]
+  },
+  {
+    "title": "Eric Schmidt",
+    "timestamp": "2020-11-22T01:12:14+00:00",
+    "added": [
+      "| occupation         = Co-founder",
+      "| employer           = Schmidt Futures"
+    ],
+    "deleted": []
+  },
+  {
+    "title": "Eric Schmidt",
+    "timestamp": "2020-11-22T01:48:34+00:00",
+    "added": [],
+    "deleted": [
+      "| employer           = Schmidt Futures",
+      "| net_worth          = US$14.2&nbsp;billion (October 2019)<ref>{{cite magazine |url=https://www.forbes.com/profile/eric-schmidt/?list=forbes-400|title=Forbes Profile Eric Scmidt |magazine=Forbes |date=April 5, 2019 |accessdate=April 5, 2019}}</ref>"
+    ]
+  },
+  {
+    "title": "Eric Schmidt",
+    "timestamp": "2020-11-22T01:53:22+00:00",
+    "added": [],
+    "deleted": [
+      "| occupation         =CEO of Google",
+      "| years_active       =2001-2011"
+    ]
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "title": "2020 Montana elections",
+    "timestamp": "2020-11-19T17:20:57+00:00",
+    "added": [],
+    "deleted": [
+      "{{Infobox election",
+      "| election_name      = 2020 Montana Secretary of State election",
+      "| country            = Montana",
+      "| type               = presidential",
+      "| ongoing            = no",
+      "| turnout            =",
+      "| previous_election  = 2016 Montana Secretary of State election",
+      "| previous_year      = 2016",
+      "| next_election      = 2024 Montana Secretary of State election",
+      "| next_year          = 2024",
+      "| election_date      = November 3, 2020",
+      "| image1             =",
+      "| nominee1           = '''[[Christi Jacobsen]]'''",
+      "| party1             = Republican Party (United States)",
+      "| popular_vote1      =",
+      "| percentage1        =",
+      "| nominee2           = [[Bryce Bennett]]",
+      "| party2             = Democratic Party (United States)",
+      "| popular_vote2      =",
+      "| percentage2        =",
+      "| map_size           =",
+      "| map_caption        = County results",
+      "| before_election    = [[Corey Stapleton]]",
+      "| before_party       = Republican Party (United States)",
+      "| after_election     = [[Christi Jacobsen]]",
+      "| after_party        = Republican Party (United States)",
+      "|}}",
+      "{{ElectionsMT}}"
+    ]
+  }
+]

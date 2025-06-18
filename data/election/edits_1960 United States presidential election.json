@@ -1,0 +1,26 @@
+[
+  {
+    "title": "1960 United States presidential election",
+    "timestamp": "2020-11-15T19:02:41+00:00",
+    "added": [
+      "| color3 = FF7F00"
+    ],
+    "deleted": []
+  },
+  {
+    "title": "1960 United States presidential election",
+    "timestamp": "2020-11-19T22:39:21+00:00",
+    "added": [],
+    "deleted": [
+      "|nominee3 = [[Harry F. Byrd (by unpleged electors)]]",
+      "| party3 = [[Southern Democrat]]",
+      "| color3 = FF7F00",
+      "| home_state3 = [[Virginia]]",
+      "| running_mate3 = [[Strom Thurmond]]",
+      "| electoral_vote3 = 15",
+      "| states_carried3 = 2",
+      "| popular_vote3 = 610,409 (for unpledged electors)",
+      "| percentage3 = {{percent|<!-- Byrd: --> 610,409|<!-- TOTAL: -->68,832,482|2|pad=yes}}"
+    ]
+  }
+]

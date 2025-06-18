@@ -1,0 +1,51 @@
+[
+  {
+    "title": "Rick Scott",
+    "timestamp": "2020-09-14T16:31:53+00:00",
+    "added": [
+      "}}",
+      "{{Election box end}}",
+      "",
+      "{{Election box begin no change|title = 2018 United States Senate election in Florida (Republican primary)<ref>{{cite web|title=2018 Florida primary election results|url=https://results.elections.myflorida.com/Index.asp?ElectionDate=8/28/2018&DATAMODE=|website=Florida Department of State.}}</ref>",
+      "}}",
+      "{{Election box winning candidate with party link no change",
+      "| candidate = [[Rick Scott]]",
+      "| party = Republican Party (United States)",
+      "| votes = 1,456,187",
+      "| percentage = 88.61%",
+      "}}",
+      "{{Election box candidate with party link no change",
+      "| candidate = [[Rocky De La Fuente]]",
+      "| party = Republican Party (United States)",
+      "| votes = 187,209",
+      "| percentage = 11.39%",
+      "}}",
+      "{{Election box total no change",
+      "| votes = 1,643,396",
+      "| percentage = 100.0%"
+    ],
+    "deleted": []
+  },
+  {
+    "title": "Rick Scott",
+    "timestamp": "2020-10-03T14:52:01+00:00",
+    "added": [],
+    "deleted": [
+      "On October 3, 2020, Scott announced that he had tested positive for COVID-19. <ref > [https://twitter.com/FoxReports/status/1312402521105805313?s=20] </ref>"
+    ]
+  },
+  {
+    "title": "Rick Scott",
+    "timestamp": "2020-10-26T23:10:16+00:00",
+    "added": [
+      "|jr/sr        = United States Senator",
+      "|state        = [[Florida]]",
+      "|alongside    = [[Marco Rubio]]",
+      "|term_start   = January 8, 2019",
+      "|term_end     =",
+      "|predecessor  = [[Bill Nelson]]",
+      "|successor    ="
+    ],
+    "deleted": []
+  }
+]

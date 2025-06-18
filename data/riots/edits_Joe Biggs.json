@@ -1,0 +1,177 @@
+[
+  {
+    "title": "Joe Biggs",
+    "timestamp": "2021-01-21T15:28:28+00:00",
+    "added": [
+      "{{2021 US Capitol storming|state=collapsed}}"
+    ],
+    "deleted": []
+  },
+  {
+    "title": "Joe Biggs",
+    "timestamp": "2021-02-15T01:49:03+00:00",
+    "added": [
+      "",
+      "On January 6, Biggs and Proud Boys leader [[Ethan Nordean]] led a mob of Proud Boys members and supporters, as they marched near the Capitol. Biggs used a walkie-talkie to issue instructions, while Nordean used a [[bullhorn]] to communicate with the crowd. A Proud Boys livestreamer described the pair as \"Two men on a mission, with about 500 behind them ready to kick some butt for the benefit of this country\".<ref name=\"ST\">{{cite news |last=Kamb |first=Lewis |last2=Fields |first2=Asia |last3=Green |first3=Sara Jean |title=Auburn-area man, a prominent Proud Boy, charged in Capitol insurrection |newspaper=[[Seattle Times]] |location= |pages= |language= |publisher= |date=February 3, 2021 |url=https://www.seattletimes.com/seattle-news/crime/auburn-man-and-prominent-proud-boy-charged-in-capitol-insurrection/ |access-date=February 7, 2021 |archive-date=February 6, 2021 |archive-url=https://web.archive.org/web/20210206200944/https://www.seattletimes.com/seattle-news/crime/auburn-man-and-prominent-proud-boy-charged-in-capitol-insurrection/ |url-status=live}}</ref>"
+    ],
+    "deleted": []
+  },
+  {
+    "title": "Joe Biggs",
+    "timestamp": "2021-02-15T15:03:36+00:00",
+    "added": [],
+    "deleted": [
+      "",
+      "",
+      "{{US-bio-stub}}"
+    ]
+  },
+  {
+    "title": "Joe Biggs",
+    "timestamp": "2021-02-15T15:08:03+00:00",
+    "added": [
+      "{{Infobox person",
+      "| honorific_prefix   = Joe Biggs",
+      "| name               = <!-- use common name/article title -->",
+      "| honorific_suffix   =",
+      "| image_upright      =",
+      "| landscape          = <!-- yes, if wide image, otherwise leave blank -->",
+      "| native_name        =",
+      "| native_name_lang   =",
+      "| pronunciation      =",
+      "| birth_name         = <!-- only use if different from name -->",
+      "| birth_date         = <!-- {{Birth date and age|YYYY|MM|DD}} for living people supply only the year with {{Birth year and age|YYYY}} unless the exact date is already widely published, as per [[WP:DOB]]. For people who have died, use {{Birth date|YYYY|MM|DD}}. -->",
+      "| birth_place        =",
+      "| baptised           = <!-- will not display if birth_date is entered -->",
+      "| disappeared_date   = <!-- {{Disappeared date and age|YYYY|MM|DD|YYYY|MM|DD}} (disappeared date then birth date) -->",
+      "| disappeared_place  =",
+      "| disappeared_status =",
+      "| death_date         = <!-- {{Death date and age|YYYY|MM|DD|YYYY|MM|DD}} (enter DEATH date then BIRTH date (e.g., ...|1967|31|8|1908|28|2}} use both this parameter and |birth_date to display the person's date of birth, date of death, and age at death) -->",
+      "| death_place        =",
+      "| death_cause        = <!--should only be included when the cause of death has significance for the subject's notability-->",
+      "| body_discovered    =",
+      "| resting_place      =",
+      "| resting_place_coordinates = <!-- {{coord|LAT|LONG|type:landmark|display=inline}} -->",
+      "| burial_place       = <!-- may be used instead of resting_place and resting_place_coordinates (displays \"Burial place\" as label) -->",
+      "| burial_coordinates = <!-- {{coord|LAT|LONG|type:landmark|display=inline}} -->",
+      "| monuments          =",
+      "| nationality        =",
+      "| other_names        =",
+      "| siglum             =",
+      "| citizenship        =",
+      "| education          =",
+      "| alma_mater         =",
+      "| occupation         =",
+      "| years_active       =",
+      "| era                =",
+      "| employer           =",
+      "| organization       =",
+      "| agent              = <!-- Discouraged in most cases, specifically when promotional, and requiring a reliable source -->",
+      "| known_for          =",
+      "| notable_works      = <!-- produces label \"Notable work\"; may be overridden by |credits=, which produces label \"Notable credit(s)\"; or by |works=, which produces label \"Works\"; or by |label_name=, which produces label \"Label(s)\" -->",
+      "| style              =",
+      "| net_worth          = <!-- Net worth should be supported with a citation from a reliable source -->",
+      "| height             = <!-- \"X cm\", \"X m\" or \"X ft Y in\" plus optional reference (conversions are automatic) -->",
+      "| television         =",
+      "| term               =",
+      "| predecessor        =",
+      "| successor          =",
+      "| party              =",
+      "| movement           =",
+      "| opponents          =",
+      "| boards             =",
+      "| criminal_charges   = <!-- Criminality parameters should be supported with citations from reliable sources -->",
+      "| criminal_penalty   =",
+      "| criminal_status    =",
+      "| spouse             = <!-- Use article title or common name -->",
+      "| partner            = <!-- (unmarried long-term partner) -->",
+      "| children           =",
+      "| parents            = <!-- overrides mother and father parameters -->",
+      "| mother             = <!-- may be used (optionally with father parameter) in place of parents parameter (displays \"Parent(s)\" as label) -->",
+      "| father             = <!-- may be used (optionally with mother parameter) in place of parents parameter (displays \"Parent(s)\" as label) -->",
+      "| relatives          =",
+      "| family             =",
+      "| callsign           =",
+      "| awards             =",
+      "| website            = <!-- {{URL|example.com}} -->",
+      "| module             =",
+      "| module2            =",
+      "| module3            =",
+      "| module4            =",
+      "| module5            =",
+      "| module6            =",
+      "| signature          =",
+      "| signature_size     =",
+      "| signature_alt      =",
+      "| footnotes          =",
+      "}}"
+    ],
+    "deleted": []
+  },
+  {
+    "title": "Joe Biggs",
+    "timestamp": "2021-02-15T18:47:39+00:00",
+    "added": [
+      "{{main|2021 storming of the United States Capitol}}"
+    ],
+    "deleted": []
+  },
+  {
+    "title": "Joe Biggs",
+    "timestamp": "2021-03-02T23:02:27+00:00",
+    "added": [],
+    "deleted": [
+      "",
+      "== Personal life ==",
+      "Biggs is a resident of unincorporated [[Ormond Beach, Florida]].<ref name=\"DBN\" /><ref>{{Cite web|last=|first=|last2=|last3=|first3=|last4=|last5=|last6=|last7=|last8=|first8=|last9=|date=2020-10-01|title=Proud Boys, told by Trump to stand back and stand by, 'all but guarantees violence'|url=https://www.latimes.com/world-nation/story/2020-09-30/proud-boys-joe-biggs-portland|url-status=live|archive-url=|archive-date=|access-date=2020-10-02|website=[[Los Angeles Times]]|language=en-US}}</ref>"
+    ]
+  },
+  {
+    "title": "Joe Biggs",
+    "timestamp": "2021-03-10T20:55:53+00:00",
+    "added": [],
+    "deleted": [
+      "",
+      ""
+    ]
+  },
+  {
+    "title": "Joe Biggs",
+    "timestamp": "2021-03-22T21:41:04+00:00",
+    "added": [],
+    "deleted": [
+      "| honorific_prefix   =",
+      "| honorific_suffix   =",
+      "| native_name        =",
+      "| native_name_lang   =",
+      "| pronunciation      =",
+      "| disappeared_date   = <!-- {{Disappeared date and age|YYYY|MM|DD|YYYY|MM|DD}} (disappeared date then birth date) -->",
+      "| disappeared_place  =",
+      "| disappeared_status =",
+      "| monuments          =",
+      "| notable_works      = <!-- produces label \"Notable work\"; may be overridden by |credits=, which produces label \"Notable credit(s)\"; or by |works=, which produces label \"Works\"; or by |label_name=, which produces label \"Label(s)\" -->",
+      "| net_worth          = <!-- Net worth should be supported with a citation from a reliable source -->",
+      "| height             = <!-- \"X cm\", \"X m\" or \"X ft Y in\" plus optional reference (conversions are automatic) -->",
+      "| television         =",
+      "| signature          =",
+      "| signature_size     =",
+      "| signature_alt      ="
+    ]
+  },
+  {
+    "title": "Joe Biggs",
+    "timestamp": "2021-03-22T21:42:14+00:00",
+    "added": [
+      "{{Use American English|date=March 2021}}"
+    ],
+    "deleted": []
+  },
+  {
+    "title": "Joe Biggs",
+    "timestamp": "2021-03-27T14:59:07+00:00",
+    "added": [],
+    "deleted": [
+      "[[Category:American conspiracy theorists]]"
+    ]
+  }
+]

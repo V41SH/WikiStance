@@ -1,0 +1,37 @@
+[
+  {
+    "title": "1824 United States presidential election",
+    "timestamp": "2020-10-20T18:27:56+00:00",
+    "added": [
+      "{{for|related races|1824 United States elections}}",
+      "{{use mdy dates|date=May 2019}}",
+      "{{Infobox election",
+      "| election_name = 1824 United States presidential election",
+      "| country = United States",
+      "| flag_year = 1822",
+      "| type = presidential",
+      "| ongoing = no",
+      "| previous_election = 1820 United States presidential election",
+      "| previous_year = 1820",
+      "| next_election = 1828 United States presidential election",
+      "| next_year = 1828",
+      "| votes_for_election = 261 members of the [[Electoral College (United States)|Electoral College]]",
+      "| needed_votes = 131 electoral",
+      "| turnout = 26.9%<ref>{{cite web|url=http://www.electproject.org/national-1789-present|title=National General Election VEP Turnout Rates, 1789-Present|work=United States Election Project|publisher=[[CQ Press]]}}</ref> {{increase}} 16.8 [[percentage point|pp]]",
+      "| election_date = October 26 – December 1, 1824 <br> February 9, 1825 (contingent election)",
+      "| nominee1 = '''[[John Quincy Adams]]'''",
+      "| party1 = Democratic-Republican Party",
+      "| colour1 = 68C468",
+      "'''[[Virginia]]'''{{indent|4}}{{small|{{color box|#ffffff|{{ns|1}}1{{ns|1}}|border=#68c468}} {{color box|#ffffff|{{ns|1}}1{{ns|1}}|border=#698dc5}}}} {{color box|#ffffff|'''19'''|border=#ff9955}}",
+      "|-",
+      "! 13 states<br>",
+      "{{color box|#ffffff|83|border=#68c468}} {{small|{{color box|#ffffff|{{nobold|13}}|border=#698dc5}} {{color box|#ffffff|{{nobold|17}}|border=#ff9955}}}}",
+      "! 7 states<br>",
+      "{{small|{{color box|#ffffff|{{ns|1}}{{nobold|2}}{{ns|1}}|border=#68c468}}}} {{color box|#ffffff|55|border=#698dc5}} {{small|{{color box|#ffffff|{{ns|1}}{{nobold|0}}{{ns|1}}|border=#ff9955}}}}",
+      "! 4 states<br>",
+      "{{small|{{color box|#ffffff|{{ns|1}}{{nobold|2}}{{ns|1}}|border=#68c468}} {{color box|#ffffff|{{ns|1}}{{nobold|3}}{{ns|1}}|border=#698dc5}}}} {{color box|#ffffff|37|border=#ff9955}}",
+      "|}"
+    ],
+    "deleted": []
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "title": "Claudia Tenney",
+    "timestamp": "2021-02-05T23:29:20+00:00",
+    "added": [
+      "|term_end        ="
+    ],
+    "deleted": []
+  },
+  {
+    "title": "Claudia Tenney",
+    "timestamp": "2021-02-06T02:55:22+00:00",
+    "added": [],
+    "deleted": [
+      "|status = Designate"
+    ]
+  },
+  {
+    "title": "Claudia Tenney",
+    "timestamp": "2021-02-11T15:52:12+00:00",
+    "added": [
+      "|-",
+      "{{s-prec|usa}}",
+      "{{s-bef|before=[[Chris Jacobs (politician)|Chris Jacobs]]}}",
+      "{{s-ttl|title=[[Seniority in the United States House of Representatives|United States Representatives by seniority]]|years=375th}}",
+      "{{s-aft|after=[[Jake Auchincloss]]}}",
+      "{{s-end}}"
+    ],
+    "deleted": []
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "title": "2021 Harrisburg mayoral election",
+    "timestamp": "2021-03-05T20:01:55+00:00",
+    "added": [],
+    "deleted": [
+      "",
+      "== Results ==",
+      "",
+      "{{Election box begin no change|title=Mayor of [[Harrisburg, Pennsylvania|Harrisburg]], [[Democratic Party (United States)|Democratic primary]], 2017<ref name=results>{{cite web|url=http://www.dauphinc.org/CallArchRptsv13/ShowRpt?select1=1|title=Election Results for City Mayor|access-date=December 25, 2018|publisher=[[Dauphin County, Pennsylvania]]}}</ref>}}",
+      "{{Election box winning candidate with party link no change|party=Democratic Party (United States)|candidate=[[Eric Papenfuse]] (incumbent)|votes=2,663|percentage={{percentage|2663|{{sum|2663|2053|507|125|74|11}}| 2| pad=yes}}}}",
+      "{{Election box candidate with party link no change|party=Democratic Party (United States)|candidate=Gloria Martin-Roberts|votes=2,053|percentage={{percentage|2053|{{sum|2663|2053|507|125|74|11}}| 2| pad=yes}}}}",
+      "{{Election box candidate with party link no change|party=Democratic Party (United States)|candidate=Jennie Jenkins|votes=507|percentage={{percentage|507|{{sum|2663|2053|507|125|74|11}}| 2| pad=yes}}}}",
+      "{{Election box candidate with party link no change|party=Democratic Party (United States)|candidate=Lewis Butts|votes=125|percentage={{percentage|125|{{sum|2663|2053|507|125|74|11}}| 2| pad=yes}}}}",
+      "{{Election box candidate with party link no change|party=Democratic Party (United States)|candidate=Anthony Harrell|votes=74|percentage={{percentage|74|{{sum|2663|2053|507|125|74|11}}| 2| pad=yes}}}}",
+      "{{Election box candidate no change|party=|candidate=[[write-in]]s|votes=11|percentage={{percentage|11|{{sum|2663|2053|507|125|74|11}}| 2| pad=yes}}}}",
+      "{{Election box total no change|votes={{sum|2663|2053|507|125|74|11}}|percentage=100.00%}}",
+      "{{Election box end}}"
+    ]
+  }
+]

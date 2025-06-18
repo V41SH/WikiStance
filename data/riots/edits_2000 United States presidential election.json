@@ -1,0 +1,51 @@
+[
+  {
+    "title": "2000 United States presidential election",
+    "timestamp": "2021-01-09T13:42:50+00:00",
+    "added": [],
+    "deleted": [
+      "{{short description|54th quadrennial U.S. presidential election}}",
+      "{{For|related races|2000 United States elections}}",
+      "{{Use mdy dates|date=December 2017}}",
+      "{{Infobox election",
+      "| election_name = 2000 United States presidential election",
+      "| country = United States",
+      "| flag_year = 1960",
+      "| type = presidential",
+      "| previous_election = 1996 United States presidential election",
+      "| previous_year = 1996",
+      "| election_date = November 7, 2000",
+      "| next_election = 2004 United States presidential election",
+      "| next_year = 2004",
+      "| votes_for_election = [[List of 2000 United States presidential electors|538 members]] of the [[United States Electoral College|Electoral College]]{{efn|name=\"Abstention of One Elector\"|Electors were elected to all 538 [[United States Electoral College#Apportionment|apportioned]] positions; however, [[Barbara Lett-Simmons|an elector]] from the District of Columbia pledged to the Gore/Lieberman ticket [[Faithless elector|abstained]] from casting a vote for president or vice president, bringing the total number of electoral votes cast to 537.}}",
+      "| needed_votes = 270 electoral",
+      "| turnout = 51.2%<ref>{{cite web |url=http://www.presidency.ucsb.edu/data/turnout.php |title=Voter Turnout in Presidential Elections |website=Presidency.ucsb.edu |access-date=August 18, 2016 |archive-url=https://web.archive.org/web/20180924221319/http://www.presidency.ucsb.edu/data/turnout.php |archive-date=September 24, 2018 |url-status=live }}</ref> {{increase}} 2.2 [[percentage point|pp]]",
+      "| image_size = x200px",
+      "| nominee1 = '''[[George W. Bush]]'''",
+      "| party1 = Republican Party (United States)",
+      "| home_state1 = [[Texas]]",
+      "| running_mate1 = '''[[Dick Cheney]]'''",
+      "| electoral_vote1 = '''266'''",
+      "| states_carried1 = '''30'''",
+      "| popular_vote1 = 50,456,002",
+      "| percentage1 = {{percent|<!-- BUSH: --> 50,456,002|<!-- TOTAL: --> 105,421,423|1|pad=yes}}",
+      "",
+      "| nominee2 = [[Al Gore]]",
+      "| party2 = Democratic Party (United States)",
+      "| home_state2 = [[Tennessee]]",
+      "| running_mate2 = [[Joe Lieberman]]",
+      "| electoral_vote2 = 271{{efn|name=“Discrepancy Between Pledged Elector Tally and Electoral Vote for Gore/Lieberman”|267 electors pledged to the Gore/Lieberman ticket were elected; however, [[Barbara Lett-Simmons|an elector]] from the District of Columbia [[Faithless elector|abstained]] from casting a vote for president or vice president, bringing the ticket’s total number of electoral votes to 266.}}",
+      "| states_carried2 = 20 + [[Washington, D.C.|DC]]",
+      "| popular_vote2 = '''50,999,897'''",
+      "| percentage2 = '''{{percent|<!-- GORE: --> 50,999,897|<!-- TOTAL: --> 105,421,423|1|pad=yes}}'''"
+    ]
+  },
+  {
+    "title": "2000 United States presidential election",
+    "timestamp": "2021-01-17T23:16:16+00:00",
+    "added": [
+      "| running_mate2 = [[Joe Lieberman]]"
+    ],
+    "deleted": []
+  }
+]

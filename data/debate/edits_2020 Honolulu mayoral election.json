@@ -1,0 +1,42 @@
+[
+  {
+    "title": "2020 Honolulu mayoral election",
+    "timestamp": "2020-10-13T22:03:16+00:00",
+    "added": [
+      "{| class=\"wikitable\"",
+      "|- valign= bottom",
+      "! style=\"width:145px;\"| Poll source",
+      "! style=\"width:145px;\"| Date(s)<br/>administered",
+      "! style=\"width:145px;\"| Sample<br>size{{efn|name=key|Key:<br>A – all adults<br>RV – registered voters<br>LV – likely voters<br>V – unclear}}",
+      "! style=\"width:145px;\"| Margin<br>of error",
+      "! style=\"width:80px;\"| Rick<br/>Blangiardi",
+      "! style=\"width:80px;\"| Keith<br/>Amemiya",
+      "! Undecided",
+      "|-",
+      "| [https://www.civilbeat.org/2020/10/civil-beat-hnn-poll-blangiardi-holds-commanding-lead-in-mayors-race/ Civil Beat/Hawaii News Now]",
+      "| align=center| October 2–7, 2020",
+      "| align=center| 699 (RV)",
+      "| align=center| ± 3.7%",
+      "| {{party shading/Other}} align=center| '''28%'''",
+      "| align=center| 28%",
+      "| align=center| 24%",
+      "|}"
+    ],
+    "deleted": []
+  },
+  {
+    "title": "2020 Honolulu mayoral election",
+    "timestamp": "2020-10-18T13:49:34+00:00",
+    "added": [
+      "|-",
+      "| [https://www.staradvertiser.com/2020/10/18/hawaii-news/hawaii-poll-shows-commanding-lead-for-blangiardi-in-mayors-race/ Solutions Pacific/Keith Amemiya]{{efn-ua|Poll sponsored by Amemiya's campaign}}",
+      "| align=center| September 28 – October 9, 2020",
+      "| align=center| 1,212 (RV)",
+      "| align=center| –",
+      "| {{party shading/Other}} align=center| '''37%'''",
+      "| align=center| 36%",
+      "| align=center| –"
+    ],
+    "deleted": []
+  }
+]

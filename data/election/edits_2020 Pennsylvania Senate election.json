@@ -1,0 +1,60 @@
+[
+  {
+    "title": "2020 Pennsylvania Senate election",
+    "timestamp": "2020-11-13T18:49:50+00:00",
+    "added": [
+      "",
+      "{{bar box",
+      "| titlebar=#ddd",
+      "| width=600px",
+      "| barwidth=410px",
+      "| bars=",
+      "{{bar percent|Democratic|{{Democratic Party (United States)/meta/color}}|51}}",
+      "{{bar percent|Republican|{{Republican Party (United States)/meta/color}}|49}}",
+      "}}",
+      "",
+      "{{bar box",
+      "| titlebar=#ddd",
+      "| width=600px",
+      "| barwidth=410px",
+      "| bars=",
+      "{{bar percent|Republican|{{Republican Party (United States)/meta/color}}|60}}",
+      "{{bar percent|Democratic|{{Democratic Party (United States)/meta/color}}|36}}",
+      "{{bar percent|To Be Determined|#eeeeee|4}}",
+      "}}"
+    ],
+    "deleted": []
+  },
+  {
+    "title": "2020 Pennsylvania Senate election",
+    "timestamp": "2020-11-15T05:00:53+00:00",
+    "added": [],
+    "deleted": [
+      "!Vote%"
+    ]
+  },
+  {
+    "title": "2020 Pennsylvania Senate election",
+    "timestamp": "2020-11-15T05:01:10+00:00",
+    "added": [
+      "|State wise results{{citation needed}}"
+    ],
+    "deleted": []
+  },
+  {
+    "title": "2020 Pennsylvania Senate election",
+    "timestamp": "2020-11-15T05:03:54+00:00",
+    "added": [
+      "|+State wise results{{citation needed}}"
+    ],
+    "deleted": []
+  },
+  {
+    "title": "2020 Pennsylvania Senate election",
+    "timestamp": "2020-11-15T05:04:04+00:00",
+    "added": [
+      "|+State wise results{{citation needed|date=November 2020}}"
+    ],
+    "deleted": []
+  }
+]

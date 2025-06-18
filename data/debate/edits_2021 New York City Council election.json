@@ -1,0 +1,22 @@
+[
+  {
+    "title": "2021 New York City Council election",
+    "timestamp": "2020-09-27T14:23:23+00:00",
+    "added": [],
+    "deleted": [
+      "Incumbent Democrat [[Jimmy Van Bramer]] is term-limited and cannot seek a fourth consecutive term."
+    ]
+  },
+  {
+    "title": "2021 New York City Council election",
+    "timestamp": "2020-10-19T20:41:01+00:00",
+    "added": [
+      "{{Election box total no change",
+      "| votes =",
+      "| percentage = 100",
+      "}}",
+      "{{Election box end}}"
+    ],
+    "deleted": []
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "title": "2008 United States presidential election in Alaska",
+    "timestamp": "2021-03-11T22:55:00+00:00",
+    "added": [],
+    "deleted": [
+      "|}",
+      "",
+      "==Results breakdown==",
+      "===By congressional district===",
+      "Due to the state's low population, only one congressional district is allocated. This district is called an at-large district because it covers the entire state, and thus is equivalent to the statewide election results.",
+      "{|class=wikitable",
+      "! District",
+      "! McCain",
+      "! Obama",
+      "! Representative",
+      "|- align=center",
+      "! {{party shading/Republican}}|[[Alaska's At-large congressional district|At-large]]",
+      "| '''59.4%'''",
+      "| 37.9%",
+      "| {{party shading/Republican}}|[[Don Young]]"
+    ]
+  }
+]

@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2674c1b6-5e92-4c94-b912-89bcf2f03284" name="Changes" comment="Added edit.py that get's all the edits and collect_edits.py that parallelizes the collection of edits. Few json files with edit results also created." />
+    <list default="true" id="2674c1b6-5e92-4c94-b912-89bcf2f03284" name="Changes" comment="Added edit.py that get's all the edits and collect_edits.py that parallelizes the collection of edits. Few json files with edit results also created.">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -38,7 +40,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "Merging master",
     "last_opened_file_path": "D:/Delft/Uni/Mod 4/Web Science/Project/Edit",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -74,7 +76,7 @@
       <workItem from="1750064295812" duration="267000" />
       <workItem from="1750079595869" duration="680000" />
       <workItem from="1750082207874" duration="11358000" />
-      <workItem from="1750281582590" duration="1211000" />
+      <workItem from="1750281582590" duration="1827000" />
     </task>
     <task id="LOCAL-00001" summary="Changed collector.py and relevance.py to work in batches. Ran the code on GPU to create the json file.">
       <option name="closed" value="true" />

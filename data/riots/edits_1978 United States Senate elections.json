@@ -1,0 +1,31 @@
+[
+  {
+    "title": "1978 United States Senate elections",
+    "timestamp": "2021-01-02T02:06:06+00:00",
+    "added": [
+      "{{Infobox election",
+      "| election_name      = Louisiana election",
+      "| country            = Louisiana",
+      "| flag_year          = 1912",
+      "| type               = presidential",
+      "| ongoing            = no",
+      "| previous_election  = 1972 United States Senate election in Louisiana",
+      "| previous_year      = 1972",
+      "| next_election      = 1984 United States Senate election in Louisiana",
+      "| next_year          = 1984",
+      "",
+      "| nominee1           = '''[[J. Bennett Johnston]]'''",
+      "| party1             = Democratic Party (United States)",
+      "| popular_vote1      =",
+      "| percentage1        =",
+      "",
+      "| before_election    = [[J. Bennett Johnston]]",
+      "| before_party       = Democratic Party (United States)",
+      "| after_election     = [[J. Bennett Johnston]]",
+      "| after_party        = Democratic Party (United States)",
+      "}}",
+      ""
+    ],
+    "deleted": []
+  }
+]

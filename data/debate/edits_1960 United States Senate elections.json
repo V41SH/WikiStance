@@ -1,0 +1,90 @@
+[
+  {
+    "title": "1960 United States Senate elections",
+    "timestamp": "2020-09-03T14:07:26+00:00",
+    "added": [
+      "{{Infobox election",
+      "| election_name      = Alaska election",
+      "| country            = Alaska",
+      "| type               = presidential",
+      "| ongoing            = no",
+      "| previous_election  = 1958 United States Senate elections in Alaska",
+      "| previous_year      = 1958",
+      "| next_election      = 1966 United States Senate election in Alaska",
+      "| next_year          = 1966",
+      "| image_size         = x136px",
+      "| nominee1           = '''[[Bob Bartlett]]'''",
+      "| party1             = Democratic Party (US)",
+      "| popular_vote1      = '''38,041'''",
+      "| percentage1        = '''63.43%'''",
+      "| nominee2           = [[Lee McKinley]]",
+      "| party2             = Republican Party (US)",
+      "| popular_vote2      = 21,937",
+      "| percentage2        = 36.58%",
+      "| before_election    = [[Bob Bartlett]]",
+      "| before_party       = Democratic Party (US)",
+      "| after_election     = [[Bob Bartlett]]",
+      "| after_party        = Democratic Party (US)",
+      "}}"
+    ],
+    "deleted": []
+  },
+  {
+    "title": "1960 United States Senate elections",
+    "timestamp": "2020-09-03T14:12:20+00:00",
+    "added": [],
+    "deleted": [
+      "| election_date      = November 8, 1960"
+    ]
+  },
+  {
+    "title": "1960 United States Senate elections",
+    "timestamp": "2020-09-03T14:12:32+00:00",
+    "added": [
+      "{{Infobox election",
+      "| election_name      = Massachusetts election",
+      "| country            = Massachusetts",
+      "| flag_year          = 1908",
+      "| type               = presidential",
+      "| ongoing            = no",
+      "| previous_election  = 1954 United States Senate election in Massachusetts",
+      "| previous_year      = 1954",
+      "| next_election      = 1966 United States Senate election in Massachusetts",
+      "| next_year          = 1966",
+      "| image_size         = x136px",
+      "| nominee1           = '''[[Leverett Saltonstall]]'''",
+      "| party1             = Republican Party (US)",
+      "| popular_vote1      = '''1,358,556'''",
+      "| percentage1        = '''56.19%'''",
+      "| nominee2           = [[Thomas J. O'Connor]]",
+      "| party2             = Democratic Party (US)",
+      "| popular_vote2      = 1,050,725",
+      "| percentage2        = 43.46%",
+      "| map_size           = 250px",
+      "| map_caption        = Municipal results",
+      "| before_election    = [[Leverett Saltonstall]]",
+      "| before_party       = Republican Party (US)",
+      "| after_election     = [[Leverett Saltonstall]]",
+      "| after_party        = Republican Party (US)",
+      "}}"
+    ],
+    "deleted": []
+  },
+  {
+    "title": "1960 United States Senate elections",
+    "timestamp": "2020-09-03T14:21:18+00:00",
+    "added": [],
+    "deleted": [
+      "| election_date      = November 8, 1960"
+    ]
+  },
+  {
+    "title": "1960 United States Senate elections",
+    "timestamp": "2020-09-03T14:21:40+00:00",
+    "added": [
+      "{{Main|1960 United States Senate election in South Carolina}}",
+      "{{See also|List of United States senators from South Carolina|1960 United States House of Representatives elections in South Carolina}}"
+    ],
+    "deleted": []
+  }
+]

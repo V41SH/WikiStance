@@ -1,0 +1,29 @@
+[
+  {
+    "title": "2020 Utah elections",
+    "timestamp": "2021-03-25T19:08:45+00:00",
+    "added": [
+      "",
+      "=== Utah Supreme Court ===",
+      "{{Referendum",
+      "| yes = 1,025,585",
+      "| yespct = 81.5",
+      "| no = 232,407",
+      "| nopct = 18.5",
+      "| total = 1,257,992",
+      "| source = [[Ballotpedia]]",
+      "}}",
+      "",
+      "=== Utah Court of Appeals ===",
+      "{{Referendum",
+      "| yes = 1,023,082",
+      "| yespct = 82.4",
+      "| no = 218,804",
+      "| nopct = 17.6",
+      "| total = 1,257,992",
+      "| source = [[Ballotpedia]]",
+      "}}"
+    ],
+    "deleted": []
+  }
+]

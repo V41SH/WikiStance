@@ -1,0 +1,116 @@
+[
+  {
+    "title": "1964 United States Senate elections",
+    "timestamp": "2020-09-08T01:12:59+00:00",
+    "added": [
+      "{{Infobox election",
+      "| election_name      = West Virginia election",
+      "| country            = West Virginia",
+      "| type               = presidential",
+      "| ongoing            = no",
+      "| previous_election  = 1958 United States Senate election in West Virginia",
+      "| previous_year      = 1958",
+      "| next_election      = 1970 United States Senate election in West Virginia",
+      "| next_year          = 1970",
+      "| image_size         = x136px",
+      "| nominee1           = '''[[Robert Byrd]]'''",
+      "| party1             = Democratic Party (US)",
+      "| popular_vote1      = '''515,015'''",
+      "| percentage1        = '''67.67%'''",
+      "| nominee2           = Cooper P. Benedict",
+      "| party2             = Republican Party (US)",
+      "| popular_vote2      = 246,072",
+      "| percentage2        = 32.33%",
+      "| map_size           = 235px",
+      "| map_caption        = County results<br/>'''Byrd''': {{legend0|#7996e2|50–60%}} {{legend0|#6674de|60–70%}} {{legend0|#584cde|70–80%}} {{legend0|#3933e5|80–90%}} <br/>'''Benedict''': {{legend0|#e27f7f|50-60%}} {{legend0|#d75d5d|60-70%}}",
+      "| before_election    = [[Robert Byrd]]",
+      "| before_party       = Democratic Party (US)",
+      "| after_election     = [[Robert Byrd]]",
+      "| after_party        = Democratic Party (US)",
+      "}}"
+    ],
+    "deleted": []
+  },
+  {
+    "title": "1964 United States Senate elections",
+    "timestamp": "2020-09-08T12:10:35+00:00",
+    "added": [
+      "{{Infobox election",
+      "| election_name      = Delaware election",
+      "| country            = Delaware",
+      "| type               = presidential",
+      "| ongoing            = no",
+      "| previous_election  = 1958 United States Senate election in Delaware",
+      "| previous_year      = 1958",
+      "| next_election      = 1970 United States Senate election in Delaware",
+      "| next_year          = 1970",
+      "| election_date      = November 3, 1964",
+      "| image_size         = x136px",
+      "| nominee1           = '''[[John J. Williams (politician)|John J. Williams]]'''",
+      "| party1             = Republican Party (US)",
+      "| popular_vote1      = '''103,782'''",
+      "| percentage1        = '''51.71%'''",
+      "| nominee2           = [[Elbert Carvel]]",
+      "| party2             = Democratic Party (US)",
+      "| popular_vote2      = 96,850",
+      "| percentage2        = 48.26%",
+      "| map_size           = 100px",
+      "| map_caption        = County Results<br/>",
+      "'''Williams:''' {{legend0|#e27f7f|50-60%}}",
+      "| before_election    = [[John J. Williams (politician)|John J. Williams]]",
+      "| before_party       = Republican Party (US)",
+      "| after_election     = [[John J. Williams (politician)|John J. Williams]]",
+      "| after_party        = Republican Party (US)",
+      "}}"
+    ],
+    "deleted": []
+  },
+  {
+    "title": "1964 United States Senate elections",
+    "timestamp": "2020-09-08T12:12:58+00:00",
+    "added": [],
+    "deleted": [
+      "| election_date      = November 3, 1964"
+    ]
+  },
+  {
+    "title": "1964 United States Senate elections",
+    "timestamp": "2020-09-08T14:58:20+00:00",
+    "added": [],
+    "deleted": [
+      ""
+    ]
+  },
+  {
+    "title": "1964 United States Senate elections",
+    "timestamp": "2020-09-08T15:00:59+00:00",
+    "added": [
+      "{{Infobox election",
+      "| election_name      = Maryland election",
+      "| country            = Maryland",
+      "| type               = presidential",
+      "| ongoing            = no",
+      "| previous_election  = 1958 United States Senate election in Maryland",
+      "| previous_year      = 1958",
+      "| next_election      = 1970 United States Senate election in Maryland",
+      "| next_year          = 1970",
+      "| image_size         = x136px",
+      "| nominee1           = '''[[Joseph D. Tydings]]'''",
+      "| party1             = Democratic Party (US)",
+      "| popular_vote1      = '''678,649'''",
+      "| percentage1        = '''62.78%'''",
+      "| nominee2           = [[James Glenn Beall]]",
+      "| party2             = Republican Party (US)",
+      "| popular_vote2      = 402,393",
+      "| percentage2        = 37.22%",
+      "| map_size           = 275px",
+      "| map_caption        = County results<br/>'''Tydings''': {{legend0|#7996e2|50–60%}} {{legend0|#6674de|60–70%}} {{legend0|#584cde|70–80%}}<br/>'''Beall''': {{legend0|#e27f7f|50-60%}} {{legend0|#d75d5d|60-70%}}",
+      "| before_election    = [[James Glenn Beall]]",
+      "| before_party       = Republican Party (US)",
+      "| after_election     = [[Joseph D. Tydings]]",
+      "| after_party        = Democratic Party (US)",
+      "}}"
+    ],
+    "deleted": []
+  }
+]
