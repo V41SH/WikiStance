@@ -4,95 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2674c1b6-5e92-4c94-b912-89bcf2f03284" name="Changes" comment="Added edit.py that get's all the edits and collect_edits.py that parallelizes the collection of edits. Few json files with edit results also created.">
-      <change afterPath="$PROJECT_DIR$/data/combine.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/collect_edits.py" beforeDir="false" afterPath="$PROJECT_DIR$/data/collect_edits.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/edits_1792 United States presidential election.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/edits_1828 United States presidential election.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/edits_1832 United States presidential election.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/edits_1892 United States presidential election.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/edits_1912 United States presidential election in Iowa.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/edits_1940 United States presidential election.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/edits_1952 United States presidential election.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/edits_1954 State of the Union Address.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/edits_1960 United States Senate election in North Carolina.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/edits_1960 United States presidential election.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/edits_1964 United States presidential election.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/edits_1966 Iowa gubernatorial election.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/edits_1976 United States presidential election.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/edits_1978 United States Senate election in Delaware.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/edits_1984 United States Senate election in North Carolina.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/edits_1984 United States presidential election.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/edits_2000 United States presidential election.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/edits_2002 Iowa gubernatorial election.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/edits_2004 United States presidential election.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/edits_2008 United States presidential election.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/edits_2012 Democratic National Convention.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/edits_2012 United States presidential election.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/edits_2016 United States presidential election.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/edits_2020 Baltimore mayoral election.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/edits_2020 Democratic Party presidential primaries.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/edits_2020 New York State Senate election.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/edits_2020 Pennsylvania State Treasurer election.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/edits_2020 Republican Party presidential primaries.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/edits_2020 San Diego County Board of Supervisors election.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/edits_2020 United States Senate election in Delaware.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/edits_2020 United States Senate election in New Hampshire.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/edits_2020 United States Senate election in South Dakota.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/edits_2020 United States Senate election in West Virginia.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/edits_2020 United States presidential election in Alaska.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/edits_2020 United States presidential election in Arizona.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/edits_2020 United States presidential election in Colorado.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/edits_2020 United States presidential election in Illinois.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/edits_2020 United States presidential election in Indiana.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/edits_2020 United States presidential election in Iowa.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/edits_2020 United States presidential election in Kentucky.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/edits_2020 United States presidential election in Louisiana.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/edits_2020 United States presidential election in Maine.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/edits_2020 United States presidential election in Maryland.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/edits_2020 United States presidential election in Michigan.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/edits_2020 United States presidential election in Minnesota.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/edits_2020 United States presidential election in New Hampshire.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/edits_2020 United States presidential election in New Mexico.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/edits_2020 United States presidential election in North Carolina.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/edits_2020 United States presidential election in Ohio.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/edits_2020 United States presidential election in Oklahoma.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/edits_2020 United States presidential election in Rhode Island.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/edits_2020 United States presidential election in South Carolina.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/edits_2020 United States presidential election in Tennessee.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/edits_2020 United States presidential election in Vermont.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/edits_2020 United States presidential election in Virginia.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/edits_2020 United States presidential election in the District of Columbia.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/edits_2020 United States presidential election.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/edits_2020 Washington Secretary of State election.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/edits_2020 West Virginia elections.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/edits_2020 Wilmington mayoral election.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/edits_2020–21 United States election protests.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/edits_2024 Republican Party presidential primaries.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/edits_Blue wall (United States).json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/edits_Donald Trump 2020 presidential campaign.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/edits_Donald Trump 2024 presidential campaign.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/edits_George Distel.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/edits_Hişyar Özsoy.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/edits_John Monds.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/edits_List of United States presidential elections by Electoral College margin.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/edits_List of election bellwether counties in the United States.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/edits_Pete Buttigieg 2020 presidential campaign.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/edits_Political career of Donald Trump.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/edits_Presidency of Barack Obama.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/edits_Prince George's County, Maryland.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/edits_Saruhan Oluç.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/edits_Sean D. Logan.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/edits_United States presidential elections in Arizona.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/edits_United States presidential elections in Florida.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/edits_United States presidential elections in Kansas.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/edits_United States presidential elections in Missouri.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/edits_United States presidential elections in Utah.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/edits_United States presidential elections in Wyoming.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/edits_Withdrawal of Joe Biden from the 2024 United States presidential election.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/edits_Yasin Aktay.json" beforeDir="false" />
-    </list>
+    <list default="true" id="2674c1b6-5e92-4c94-b912-89bcf2f03284" name="Changes" comment="Added edit.py that get's all the edits and collect_edits.py that parallelizes the collection of edits. Few json files with edit results also created." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -162,7 +74,7 @@
       <workItem from="1750064295812" duration="267000" />
       <workItem from="1750079595869" duration="680000" />
       <workItem from="1750082207874" duration="11358000" />
-      <workItem from="1750281582590" duration="877000" />
+      <workItem from="1750281582590" duration="1211000" />
     </task>
     <task id="LOCAL-00001" summary="Changed collector.py and relevance.py to work in batches. Ran the code on GPU to create the json file.">
       <option name="closed" value="true" />
@@ -219,7 +131,7 @@
     <SUITE FILE_PATH="coverage/WikiStance$edit.coverage" NAME="edit Coverage Results" MODIFIED="1750101561537" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data" />
     <SUITE FILE_PATH="coverage/WikiStance$relevance.coverage" NAME="relevance Coverage Results" MODIFIED="1749330178642" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data" />
     <SUITE FILE_PATH="coverage/WikiStance$main.coverage" NAME="main Coverage Results" MODIFIED="1750089804781" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Edit" />
-    <SUITE FILE_PATH="coverage/WikiStance$combine.coverage" NAME="combine Coverage Results" MODIFIED="1750282443847" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data" />
+    <SUITE FILE_PATH="coverage/WikiStance$combine.coverage" NAME="combine Coverage Results" MODIFIED="1750282462635" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data" />
     <SUITE FILE_PATH="coverage/WikiStance$collector.coverage" NAME="collector Coverage Results" MODIFIED="1749334074678" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data" />
   </component>
 </project>
