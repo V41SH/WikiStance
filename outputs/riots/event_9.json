@@ -1,0 +1,20 @@
+[
+  {
+    "text": "{{col-break}} {{legend|#0044aa|2 Democrats}} {{legend|#660080|1 Democrat and 1 Republican}} {{legend|#aa0000|2 Republicans}}]]",
+    "timestamp": "2021-03-28 01:40:18+00:00",
+    "entity": "62nd United States Congress",
+    "event_id": 9
+  },
+  {
+    "text": "{{col-break}} {{legend|#0044aa|2 Democrats}} {{legend|#660080|1 Democrat and 1 Republican}} {{legend|#aa0000|2 Republicans}}]]",
+    "timestamp": "2021-03-28 00:34:33+00:00",
+    "entity": "64th United States Congress",
+    "event_id": 9
+  },
+  {
+    "text": "{{col-break}} {{legend|#0044aa|2 Democrats}} {{legend|#660080|1 Democrat and 1 Republican}} {{legend|#aa0000|2 Republicans}}]]",
+    "timestamp": "2021-03-28 01:28:10+00:00",
+    "entity": "63rd United States Congress",
+    "event_id": 9
+  }
+]

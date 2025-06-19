@@ -1,0 +1,44 @@
+[
+  {
+    "text": "{{Infobox election | election_name      = West Virginia election | country            = West Virginia | type               = presidential | ongoing            = no | previous_election  = 1958 United States Senate election in West Virginia | previous_year      = 1958 | next_election      = 1970 United States Senate election in West Virginia | next_year          = 1970 | image_size         = x136px | nominee1           = '''[[Robert Byrd]]''' | party1             = Democratic Party (US) | popular_vote1      = '''515,015''' | percentage1        = '''67.67%''' | nominee2           = Cooper P. Benedict | party2             = Republican Party (US) | popular_vote2      = 246,072 | percentage2        = 32.33% | map_size           = 235px | map_caption        = County results<br/>'''Byrd''': {{legend0|#7996e2|50\u201360%}} {{legend0|#6674de|60\u201370%}} {{legend0|#584cde|70\u201380%}} {{legend0|#3933e5|80\u201390%}} <br/>'''Benedict''': {{legend0|#e27f7f|50-60%}} {{legend0|#d75d5d|60-70%}} | before_election    = [[Robert Byrd]] | before_party       = Democratic Party (US) | after_election     = [[Robert Byrd]] | after_party        = Democratic Party (US) }}",
+    "timestamp": "2020-09-08 01:12:59+00:00",
+    "entity": "1964 United States Senate elections",
+    "event_id": 2
+  },
+  {
+    "text": "{{Infobox election | election_name      = Delaware election | country            = Delaware | type               = presidential | ongoing            = no | previous_election  = 1958 United States Senate election in Delaware | previous_year      = 1958 | next_election      = 1970 United States Senate election in Delaware | next_year          = 1970 | election_date      = November 3, 1964 | image_size         = x136px | nominee1           = '''[[John J. Williams (politician)|John J. Williams]]''' | party1             = Republican Party (US) | popular_vote1      = '''103,782''' | percentage1        = '''51.71%''' | nominee2           = [[Elbert Carvel]] | party2             = Democratic Party (US) | popular_vote2      = 96,850 | percentage2        = 48.26% | map_size           = 100px | map_caption        = County Results<br/> '''Williams:''' {{legend0|#e27f7f|50-60%}} | before_election    = [[John J. Williams (politician)|John J. Williams]] | before_party       = Republican Party (US) | after_election     = [[John J. Williams (politician)|John J. Williams]] | after_party        = Republican Party (US) }}",
+    "timestamp": "2020-09-08 12:10:35+00:00",
+    "entity": "1964 United States Senate elections",
+    "event_id": 2
+  },
+  {
+    "text": "{{Infobox election | election_name      = Maryland election | country            = Maryland | type               = presidential | ongoing            = no | previous_election  = 1958 United States Senate election in Maryland | previous_year      = 1958 | next_election      = 1970 United States Senate election in Maryland | next_year          = 1970 | image_size         = x136px | nominee1           = '''[[Joseph D. Tydings]]''' | party1             = Democratic Party (US) | popular_vote1      = '''678,649''' | percentage1        = '''62.78%''' | nominee2           = [[James Glenn Beall]] | party2             = Republican Party (US) | popular_vote2      = 402,393 | percentage2        = 37.22% | map_size           = 275px | map_caption        = County results<br/>'''Tydings''': {{legend0|#7996e2|50\u201360%}} {{legend0|#6674de|60\u201370%}} {{legend0|#584cde|70\u201380%}}<br/>'''Beall''': {{legend0|#e27f7f|50-60%}} {{legend0|#d75d5d|60-70%}} | before_election    = [[James Glenn Beall]] | before_party       = Republican Party (US) | after_election     = [[Joseph D. Tydings]] | after_party        = Democratic Party (US) }}",
+    "timestamp": "2020-09-08 15:00:59+00:00",
+    "entity": "1964 United States Senate elections",
+    "event_id": 2
+  },
+  {
+    "text": "{{Infobox election | election_name      = Illinois election | country            = Illinois | flag_year          = 1915 | type               = presidential | ongoing            = no | previous_election  = 1956 United States Senate election in Illinois | previous_year      = 1956 | next_election      = 1968 United States Senate election in Illinois | next_year          = 1968 | image_size         = x136px | nominee1           = '''[[Everett M. Dirksen]]''' | party1             = Republican Party (US) | popular_vote1      = '''1,961,202''' | percentage1        = '''52.87%''' | nominee2           = [[Sidney R. Yates]] | party2             = Democratic Party (US) | popular_vote2      = 1,748,007 | percentage2        = 47.13% | map_size           = 150px | map_caption        = County Results <br/> '''Dirksen:''' {{legend0|#e27f7f|50-60%}} {{legend0|#d75d5d|60-70%}} {{legend0|#d72f30|70-80%}}<br>'''Yates:''' {{legend0|#7996e2|50\u201360%}} {{legend0|#6674de|60\u201370%}} | before_election    = [[Everett M. Dirksen]] | before_party       = Republican Party (US) | after_election     = [[Everett M. Dirksen]] | after_party        = Republican Party (US) | turnout            = 72.66% }}",
+    "timestamp": "2020-09-08 00:58:38+00:00",
+    "entity": "1962 United States Senate elections",
+    "event_id": 2
+  },
+  {
+    "text": "{{Infobox election | election_name      = Alabama election | country            = Alabama | type               = presidential | ongoing            = no | previous_election  = 1960 United States Senate election in Alabama | previous_year      = 1960 | next_election      = 1972 United States Senate election in Alabama | next_year          = 1972 | image_size         = x136px | nominee1           = '''[[John Sparkman]]''' | party1             = Democratic Party (US) | popular_vote1      = '''482,138''' | percentage1        = '''60.07%''' | nominee2           = [[John Grenier]] | party2             = Republican Party (US) | popular_vote2      = 313,018 | percentage2        = 39.00% | map_image          = | map_size           = 170px | map_caption        = | before_election    = [[John Sparkman]] | before_party       = Democratic Party (US) | after_election     = [[John Sparkman]] | after_party        = Democratic Party (US) }} ",
+    "timestamp": "2020-09-08 18:31:05+00:00",
+    "entity": "1966 United States Senate elections",
+    "event_id": 2
+  },
+  {
+    "text": "{{Infobox election | election_name      = Colorado election | country            = Colorado | type               = presidential | ongoing            = no | previous_election  = 1960 United States Senate election in Colorado | previous_year      = 1960 | next_election      = 1972 United States Senate election in Colorado | next_year          = 1972 | image_size         = x136px | nominee1           = '''[[Gordon Allott]]''' | party1             = Republican Party (US) | popular_vote1      = '''368,307''' | percentage1        = '''58.02%''' | nominee2           = [[Roy Romer]] | party2             = Democratic Party (US) | popular_vote2      = 266,198 | percentage2        = 41.93% | map_size           = 250px | map_caption        = County results<br/>'''Allott:''' {{legend0|#e27f7f|50\u201360%}} {{legend0|#d75d5d|60\u201370%}} {{legend0|#d72f30|70\u201380%}}<br>'''Romer:''' {{legend0|#7996e2|50\u201360%}} {{legend0|#6674de|60\u201370%}} | before_election    = [[Gordon Allott]] | before_party       = Republican Party (US) | after_election     = [[Gordon Allott]] | after_party        = Republican Party (US) }}",
+    "timestamp": "2020-09-08 19:48:21+00:00",
+    "entity": "1966 United States Senate elections",
+    "event_id": 2
+  },
+  {
+    "text": "{{Infobox election | election_name      = 2020 Maine's 2nd congressional district election | country            = Maine | type               = presidential | ongoing            = yes | previous_election  = 2018 United States House of Representatives elections in Maine#District 2 | previous_year      = 2018 | election_date      = November 3, 2020 | next_election      = 2022 United States House of Representatives elections in Maine#District 2 | next_year          = 2022 | seats_for_election = [[Maine's 2nd congressional district]] | nominee1           = [[Jared Golden]] | party1             = Democratic Party (United States) | popular_vote1      = | percentage1        = | image2             = | nominee2           = [[Dale Crafts]] | party2             = Republican Party (United States) | popular_vote2      = | percentage2        = | map_image          = | map_size           = | map_caption        = | before_election    = [[Jared Golden]] | before_party       = Democratic Party (United States) | after_election     = | after_party        = }} {{Elections in Maine}} ",
+    "timestamp": "2020-09-08 03:55:26+00:00",
+    "entity": "2020 United States House of Representatives elections in Maine",
+    "event_id": 2
+  }
+]

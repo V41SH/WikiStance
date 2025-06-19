@@ -7,8 +7,8 @@ from datetime import datetime
 import os
 import json
 
-DATA_DIR = "data/edits/"
-OUTPUT_DIR = "outputs/"
+DATA_DIR = "data/debate/"
+OUTPUT_DIR = "outputs/debate"
 os.makedirs(OUTPUT_DIR, exist_ok=True)
 MODE = "implicit"  # or "implicit"
 DELTA_DAYS = 2
@@ -72,8 +72,10 @@ for event_id, event in enumerate(events):
     event_edits = []
     for edit in all_edits:
         if edit["entity"] in entities:
-            ts = edit["timestamp"].date()
-            if start <= ts <= end:
+            # ts = edit["timestamp"].date()
+            ts = edit["timestamp"]#.date()
+            # print(start, ts, end)
+            if start <= ts.date() <= end:
                 added_text = ' '.join(edit.get("added", []))
                 if added_text.strip():
                     event_edits.append({

@@ -1,0 +1,20 @@
+[
+  {
+    "text": "{{pp-vandalism|small=yes}}",
+    "timestamp": "2021-02-15 02:19:23+00:00",
+    "entity": "Susan Collins",
+    "event_id": 3
+  },
+  {
+    "text": "{{pp-vandalism|small=yes}}",
+    "timestamp": "2021-02-15 02:20:45+00:00",
+    "entity": "Lisa Murkowski",
+    "event_id": 3
+  },
+  {
+    "text": "{{pp-vandalism|small=yes}}",
+    "timestamp": "2021-02-15 02:13:31+00:00",
+    "entity": "Ben Sasse",
+    "event_id": 3
+  }
+]

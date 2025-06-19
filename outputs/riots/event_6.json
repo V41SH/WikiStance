@@ -1,0 +1,26 @@
+[
+  {
+    "text": "|- |[[RealClearPolitics]]<ref>{{Cite web |date=November 4, 2008 |title= 2008 Missouri Governor Race|url=https://www.realclearpolitics.com/epolls/2008/governor/mo/missouri_governor-385.html|access-date=March 5, 2021 |publisher=[[RealClearPolitics]]}}</ref> |{{USRaceRating|Likely|D|(flip)}} |November 4, 2008",
+    "timestamp": "2021-03-05 07:52:45+00:00",
+    "entity": "2008 Missouri gubernatorial election",
+    "event_id": 6
+  },
+  {
+    "text": "|- |[[RealClearPolitics|RCP]]<ref>{{Cite web |date=November 4, 2008 |title= 2008 Washington Governor Race|url=https://www.realclearpolitics.com/epolls/2008/governor/wa/washington_governor-584.html|access-date=March 5, 2021 |publisher=[[RealClearPolitics]]}}</ref> |{{USRaceRating|Tossup}} |November 4, 2008",
+    "timestamp": "2021-03-05 07:53:27+00:00",
+    "entity": "2008 Washington gubernatorial election",
+    "event_id": 6
+  },
+  {
+    "text": "|- |[[RealClearPolitics]]<ref>{{Cite web |date=November 4, 2008 |title= 2008 West Virginia Governor Race|url=https://www.realclearpolitics.com/epolls/2008/governor/wv/west_virginia_governor-944.html|access-date=March 5, 2021 |publisher=[[RealClearPolitics]]}}</ref> |{{USRaceRating|Tossup}} |November 4, 2008",
+    "timestamp": "2021-03-05 08:04:42+00:00",
+    "entity": "2008 West Virginia gubernatorial election",
+    "event_id": 6
+  },
+  {
+    "text": "|[[Real Clear Politics]]<ref>{{Cite web |date=November 4, 2008 |title= 2008 West Virginia Governor Race|url=https://www.realclearpolitics.com/epolls/2008/governor/wv/west_virginia_governor-944.html|access-date=March 5, 2021 |publisher=[[RealClearPolitics]]}}</ref>",
+    "timestamp": "2021-03-05 08:51:35+00:00",
+    "entity": "2008 West Virginia gubernatorial election",
+    "event_id": 6
+  }
+]

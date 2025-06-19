@@ -1,0 +1,20 @@
+[
+  {
+    "text": "|{{USRaceRating|Safe|R}} |November 2, 2020 |- | align=\"left\" |[[The Economist|Economist]]<ref>{{Cite web |date=November 2, 2020 |title=Forecasting the US elections |url=https://projects.economist.com/us-2020-forecast/senate |access-date=March 13, 2021 |publisher=[[The Economist]]}}</ref>",
+    "timestamp": "2021-03-13 21:11:58+00:00",
+    "entity": "2020 United States Senate election in West Virginia",
+    "event_id": 7
+  },
+  {
+    "text": "|{{USRaceRating|Safe|D}} |November 2, 2020 |- | align=\"left\" |[[The Economist|Economist]]<ref>{{Cite web |date=November 2, 2020 |title=Forecasting the US elections |url=https://projects.economist.com/us-2020-forecast/senate |access-date=March 13, 2021 |publisher=[[The Economist]]}}</ref>",
+    "timestamp": "2021-03-13 21:18:15+00:00",
+    "entity": "2020 United States Senate election in Massachusetts",
+    "event_id": 7
+  },
+  {
+    "text": "|{{USRaceRating|Safe|D}} |November 2, 2020 |- | align=\"left\" |[[The Economist|Economist]]<ref>{{Cite web |date=November 2, 2020 |title=Forecasting the US elections |url=https://projects.economist.com/us-2020-forecast/senate |access-date=March 13, 2021 |publisher=[[The Economist]]}}</ref>",
+    "timestamp": "2021-03-13 21:17:43+00:00",
+    "entity": "2020 United States Senate election in Rhode Island",
+    "event_id": 7
+  }
+]

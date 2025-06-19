@@ -80,13 +80,29 @@ def get_textual_changes(from_rev, to_rev):
 
     def is_textual(line):
         return not re.search(
-        r'\.(jpg|jpeg|png|svg|gif)'
-        r'|^\|\s*(image|alt|caption|bgcolor|title|logo)\s*='
-        r'|\[\[(File|Image):',
-        line,
-        re.IGNORECASE
-    )
-
+            r"""
+                    # ---------- images ----------
+                    \.(jpg|jpeg|png|svg|gif)\b
+                    | ^\|\s*(image|alt|caption|bgcolor|title|logo)\s*=
+                    | \[\[(File|Image):
+                    # ---------- wiki-tables ----------
+                    | ^\s*\{\|            # table start
+                    | ^\s*\|\}            # table end
+                    | ^\s*\|-             # row delimiter
+                    | ^\s*[!\|]           # header/cell lines
+                    # ---------- markdown tables ----------
+                    | ^\s*\|.*\|\s*$      # pipe-delimited row
+                    | ^\s*\{\{.*\}\}\s*$
+                    # ---------- html tables ----------
+                    | <\/?(table|tr|t[dh])\b
+                     # ---------- html / wiki comments ----------
+                    | ^\s*<!--.*?-->\s*$      # single-line comment  <!-- … -->
+                    | ^\s*<!--                # opening  <!--
+                    | -->\s*$                 # closing  -->
+                    """,
+            line,
+            flags=re.IGNORECASE | re.VERBOSE,
+        )
     added = [line for line in added_raw if is_textual(line)]
     deleted = [line for line in deleted_raw if is_textual(line)]
 
@@ -149,5 +165,5 @@ def main(title, start_ts, end_ts, limit, delta=60):
                 prev_changes = curr_changes
 
         time.sleep(0.5)
-    with open(f"edits_{title}.json", "w", encoding="utf-8") as f:
+    with open(f"election/edits_{title}.json", "w", encoding="utf-8") as f:
         json.dump(results, f, ensure_ascii=False, indent=2)

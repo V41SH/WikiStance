@@ -1,0 +1,26 @@
+[
+  {
+    "text": "}} {{Election box majority no change | votes      = 162,127 | percentage = 1.90%",
+    "timestamp": "2020-11-17 02:40:00+00:00",
+    "entity": "1994 United States Senate election in California",
+    "event_id": 5
+  },
+  {
+    "text": "}} {{Election box hold with party link without swing | winner = Republican Party (United States)",
+    "timestamp": "2020-11-17 03:19:24+00:00",
+    "entity": "1994 United States Senate election in Minnesota",
+    "event_id": 5
+  },
+  {
+    "text": "}} {{Election box hold with party link no change | winner = Democratic Party (United States)",
+    "timestamp": "2020-11-17 03:35:44+00:00",
+    "entity": "2020 United States House of Representatives elections in New Hampshire",
+    "event_id": 5
+  },
+  {
+    "text": "}} {{Election box hold with party link no change | winner = Democratic Party (United States)",
+    "timestamp": "2020-11-17 03:30:16+00:00",
+    "entity": "2020 United States House of Representatives elections in Louisiana",
+    "event_id": 5
+  }
+]

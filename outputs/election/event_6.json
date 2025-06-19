@@ -1,0 +1,38 @@
+[
+  {
+    "text": "}} {{Election box hold with party link no swing | winner     = Republican Party (United States)",
+    "timestamp": "2020-11-19 16:38:12+00:00",
+    "entity": "2020 United States Senate election in Mississippi",
+    "event_id": 6
+  },
+  {
+    "text": "}} {{Election box hold with party link no swing | winner     = Republican Party (United States)",
+    "timestamp": "2020-11-19 16:59:29+00:00",
+    "entity": "2020 United States Senate election in South Dakota",
+    "event_id": 6
+  },
+  {
+    "text": "}} {{Election box hold with party link no swing | winner     = Democratic Party (United States)",
+    "timestamp": "2020-11-19 16:19:55+00:00",
+    "entity": "2020 United States Senate election in Massachusetts",
+    "event_id": 6
+  },
+  {
+    "text": "}} {{Election box winning candidate with party link no change | candidate = [[Stephanie Bice]] | party = Republican Party (United States) | votes = 158,191 | percentage = 52.1% }} {{Election box candidate with party link no change | candidate = [[Kendra Horn]] | party = Democratic Party (United States) | votes = 145,658 | percentage = 47.9 }} {{Election box total no change | votes = 303,849 | percentage = 100.0 }} {{Election box end}}  {{Election box begin no change",
+    "timestamp": "2020-11-19 07:56:29+00:00",
+    "entity": "Stephanie Bice",
+    "event_id": 6
+  },
+  {
+    "text": "}} {{Election box hold with party link no swing | winner     = Minnesota Democratic-Farmer-Labor Party",
+    "timestamp": "2020-11-19 16:34:15+00:00",
+    "entity": "2020 United States Senate election in Minnesota",
+    "event_id": 6
+  },
+  {
+    "text": "}} {{Election box hold with party link no swing | winner     = Republican Party (United States)",
+    "timestamp": "2020-11-19 00:41:44+00:00",
+    "entity": "2020 United States Senate election in Idaho",
+    "event_id": 6
+  }
+]
