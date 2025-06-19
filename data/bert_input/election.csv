@@ -1,0 +1,2152 @@
+Tweet,Time,Event,Stance
+"--- 
++++ 
+@@ -2,31 +2,31 @@
+ {{use American English|date=November 2020}}
+ {{short description|Election for the 2020 United States Senate seat in Texas}}
+ {{Current election|date=November 2020}}
+ {{notconfuse|2020 Texas State Senate election}}
+ {{Infobox election
+ | election_name = 2020 United States Senate election in Texas
+ | country = Texas
+ | type = presidential
+ | ongoing = yes
+ | previous_election = 2014 United States Senate election in Texas
+ | previous_year = 2014
+ | next_election = 2026 United States Senate election in Texas
+ | next_year = 2026
+ | election_date = November 3, 2020
+ | image1 = [[File:John Cornyn official senate portrait.jpg|x150px]]
+-| nominee1 = [[John Cornyn]]
++| nominee1 = '''[[John Cornyn]]'''
+ | party1 = Republican Party (United States)
+ | popular_vote1 = 
+ | percentage1 = 
+ | image2 = [[File:MJHegar (cropped).jpg|x150px]]
+ | nominee2 = [[MJ Hegar]]
+ | party2 = Democratic Party (United States)
+ | popular_vote2 = 
+ | percentage2 = 
+ | map_image = 
+ | map_size = 
+ | map_caption = County results
+ | title = U.S. Senator
+ | before_election = John Cornyn
+ | before_party = Republican Party (United States)
+ | after_election = 
+@@ -1997,45 +1997,45 @@
+ |13%
+ |-
+ | style=""text-align:left;""|[https://progresstexas.org/sites/default/files/June%202020%20Progress%20Texas-PPP%20Poll.pdf Public Policy Polling]
+ | June 18–19, 2020
+ | 907 (V)
+ | ±&nbsp;3%
+ | {{party shading/Republican}}|'''47%'''
+ | 45%
+ | 8%
+ |}
+ {{collapse bottom}}
+ 
+ === Results ===
+ {{Election box begin 
+ | title=2020 United States Senate election in Texas}}
+-{{Election box candidate with party link 
+- | party      = Green Party (United States)
+- | candidate  = David Collins
+- | votes      = 
+- | percentage = 
+-}}
+-{{Election box candidate with party link
++{{Election box winning candidate with party link
+  | party      = Republican Party (United States)
+  | candidate  = [[John Cornyn]] (incumbent)
+  | votes      = 
+  | percentage = 
+ }}
+ {{Election box candidate with party link 
+  | party      = Democratic Party (United States)
+  | candidate  = [[MJ Hegar]]
++ | votes      = 
++ | percentage = 
++}}
++{{Election box candidate with party link 
++ | party      = Green Party (United States)
++ | candidate  = David Collins
+  | votes      = 
+  | percentage = 
+ }}
+ {{Election box candidate with party link 
+  | party      = Libertarian Party (United States)
+  | candidate  = Kerry McKennon
+  | votes      = 
+  | percentage = 
+ }}
+ {{Election box candidate with party link 
+  | party      = Independent (United States)
+  | candidate  = Ricardo Turullols-Bonilla (write-in)
+  | votes      = 
+  | percentage = 
+ }}",2020-11-04 18:01:34+00:00,0,
+,2020-11-05 02:54:27+00:00,0,
+,2020-11-05 23:01:34+00:00,0,
+"--- 
++++ 
+@@ -506,42 +506,42 @@
+ ! style=""width:60px;""| Cynthia<br>Lummis (R)
+ ! style=""width:60px;""| Merav<br>Ben-David (D)
+ |-
+ |style=""text-align:left;""|[http://www.uwyo.edu/uw/news/2020/10/uw-survey-wyoming-voters-prefer-trump-to-biden.html University of Wyoming]
+ |October 8–28, 2020
+ |614 (LV)
+ |± 4%
+ |{{party shading/Republican}}|'''56%'''
+ |26%
+ |}
+ 
+ === Results ===
+ {{Election box begin 
+  | title      = United States Senate election in Wyoming, 2020
+ }}
++{{Election box winning candidate with party link 
++ | party      = Republican Party (United States)
++ | candidate  = [[Cynthia Lummis]]
++ | votes      = 
++ | percentage = 
++}}
+ {{Election box candidate with party link 
+  | party      = Democratic Party (United States)
+  | candidate  = [[Merav Ben-David]]
+  | votes      = 
+  | percentage = 
+ }}
+-{{Election box candidate with party link 
+- | party      = Republican Party (United States)
+- | candidate  = [[Cynthia Lummis]]
+- | votes      = 
+- | percentage = 
+-}}
+ {{Election box total
+  | votes      = 
+  | percentage = 100.00%
+ }}
+ {{Election box end}}
+ 
+ ==Notes==
+ ;Partisan clients
+ {{notelist-ua}}
+ ;Voter samples and additional candidates
+ {{notelist}}
+ 
+ ==References==
+ {{Reflist}}
+ ",2020-11-04 03:57:53+00:00,0,
+"--- 
++++ 
+@@ -2147,38 +2147,38 @@
+ | candidate = Jerry Munden
+ | votes = 
+ | percentage = 
+ }}
+ {{Election box total no change
+ | votes = 
+ | percentage = 100%
+ }}
+ {{Election box end}}
+ 
+ ====District 93====
+ Incumbent Democrat [[Carl Ray Russell]] has represented the 93rd district since 2019.
+ {{Election box begin no change
+ |title = North Carolina House of Representatives 93rd district general election, 2020}}
+ {{Election box winning candidate with party link no change
++| party = Republican Party (United States)
++| candidate = Ray Pickett
++| votes = 
++| percentage = 
++}}
++{{Election box candidate with party link no change
+ | party = Democratic Party (United States)
+ | candidate = [[Carl Ray Russell]] (incumbent)
+-| votes = 
+-| percentage = 
+-}}
+-{{Election box candidate with party link no change
+-| party = Republican Party (United States)
+-| candidate = Ray Pickett
+ | votes = 
+ | percentage = 
+ }}
+ {{Election box total no change
+ | votes = 
+ | percentage = 100%
+ }}
+ {{Election box end}}
+ 
+ ====District 94====
+ Incumbent Republican [[Jeffrey Elmore]] has represented the 94th District since 2013. <br/> Elmmore is seeking re-election unopposed. 
+ {{Election box begin no change
+ |title = North Carolina House of Representatives 94th district general election, 2020}}
+ {{Election box winning candidate with party link no change
+ | party = Republican Party (United States)",2020-11-04 17:58:56+00:00,0,
+,2020-11-05 23:02:05+00:00,0,
+"--- 
++++ 
+@@ -1,39 +1,39 @@
+ {{Distinguish|2020 Colorado Senate election}}
+ {{Current election|date=November 2020}}
+ {{Use mdy dates|date=November 2020}}
+ {{use American English|date=November 2020}}
+ {{Infobox election
+ | election_name      = 2020 United States Senate election in Colorado
+ | country            = Colorado
+ | type               = presidential
+ | ongoing            = yes
+ | previous_election  = 2014 United States Senate election in Colorado
+ | previous_year      = 2014
+ | next_election      = 2026 United States Senate election in Colorado
+ | next_year          = 2026
+ | election_date      = November 3, 2020
+ 
+-| image1             = [[File:Cory Gardner official Senate portrait (cropped).jpeg|x150px]]
+-| nominee1           = [[Cory Gardner]]
+-| party1             = Republican Party (United States)
++| image1             = [[File:John Hickenlooper June 2019.jpg|x150px]]
++| nominee1           = '''[[John Hickenlooper]]'''
++| party1             = Democratic Party (United States)
+ | popular_vote1      = 
+ | percentage1        = 
+ 
+-| image2             = [[File:John Hickenlooper June 2019.jpg|x150px]]
+-| nominee2           = [[John Hickenlooper]]
+-| party2             = Democratic Party (United States)
++| image2             = [[File:Cory Gardner official Senate portrait (cropped).jpeg|x150px]]
++| nominee2           = [[Cory Gardner]]
++| party2             = Republican Party (United States)
+ | popular_vote2      = 
+ | percentage2        = 
+ 
+ | map_image          = 
+ | map_size           = File:Blank Map of Colorado.svg
+ | map_caption        = County results
+ | title              = U.S. Senator
+ | before_election    = [[Cory Gardner]]
+ | before_party       = Republican Party (United States)
+ | after_election     = 
+ | after_party        = 
+ }}
+ {{Elections in Colorado}}
+ The '''2020 United States Senate Election in Colorado''' is being held on November 3, 2020, to elect a member of the [[United States Senate]] to represent the [[Colorado|State of Colorado]], concurrently with the [[2020 United States presidential election|2020 U.S. presidential election]], as well as [[2020 United States Senate elections|other elections]] to the United States Senate, [[2020 United States House of Representatives elections|elections]] to the [[United States House of Representatives]] and various [[2020 United States elections|state and local elections]].
+ 
+@@ -1082,59 +1082,59 @@
+ |style=""text-align:left;""| [https://www.aarp.org/content/dam/aarp/research/surveys_statistics/politics/2019/five-state-prescription-drug-survey-annotated-questionnaire-CO.doi.10.26419-2Fres.00335.002.pdf Fabrizio Ward/AARP]
+ |July 29–31, 2019
+ |600 (LV)
+ |±&nbsp;4.0%
+ | {{party shading/Republican}}| '''45%'''
+ | 39%
+ | 2%{{efn|Would not vote/would not vote for U.S. Senate with 2%}}
+ | 14%
+ |}
+ {{collapse bottom}}
+ 
+ === Results ===
+ {{Election box begin
+ | title=United States Senate election in Colorado, 2020<ref>{{cite web |url=https://www.sos.state.co.us/pubs/elections/vote/generalBallotOrder.html |work=Colorado Secretary of State |accessdate=August 19, 2020 |date=July 13, 2020 |title=2020 General Election Candidate Ballot Order}}</ref>
+ }}
++{{Election box winning candidate with party link
++ | party      = Democratic Party (United States)
++ | candidate  = [[John Hickenlooper]]
++ | votes      = 
++ | percentage =  
++}}
++{{Election box candidate with party link
++ | party      = Republican Party (United States)
++ | candidate  = [[Cory Gardner]] (incumbent)
++ | votes      =  
++ | percentage = 
++}}
+ {{Election box candidate with party link 
+  | party      = Libertarian Party (United States)
+  | candidate  = Raymon Doane
+  | votes      = 
+  | percentage = 
+ }}
+ {{Election box candidate with party link 
+  | party      = Approval Voting Party
+  | candidate  = Daniel Doyle
+  | votes      = 
+  | percentage = 
+ }}
+ {{Election box candidate with party link 
+  | party      = Unity Party of America
+  | candidate  = Stephen Evans
+  | votes      = 
+  | percentage = 
+-}}
+-{{Election box candidate with party link
+- | party      = Republican Party (United States)
+- | candidate  = [[Cory Gardner]] (incumbent)
+- | votes      =  
+- | percentage = 
+-}}
+-{{Election box candidate with party link
+- | party      = Democratic Party (United States)
+- | candidate  = [[John Hickenlooper]]
+- | votes      = 
+- | percentage =  
+ }}
+ {{Election box write-in with party link
+  | votes      =
+  | percentage =
+  | change     = 
+ }}
+ {{Election box total 
+  | votes      = 
+  | percentage = 100.00%
+ }}
+ {{Election box end}}
+ 
+ ==See also==
+ * [[2020 Colorado elections]]
+ *[[2020 United States Senate elections]]",2020-11-04 02:36:31+00:00,0,
+,2020-11-05 06:55:16+00:00,0,
+"--- 
++++ 
+@@ -552,45 +552,51 @@
+ }}
+ {{Election box candidate with party link no change
+ | party = Republican Party (United States)
+ | candidate = Craig Wooten
+ | votes = 7,169
+ | percentage = 43.2
+ }}
+ {{Election box total no change
+ | votes = 16,580
+ | percentage = 100.0
+ }}
+ {{Election box end}}
+ {{Election box begin no change
+ | title = General Election
+ }}
+-{{Election box candidate with party link no change
++{{Election box winning candidate with party link no change
+ | party = Republican Party (United States)
+ | candidate = [[Richard Cash]] ([[incumbent]])
+-| votes = 
+-| percentage = 
++| votes = 44,396
++| percentage = 74.0
+ }}
+ {{Election box candidate with party link no change
+ | party = Democratic Party (United States)
+ | candidate = Judith Polson
+-| votes = 
+-| percentage = 
+-}}
+-{{Election box total no change
+-| votes = 
+-| percentage = 
++| votes = 15,507
++| percentage = 25.9
++}}
++{{Election box candidate with party link no change
++| party = Write-in
++| candidate = 
++| votes = 55
++| percentage = 0.1
++}}
++{{Election box total no change
++| votes = 59,958
++| percentage = 100.0
+ }}
+ {{Election box end}}
+ 
+ ===District 4===
+ Incumbent [[Michael Gambrell]] ran unopposed in the Republican primary. Jose Villa ran unopposed in the Democratic primary.<ref name=""3&4""/><ref name=""generalonly"">{{cite web |title=Statehouse Report – NEW for 4/3: Who’s running and who’s not; Sanford; Hard times ahead; Elections |url=https://www.statehousereport.com/2020/04/03/who-is-running-sanford-hard-times-election/ |website=www.statehousereport.com |accessdate=June 13, 2020}}</ref>
+ {{Election box begin no change
+ | title = General Election
+ }}
+ {{Election box candidate with party link no change
+ | party = Republican Party (United States)
+ | candidate = [[Michael Gambrell]] ([[incumbent]])
+ | votes = 
+ | percentage = 
+ }}
+ {{Election box candidate with party link no change",2020-11-04 21:46:59+00:00,0,
+"--- 
++++ 
+@@ -1,49 +1,49 @@
+ {{short description|2020 elections in the US state of South Carolina}}
+ {{for|the federal election|2020 United States Senate election in South Carolina}}
+ {{Infobox election
+ | election_name      = 2020 South Carolina Senate election
+ | country            = South Carolina
+ | type               = legislative
+-| ongoing            = yes
++| ongoing            = no
+ | previous_election  = 2016 South Carolina Senate election
+ | previous_year      = 2016
+ | next_election      = 2024 South Carolina Senate election
+ | next_year          = 2024
+ | seats_for_election = All 46 seats in the [[South Carolina Senate]]
+ | majority_seats     = 24
+ | election_date      = November 3, 2020
+ 
+ | image1             = File:blank.svg
+ | image1_size        = 115
+ | leader1            = [[Harvey S. Peeler Jr.]]
+ | party1             = Republican Party (United States)
+ | leaders_seat1      = 14th
+-| seats_before1      = 27
+-| seat_change1       = {{up}} 3
++| seats_before1      = '''27'''
++| seat_change1       = {{increase}} 3
+ | seats_after1       = '''30'''
+ | popular_vote1      = 
+ | percentage1        = 
+ | swing1             = 
+ 
+ | image2             = File:blank.svg
+ | image2_size        = 115
+ | leader2            = [[Nikki G. Setzler]]
+ | party2             = Democratic Party (United States)
+ | leaders_seat2      = 26th
+ | seats_before2      = 19
+-| seat_change2       = {{down}} 3
++| seat_change2       = {{decrease}} 3
+ | seats_after2       = 16
+ | popular_vote2      = 
+ | percentage2        = 
+ | swing2             = 
+ }}
+ {{ElectionsSC}}
+ The '''2020 South Carolina State Senate elections''' took place as part of the [[wikt:biennial|biennial]] 2020 [[2020 United States elections|United States elections]]. [[South Carolina]] voters elected state senators in all of the state's 46 senate districts. State senators serve four-year terms in the [[South Carolina Senate]], with all of the seats up for election each cycle. The primary elections on June 9, 2020, determined which candidates appeared on the November 3, 2020, general election ballot.
+ 
+ Following the previous election in [[2016 South Carolina Senate election|2016]], [[South Carolina Republican Party|Republicans]] had control of the South Carolina Senate with 27 seats to [[South Carolina Democratic Party|Democrats]]' 19 seats.
+ 
+ ==Composition==
+ {|class=wikitable style=""text-align:center""
+ |- style=""vertical-align:bottom;""
+ !rowspan=3|Affiliation
+ !colspan=2|Party <div style=""font-size:80%"">(Shading indicates majority caucus)</div>",2020-11-05 03:10:56+00:00,0,
+"--- 
++++ 
+@@ -766,61 +766,67 @@
+ '''Organizations'''
+ *[[Run for Something]]<ref>https://directory.runforsomething.net/candidate/1362/velazquez-marjorie</ref>
+ }}
+ 
+ ====District 14====
+ 
+ Incumbent Democrat [[Fernando Cabrera (politician) | Fernando Cabrera]] is term-limited and cannot run for a fourth consecutive term. He has filed to run for Bronx Boro President.
+ 
+ ;Democratic primary
+ {{Election box begin no change | title=Democratic primary}}
+ {{Election box candidate with party link no change
+   |party      = Democratic Party (United States)
+   |candidate  = Adolfo Abreu
+   |votes      = 
+   |percentage =
+-  }}
++}}
+ {{Election box candidate with party link no change
+   |party      = Democratic Party (United States)
+   |candidate  = Fernando Aquino
+   |votes      = 
+   |percentage = 
+-  }}
++}}
+ {{Election box candidate with party link no change
+   |party      = Democratic Party (United States)
+   |candidate  = Haile Rivera
+   |votes      = 
+   |percentage =
+-  }}
++}}
+ {{Election box candidate with party link no change
+   |party      = Democratic Party (United States)
+   |candidate  = Pierina Sanchez
+   |votes      = 
+   |percentage =
+-  }}
++}}
++{{Election box candidate with party link no change
++  |party      = Democratic Party (United States)
++  |candidate  = Socrates Solano
++  |votes      = 
++  |percentage =
++}}
+ {{Election box candidate with party link no change
+   |party      = Democratic Party (United States)
+   |candidate  = Yudelka Tapia
+   |votes      = 
+   |percentage =
+-  }}
+-{{Election box candidate with party link no change
+-  |party      = Democratic Party (United States)
+-  |candidate  = Write-ins
+-  |votes      = 
+-  |percentage = 
+-  }}
++}}
++{{Election box candidate with party link no change
++  |party      = Democratic Party (United States)
++  |candidate  = Write-ins
++  |votes      = 
++  |percentage = 
++}}
+ {{Election box total no change
+   | votes = 
+   | percentage = 100
+ }}
+ {{Election box end}}
+ 
+ ====District 15====
+ 
+ Incumbent Democrat [[Ritchie Torres]] is term-limited and cannot run for a third consecutive term. He is the current Democratic nominee for New York's {{ushr|NY|15|15th congressional district}} and, if elected, will have to resign his seat.
+ 
+ ;Democratic primary
+ {{Election box begin no change | title=Democratic primary}}
+ {{Election box candidate with party link no change
+   |party      = Democratic Party (United States)
+   |candidate  = Ischia Bravo",2020-11-04 21:53:02+00:00,0,
+"--- 
++++ 
+@@ -42,23 +42,24 @@
+ == Personal life ==
+ Leger Fernandez and her husband, Luis Fernandez, have three sons.<ref>{{Cite web|date=May 23, 2020|title=Teresa Leger Fernandez For NM US Congress In District Three|url=https://retakeourdemocracy.org/teresa-leger-fernandez-for-nm-us-congress-in-district-three/|access-date=June 3, 2020|website=Retake Our Democracy|language=en-US}}</ref> Leger Fernandez and her husband have since divorced.
+ 
+ == References ==
+ {{reflist}}
+ 
+ == External links ==
+ * [https://www.teresaforall.com/ Campaign website]
+ * {{Ballotpedia}}
+ {{CongLinks|votesmart=189882|fec=H0NM03102}}
+ 
+ {{authority control}}
+ 
+ {{DEFAULTSORT:Leger Fernandez, Teresa}}
+ [[Category:20th-century births]]
++[[Category:Female members of the United States House of Representatives]]
+ [[Category:Living people]]
+ [[Category:New Mexico Democrats]]
+ [[Category:New Mexico lawyers]]
+ [[Category:People from Las Vegas, New Mexico]]
+ [[Category:Stanford Law School alumni]]
+ [[Category:Yale University alumni]]
+ [[Category:Women in New Mexico politics]]
+ [[Category:San Miguel County, New Mexico]]",2020-11-06 05:31:59+00:00,1,
+"--- 
++++ 
+@@ -86,22 +86,23 @@
+ {{s-bef|before=[[Vincent Fort]]}}
+ {{s-ttl|title=Member of the [[Georgia State Senate]]<br>from the 39th district|years=2017–present}}
+ {{s-inc}}
+ {{s-end}}
+ 
+ {{Democratic State Chairs}}
+ {{Georgia State Senators}}
+ {{Democratic Party of Georgia}}
+ {{authority control}}
+ 
+ {{DEFAULTSORT:Williams, Nikema}}
+ [[Category:1978 births]]
+ [[Category:21st-century American women politicians]]
+ [[Category:21st-century American politicians]]
+ [[Category:African-American state legislators in Georgia (U.S. state)]]
++[[Category:Female members of the United States House of Representatives]]
+ [[Category:Georgia (U.S. state) Democrats]]
+ [[Category:Georgia (U.S. state) state senators]]
+ [[Category:Living people]]
+ [[Category:People from Lee County, Alabama]]
+ [[Category:State political party chairs of Georgia (U.S. state)]]
+ [[Category:Talladega College alumni]]
+ [[Category:Women state legislators in Georgia (U.S. state)]]",2020-11-06 05:33:31+00:00,1,
+"--- 
++++ 
+@@ -14,31 +14,31 @@
+ |district1     = 22nd
+ |term_start1   = November 18, 2014
+ |term_end1     = 
+ |predecessor1  = Rob Johnson
+ |successor1    =  
+ |birth_name   = Stephanie Asady
+ |birth_date    = {{birth date and age|1973|11|11}}
+ |birth_place   = [[Oklahoma City]], [[Oklahoma]], U.S.
+ |death_date    = 
+ |death_place   = 
+ |party         = [[Republican Party (United States)|Republican]]
+ |education     = [[Oklahoma State University–Stillwater|Oklahoma State University, Stillwater]] ([[Bachelor of Science|BS]])
+ |spouse        =   Geoffrey Bice
+ |website       = {{url|https://www.biceforcongress.com/|Campaign website}}    
+ }}
+-'''Stephanie Bice''' (born November 11, 1973) is a U.S. politician; the first Iranian American elected to Congress.<ref>{{cite web
++'''Stephanie Bice''' (née '''Asady'''; born November 11, 1973) is an American politician, the first Iranian American elected to Congress.<ref>{{cite web
+  | last = Bice
+  | first = Stephanie
+  | title =  Stephanie Bice Candidate U.S. House of Representatives (R-5th/OK)
+  | url = http://www.iranianamericanpac.org/stephanie-bice.aspx
+  | access-date = November 5, 2020 }}</ref> Her father was an Iranian immigrant named Hosein Asady, also known as Joe Asady.<ref>{{cite web
+  | last = Rand
+  | first = Ayan
+  | title =  Ayn Rand Was Right
+  | url = https://ymlp.com/zGVCfu
+  | access-date = November 5, 2020 }}</ref> She has served in the [[Oklahoma Senate]] from the 22nd district since 2014.<ref>{{cite web|url=https://newsok.com/article/4949182/on-the-ballot-oklahoma-senate-district-22 |title=On the ballot: Oklahoma Senate District 22 |publisher=Newsok.com |date=June 21, 2014 |accessdate=December 28, 2018}}</ref><ref>{{cite web|url=http://www.oksenate.gov/Senators/biographies/bice_bio.aspx |title=Senator Stephanie Bice - District 22 |publisher=Oksenate.gov |date= |accessdate=December 28, 2018}}</ref> She is the Representative-elect for {{ushr|OK|5}} after defeating incumbent Democrat [[Kendra Horn]] in the [[2020 United States House of Representatives elections in Oklahoma|2020 election]].<ref>{{Cite news|title=Live: Oklahoma State Primary Election Results 2020|work=The New York Times|url=https://www.nytimes.com/interactive/2020/06/30/us/elections/results-oklahoma-primary-elections.html|access-date=July 1, 2020|issn=0362-4331}}</ref>
+ 
+ ==Education and early career==
+ Born in [[Oklahoma City]], Bice graduated from [[Oklahoma State University–Stillwater|Oklahoma State University]] with a bachelor's degree in marketing and a minor in international business.<ref>{{cite news |last1=Snyder |first1=Dan |title=Meet the candidate: Stephanie Bice (R-OK5) |url=https://okcfox.com/news/election/meet-the-candidate-stephanie-bice-r-ok5 |work=KOKH |date=June 17, 2020}}</ref>
+ 
+ Bice worked for eight years in financial oversight, business strategy and marketing for her family's technology company in [[Oklahoma City|Oklahoma City, Oklahoma]]. She later helped lead a boutique digital marketing agency in Oklahoma City as vice president of business development.<ref>{{cite news |last1=Forman |first1=Carmen |title=Outlook 2020: Bice played a key role in bringing Oklahoma into the modern liquor era |url=https://oklahoman.com/article/5658428/outlook-2020-bice-played-a-key-role-in-bringing-oklahoma-into-the-modern-liquor-era |accessdate=October 13, 2020 |work=Oklahoman.com |date=April 12, 2020}}</ref><ref>{{cite news |title=Bice announces bid |url=https://yukonprogressnews.com/2019/04/26/bice-announces-bid/ |accessdate=October 13, 2020 |work=Yukon Progress |date=April 26, 2019}}</ref>",2020-11-06 05:14:56+00:00,1,
+"--- 
++++ 
+@@ -129,18 +129,19 @@
+ {{s-bef|before=[[Gil Kahele]]}}
+ {{s-ttl|title=Member of the [[Hawaii Senate]]<br>from the 1st district|years=2016–present}}
+ {{s-inc}}
+ {{s-end}}
+ 
+ {{Hawaii State Senators}}
+ {{Authority control}}
+ 
+ {{DEFAULTSORT:Kahele, Kaiali'i}}
+ [[Category:1974 births]]
+ [[Category:Hawaii Democrats]]
+ [[Category:Hawaii National Guard personnel]]
+ [[Category:Hawaii Rainbow Warriors volleyball players]]
+ [[Category:Hawaii state senators]]
+ [[Category:Living people]]
++[[Category:Native American members of the United States Congress]]
+ [[Category:Native Hawaiian politicians]]
+ [[Category:People from Hilo, Hawaii]]
+ [[Category:University of Hawaii at Manoa alumni]]",2020-11-06 04:55:13+00:00,1,
+"--- 
++++ 
+@@ -77,22 +77,24 @@
+ *[http://www.nmlegis.gov/lcs/legislator_details.aspx?SPONCODE=HHERY Official page] at the [[New Mexico Legislature]]
+ *{{CongLinks | congbio = | votesmart = 104052 | fec = | congress = }}
+ *[http://ballotpedia.org/Yvette_Herrell Yvette Herrell] at [[Ballotpedia]]
+ *[http://www.followthemoney.org/database/uniquecandidate.phtml?uc=141475 Yvette Herrell] at the National Institute on Money in State Politics
+ 
+ {{Authority control}}
+ 
+ {{DEFAULTSORT:Herrell, Yvette}}
+ 
+ [[Category:Living people]]
+ [[Category:21st-century American politicians]]
+ [[Category:21st-century American women politicians]]
+ [[Category:Candidates in the 2018 United States elections]]
+ [[Category:Cherokee people]]
+ [[Category:Members of the New Mexico House of Representatives]]
++[[Category:Native American members of the United States Congress]]
++[[Category:Native American politicians]]
+ [[Category:New Mexico Republicans]]
+ [[Category:People from Alamogordo, New Mexico]]
+ [[Category:Women state legislators in New Mexico]]
+ [[Category:People from Ruidoso, New Mexico]]
+ [[Category:Businesspeople from New Mexico]]
+ [[Category:20th-century American businesswomen]]
+ [[Category:American real estate brokers]]",2020-11-06 04:54:48+00:00,1,
+"--- 
++++ 
+@@ -5,30 +5,31 @@
+ | image = YvetteHerrell.jpg
+ | state = [[New Mexico]]
+ | district = [[New Mexico's 2nd congressional district|2nd]]
+ | succeeding = [[Xochitl Torres Small]]
+ | term_start = January 3, 2021
+ | state_house1 = New Mexico
+ | district1 = 51st
+ | term_start1 = January 18, 2011
+ | term_end1 = January 15, 2019
+ | predecessor1 = [[Gloria Vaughn]]
+ | successor1 = [[Rachel A. Black]]
+ | birth_date = 
+ | birth_place = [[Ruidoso, New Mexico]], U.S.
+ | death_date = 
+ | death_place = 
++| religião: Christian
+ | party = [[Republican Party (United States)|Republican]]
+ | education = [[ITT Technical Institute]]
+ }}
+ 
+ '''Yvette Herrell'''<ref name=""PVS"">{{Cite web |title=Yvette Herrell's Biography |url=https://justfacts.votesmart.org/candidate/biography/121681/yvette-herrell |access-date=April 3, 2020 |publisher=[[Project Vote Smart]]}}</ref> is an [[United States|American]] politician, businesswoman, and real estate agent who is the Representative-elect for [[New Mexico's 2nd congressional district]]. She previously served as a member of the [[New Mexico House of Representatives]] for District 51 from January 18, 2011 until January 15, 2019.<ref name=""NML"">{{Cite web |title=Representative Yvette Herrell (R) |url=http://www.nmlegis.gov/lcs/legislator_details.aspx?SPONCODE=HHERY |access-date=February 12, 2014 |publisher=[[New Mexico Legislature]] |location=[[Santa Fe, New Mexico]]}}</ref>
+ 
+ Herrell was the Republican nominee for [[New Mexico's 2nd congressional district]] in the 2018 elections. She was defeated by [[Democratic Party (United States)|Democrat]] [[Xochitl Torres Small]]. Herrell again became the Republican nominee for the [[New Mexico's 2nd congressional district|2nd district]] in 2020, defeating [[Xochitl Torres Small|Torres Small]] in the November general election.<ref>{{Cite news|last=Edmondson|first=Catie|date=2020-11-04|title=Yvette Herrell Ousts Xochitl Torres Small From New Mexico House Seat|language=en-US|work=The New York Times|url=https://www.nytimes.com/2020/11/04/us/politics/new-mexico-yvette-herrell.html|access-date=2020-11-04|issn=0362-4331}}</ref> She is the third Native American woman elected to Congress, the second Native woman from New Mexico and the first Republican Native Woman.
+ 
+ == Early life and education ==
+ Born in [[Ruidoso, New Mexico]], Herrell is a member of the [[Cherokee Nation]].<ref name=""native"">{{Cite web |last=Olmstead |first=Mallory |date=November 6, 2018 |title=Two Native American Women Become First Elected to Congress |url=https://slate.com/news-and-politics/2018/11/sharice-davids-deb-haaland-first-native-american-women-elected-congress.html |website=[[Slate (magazine)|Slate]]}}</ref><ref>[http://tn--npta2.www3.capwiz.com/bio/id/65799]</ref> After attending Cloudcroft High School, Herrell earned a legal secretary diploma from the [[ITT Technical Institute]] School of Business in [[Boise, Idaho]].<ref>{{Cite web |last=Candidate |first=The |title=2nd Congressional District candidate Yvette Herrell |url=https://www.abqjournal.com/1167038/2nd-congressional-district-candidate-yvette-herrell.html |access-date=2020-06-03 |website=www.abqjournal.com |language=en-US}}</ref><ref>{{Cite web |last=Candidate |first=The |title=Q&A: Congressional District 2 Yvette Herrell |url=https://www.abqjournal.com/1451187/qa-congressional-district-2-yvette-herrell.html |access-date=2020-06-03 |website=www.abqjournal.com |language=en-US}}</ref><ref>{{Cite web |last=Barbati |first=Duane |title=Yvette Herrell running for Congressional seat vacated by Pearce |url=https://www.alamogordonews.com/story/news/local/community/2017/07/12/yvette-herrell-running-congressional-seat-vacated-pearce/470703001/ |access-date=2020-06-05 |website=Alamogordo Daily News |language=en}}</ref><ref>{{Cite web |last=Devine |first=Jacqueline |title=Incumbent Herrell looking to retain state District 51 seat |url=https://www.alamogordonews.com/story/news/politics/elections/2016/10/20/incumbent-herrell-looking-retain-state-district-51-seat/92480262/ |access-date=2020-06-05 |website=Alamogordo Daily News |language=en}}</ref>
+ 
+ == Career ==
+ Since graduating from the [[ITT Technical Institute]], Herrell has worked as a realtor in [[Alamogordo, New Mexico]].<ref>{{Cite web |title=Yvette Herrell |url=https://ballotpedia.org/Yvette_Herrell |access-date=2020-06-05 |website=Ballotpedia |language=en}}</ref><ref>{{Cite web |title=YVETTE HERRELL {{!}} New Mexico REALTORS® |url=https://www.newmexicohomesearch.com/agents/yvette-herrell/ |access-date=2020-06-05 |website=www.newmexicohomesearch.com}}</ref>
+ 
+ === New Mexico House of Representatives ===",2020-11-06 05:06:09+00:00,1,
+"--- 
++++ 
+@@ -1,31 +1,31 @@
+ {{Use American English|date=July 2020}}
+ {{short description|American politician|bot=PearBOT 5}}
+ {{Infobox officeholder
+ | name = Yvette Herrell
+ | image = YvetteHerrell.jpg
+ | state = [[New Mexico]]
+ | district = [[New Mexico's 2nd congressional district|2nd]]
+ | succeeding = [[Xochitl Torres Small]]
+ | term_start = January 3, 2021
+ | state_house1 = New Mexico
+ | district1 = 51st
+ | term_start1 = January 18, 2011
+ | term_end1 = January 15, 2019
+ | predecessor1 = [[Gloria Vaughn]]
+ | successor1 = [[Rachel A. Black]]
+-| Religion = [[Christian]]
++| birth_date = 
+ | birth_place = [[Ruidoso, New Mexico]], U.S.
+ | death_date = 
+ | death_place = 
+ | party = [[Republican Party (United States)|Republican]]
+ | education = [[ITT Technical Institute]]
+ }}
+ 
+ '''Yvette Herrell'''<ref name=""PVS"">{{Cite web |title=Yvette Herrell's Biography |url=https://justfacts.votesmart.org/candidate/biography/121681/yvette-herrell |access-date=April 3, 2020 |publisher=[[Project Vote Smart]]}}</ref> is an [[United States|American]] politician, businesswoman, and real estate agent who is the Representative-elect for [[New Mexico's 2nd congressional district]]. She previously served as a member of the [[New Mexico House of Representatives]] for District 51 from January 18, 2011 until January 15, 2019.<ref name=""NML"">{{Cite web |title=Representative Yvette Herrell (R) |url=http://www.nmlegis.gov/lcs/legislator_details.aspx?SPONCODE=HHERY |access-date=February 12, 2014 |publisher=[[New Mexico Legislature]] |location=[[Santa Fe, New Mexico]]}}</ref>
+ 
+ Herrell was the Republican nominee for [[New Mexico's 2nd congressional district]] in the 2018 elections. She was defeated by [[Democratic Party (United States)|Democrat]] [[Xochitl Torres Small]]. Herrell again became the Republican nominee for the [[New Mexico's 2nd congressional district|2nd district]] in 2020, defeating [[Xochitl Torres Small|Torres Small]] in the November general election.<ref>{{Cite news|last=Edmondson|first=Catie|date=2020-11-04|title=Yvette Herrell Ousts Xochitl Torres Small From New Mexico House Seat|language=en-US|work=The New York Times|url=https://www.nytimes.com/2020/11/04/us/politics/new-mexico-yvette-herrell.html|access-date=2020-11-04|issn=0362-4331}}</ref> She is the third Native American woman elected to Congress, the second Native woman from New Mexico and the first Republican Native Woman.
+ 
+ == Early life and education ==
+ Born in [[Ruidoso, New Mexico]], Herrell is a member of the [[Cherokee Nation]].<ref name=""native"">{{Cite web |last=Olmstead |first=Mallory |date=November 6, 2018 |title=Two Native American Women Become First Elected to Congress |url=https://slate.com/news-and-politics/2018/11/sharice-davids-deb-haaland-first-native-american-women-elected-congress.html |website=[[Slate (magazine)|Slate]]}}</ref><ref>[http://tn--npta2.www3.capwiz.com/bio/id/65799]</ref> After attending Cloudcroft High School, Herrell earned a legal secretary diploma from the [[ITT Technical Institute]] School of Business in [[Boise, Idaho]].<ref>{{Cite web |last=Candidate |first=The |title=2nd Congressional District candidate Yvette Herrell |url=https://www.abqjournal.com/1167038/2nd-congressional-district-candidate-yvette-herrell.html |access-date=2020-06-03 |website=www.abqjournal.com |language=en-US}}</ref><ref>{{Cite web |last=Candidate |first=The |title=Q&A: Congressional District 2 Yvette Herrell |url=https://www.abqjournal.com/1451187/qa-congressional-district-2-yvette-herrell.html |access-date=2020-06-03 |website=www.abqjournal.com |language=en-US}}</ref><ref>{{Cite web |last=Barbati |first=Duane |title=Yvette Herrell running for Congressional seat vacated by Pearce |url=https://www.alamogordonews.com/story/news/local/community/2017/07/12/yvette-herrell-running-congressional-seat-vacated-pearce/470703001/ |access-date=2020-06-05 |website=Alamogordo Daily News |language=en}}</ref><ref>{{Cite web |last=Devine |first=Jacqueline |title=Incumbent Herrell looking to retain state District 51 seat |url=https://www.alamogordonews.com/story/news/politics/elections/2016/10/20/incumbent-herrell-looking-retain-state-district-51-seat/92480262/ |access-date=2020-06-05 |website=Alamogordo Daily News |language=en}}</ref>
+ 
+ == Career ==",2020-11-06 05:15:28+00:00,1,
+"--- 
++++ 
+@@ -59,24 +59,26 @@
+ {{s-off}}
+ {{s-bef|before=[[Bill Baarsma]]}}
+ {{s-ttl|title=Mayor of [[Tacoma, Washington|Tacoma]]|years=2010–2018}}
+ {{s-aft|after={{nowrap|[[Victoria Woodards]]}}}}
+ {{s-end}}
+ 
+ {{authority control}}
+ 
+ {{DEFAULTSORT:Strickland, Marilyn}}
+ [[Category:1962 births]]
+ [[Category:21st-century American politicians]]
+ [[Category:21st-century American women politicians]]
+ [[Category:African-American mayors]]
+ [[Category:African-American people in Washington (state) politics]]
+ [[Category:African-American women in politics]]
++[[Category:American mayors of Korean descent]]
++[[Category:American politicians of Korean descent]]
++[[Category:American women of Korean descent in politics]]
++[[Category:Clark Atlanta University alumni]]
+ [[Category:Living people]]
+ [[Category:Mayors of Tacoma, Washington]]
++[[Category:Members of the United States Congress of Asian descent]]
++[[Category:People from Seoul]]
+ [[Category:Washington (state) Democrats]]
+ [[Category:Women mayors of places in Washington (state)]]
+ [[Category:University of Washington alumni]]
+-[[Category:Clark Atlanta University alumni]]
+-[[Category:People from Seoul]]
+-[[Category:American women of Korean descent in politics]]
+-[[Category:American mayors of Korean descent]]",2020-11-06 05:00:31+00:00,1,
+"--- 
++++ 
+@@ -25,39 +25,30 @@
+ | party1 = Republican Party (United States)
+ | home_state1 = [[Florida]]
+ | running_mate1 = [[Mike Pence]]
+ | electoral_vote1 =
+ | popular_vote1 = 108,231
+ | percentage1 = 62.9%
+ 
+ | image2 = Joe Biden 2013.jpg
+ | nominee2 = [[Joe Biden]]
+ | party2 = Democratic Party (United States)
+ | home_state2 = [[Delaware]]
+ | running_mate2 = [[Kamala Harris]]
+ | electoral_vote2 =
+ | popular_vote2 = 56,849
+ | percentage2 = 33.0%
+-<!--SEE TALK PAGE CONSENSUS NOTE BEFORE ADDING OR REMOVING CANDIDATES. Inclusion criteria have been discussed, and ballot access is not a factor.-->
+-| image3 = Jo Jorgensen portrait 3 (crop 1).jpg
+-| nominee3 = [[Jo Jorgensen]]
+-| party3 = Libertarian Party (United States)
+-| home_state3 = [[South Carolina]]
+-| running_mate3 = [[Spike Cohen]]
+-| electoral_vote3 =
+-| popular_vote3 = 4,557
+-| percentage3 = 2.6%
+ 
+ | title = President
+ | before_election = [[Donald Trump]]
+ | before_party = Republican Party (United States)
+ | after_election = 
+ | after_party = 
+ }}
+ {{ElectionsAK}}
+ The '''2020 United States presidential election in Alaska''' was held on Tuesday, November 3, 2020, as part of the [[2020 United States elections]] in which all 50 states plus the [[Washington, D.C.|District of Columbia]] will participate.<ref>{{Cite news|url=https://www.independent.co.uk/news/world/americas/us-elections-key-dates-midterms-2020-presidential-house-congress-senate-a8472821.html|title=US elections key dates: When are the 2018 midterms and the 2020 presidential campaign?|last=Kelly|first=Ben|date=August 13, 2018|work=[[The Independent]]|access-date=January 3, 2019|archive-date=January 3, 2019|archive-url=https://web.archive.org/web/20190103202343/https://www.independent.co.uk/news/world/americas/us-elections-key-dates-midterms-2020-presidential-house-congress-senate-a8472821.html|url-status=live}}</ref> [[Alaska]] voters will choose electors to represent them in the [[United States Electoral College|Electoral College]] via a popular vote. The state of Alaska has 3 electoral votes in the Electoral College.<ref>{{cite web|url=https://www.archives.gov/federal-register/electoral-college/allocation.html|title=Distribution of Electoral Votes|website=[[National Archives and Records Administration]]|access-date=January 3, 2019|archive-date=January 9, 2019|archive-url=https://web.archive.org/web/20190109144218/https://www.archives.gov/federal-register/electoral-college/allocation.html|url-status=live}}</ref>
+ 
+ By the time that the primary elections were held in Alaska on April 10, 2020, incumbent President [[Donald Trump]] was already the Republican Party's [[presumptive nominee]], being the only viable declared major candidate left. On the Democratic Party's side, former [[Vice President of the United States|Vice President]] [[Joe Biden]] became the presumptive nominee on April 8, 2020 after [[United States Senate|Senator]] [[Bernie Sanders]] dropped out. The Libertarian Party, which received over 5% of the vote in [[2016 United States presidential election in Alaska|2016]], has nominated [[Jo Jorgensen]].
+ 
+ ==Primary elections==
+ ===Canceled Republican primary===
+ {{see|2020 Republican Party presidential primaries#Cancellation of state caucuses or primaries}}",2020-11-07 06:55:54+00:00,2,
+"--- 
++++ 
+@@ -26,40 +26,30 @@
+ | party1 = Republican Party (United States)
+ | home_state1 = [[Florida]]
+ | running_mate1 = '''[[Mike Pence]]'''
+ | electoral_vote1 = '''7'''
+ | popular_vote1 = '''1,018,870'''
+ | percentage1 = '''65.4%'''
+ 
+ | image2 = Joe Biden 2013.jpg
+ | nominee2 = [[Joe Biden]]
+ | party2 = Democratic Party (United States)
+ | home_state2 = [[Delaware]]
+ | running_mate2 = [[Kamala Harris]]
+ | electoral_vote2 = 0
+ | popular_vote2 = 503,289
+ | percentage2 = 32.3%
+-<!--SEE TALK PAGE CONSENSUS NOTE BEFORE ADDING OR REMOVING CANDIDATES. Inclusion criteria have been discussed, and ballot access is not a factor.-->
+-| image3 = Jo Jorgensen portrait 3 (crop 1).jpg
+-| nominee3 = [[Jo Jorgensen]]
+-| party3 = Libertarian Party (United States)
+-| home_state3 = [[South Carolina]]
+-| running_mate3 = [[Spike Cohen]]
+-| electoral_vote3 = 0
+-| popular_vote3 = 24,686
+-| percentage3 = 1.6%
+-
+ 
+ | map_image = Oklahoma Presidential Election Results 2020.svg
+ | map_size = 400px
+ | map_caption = County Results
+ 
+ {{col-start}}
+ '''Trump''' 
+ {{legend|#F2B3BE|40–50%}} 
+ {{legend|#E27F90|50–60%}} 
+ {{legend|#CC2F4A|60–70%}} 
+ {{legend|#D40000|70–80%}} 
+ {{legend|#AA0000|80–90%}} 
+ {{legend|#800000|90-100%}}
+ {{col-end}}
+ | title = President",2020-11-07 06:53:22+00:00,2,
+"--- 
++++ 
+@@ -26,39 +26,30 @@
+ | party1 = Democratic Party (United States)
+ | home_state1 = [[Delaware]]
+ | running_mate1 = '''[[Kamala Harris]]'''
+ | electoral_vote1 = '''9'''
+ | popular_vote1 =  '''1,703,674'''
+ | percentage1 = '''55.1%'''
+ 
+ | image2 = Donald Trump official portrait (cropped).jpg
+ | nominee2 = [[Donald Trump]]
+ | party2 = Republican Party (United States)
+ | home_state2 = [[Florida]]
+ | running_mate2 = [[Mike Pence]]
+ | electoral_vote2 = 0
+ | popular_vote2 = 1,305,500
+ | percentage2 = 42.3%
+-<!--SEE TALK PAGE CONSENSUS NOTE BEFORE ADDING OR REMOVING CANDIDATES. Inclusion criteria have been discussed, and ballot access is not a factor.-->
+-| image3 = Jo Jorgensen portrait 3 (crop 1).jpg
+-| nominee3 = [[Jo Jorgensen]]
+-| party3 = Libertarian Party (United States)
+-| home_state3 = [[South Carolina]]
+-| running_mate3 = [[Spike Cohen]]
+-| electoral_vote3 = 0
+-| popular_vote3 = 48,149
+-| percentage3 = 1.6%
+ 
+ | title = President
+ | before_election = [[Donald Trump]]
+ | before_party = Republican Party (United States)
+ | after_election = 
+ | after_party = 
+ }}
+ {{ElectionsCO}}
+ The '''2020 United States presidential election in Colorado''' was held on Tuesday, November 3, 2020, as part of the [[2020 United States presidential election]] in which all 50 states plus the [[Washington, D.C.|District of Columbia]] will participate.<ref>{{Cite news|url=https://www.independent.co.uk/news/world/americas/us-elections-key-dates-midterms-2020-presidential-house-congress-senate-a8472821.html|title=US elections key dates: When are the 2018 midterms and the 2020 presidential campaign?|last=Kelly|first=Ben|date=August 13, 2018|work=[[The Independent]]|access-date=January 3, 2019}}</ref> [[Colorado]] voters will choose electors to represent them in the [[United States Electoral College|Electoral College]] via a popular vote. The state of Colorado has 9 electoral votes in the Electoral College.<ref>{{Cite web|url=https://www.archives.gov/federal-register/electoral-college/allocation.html|title=Distribution of Electoral Votes|website=[[National Archives and Records Administration]]|access-date=January 3, 2019}}</ref>
+ 
+ The [[Democratic National Committee]] proposed [[Denver]] as a finalist to host the [[2020 Democratic National Convention]], but the city declined, citing conflicts.<ref>{{Cite news|url=https://fox6now.com/2018/06/20/city-of-milwaukee-named-as-1-of-3-finalists-to-host-2020-dnc-convention/|title=City of Milwaukee 1 of 3 finalists to host 2020 Democratic National Convention|date=2018-06-20|work=FOX6Now.com|access-date=2018-07-01|language=en-US}}</ref> The DNC ultimately decided to hold the convention in [[Milwaukee|Milwaukee, Wisconsin]].
+ 
+ ==Primary elections==
+ The primary elections were held on [[Super Tuesday]], March 3, 2020.
+ ",2020-11-07 06:57:50+00:00,2,
+"--- 
++++ 
+@@ -33,31 +33,31 @@
+ | seat_change2       = 
+ | popular_vote2      = 
+ | percentage2        = 
+ | swing2             = 
+ | map_image          = 
+ | map_size           = 
+ | map_caption        =
+ | title              = President pro tempore
+ | before_election    = [[David McBride]]
+ | before_party       = Delaware Democratic Party
+ | after_election     =
+ | after_party        =
+ }}
+ {{Elections in Delaware}}
+ 
+-The '''2020 Delaware Senate election''' was held on November 3, 2020, concurrently with [[2018 Delaware House of Representatives election|the elections]] for the [[Connecticut House of Representatives]], to elect members to the [[Connecticut General Assembly]]. 11 of the 21 seats in the [[Delaware Senate]] are up for election.<ref name=""ballotpedia-election"">https://ballotpedia.org/Delaware_State_Senate_elections,_2020</ref> Primary elections were held on September 16, 2020.<ref name=""nyt-primary"">https://www.nytimes.com/interactive/2020/09/15/us/elections/results-delaware-primary-elections.html</ref>
++The '''2020 Delaware Senate election''' was held on November 3, 2020, concurrently with the elections for the [[Delaware House of Representatives]], to elect members to the [[Delaware General Assembly]]. 11 of the 21 seats in the [[Delaware Senate]] are up for election.<ref name=""ballotpedia-election"">https://ballotpedia.org/Delaware_State_Senate_elections,_2020</ref> Primary elections were held on September 16, 2020.<ref name=""nyt-primary"">https://www.nytimes.com/interactive/2020/09/15/us/elections/results-delaware-primary-elections.html</ref>
+ 
+ ==Retirements==
+ One incumbent, Democrat [[Harris McDowell]], did not run for re-election in 2020.<ref name=""ballotpedia-election"" />
+ 
+ ==Incumbents defeated==
+ ===In primary elections===
+ One incumbent, Democratic President pro tempore [[David McBride]], was defeated in the primary.<ref name=""nyt-primary"" /><ref name=""mcbride-loses-primary"">{{cite web|url=https://apnews.com/e11e88f535a368eda53c5f5cb8caeb25|title=Progressive newcomer defeats Delaware state Senate leader|website=[[Associated Press]]|first=Randall|last=Chase|date=September 16, 2020}}</ref>
+ 
+ ==Results summary==
+ ===Statewide===
+ {| class=""wikitable"" style=""font-size:100%; text-align:right;""
+ |-
+ ! colspan=2|Party !! <small>Candi-<br>dates</small> !! Votes !! % !! Seats || +/–
+ |-
+ | style=""background:{{Delaware Democratic Party/meta/color}};""| || align=left|[[Delaware Democratic Party|Democratic Party]] || 9 || <!--Popular vote--> || <!--Percentage--> || <!--Seats after--> || <!--{{Increase/Steady/Decrease}}Seats gained-->
+@@ -350,20 +350,20 @@
+ }}
+ {{Election box end}}
+ 
+ == References ==
+ {{Reflist}}
+ 
+ ==External links==
+ * {{citation |author= [[Government Documents Round Table]] of the American Library Association |work=Voting & Elections Toolkits |url= https://godort.libguides.com/votingtoolkit/Delaware |title= Delaware }}
+ * {{citation |work=[[Vote.org]] |location=Oakland, CA |url= https://www.vote.org/state/delaware/ |title= Delaware: Election Tools, Deadlines, Dates, Rules, and Links }}
+ * {{cite web |title= League of Women Voters of Delaware |url= https://www.lwv.org/local-leagues/find-local-league }} (State affiliate of the U.S. [[League of Women Voters]])
+ * {{Ballotpedia|Delaware|Delaware}}
+ 
+ {{2020 United States elections}}
+ {{Delaware}}
+ 
+-{{delware-election-stub}}
++{{delaware-election-stub}}
+ 
+ [[Category:2020 Delaware elections]]
+ [[Category:Delaware Senate elections|2020]]
+ [[Category:2020 state legislature elections in the United States|Delaware Senate]]",2020-11-08 17:34:19+00:00,3,
+"--- 
++++ 
+@@ -105,32 +105,31 @@
+ | nowrap | January 3, 2009 –<br/>June 30, 2017
+ | {{USCongressOrdinal|111|115}}
+ | [[2008 United States House of Representatives elections in Utah|First elected in 2008]].<br/>[[2010 United States House of Representatives elections in Utah|Re-elected in 2010]].<br/>[[2012 United States House of Representatives elections in Utah|Re-elected in 2012]].<br/>[[2014 United States House of Representatives elections in Utah|Re-elected in 2014]].<br/>[[2016 United States House of Representatives elections in Utah|Re-elected in 2016]].<br>Resigned.<ref>{{Cite news|url=http://www.sltrib.com/home/5310113-155/utah-sets-condensed-special-election-calendar|title=Utah sets condensed special election calendar – and it's already started|last=Tribune|first=Courtney Tanner And Lee Davidson The Salt Lake|work=The Salt Lake Tribune|access-date=May 22, 2017|language=en-US}}</ref>
+ 
+ |-
+ | colspan=2 | Vacant
+ | nowrap | June 30, 2017 –<br>November 7, 2017
+ | {{USCongressOrdinal|115}}
+ |
+ 
+ |-
+ | align=left | [[File:John Curtis portrait 115th Congress (cropped2).jpg|100px]]<br/>'''[[John Curtis (Utah politician)|John Curtis]]'''
+ | {{Party shading/Republican}} | [[Republican Party (United States)|Republican]]
+ | nowrap | November 7, 2017 –<br>present
+ | {{USCongressOrdinal|115|Present}}
+-| [[2017 Utah's 3rd congressional district special election|Elected to finish Chaffetz's term]].<br/>[[2018 United States House of Representatives elections in Utah#District 3|Re-elected in 2018]].
+-[[2020 United States House of Representatives elections|Re-elected in 2020.]]
++| [[2017 Utah's 3rd congressional district special election|Elected to finish Chaffetz's term]].<br/>[[2018 United States House of Representatives elections in Utah#District 3|Re-elected in 2018]].<br>[[2020 United States House of Representatives elections in Utah#District 3|Re-elected in 2020.]]
+ 
+ |}
+ 
+ ==Election results==
+ ===1982===
+ {{Election box begin no change
+  | title      = [[1982 United States House of Representatives elections in Utah]], 3rd district<ref>{{cite web | url=http://clerk.house.gov/member_info/electionInfo/1982election.pdf | title=Statistics of the Congressional Election of November 2, 1982 | author=[[Clerk of the United States House of Representatives|Clerk of the House of Representatives]] | date=May 5, 1983 | publisher=[[U.S. Government Printing Office]]}}</ref>
+ }}
+ {{Election box winning candidate with party link no change
+  | party      = Republican Party (US)
+  | candidate  = [[Howard C. Nielson]]
+  | votes      = 108,478
+  | percentage = 76.86
+ }}
+ {{Election box candidate with party link no change",2020-11-08 10:10:30+00:00,3,
+"--- 
++++ 
+@@ -1090,43 +1090,43 @@
+ |style=""text-align:left;""|[https://www.politico.com/f/?id=00000171-811c-ddd3-a173-f79c54e50000 North Star Opinion Research/Politico (R)]
+ |March 15–17, 2020
+ |400 (RV)
+ |± 4.9%
+ |'''46%'''
+ |'''46%'''
+ | – 
+ |}
+ {{collapse bottom}}
+ 
+ ====Results====
+ {{Election box begin no change
+ | title = Georgia's 6th congressional district, 2020
+ }}
+ {{Election box candidate with party link no change
+-| candidate  = [[Lucy McBath]] (incumbent)
++| candidate  = '''[[Lucy McBath]]''' (incumbent)
+ | party      = Democratic Party (United States)
+-| votes      = 
+-| percentage = 
++| votes      = '''216,389'''
++| percentage = '''54.62%'''
+ }}
+ {{Election box candidate with party link no change
+ | candidate  = [[Karen Handel]]
+ | party      = Republican Party (United States)
+-| votes      = 
+-| percentage = 
+-}}
+-{{Election box total no change
+-| votes      = 
++| votes      = 179,814
++| percentage = 45.38%
++}}
++{{Election box total no change
++| votes      = 396,213
+ | percentage = 100.0
+ }}
+ {{Election box end}}
+ 
+ ==District 7==
+ {{see also|Georgia's 7th congressional district}}
+ The 7th district covers the northeast [[Atlanta metropolitan area]], encompassing almost all of [[Gwinnett County, Georgia|Gwinnett]] and [[Forsyth County, Georgia|Forsyth]] counties. It includes the cities of [[Peachtree Corners, Georgia|Peachtree Corners]], [[Norcross, Georgia|Norcross]], [[Cumming, Georgia|Cumming]], [[Lawrenceville, Georgia|Lawrenceville]], [[Duluth, Georgia|Duluth]], [[Snellville, Georgia|Snellville]], [[Suwanee, Georgia|Suwanee]], and [[Buford, Georgia|Buford]]. The incumbent is Republican [[Rob Woodall]], who was re-elected with 50.1% of the vote in 2018,<ref name=""HPVT"" /> and subsequently announced he would not seek re-election on February 7, 2019.<ref name=""GA07Woodall"">{{cite news|last1=Hallerman|first1=Tamar|title=U.S. Rep. Rob Woodall will not seek re-election|url=https://www.ajc.com/news/state--regional-govt--politics/breaking-rep-rob-woodall-will-not-seek-reelection/TIJuFbzQAONPQyuBLulcJK/|newspaper=Atlanta Journal-Constitution|date=February 7, 2019|accessdate=February 15, 2019|archive-date=February 15, 2019|archive-url=https://web.archive.org/web/20190215161940/https://www.ajc.com/news/state--regional-govt--politics/breaking-rep-rob-woodall-will-not-seek-reelection/TIJuFbzQAONPQyuBLulcJK/|url-status=live}}</ref>
+ 
+ ===Republican primary===
+ ====Candidates====
+ =====Declared=====
+ *Lisa Babbage, treasurer of the [[Gwinnett County, Georgia|Gwinnett County]] Republican Party and former member of the [[Georgia Republican Party]] state committee<ref>{{cite news|last1=Yeomans|first1=Curt|title=POLITICAL NOTEBOOK: Babbage to announce bid for GOP 7th Congressional District nomination|url=https://www.gwinnettdailypost.com/local/political-notebook-babbage-to-announce-bid-for-gop-th-congressional/article_c08ac184-92f0-11e9-bbf8-531bbb6fa0c2.html|newspaper=Gwinnett Daily Post|date=June 23, 2019|accessdate=June 24, 2019|archive-date=June 24, 2019|archive-url=https://web.archive.org/web/20190624161549/https://www.gwinnettdailypost.com/local/political-notebook-babbage-to-announce-bid-for-gop-th-congressional/article_c08ac184-92f0-11e9-bbf8-531bbb6fa0c2.html|url-status=live}}</ref>
+ *Mark Gonsalves, businessman<ref name=""WP08"">{{cite news|last1=Nadler|first1=Ben|title=Backer of Georgia abortion bill announces bid for Congress|url=https://www.washingtonpost.com/national/backer-of-georgia-abortion-bill-announces-bid-for-congress/2019/06/06/d6f4c792-88bb-11e9-9d73-e2ba6bbf1b9b_story.html|accessdate=June 6, 2019|newspaper=The Washington Post|date=June 6, 2019|url-status=dead|archive-url=https://web.archive.org/web/20190607025648/https://www.washingtonpost.com/national/backer-of-georgia-abortion-bill-announces-bid-for-congress/2019/06/06/d6f4c792-88bb-11e9-9d73-e2ba6bbf1b9b_story.html|archive-date=June 7, 2019}}</ref>
+ *Lynne Homrich, former human resources manager and nonprofit executive<ref>{{cite news|last1=Bluestein|first1=Greg|title=Georgia 7th: Ex-Home Depot executive, a GOP newcomer, enters race|url=https://www.ajc.com/blog/politics/home-depot-executive-gop-newcomer-enters-georgia-7th-district-race/62osl5NpTeTgulTtq39ugI/|newspaper=Atlanta Journal-Constitution|date=April 22, 2019|accessdate=April 22, 2019|archive-date=April 22, 2019|archive-url=https://web.archive.org/web/20190422111613/https://www.ajc.com/blog/politics/home-depot-executive-gop-newcomer-enters-georgia-7th-district-race/62osl5NpTeTgulTtq39ugI/|url-status=live}}</ref>
+ *Zachary Kennemore, hotel night auditor<ref name=""GA07KY"">{{cite web |last1=Whitmire |first1=Kelly |title=Buford resident files for District 7 race |url=https://www.forsythnews.com/news/politics/buford-resident-files-district-7-race/ |website=Forsyth County News |date=February 22, 2020 |access-date=March 23, 2020 |archive-date=February 28, 2020 |archive-url=https://web.archive.org/web/20200228222318/https://www.forsythnews.com/news/politics/buford-resident-files-district-7-race/ |url-status=live }}</ref>",2020-11-08 14:38:11+00:00,3,
+"--- 
++++ 
+@@ -307,31 +307,31 @@
+ | percentage = 46.8
+ }}
+ {{Election box candidate with party link no change
+ | party = Independent (politician)
+ | candidate = Steve Cox
+ | votes = 8,264
+ | percentage = 4.8
+ }}
+ {{Election box total no change
+ | votes = 173,179
+ | percentage = 100.0
+ }}
+ {{Election box open primary general election no change}}
+ {{Election box candidate with party link no change
+ | party = California Republican Party
+-| candidate = [[Young Kim] 
++| candidate = [[Young Kim]] 
+ | votes = 159,571
+ | percentage = 50.49
+ }}
+ {{Election box candidate with party link no change
+ | party = California Democratic Party
+ | candidate = Gil Cisneros ([[incumbent]])
+ | votes = 156,476
+ | percentage = 49.51
+ }}
+ {{Election box total no change
+ | votes = 316,047
+ | percentage = 100.0
+ }}
+ {{Election box end}}
+ ",2020-11-08 23:53:03+00:00,3,
+"--- 
++++ 
+@@ -27,31 +27,31 @@
+ |successor3   = Paul Clark
+ |birth_name   = Christopher Andrew Coons
+ |birth_date   = {{birth date and age|1963|9|9}}
+ |birth_place  = [[Greenwich, Connecticut|Greenwich]], [[Connecticut]], U.S.
+ |death_date   = 
+ |death_place  = 
+ |party        = [[Democratic Party (United States)|Democratic]] (1988–present)
+ |otherparty   = [[Republican Party (United States)|Republican]] (before 1988)
+ |spouse       = {{marriage|Annie Lingenfelter|1996}}
+ |children     = 3
+ |education    = [[Amherst College]] ([[Bachelor of Arts|BA]])<br>[[Yale University]] ([[Master of Theological Studies|MAR]], [[Juris Doctor|JD]])
+ |website      = {{url|https://coons.senate.gov|Senate website}}
+ }}
+ '''Christopher Andrew Coons''' (born September 9, 1963) is an American politician serving as the [[Seniority in the United States Senate|junior]] [[United States Senate|United States Senator]] from [[Delaware]] since 2010. A member of the [[Democratic Party (United States)|Democratic Party]], Coons served as the [[county executive]] of [[New Castle County, Delaware|New Castle County]] from 2005 to 2010. He was the 1983 [[Truman Scholar]] from Delaware, and the first recipient of the award to serve in the United States Senate.
+ 
+-Raised in [[Hockessin, Delaware]], Coons graduated from [[Amherst College]] in [[Massachusetts]], where he joined Delta Kappa Epsilon Fraternity. He received graduate degrees from [[Yale Divinity School]] and [[Yale Law School]]. He went to work as a volunteer [[relief worker]] in Kenya, where he had taken classes in the [[University of Nairobi]], later returning to the U.S. to work for the [[Coalition for the Homeless]] in New York. He spent some time as a legal clerk in New York before returning to Delaware in 1996, where he spent eight years as in-house counsel for a materials manufacturing company. In the interim he worked for several nonprofit organizations.
++Raised in [[Hockessin, Delaware]], Coons graduated from [[Amherst College]] in [[Massachusetts]], where he joined [[Delta Kappa Epsilon]] Fraternity. He received graduate degrees from [[Yale Divinity School]] and [[Yale Law School]]. He went to work as a volunteer [[relief worker]] in Kenya, where he had taken classes in the [[University of Nairobi]], later returning to the U.S. to work for the [[Coalition for the Homeless]] in New York. He spent some time as a legal clerk in New York before returning to Delaware in 1996, where he spent eight years as in-house counsel for a materials manufacturing company. In the interim he worked for several nonprofit organizations.
+ 
+ Coons served as president of the [[New Castle County Council]] from 2001 to 2005 and county executive of [[New Castle County, Delaware|New Castle County]] from 2005 to 2010. He balanced the county budget with a surplus in fiscal year 2010 by cutting spending and raising taxes, and the county maintained a [[Fitch Group|AAA bond rating]]. Coons contested the [[2010 United States Senate special election in Delaware|2010 Senate special election for Delaware]]. He defeated the Republican nominee, [[Christine O'Donnell]], to succeed [[Ted Kaufman]], who had been appointed to the seat when [[Joe Biden]] resigned to become [[Vice President of the United States]]. He was elected to a full term [[United States Senate election in Delaware, 2014|in 2014]]. Coons is the vice chair of the [[United States Senate Committee on Ethics|Senate Ethics Committee]]. His other committee assignments include [[United States Senate Committee on Appropriations|Appropriations]], [[United States Senate Committee on Foreign Relations|Foreign Relations]], [[United States Senate Committee on the Judiciary|Judiciary]], and [[United States Senate Committee on Small Business and Entrepreneurship|Small Business and Entrepreneurship]]. He previously served as ranking member of the [[United States Senate Foreign Relations Subcommittee on African Affairs|Senate Foreign Relations Subcommittee on African Affairs]] and the [[United States Senate Judiciary Subcommittee on Bankruptcy and the Courts|Judiciary Subcommittee on Bankruptcy and the Courts]].<ref>{{cite web|url=https://www.coons.senate.gov/about |title=Chris Coons Biography |publisher=www.coons.senate.gov |accessdate=December 19, 2017}}</ref>
+ 
+ Coons was the co-chair for the 2019 [[National Prayer Breakfast]]. He previously co-chaired the 2017 National Prayer Breakfast, and co-chairs the weekly Senate Prayer Breakfast.<ref>{{cite web|url= http://time.com/5137579/national-prayer-breakfast-lankford-coons/|title=National Prayer Breakfast Co-Chairs Named |publisher=www.time.com |accessdate=February 14, 2018}}</ref> ''[[The New York Times]]'' called Coons an ""effective"" emissary of [[Joe Biden]] to former and current Republican lawmakers in Biden's [[Joe Biden 2020 presidential campaign|2020]] campaign for president.<ref>{{cite web|url=https://www.nytimes.com/2020/06/06/us/politics/trump-biden-republicans-voters.html|title=Bush, Romney and Powell wouldn't back Trump re-election|work=The New York Times}}</ref>
+ 
+ ==Early life and education==
+ Coons was born in [[Greenwich, Connecticut]], the son of Sarah Louise ""Sally"" (née Ives) and Kenelm Winslow ""Ken"" Coons. His ancestry includes English and Irish.<ref>{{cite web|url=http://freepages.genealogy.rootsweb.ancestry.com/~battle/senators/coons.htm |title=Chris Coons ancestry |publisher=Freepages.genealogy.rootsweb.ancestry.com |accessdate=October 8, 2012}}</ref> Coons grew up in [[Hockessin, Delaware]], where he attended the public Yorklyn Elementary School and later H.B. DuPont Middle School. His parents struggled financially and divorced in the mid 1970s. He and his two brothers lived with their mother for a few years until 1977, when his mother married [[Robert W. Gore]], the President of [[W. L. Gore and Associates]].<ref>{{cite news |last1=Hale |first1=Charlotte |title=Strong on Service |work=The News Journal (Wilmington, Delaware) |date=October 15, 2004 |page=B1 & B5}}</ref>
+ 
+ He graduated from the private [[Tower Hill School]] and then [[Amherst College]] in 1985 with a [[Bachelor of Arts]] in [[chemistry]] and [[political science]]. While in college, he was a member of [[Delta Kappa Epsilon]] fraternity (Sigma chapter) and a U.S. Senate intern. In 1983, Coons was awarded the [[Truman Scholarship]]. During his junior year of college, he studied abroad at the [[University of Nairobi]] in [[Kenya]] through [[St. Lawrence University]]'s Kenya Semester Program.<ref>{{cite web |url=https://www.insidehighered.com/news/2013/08/02/look-st-lawrence-universitys-study-abroad-program-kenya |title=St. Lawrence University's Kenya Semester Program |publisher=www.insidehighered.com |date= |accessdate=December 27, 2017}}</ref> In 1992, he earned a master's degree in ethics from [[Yale Divinity School]] and a [[Juris Doctor|J.D.]] degree from [[Yale Law School]].<ref name=""bio"">{{cite web |url=http://www.chriscoons.com/about/meet_chris_coons |title=Meet Chris Coons |accessdate=December 27, 2017 |publisher=Chris Coons for U.S. Senate}} (campaign web site biography)</ref> In 2018, Delaware State University named Coons as an Honorary Doctor in Humane Letters.
+ 
+ ==Professional career==
+ After college, Coons worked in [[Washington, D.C.]], for the Investor Responsibility Research Center, where he wrote a book on South Africa and the U.S. [[Disinvestment from South Africa|divestment movement]]. He then worked as a volunteer for the [[South African Council of Churches]] and as a [[relief worker]] in Kenya, before returning to the U.S. to work for the National Coalition for the Homeless in New York. In 1992, he earned a J.D. degree from [[Yale Law School]], and a master's degree in [[ethics]] from [[Yale Divinity School]].<ref name=""Delaware_Today_20100615"">{{Cite news|title = Castle vs. Coons| author=Yearick, Bob| work = Delaware Today | date = June 15, 2010| url =http://www.delawaretoday.com/Delaware-Today/July-2010/Castle-vs-Coons/index.php?cparticle=3&siarticle=2#artanc| accessdate = September 16, 2010}}</ref>
+ 
+ Coons clerked for [[Federal Judge|Judge]] [[Jane Richards Roth]] on the [[United States Court of Appeals for the Third Circuit]], and then worked for the National ""I Have a Dream"" Foundation in New York.<ref name=""CNN_Chris_Coons_Profile_20100915"">{{Cite news| title = Chris Coons: Delaware's surprise favorite| publisher = CNN| date = September 15, 2010| url = http://articles.cnn.com/2010-09-15/politics/coons.profile_1_chris-coons-election-delaware?_s=PM:POLITICS| accessdate = September 16, 2010| archive-url = https://web.archive.org/web/20100917035256/http://articles.cnn.com/2010-09-15/politics/coons.profile_1_chris-coons-election-delaware?_s=PM:POLITICS| archive-date = September 17, 2010| url-status = dead}}</ref> After returning to Delaware in 1996, Coons began his eight-year career as in-house counsel for [[W.L. Gore & Associates]], Inc., [[Newark, Delaware]]-based makers of [[Gore-Tex]] fabrics and other high-tech materials. There he was responsible for the ethics training program, federal government relations, e-commerce legal work, and for general commercial contracting.<ref name=""Rodel Foundation""/>
+ ",2020-11-11 17:35:32+00:00,4,
+"--- 
++++ 
+@@ -25,31 +25,31 @@
+ |party        = [[Democratic Party (United States)|Democratic]]
+ |spouse       = {{marriage|Louise New|December 12, 1992}}
+ |children     = 3
+ |education    = [[University of Alabama]] ([[Bachelor of Science|BS]])<br>[[Samford University]] ([[Juris Doctor|JD]])
+ |website      = {{url|jones.senate.gov|Senate website}}
+ |signature    = Djsig.svg
+ }}
+ '''Gordon Douglas Jones''' (born May 4, 1954) is an American attorney, former prosecutor and politician serving as the [[Seniority in the United States Senate|junior]] [[United States Senate|United States Senator]] from [[Alabama]] since 2018. A member of the [[Democratic Party (United States)|Democratic Party]], he was the [[United States Attorney]] for the [[United States District Court for the Northern District of Alabama|Northern District of Alabama]] from 1997 to 2001.
+ 
+ Jones was born in [[Fairfield, Alabama]], and is a graduate of the [[University of Alabama]] and [[Cumberland School of Law]] at [[Samford University]]. After law school, he worked as a congressional staffer and as a federal prosecutor before moving to private practice. In 1997, President [[Bill Clinton]] appointed Jones as U.S. Attorney for the Northern District of Alabama. Jones's most prominent cases were the successful prosecution of two [[Ku Klux Klan]] members for the [[16th Street Baptist Church bombing|1963 Birmingham church bombing]] that killed four African-American girls and the indictment of domestic terrorist [[Eric Rudolph]]. He returned to private practice at the conclusion of Clinton's presidency in 2001.
+ 
+ Jones announced his candidacy for United States Senate in the [[2017 United States Senate special election in Alabama|2017 special election]] following the resignation of Republican incumbent [[Jeff Sessions]] to become [[United States Attorney General|U.S. Attorney General]]. After winning the Democratic primary in August, he faced former [[Supreme Court of Alabama|Alabama Supreme Court]] Justice [[Roy Moore]] in the general election. Jones was considered a long-shot candidate in a [[Cook Partisan Voting Index|deeply Republican state]]. A month before the election, Moore was [[Roy Moore sexual misconduct allegations|alleged]] to have sexually assaulted and otherwise acted inappropriately with several females, including some who were minors at the time.<ref>{{Cite news |url=https://www.theguardian.com/us-news/2017/dec/12/roy-moore-loses-alabama-senate-race-doug-jones-wins|title=Alabama election: Democrats triumph over Roy Moore in major blow to Trump |last1=Jacobs |first1=Ben |last2=Smith |first2=David |date=December 13, 2017 |newspaper=The Guardian |accessdate=August 6, 2018}}</ref> Jones won the special election by 22,000 votes, 50%–48%.<ref>{{cite news |url=https://abcnews.go.com/Politics/wireStory/turbulent-senate-race-now-hands-alabama-voters-51733556 |title=Democrat Jones wins stunning red-state Alabama Senate upset |author1=Chandler, Kim |date=December 13, 2017 |publisher=ABC News |agency=Associated Press |author2=Peoples, Steve |accessdate=December 13, 2017 |archive-url=https://web.archive.org/web/20171217005217/https://abcnews.go.com/Politics/wireStory/turbulent-senate-race-now-hands-alabama-voters-51733556 |archive-date=December 17, 2017 |url-status=dead }}</ref>
+ 
+ Jones is currently the only statewide elected Democrat in Alabama and the first Democrat to win statewide office since [[Lucy Baxley]] was elected President of the [[Alabama Public Service Commission]] in 2008. Democrats had not represented Alabama in the U.S. Senate since 1997, when [[Howell Heflin]] left office. Jones is considered a moderate Democrat who demonstrates a willingness to work with Republicans and split with his party on certain issues.<ref>{{cite web |last1=Beaman |first1=Jeremy |title=Sen. Doug Jones has proved himself — so far — to be a moderate Democrat |url=https://yellowhammernews.com/sen-doug-jones-has-proved-himself-so-far-to-be-a-moderate-democrat/ |website=YellowHammer News |date=Apr 13, 2018|accessdate=February 6, 2020}}</ref> 
+ 
+-Jones lost reelection in 2020 to Republican [[Tommy Tuberville]].<ref>https://www.cnn.com/2020/11/03/politics/tommy-tuberville-wins-alabama-senate/index.html</ref> He is considered to be a leading contender for the position of [[Attorney General | Untied States Attorney General]] in the [[Biden Administration]].<ref>{{cite web|title= Meet the contenders for Biden’s Cabinet |url=https://www.politico.com/news/2020/11/07/joe-biden-cabinet-picks-possible-choices-433431 |website=Politico |date=Nov 7, 2020}}</ref> 
++Jones lost reelection in 2020 to Republican [[Tommy Tuberville]].<ref>https://www.cnn.com/2020/11/03/politics/tommy-tuberville-wins-alabama-senate/index.html</ref> He is considered to be a leading contender for the position of [[United States Attorney General]] in the [[Biden Administration]].<ref>{{cite web|title= Meet the contenders for Biden’s Cabinet |url=https://www.politico.com/news/2020/11/07/joe-biden-cabinet-picks-possible-choices-433431 |website=Politico |date=Nov 7, 2020}}</ref>
+ 
+ ==Early life and education==
+ Doug Jones was born in [[Fairfield, Alabama]] to Gordon and Gloria (Wesson) Jones.<ref>{{cite web|url=http://dougjonesforsenate.com/|title=Meet Doug Jones"": ""Doug's parents, Gordon and Gloria Jones, live in Birmingham and his sister Terrie Savage and her husband Scott live in Hartselle.|publisher=Doug Jones for Senate|date=August 16, 2017|accessdate=August 16, 2017|archive-url=https://web.archive.org/web/20171212011108/https://dougjonesforsenate.com/|archive-date=December 12, 2017|url-status=dead}}</ref><ref>https://obits.al.com/obituaries/birmingham/obituary.aspx?n=gordon-c-jones&pid=194881872&fhid=29437</ref> His father worked at [[U.S. Steel]] and his mother was a homemaker.<ref name=""Burden of History"">{{Citation |url=https://www.nytimes.com/2001/05/05/us/public-lives-an-alabama-prosecutor-confronts-the-burden-of-history.html|title=PUBLIC LIVES; An Alabama Prosecutor Confronts the Burden of History|last=Sack|first=Kevin|date=May 5, 2001|newspaper=[[The New York Times]]|accessdate=May 18, 2017}}</ref> Jones graduated from the [[University of Alabama]] with a [[Bachelor of Science]] in political science in 1976, and earned his [[Juris Doctor]] from [[Cumberland School of Law]] at [[Samford University]] in 1979. He is a member of [[Beta Theta Pi]].<ref>{{cite news |last1=Cobb |first1=Martin |title=Brother Senator |url=https://issuu.com/betathetapiao/docs/beta_theta_pi_sping_2018/10 |work=The Beta Theta Pi |date=Spring 2018 |page=10 |accessdate=18 June 2018 }}</ref>
+ 
+ Jones's political career began as staff counsel to the [[U.S. Senate Judiciary Committee]] for Alabama Senator [[Howell Heflin]].<ref>{{Cite news |url=http://www.al.com/news/index.ssf/2017/05/doug_jones_announces_run_for_u.html|title=Doug Jones announces run for US Senate|last=Gray|first=Jeremy|date=May 11, 2017 |newspaper=[[The Birmingham News]] |accessdate=May 18, 2017}}</ref> Jones then worked as an [[Assistant U.S. Attorney]] from 1980 to 1984 before resigning to work at a private law firm in [[Birmingham, Alabama]], from 1984 to 1997.<ref>{{cite web|url=http://www.publicjustice.org/uploads/file/pdf/Murnaghan_Lecture_flyer_Douglas_Jones_bio.pdf|title=Douglas Jones|last=Murnaghan|publisher=Public Justice|accessdate=May 18, 2017}}</ref>
+ 
+ ==U.S. Attorney==
+ President [[Bill Clinton]] announced on August 18, 1997, his intent to appoint Jones as U.S. Attorney for the Northern District of Alabama,<ref>{{Cite press release|url=https://clinton6.nara.gov/1997/08/1997-08-18-douglas-jones-nominated-as-us-attorney-in-alabama.html|title=President Clinton today announced his intent to nominate G. Douglas Jones to serve as United States Attorney for the Northern District of Alabama.|publisher=[[White House Office of the Press Secretary]]|date=August 18, 1997|access-date=May 18, 2017|archive-url=https://web.archive.org/web/20111025122641/http://clinton6.nara.gov/1997/08/1997-08-18-douglas-jones-nominated-as-us-attorney-in-alabama.html|archive-date=October 25, 2011|url-status=dead}}</ref> and formally nominated Jones to the post on September 2, 1997.<ref name=""GSU"">[http://readingroom.law.gsu.edu/cgi/viewcontent.cgi?article=1745&context=gsulr Panel Discussion: Criminal Discovery In Practice], 15 [[Georgia State University Law Review|Ga. St. U. L. Rev.]] 781, 782 n.2 (1999).</ref> On September 8, 1997, the U.S. District Court for the Northern District of Alabama appointed Jones as interim U.S. Attorney. The [[United States Senate|Senate]] confirmed Jones's nomination on November 8, 1997,<ref name=""GSU"" /> by [[voice vote]].<ref>{{cite news |first=John |last=Verhoevek |url=https://abcnews.go.com/Politics/alabama-senate-race-pits-doug-jones-roy-moore/story?id=50127528 |title=Meet the Alabama Senate candidates: Controversial gun-toting judge Roy Moore and a lawyer who fought the KKK |publisher=ABC News |date=September 27, 2017}}</ref>
+ 
+ In January 1998, [[Eric Rudolph]] bombed the New Woman All Women Health Care Center in Birmingham. Jones was responsible for coordinating the state and federal task force in the aftermath, and advocated that Rudolph be tried first in Birmingham before being extradited and tried in Georgia for his crimes in that state, such as the [[Centennial Olympic Park bombing]].<ref>{{Cite news |url=https://abcnews.go.com/US/story?id=90596&page=1|title=Bombing Suspect Eric Rudolph Indicted|date=November 15, 2000|publisher=ABC News|accessdate=May 18, 2017}}</ref><ref>{{Cite news|url=https://www.nytimes.com/2003/06/03/us/bombing-suspect-is-moved-to-alabama-for-trial-there-first.html|title=Bombing Suspect Is Moved to Alabama, for Trial There First|last=Gettlman|first=Jeffrey|date=June 3, 2003|newspaper=The New York Times}}</ref>
+ 
+ ===16th Street Baptist Church bombing case===
+ [[File:Doug Jones Cherry Trial (cropped).jpg|thumb|150px|Jones during the trial of Bobby Frank Cherry]]
+ Jones prosecuted [[Thomas Edwin Blanton Jr.]] and [[Bobby Frank Cherry]], two members of the [[Ku Klux Klan]], for their roles in the 1963 [[16th Street Baptist Church bombing]]. The case was reopened the year before Jones was appointed, but did not gain traction until his appointment. A [[federal grand jury]] was called in 1998, which caught the attention of Cherry's ex-wife, Willadean Cherry, and led her to call the FBI to give her testimony. Willadean then introduced Jones to family and friends, who reported their own experiences from the time of the bombing. A key piece of evidence was a tape from the time of the bombing in which Blanton said he had plotted with others to make the bomb. Jones was deputized to argue in state court and indicted Blanton and Cherry in 2000.<ref>{{Cite news |url=https://www.nytimes.com/2001/04/25/us/church-bombing-trial-begins-birmingham-city-s-past-very-much-present.html|title=As Church Bombing Trial Begins in Birmingham, the City's Past Is Very Much Present|last=Sack|first=Kevin|date=April 25, 2001 |newspaper=The New York Times|accessdate=May 18, 2017}}</ref><ref>{{Cite news |url=https://articles.latimes.com/2013/sep/14/nation/la-na-nn-birmingham-bombing-prosecutor-20130913|title=Prosecutor reflects on 50th anniversary of 1963 Birmingham bombing|last=Hennessy-Fiske|first=Molly|date=September 14, 2013 |newspaper=Los Angeles Times|accessdate=May 18, 2017}}</ref> Blanton was found guilty in 2001 and Cherry in 2002. Both were sentenced to life in prison. Blanton was up for parole in 2016; Jones spoke against his release, and parole was denied. Cherry died in prison in 2004.<ref>{{Cite news |url=http://www.al.com/news/birmingham/index.ssf/2016/08/alabama_board_considering_paro.html|title=16th Street Baptist Church bomber Thomas Blanton denied parole|last=Faulk|first=Kent|date=August 3, 2016|newspaper=[[The Birmingham News]] |accessdate=May 18, 2017}}</ref><ref>{{Cite news |url=https://www.washingtonpost.com/wp-dyn/articles/A61428-2004Nov18.html|title=Birmingham Bomber Bobby Frank Cherry Dies in Prison at 74|last=Lamb|first=Yvonne|date=November 19, 2004|newspaper=The Washington Post|accessdate=May 18, 2017}}</ref>
+ {{external media| float = left| video1 = [https://www.c-span.org/video/?457874-1/after-words-senator-doug-jones ''After Words'' interview with Jones on ''Bending Toward Justice'', March 9, 2019], [[C-SPAN]]}}",2020-11-11 17:42:26+00:00,4,
+"--- 
++++ 
+@@ -80,31 +80,31 @@
+ 
+ Bullock chaired the [[National Governors Association]] from 2018 to 2019.<ref>{{cite web |publisher=State of Montana |title=Governor Steve Bullock |accessdate=July 20, 2018 |url=http://governor.mt.gov/Home/Governor |archive-url=https://web.archive.org/web/20180720225438/http://governor.mt.gov/Home/Governor |archive-date=July 20, 2018 |url-status=live  }}</ref><ref>{{cite news |last=Hanson |first=Amy Beth |publisher=Flathead Beacon |title=Bullock Outlines Jobs Initiative for Governors Association |date=July 16, 2018 |accessdate=July 20, 2018 |url=https://flatheadbeacon.com/2018/07/16/bullock-outlines-jobs-initiative-governors-association/ |archive-url=https://web.archive.org/web/20180720225350/https://flatheadbeacon.com/2018/07/16/bullock-outlines-jobs-initiative-governors-association/ |archive-date=July 20, 2018 |url-status=live  }}</ref>
+ 
+ In the 2018 state legislative elections in Montana, Democrats won 42 of 100 seats in the [[Montana House of Representatives]] and gained two seats in the [[Montana Senate]].<ref>{{cite web |title=Montana Election Results |url=https://www.nytimes.com/interactive/2018/11/06/us/elections/results-montana-elections.html |website=The New York Times |accessdate=30 June 2019}}</ref> This meant that, in the 2019 state legislative session that Bullock presided over, Republicans held 60% of the seats in the upper chamber and 58% in the lower chamber of the legislature.<ref>{{cite web |last1=Drake |first1=Phil |title=Sine die: 66th legislative session is over |url=https://www.greatfallstribune.com/story/news/2019/04/25/montana-legislature-adjourns/3577013002/ |website=Great Falls Tribune |publisher=USA Today |accessdate=30 June 2019}}</ref>
+ 
+ ==== COVID-19 pandemic ====
+ During the [[COVID-19 pandemic]], Bullock created a task force on March 3, 2020, declared a state of emergency on March 12, and closed public schools March 15.<ref name="":0"">{{Cite web|last=Drake|first=Phil|title=Governor issues stay-at-home order in Montana due to coronavirus|url=https://www.greatfallstribune.com/story/news/2020/03/26/montana-stay-home-order-coronavirus-governor-steve-bullock/2919282001/|access-date=2020-08-10|website=Great Falls Tribune|language=en-US}}</ref> He issued a stay-at-home order on March 26; earlier that day, the Montana Hospital Association requested such an order.<ref name="":0"" /><ref name="":1"">{{Cite news|last=|first=|date=2020|title=Montana's ticket-splitters could decide a race that's put the Senate within Democrats' reach|work=The Washington Post|url=https://www.washingtonpost.com/politics/montana-senate-bullock-daines/2020/08/08/bb9ebd4e-d76c-11ea-aff6-220dd3a14741_story.html|url-status=live|access-date=}}</ref> The order was described as having been implemented early in the pandemic<ref>{{Cite news|last=|first=|date=2020|title=Daines, Bullock Square off Over Virus in First Senate Debate|work=Associated Press|url=https://www.usnews.com/news/best-states/montana/articles/2020-08-08/daines-bullock-to-square-off-in-senate-debate|url-status=live|access-date=}}</ref> and before many other states.<ref name="":1"" /> In July, Bullock issued a statewide face mask mandate for indoor public places and large outdoor gatherings.<ref>{{Cite web|date=2020-07-15|title=Bullock issues mask requirement in Montana|url=https://nbcmontana.com/news/coronavirus/bullock-issues-mask-requirement-in-montana|access-date=2020-08-10|website=KECI}}</ref><ref>{{Cite web|last=Mabie|first=Nora|title=Bullock issued a mask mandate. Here's what that means.|url=https://www.greatfallstribune.com/story/news/2020/07/15/montana-coronavirus-mask-mandate-covid-19-steve-bullock/5446818002/|access-date=2020-08-10|website=Great Falls Tribune|language=en-US}}</ref> In August, he gave county election officials permission to implement all-mail-in voting if they choose.<ref>{{Cite web|date=2020-08-07|title=Missoula elections officials react to Nov. 3 voting directive|url=https://www.kpax.com/news/election-2020/missoula-elections-officials-react-to-nov-3-voting-directive|access-date=2020-08-10|website=KPAX|language=en}}</ref>
+ 
+ ==2020 presidential campaign==
+ [[File:Steve Bullock (48537192076).jpg|right|thumb|Bullock speaking at the 2019 Des Moines Register Soapbox at the Iowa State Fair.]]
+ [[File:Steve Bullock 2020 presidential campaign logo.svg|thumb|right|200px|Bullock's 2020 presidential campaign logo]]
+ In 2017 Bullock formed the Big Sky Values PAC, which by spring 2019 had raised nearly $1.8 million, to pay for travel around the United States.<ref>{{cite news|title=Montana governor Steve Bullock to announce bid for presidency: report|url=https://thehill.com/homenews/campaign/441623-montana-governor-steve-bullock-to-announce-bid-for-presidency-report|access-date=May 2, 2019|archive-url=https://web.archive.org/web/20190502231144/https://thehill.com/homenews/campaign/441623-montana-governor-steve-bullock-to-announce-bid-for-presidency-report|archive-date=May 2, 2019|url-status=live}}</ref> On May 14, 2019, Bullock announced his candidacy for the [[2020 United States presidential election|2020 presidential election]].<ref>{{cite news|url=https://www.cbsnews.com/news/steve-bullock-2020-montana-governor-running-for-president-watch-video-announcement-today-05-14-2019/|title=Steve Bullock, Montana governor, announces he's running for president|author=Camilo Montoya-Galvez|date=May 14, 2019|work=[[CBS]]|accessdate=May 14, 2019|archive-url=https://web.archive.org/web/20190514192140/https://www.cbsnews.com/news/steve-bullock-2020-montana-governor-running-for-president-watch-video-announcement-today-05-14-2019/|archive-date=May 14, 2019|url-status=live}}</ref><ref>{{cite tweet |title=To give everyone a fair shot, we must do more than defeat Donald Trump. We have to defeat the corrupt system that keeps people like him in power, and we need a fighter who's done it before. That's why I'm running for President. Join our team: http://stevebullock.com |number=1128238526330359808|date=14 May 2019|user=GovernorBullock|author=Steve Bullock}}</ref> In his announcement video, Bullock said that opposing political ""[[dark money]]"" and legislating against the ''[[Citizens United v. FEC|Citizens United]]'' Supreme Court ruling would be among his utmost priorities.<ref>{{Cite web|first=Raymond |last=Arke |authorlink   =|title= Opposed to 'dark money' and Citizens United, Montana Gov. Steve Bullock enters 2020 Democratic primary  |publisher=[[OpenSecrets.org]]|date=May 14, 2019 |url= https://www.opensecrets.org/news/2019/05/opposed-to-dark-money-and-citizens-united-montana-gov-steve-bullock-enters-2020-democratic-primary/ |accessdate=}}</ref> Based on his three statewide electoral victories in a largely rural state, Bullock held a certain cachet of ""electability"", and appeared to have a plausible path to the nomination.<ref>{{Cite web |url=https://fivethirtyeight.com/features/how-steve-bullock-could-win-the-2020-democratic-primary/ |title=How Steve Bullock Could Win The 2020 Democratic Primary |author=Rakich, Nathaniel |authorlink= |date=May 14, 2019 |publisher= |website=[[Fivethirtyeight.com]] |accessdate=December 4, 2019 }}</ref> His mid-May entrance was relatively late, but he was still able to qualify for the [[2020 Democratic Party presidential debates and forums|second Democratic debate]] in July.<ref name=""EpsteinStevens"">{{Cite newspaper |url=https://www.nytimes.com/2019/12/02/us/politics/steve-bullock-2020-drops-out.html |title=Steve Bullock Drops Out of 2020 Presidential Race |author1=Epstein, Reid J. |author2=Stevens, Matt |date=December 2, 2019 |work=The New York Times |accessdate= }}</ref> Even so, the late start left him with less media exposure than his numerous rivals: he found it hard to raise funds, and never rose above 1% in nationwide polls.<ref name=""EpsteinStevens""/> He ended his campaign on December 2, 2019.<ref>{{cite web |last1=Weigel |first1=David |title=Montana Gov. Steve Bullock drops out of presidential race |url=https://www.washingtonpost.com/politics/montana-gov-steve-bullock-drops-out-of-presidential-race/2019/12/01/26c220ec-14a0-11ea-a659-7d69641c6ff7_story.html|website=Washington Post |accessdate=December 2, 2019 |language=en}}</ref>
+ 
+ ==2020 Senate campaign==
+ {{Main|2020 United States Senate election in Montana}}
+-On March 4, 2020, after months of speculation and denials from Bullock himself, ''The New York Times'' reported that Bullock would enter Montana's U.S. Senate [[2020 United States Senate election in Montana|election]] to challenge Republican incumbent [[Steve Daines]]. The move came after Senate Minority Leader [[Chuck Schumer]] (D-NY) flew to Montana to persuade Bullock to run and after Bullock talked with former president [[Barack Obama]].<ref>{{cite news|title= Steve Bullock Is Running for Senate in Montana|url=https://www.nytimes.com/2020/03/04/us/politics/steve-bullock-montana-senate.html|last=Martin|first=Jonathan|work=New York Times|accessdate=March 4, 2020}}</ref> Both believed that he was the only formidable candidate against Daines.<ref>{{cite news|title= Schumer meets with Bullock as Montana filing deadline for Senate seat nears|url= https://www.politico.com/amp/news/2020/02/25/schumer-meets-bullock-montana-senate-seat-117479|last=Everett|first=Burgess|publisher=Politico|accessdate=March 10, 2020}}</ref>{{Failed verification|date=March 2020}} Bullock is running for the seat formerly held for six terms by Democrat [[Max Baucus]].<ref>{{Cite web|url=https://www.latimes.com/world-nation/story/2020-03-09/senior-adviser-montana-gov-steve-bullock-to-run-for-senate|title=Montana Gov. Steve Bullock to run for Senate|date=2020-03-09|website=Los Angeles Times|language=en-US|access-date=2020-03-09}}</ref>
++On March 4, 2020, after months of speculation and denials from Bullock himself, ''The New York Times'' reported that Bullock would enter Montana's U.S. Senate [[2020 United States Senate election in Montana|election]] to challenge Republican incumbent [[Steve Daines]]. The move came after Senate Minority Leader [[Chuck Schumer]] (D-NY) flew to Montana to persuade Bullock to run and after Bullock talked with former president [[Barack Obama]].<ref>{{cite news|title= Steve Bullock Is Running for Senate in Montana|url=https://www.nytimes.com/2020/03/04/us/politics/steve-bullock-montana-senate.html|last=Martin|first=Jonathan|work=New York Times|accessdate=March 4, 2020}}</ref> Both believed that he was the only formidable candidate against Daines.<ref>{{cite news|title= Schumer meets with Bullock as Montana filing deadline for Senate seat nears|url= https://www.politico.com/amp/news/2020/02/25/schumer-meets-bullock-montana-senate-seat-117479|last=Everett|first=Burgess|publisher=Politico|accessdate=March 10, 2020}}</ref>{{Failed verification|date=March 2020}} Bullock ran for the seat formerly held for six terms by Democrat [[Max Baucus]].<ref>{{Cite web|url=https://www.latimes.com/world-nation/story/2020-03-09/senior-adviser-montana-gov-steve-bullock-to-run-for-senate|title=Montana Gov. Steve Bullock to run for Senate|date=2020-03-09|website=Los Angeles Times|language=en-US|access-date=2020-03-09}}</ref>
+ 
+ Bullock officially declared his candidacy on March 9, 2020, the last day to file.<ref>https://twitter.com/stevebullockmt/status/1236986586606100481</ref><ref>{{cite web|url=https://www.vox.com/2020/3/9/21166028/steve-bullock-montana-senate-race-democrats|title=Gov. Steve Bullock just made the Montana Senate race competitive for Democrats|publisher=Vox|date=March 8, 2020}}</ref> The announcement prompted all other candidates for the Democratic nomination except one to drop out and endorse Bullock. This included the mayor of Helena, [[Wilmot Collins]].<ref>{{cite web |last1=Collins |first1=Wilmot |title=Thank you, Montana. It's been my honor to run for U.S. Senate. Today I'm suspending my campaign and endorsing Governor Steve Bullock. |url=https://twitter.com/CollinsWilmot/status/1237147675054600192 |website=@CollinsWilmot |accessdate=9 March 2020}}</ref><ref>{{cite web|last=Neumann|first=Cora|title=Cora Neumann withdraws from Montana senate race, endorses Steve Bullock|url= https://mobile.twitter.com/CoraforMT/status/1237028772018180097|publisher=Twitter|accessdate=March 9, 2020}}</ref><ref>https://mobile.twitter.com/KnolesMichael/status/1236997949730611207</ref><ref>{{cite web |last1=Stein |first1=Perrin |title=Bozeman Senate candidate drops out of race, supports Bullock |url=https://www.bozemandailychronicle.com/news/politics/bozeman-senate-candidate-drops-out-of-race-supports-bullock/article_548ab9a5-c981-50c1-a3b4-044e0ec54df2.html |website=Bozeman Daily Chronicle}}</ref> On June 2, 2020, Bullock won the Democratic primary<ref>https://sosmt.gov/wp-content/uploads/2020PrimaryReportStateCanvass.pdf</ref><ref>{{Cite web|url=https://www.nytimes.com/interactive/2020/06/02/us/elections/results-montana-senate-primary-election.html|title=Montana U.S. Senate Primary Election Results|date=June 24, 2020|via=NYTimes.com}}</ref> with 94.8% of the vote to challenger John Mues's 2.8%.{{cn|date=November 2020}} On November 3, 2020, Bullock lost to Daines in the general election.<ref>{{Cite web|url=https://thehill.com/homenews/campaign/524126-daines-fends-off-challenge-to-win-second-montana-senate-term|title=Daines fends off challenge to win second Montana Senate term|first=Regina|last=Zilbermints|date=November 4, 2020|website=TheHill}}</ref><ref>{{Cite web|url=https://www.politico.com/news/2020/11/04/montana-senate-election-results-2020-433588|title=Daines holds Montana Senate seat for GOP|first=Burgess|last=Everett|website=POLITICO}}</ref><ref>{{Cite web|url=https://nbcmontana.com/news/beyond-the-podium/ap-daines-wins-reelection-in-montana|title=AP: Daines wins re-election in Montana|first=The Associated|last=Press|date=November 3, 2020|website=KECI}}</ref>
+ 
+ == Political positions ==
+ Bullock has been described by ''[[The Washington Post]]'' and ''[[ABC News]]'' as a [[moderate Democrat]].<ref>{{Cite web|url=https://www.washingtonpost.com/politics/montana-gov-steve-bullock-considering-2020-white-house-bid-now-says-he-supports-assault-weapons-ban/2018/08/19/58f4a34c-a3f8-11e8-a656-943eefab5daf_story.html|title=Montana Gov. Steve Bullock, considering 2020 White House bid, says he supports assault weapons ban|last=Sonmez|first=Felicia|date=August 19, 2018|website=washingtonpost.com|archive-url=https://web.archive.org/web/20181207091850/https://www.washingtonpost.com/politics/montana-gov-steve-bullock-considering-2020-white-house-bid-now-says-he-supports-assault-weapons-ban/2018/08/19/58f4a34c-a3f8-11e8-a656-943eefab5daf_story.html|archive-date=December 7, 2018|url-status=live}}</ref><ref>{{Cite web|url=https://abcnews.go.com/Politics/red-state-governor-democrats-lose-midterms-referendum-donald/story?id=57477278|title=Democratic governor of Montana says 'no secret recipe' as he eyes 2020|date=August 29, 2018|website=ABC News|language=en|access-date=December 8, 2018|archive-url=https://web.archive.org/web/20181209124148/https://abcnews.go.com/Politics/red-state-governor-democrats-lose-midterms-referendum-donald/story?id=57477278|archive-date=December 9, 2018|url-status=live}}</ref><ref name="":1"" /> ''[[The New York Times]]'' referred to Bullock as being among [[Centrism|centrist]] Democratic governors.<ref name=NYTimes17July2017>{{Cite news|url=https://www.nytimes.com/2017/07/17/us/politics/democrat-governors-bullock-mcauliffe.html|title=As Party Drifts Left, Pragmatic Democratic Governors Have Eye on White House|last=Martin|first=Jonathan|date=July 17, 2017|work=The New York Times|access-date=December 8, 2018|language=en-US|issn=0362-4331|archive-url=https://web.archive.org/web/20190129073634/https://www.nytimes.com/2017/07/17/us/politics/democrat-governors-bullock-mcauliffe.html|archive-date=January 29, 2019|url-status=live}}</ref> [[On the Issues|On The Issues]], which tracks candidates' positions and records, also classifies Bullock as a ""Moderate Liberal.""<ref>{{Cite web|url=http://www.ontheissues.org/Steve_Bullock.htm|title=Steve Bullock on the Issues|website=www.ontheissues.org|access-date=January 21, 2020|archive-url=https://web.archive.org/web/20181107202331/http://www.ontheissues.org/Steve_Bullock.htm|archive-date=November 7, 2018|url-status=live}}</ref>
+ 
+ ===Abortion===
+ In 2017, Bullock vetoed measures to outlaw [[abortion]]s after 20 weeks, citing constitutional rulings on the women's ability to protect their lives and health and arguing that elected officials should not put personal beliefs above medical professionals' judgment.<ref>{{cite web |title=Abortion, guns, state plane among bills vetoed by governor |url=https://apnews.com/article/3cd844d6f8f643c897d132c930f19379 |website=[[Associated Press]] |date=5 May 2017}}</ref><ref>{{cite web|title=Governor Bullock Stands With Montana Families By Vetoing Extreme Bills Endangering Women|url=https://www.aclumontana.org/en/press-releases/governor-bullock-stands-montana-families-vetoing-extreme-bills-endangering-women|website=American Civil Liberties Union of Montana|accessdate=July 2, 2018|archive-url=https://web.archive.org/web/20180702093732/https://www.aclumontana.org/en/press-releases/governor-bullock-stands-montana-families-vetoing-extreme-bills-endangering-women|archive-date=July 2, 2018|url-status=live}}</ref> He has said that he personally believes life begins at [[Fetal viability|viability]] but that ""it's not up to people like me to be making these decisions"".<ref>{{cite web |last1=Frazin |first1=Rachel |title=2020 Dem Steve Bullock: I think life begins at viability |url=https://thehill.com/homenews/campaign/444444-bullock-i-think-life-begins-at-viability |website=[[The Hill (newspaper)|The Hill]] |language=en |date=19 May 2019}}</ref> In 2018, Bullock wrote a letter to [[Secretary of Health and Human Services]] [[Alex Azar]] requesting that [[Title X]] funding for reproductive health care and [[family planning]] for low-income women remain in effect, saying the program had generated more than $29 million in savings.<ref>{{cite web |last1=Drake |first1=Phil |title=Bullock repeats opposition to family planning changes |url=https://eu.greatfallstribune.com/story/news/2018/08/03/montana-governor-opposes-trumps-family-planning-changes/900103002/ |website=[[Great Falls Tribune]] |date=August 3, 2018}}</ref>
+ 
+ ===Campaign finance reform===
+ As Attorney General of Montana, Bullock advocated on behalf of the state's century-old ban on corporate money in elections, the Montana Corrupt Practices Act of 1912. After that and similar laws were struck down by the U.S. Supreme Court's ''[[Citizens United]]'' decision in 2010, Bullock countered with a new case, ''American Tradition Partnership, Inc. v. Bullock'' (2012). The Supreme Court disposed of the case in a 5–4 decision,<ref>{{cite web |title=AMERICAN TRADITION PARTNERSHIP, INC. v. BULLOCK |url=https://www.law.cornell.edu/supremecourt/text/11-1179 |website=Legal Information Institute |publisher=Cornell Law School |accessdate=September 4, 2018 |archive-url=https://web.archive.org/web/20180904192224/https://www.law.cornell.edu/supremecourt/text/11-1179 |archive-date=September 4, 2018 |url-status=live }}</ref> but Bullock continued to advocate for campaign finance reform throughout his time as governor of Montana.<ref name=""Billings Gazette"">{{cite web |last1=Johnson |first1=Charles S. |title=Bullock signs Montana campaign finance bill into law |url=https://billingsgazette.com/news/government-and-politics/bullock-signs-montana-campaign-finance-bill-into-law/article_c8a0cc59-a7bf-5381-9136-ae118d9a13ff.html |website=Billings Gazette |accessdate=September 4, 2018 |archive-url=https://web.archive.org/web/20180904191908/https://billingsgazette.com/news/government-and-politics/bullock-signs-montana-campaign-finance-bill-into-law/article_c8a0cc59-a7bf-5381-9136-ae118d9a13ff.html |archive-date=September 4, 2018 |url-status=live }}</ref><ref>{{cite web |last1=Memoli |first1=Mike |title=Montana governor pushes for more transparency on donors |url=https://www.nbcnews.com/card/montana-governor-pushes-more-transparency-donors-n880316 |website=NBC News |accessdate=September 4, 2018 |archive-url=https://web.archive.org/web/20180905052524/https://www.nbcnews.com/card/montana-governor-pushes-more-transparency-donors-n880316 |archive-date=September 5, 2018 |url-status=live }}</ref>
+ 
+ In 2015, Bullock steered the DISCLOSE Act, a bipartisan campaign finance reform bill that bolstered disclosure requirements in Montana elections, through a GOP-controlled state legislature.<ref name=""Billings Gazette""/><ref>{{Cite AV media |people=Soboroff, Jacob |title=MSNBC's American Swamp: Governor Bullock leading the fight against dark money in politics |medium=Video |url=https://www.youtube.com/watch?v=uyL2h8e0CNI |publisher=Steve Bullock <!-- Official YouTube account --> |location= |date=July 29, 2019 |time= }}</ref>
+ 
+ In June 2018, Bullock signed an executive order that required the recipients of major government contracts in Montana to disclose ""[[dark money]] spending"" in elections, including spending disclosure not explicitly required by federal law.<ref>{{cite web |agency=Associated Press |title=Bullock tells Montana contractors to report 'dark money' |url=https://coloradopolitics.com/out-west-roundup-bullock-tells-montana-contractors-report-dark-money/ |website=CP: Colorado Politics |accessdate=September 4, 2018 |archive-url=https://web.archive.org/web/20180904192022/https://coloradopolitics.com/out-west-roundup-bullock-tells-montana-contractors-report-dark-money/ |archive-date=September 4, 2018 |url-status=live  }}</ref>",2020-11-11 17:50:55+00:00,4,
+"--- 
++++ 
+@@ -83,31 +83,31 @@
+ 
+ ''[[The Atlantic]]'' called him the ""secret diplomatic weapon"" deployed against some of the thorniest foreign policy challenges of the US.<ref>{{cite news|last1=Kralev|first1=Nicholas|title=The White House's Secret Diplomatic Weapon|url=https://www.theatlantic.com/international/archive/2013/04/the-white-houses-secret-diplomatic-weapon/274655/|accessdate=30 June 2014|work=The Atlantic|date=April 4, 2013}}</ref>
+ 
+ === Carnegie Endowment for International Peace ===
+ Burns was appointed the ninth President of the [[Carnegie Endowment for International Peace]] on February 4, 2015, where he leads a global network of 140 scholars across 20 countries and six centers.
+ 
+ Burns was widely assumed to be on the shortlist of the nominees of presidential candidate [[Hillary Clinton]] for Secretary of State,<ref>{{Cite web|url=https://www.politico.com/story/2016/08/hillary-clinton-john-kerry-secretary-state-226740|title=Would Hillary keep John Kerry on?|first=Michael|last=Crowley|website=POLITICO}}</ref> and is reported by POLITICO to be a possible contender for presidential candidate [[Joe Biden]]'s Secretary of State as well.<ref>{{cite web |last1=Toosi |first1=Nahal |title=The race to be Biden’s secretary of State is already underway |url=https://www.politico.com/news/2020/10/19/joe-biden-secretary-of-state-430089 |website=POLITICO |accessdate=19 October 2020 |language=en}}</ref>
+ 
+ ===Publications===
+ His bestselling memoir, ''[https://carnegieendowment.org/2019/01/25/back-channel-memoir-of-american-diplomacy-and-case-for-its-renewal-pub-78072 The Back Channel: A Memoir of American Diplomacy and the Case for Its Renewal]'', was published by [[Random House]] in 2019. It was published in conjunction with an [https://carnegieendowment.org/publications/interactive/back-channel/ archive] of nearly 100 declassified diplomatic cables. For ''The Back Channel'', Burns received The Douglas Dillon Book Award for Books of Distinction on the Practice of American Diplomacy (2019).<ref>{{Cite web|url=https://www.academyofdiplomacy.org/recipient/william-burns/|title=William Burns|website=The American Academy of Diplomacy}}</ref> 
+ 
+ In 2019, he was made a contributing writer at The Atlantic magazine.
+ 
+ Burns writes regularly on US foreign policy and diplomacy for the ''New York Times'', ''Washington Post'', ''Foreign Affairs'', and other publications.<ref name=""auto"">{{Cite web|url=https://carnegieendowment.org/experts/1014|title=William J. Burns|website=Carnegie Endowment for International Peace}}</ref>
+ 
+-His Oxford dissertation was published in 1985 as [https://www.amazon.com/Economic-American-Policy-Toward-1955-1981/dp/0873958691 ''Economic Aid and American Policy Toward Egypt, 1955–1981''].
++His Oxford dissertation was published in 1985 as ''Economic Aid and American Policy Toward Egypt, 1955–1981''.
+ 
+ == Awards ==
+ Burns is the recipient of three [[President's Award for Distinguished Federal Civilian Service|Presidential Distinguished Service Awards]] and a number of [[Awards of the United States Department of State|Department of State awards]], including three [[Secretary's Distinguished Service Award]]s, the [[Secretary's Career Achievement Award]], the [[Awards of the United States Department of State#Charles E. Cobb Jr. Award for Initiative and Success in Trade Development|Charles E. Cobb, Jr. Ambassadorial Award for Initiative and Success in Trade Development]] (2006), the [[Awards of the United States Department of State#Robert C. Frasure Memorial Award|Robert C. Frasure Memorial Award]] (2005), and the [[Awards of the United States Department of State|James Clement Dunn Award]] (1991). He also received the [[Department of Defense Award for Distinguished Public Service]] (2014), the U.S. Intelligence Community Medallion (2014), and the Central Intelligence Agency's [[Agency Seal Medal]] (2014). 
+ 
+ In 1994, Burns was named to [[TIME Magazine|''TIME'' Magazine]]'s lists of ""50 Most Promising American Leaders Under Age 40"" and ""100 Most Promising Global Leaders Under Age 40"".<ref>{{Cite web|url=https://time.com/3618532/future-leaders-of-the-1990s/|title=What Happened to the 'Future Leaders' of the 1990s?|website=Time}}</ref>  He was named ''[[Foreign Policy]]''<nowiki/>'s ""Diplomat of the Year"" in 2013.<ref>{{cite web|title=Bill Burns Honored as Diplomat of the Year|url=http://thecable.foreignpolicy.com/posts/2013/06/12/bill_burns_honored_as_diplomat_of_the_year|website=foreignpolicy.com|publisher=Foreign Policy|accessdate=30 June 2014}}</ref>  He is the recipient of [[Anti-Defamation League]]'s Distinguished Statesman Award (2014),<ref>{{cite web|title=Deputy Secretary of State Bill Burns Presented with ADL Award|url=http://www.adl.org/press-center/press-releases/miscellaneous/deputy-secretary-of-state-bill-burns-presented-with-adl-award.html|website=www.adl.org|accessdate=30 June 2014}}</ref> the [[Middle East Institute]]'s Lifetime Achievement Award (2014), and the [[American Academy of Diplomacy]]'s Annenberg Award for Diplomatic Excellence (2015).<ref>{{Cite web|url=https://www.academyofdiplomacy.org/award/annenberg-excellence-in-diplomacy-award/|title=Walter and Leonore Annenberg Excellence in Diplomacy Award|website=The American Academy of Diplomacy}}</ref>
+ 
+ Burns holds four honorary doctoral degrees and is a member of the American Academy of Arts and Sciences.<ref name=""auto""/> He is also an honorary Fellow, St. John's College, Oxford (from 2012).<ref>{{cite web|title=RAI in America|url=http://www.rai.ox.ac.uk/about/RAI-in-America|website=www.rai.ox.ac.uk|accessdate=30 June 2014}}</ref>
+ 
+ ===Foreign Government Decorations===
+ * Commandeur, [[Legion of Honour]] (France)
+ * Knight Commander, [[Order of Merit of the Federal Republic of Germany|Order of Merit]] (Germany)
+ * Grand Cordon, [[Order of the Rising Sun]] (Japan)
+ * [[Marshall Scholarship|Marshall Medal]] (UK)<ref>{{Cite web|url=https://www.marshallscholarship.org/the-scholarship/the-marshall-medal|title=The Marshall Medal - Marshall Scholarships|website=www.marshallscholarship.org}}</ref>
+ * Commentadore,  [[Order of Merit of the Italian Republic|Order of Merit]] (Italy)
+ * First Order, [[Order of the Star of Jordan|Al Kawkab Medal]] (Jordan)",2020-11-11 18:15:31+00:00,4,
+"--- 
++++ 
+@@ -148,31 +148,31 @@
+ * [[Michael Huffington]] (R), U.S. Representative
+ * [[Elizabeth Cervantes Barron]] (PF)
+ * Barbara Blong (G)
+ * Richard Benjamin Boddie (L)
+ * Paul Meeuwenberg (AI)
+ 
+ === Campaign ===
+ After one term in the House representing [[Santa Barbara County, California|Santa Barbara]] and [[San Luis Obispo County, California|San Luis Obispo]] counties, Huffington spent $8 million by the end of August and a total of $28 million during the entire campaign. He became wealthy off oil and gas. The race saw personal attacks on Huffington's wife, [[Arianna Huffington]], who was very involved in the race (the media dubbed her the ""Sir Edmund Hillary of social climbing,"" according to ''[[The Almanac of American Politics]]'').
+ 
+ Huffington was called a hypocrite for supporting [[Proposition 187]] and then breaking the law for employing illegal aliens, a story which came out in the race's final days.<ref>{{cite news |author=B. Drummond Ayres Jr. |date=October 27, 1994 |title=THE 1994 CAMPAIGN: CALIFORNIA; Huffington Admits Hiring Illegal Alien |newspaper=The New York Times |url=https://www.nytimes.com/1994/10/27/us/the-1994-campaign-california-huffington-admits-hiring-illegal-alien.html?pagewanted=1}}</ref> A grand total of $44 million was spent in the election. At the time, it was the most expensive campaign in a non-presidential election in American history. [[Chris Cillizza]] of ''[[The Washington Post]]'' named the election one of the nastiest senate elections in modern history.<ref>{{cite news |author=[[Chris Cillizza]] |date=July 1, 2010 |title=The 10 nastiest Senate races |publisher=The Washington Post The Fix blog |url=http://voices.washingtonpost.com/thefix/senate/the-10-nastiest-senate-races.html?wprss=thefix}}</ref>
+ 
+ === Results ===
+ On election day it was a very close race, but Feinstein won Los Angeles County, which may have pulled her ahead. Her sizable win in the nine-county San Francisco Bay Area may also be credited to her slim statewide victory. A large number of absentee ballots left the results in doubt for over two weeks. On November 18, Senator Feinstein declared victory. At that time, she was ahead by 147,404 votes, with only 156,210 remaining uncounted ballots.<ref name=""Feinstein declared victory"">{{cite news |author=B. Drummond Ayres Jr. |date=November 19, 1994 |title=THE NEW CONGRESS: CALIFORNIA; Feinstein Claims Victory in Senate Race |newspaper=The New York Times |url=https://www.nytimes.com/1994/11/19/us/the-new-congress-california-feinstein-claims-victory-in-senate-race.html}}</ref> Huffington had not conceded at that point, saying that there was evidence of voter fraud and calling for an investigation. He had already filed a legal complaint, which had already been dismissed.<ref name=""Feinstein declared victory""/> As of December 23, Huffington still contended that there may have been voting fraud and had not conceded.<ref>{{cite news |author=B. Drummond Ayres Jr. |date=December 26, 1994 |title=Nov. 8 Is Long Gone, but the California Election Lingers On, and On and On |newspaper=The New York Times |url=https://www.nytimes.com/1994/12/26/us/nov-8-is-long-gone-but-the-california-election-lingers-on-and-on-and-on.html}}</ref>
+ 
+ ==== Overall ====
+-{{Election box begin no change| title=1994 United States Senate election in California}}
++{{Election box begin no change| title=1994 United States Senate election in California<ref name=""Sec State SOV""/><ref name=""Clerk"">{{cite web |author1=[[Clerk of the United States House of Representatives]] |title=STATISTICS OF THE CONGRESSIONAL ELECTION OF NOVEMBER 8, 1994 |url=https://history.house.gov/Institution/Election-Statistics/1994election/ |publisher=United States House of Representatives |accessdate=16 November 2020 |page=3,6 |format=PDF}}</ref>}}
+ {{Election box winning candidate with party link no change
+  | party = Democratic Party (United States)
+  | candidate = [[Dianne Feinstein]] (Incumbent)
+  | votes = 3,979,152
+  | percentage = 46.74%
+ }}
+ {{Election box candidate with party link no change
+  | party = Republican Party (United States)
+  | candidate = [[Michael Huffington]]
+  | votes = 3,817,025
+  | percentage = 44.83%
+ }}
+ {{Election box candidate with party link no change
+  | party = Peace and Freedom Party (United States)
+  | candidate = [[Elizabeth Cervantes Barron]]
+@@ -188,42 +188,43 @@
+ {{Election box candidate with party link no change
+  | party = American Independent Party
+  | candidate = Paul Meeuwenberg
+  | votes = 142,771
+  | percentage = 1.68%
+ }}
+ {{Election box candidate with party link no change
+  | party = Green Party (United States)
+  | candidate = Barbara Blong
+  | votes = 140,567
+  | percentage = 1.65%
+ }}
+ {{Election box candidate no party in partisan race no change
+  | candidate = [[Write-in candidate|Write-ins]]
+  | votes = 173
+- | percentage = 0.00
++ | percentage = <0.01%
+ }}
+ {{Election box invalid no change
+  | votes = 386,547
+- | percentage = 4.48%
++ | percentage = 4.34%{{efn|""Votes not cast"" as a percentage of votes cast anywhere statewide, which numbered 8,900,593.<ref name=""Sec State SOV""/>}}
+ }}
+ {{Election box total no change
+- | votes = 8,636,900
++ | votes = 8,514,089
+  | percentage = 100.00%
+ }}
+ {{Election box turnout no change
+- | percentage = 46.98%
++ | percentage = 44.94%{{efn|As a percentage of the voting eligible population (VEP), estimated at 18.946&nbsp;million.<ref name=""Sec State SOV""/><!--between page vii and ix, under ""HISTORICAL VOTER REGISTRATION AND
++PARTICIPATION IN STATEWIDE GENERAL ELECTIONS 1910-2008""-->}}
+ }}
+ {{Election box hold with party link without swing
+  | winner = Democratic Party (United States)
+ }}
+ {{Election box end}}
+ 
+ ==== By county ====
+ Final results from the [[Secretary of State of California|Secretary of State]].<ref name=""Sec State SOV"">{{cite web |last1=Jones |first1=Bill |authorlink1=Bill Jones (California politician) |title=STATEMENT OF VOTE: November 8, 1994, General Election |url=https://elections.cdn.sos.ca.gov/sov/1994-general/sov-complete.pdf |publisher=Office of the [[California Secretary of State]] |accessdate=17 November 2020 |page=xii,37 |format=PDF |date=1994-12-16}}</ref>
+ {| width=76% class=""wikitable sortable""
+ 
+ |-
+ ! width=10% | County
+ ! width=6% | [[Dianne Feinstein|Feinstein]]
+ ! width=6% | Votes
+ ! width=6% | [[Michael Huffington|Huffington]]",2020-11-17 02:40:00+00:00,5,
+"--- 
++++ 
+@@ -37,66 +37,79 @@
+ {{ElectionsMN}}
+ The '''1994 United States Senate election in Minnesota''' was held November 8, 1994. Incumbent Republican U.S. Senator [[David Durenberger]] decided to retire instead of seeking a third full term. Republican [[Rod Grams]] won the open seat. As of {{CURRENTYEAR}}, this is the last time the Republicans have won the Class 1 Senate Seat from Minnesota.
+ 
+ == Major candidates ==
+ === DFL ===
+ * [[Ann Wynia]], former State Representative
+ 
+ === Independence ===
+ * [[Dean Barkley]], attorney
+ 
+ === Republican ===
+ * [[Rod Grams]], U.S. Representative
+ 
+ == Results ==
+ {{Election box begin no change
+- | title=General election results}}
++ | title=1994 United States Senate election in Minnesota<ref name=""Clerk"">{{cite web |author1=[[Clerk of the United States House of Representatives]] |title=STATISTICS OF THE CONGRESSIONAL ELECTION OF NOVEMBER 8, 1994 |url=https://history.house.gov/Institution/Election-Statistics/1994election/ |publisher=United States House of Representatives |accessdate=16 November 2020 |page=19,20 |format=PDF}}</ref>}}
+ {{Election box winning candidate with party link no change
+  | party = Republican Party (United States)
+  | candidate = Rod Grams
+  | votes = 869,653
+- | percentage = 49.1
++ | percentage = 49.05
+ }}
+ {{Election box candidate with party link no change
+  | party = Democratic Party (United States)
+  | candidate = Ann Wynia
+  | votes = 781,860
+- | percentage = 44.1
++ | percentage = 44.10
+ }}
+ {{Election box candidate with party link no change
+  | party = Independence Party of Minnesota
+  | candidate = Dean Barkley
+  | votes = 95,400
+- | percentage = 5.4
++ | percentage = 5.38
+ }}
+ {{Election box candidate with party link no change
+  | party = Independent (United States)
+  | candidate = Candice E. Sjostrom
+  | votes = 15,920
+- | percentage = 0.9
++ | percentage = 0.90
+ }}
+-{{Election box candidate no change
+- | party = Natural Law
++{{Election box candidate with party link no change
++ | party      = Natural Law Party
+  | candidate = Stephen Johnson
+  | votes = 5,054
+- | percentage = 0.3
++ | percentage = 0.29
+ }}
+-{{Election box candidate no change
+- | party = Socialist Workers
++{{Election box candidate with party link no change
++ | party = Socialist Workers Party (US)
+  | candidate = Marea Himelgrin
+  | votes = 2,428
+- | percentage = 0.1
++ | percentage = 0.14
++}}
++{{Election box candidate no party in partisan race no change
++ | candidate = [[Write-in candidate|Write-ins]]
++ | votes = 2,614
++ | percentage = 0.15
++}}
++{{Election box majority no change
++ | votes      = 87,793
++ | percentage = 4.95
++}}
++{{Election box total no change
++ | votes = 1,772,929
++ | percentage = 100.00
+ }}
+ {{Election box end}}
+ 
+ == See also ==
+ * [[United States Senate elections, 1994]]
+ 
+ == References ==
+ {{Reflist|30em}}
+ 
+ {{Minnesota elections}}
+ {{United States elections, 1994}}
+ {{US Third Party Election}}
+ [[Category:United States Senate elections in Minnesota|1994]]
+ [[Category:1994 United States Senate elections|Minnesota]]
+ [[Category:1994 Minnesota elections]]",2020-11-17 03:19:24+00:00,5,
+"--- 
++++ 
+@@ -346,30 +346,33 @@
+   |party      = Republican Party (United States)
+   |candidate  = Matt Mowers
+   |votes      =184,917 
+   |percentage =46.2 
+   }}
+ {{Election box candidate with party link no change
+   |party      = Libertarian Party (United States)
+   |candidate  = Zachary Dumont
+   |votes      =9,616 
+   |percentage =2.4 
+   }}
+ {{Election box total no change
+   | votes =400,615 
+   | percentage = 100.0
+ }}
++{{Election box hold with party link no change
++| winner = Democratic Party (United States)
++}}
+ {{Election box end}}
+ 
+ ==District 2==
+ {{see also|New Hampshire's 2nd congressional district}}
+ The 2nd district encompasses western and northern New Hampshire, and includes the cities of [[Nashua, New Hampshire|Nashua]] and [[Concord, New Hampshire|Concord]]. The incumbent is Democrat [[Ann McLane Kuster]], who was re-elected with 55.3% of the vote in 2018.<ref name=""HPVT""/>
+ 
+ ===Democratic primary===
+ ====Candidates====
+ =====Nominee=====
+ *[[Ann McLane Kuster]], incumbent U.S. Representative<ref>{{Cite web|url=http://www.kusterforcongress.com/|title=Home - Annie Kuster for Congress|website=www.kusterforcongress.com}}</ref>
+ =====Eliminated in primary=====
+ *Joseph Mirzoeff<ref name=""NH02""/>
+ ====Primary results====
+ {{Election box begin no change 
+ | title=Democratic primary results<ref name=""NHsosrd""/>",2020-11-17 03:35:44+00:00,5,
+"--- 
++++ 
+@@ -95,30 +95,33 @@
+ | candidate = Lee Ann Dugas
+ | party = Democratic Party (United States)
+ | votes = 94,730
+ | percentage = 25.3
+ }}
+ {{Election box candidate with party link no change
+ | candidate = Howard Kearney
+ | party = Libertarian Party (United States)
+ | votes = 9,309
+ | percentage = 2.5
+ }}
+ {{Election box total no change
+ | votes = 374,369
+ | percentage= 100.0
+ }}
++{{Election box hold with party link no change
++| winner = Republican Party (United States)
++}}
+ {{Election box end}}
+ 
+ ==District 2==
+ {{see also|Louisiana's 2nd congressional district}}
+ The 2nd district stretches from [[New Orleans, LA|New Orleans]] to inner [[Baton Rouge, Louisiana|Baton Rouge]]. The incumbent is Democrat [[Cedric Richmond]], who was re-elected with 80.8% of the vote in 2018.<ref name=""HPVT""/>
+ ===Candidates===
+ ====Declared====
+ *Belden ""Noonie Man"" Batiste (Independent), activist and perennial candidate<ref name=""LAcand"">{{cite web |title=A Look at Candidates Signed up for Louisiana's Fall Election |url=https://www.usnews.com/news/best-states/louisiana/articles/2020-07-24/a-look-at-candidates-signed-up-for-louisianas-fall-election |website=Associated Press |publisher=Associated Press |accessdate=August 27, 2020 |date=July 24, 2020}}</ref>
+ *Glenn Adrain Harris (Democratic)<ref name=""LAcand""/>
+ *Colby James (Independent), U.S. Army veteran<ref name=""LAcand""/>
+ *[[Cedric Richmond]] (Democratic), incumbent U.S. Representative<ref name=""LAcand""/>
+ *David Schilling (Republican)<ref name=""LAcand""/>
+ *Sheldon Vincent (Republican), retired postal worker<ref name=""LAcand""/>
+ 
+ === General election ===",2020-11-17 03:30:16+00:00,5,
+"--- 
++++ 
+@@ -8,38 +8,38 @@
+ | type               = presidential
+ | ongoing            = no
+ | previous_election  = 2018 United States Senate special election in Mississippi
+ | previous_year      = 2018 (special)
+ | next_election      = 2026 United States Senate election in Mississippi
+ | next_year          = 2026
+ | election_date      = November 3, 2020
+ 
+ | votes_counted = 99
+ | last_update = Nov. 18, 2020, 10:24 AM
+ | time_zone = [[Eastern Time Zone|EST]]<ref>{{cite web |title=Mississippi Election Results 2020|url=https://www.nytimes.com/interactive/2020/11/03/us/elections/results-mississippi.html|work=The New York Times |accessdate=6 November 2020}}</ref>
+ 
+ | image1             = [[File:Cindy Hyde-Smith official photo.jpg|x150px]]
+ | nominee1           = '''[[Cindy Hyde-Smith]]'''
+ | party1             = Republican Party (United States)
+-| popular_vote1      = '''700,981'''
+-| percentage1        = '''54.5%'''
++| popular_vote1      = '''779,491'''
++| percentage1        = '''56.4%'''
+ 
+ | image2             = [[File:Mike_Espy_20120223-OCE-RBN-1281_(cropped_2).jpg|x150px]]
+ | nominee2           = [[Mike Espy]]
+ | party2             = Democratic Party (United States)
+-| popular_vote2      = 561,761
+-| percentage2      = 43.7%
++| popular_vote2      = 578,332
++| percentage2        = 41.9%
+ 
+ | map_image          = 
+ | map_size           = 
+ | map_caption        = County results
+ | title              = U.S. Senator
+ | before_election    = [[Cindy Hyde-Smith]]
+ | before_party       = [[Republican Party (United States)|Republican]]
+ | after_election     = [[Cindy Hyde-Smith]]
+ | after_party        = [[Republican Party (United States)|Republican]]
+ }}
+ {{Elections in Mississippi}}
+ 
+ The '''2020 United States Senate election in Mississippi''' was held on November 3, 2020, to elect a member of the [[United States Senate]] to represent the [[Mississippi|State of Mississippi]], concurrently with the [[2020 United States presidential election|2020 U.S. presidential election]], as well as [[2020 United States Senate elections|other elections]] to the United States Senate, [[2020 United States House of Representatives elections|elections]] to the [[United States House of Representatives]] and various [[2020 United States elections|state and local elections]].
+ 
+ Incumbent [[Republican Party (United States)|Republican]] Senator [[Cindy Hyde-Smith]] won reelection to a full term against [[Democratic Party (United States)|Democratic]] nominee [[Mike Espy]], in a rematch of the [[2018 United States Senate special election in Mississippi|2018 special election]].
+@@ -364,50 +364,50 @@
+ | 4%
+ |-
+ | style=""text-align:left;""| [https://www.jacksonfreepress.com/news/2020/jan/24/poll-mississippians-back-medicaid-expansion-hyde-s/ Chism Strategies]
+ | January 3–7, 2020
+ | 618 (LV)
+ | ±&nbsp;3.9%
+ | {{party shading/Republican}}| '''44%'''
+ | 36%
+ | –
+ | 20%
+ |}
+ 
+ ===Results===
+ {{Election box begin | title=United States Senate election in Mississippi, 2020
+ }}
++{{Election box winning candidate with party link
++ | party      = Republican Party (United States)
++ | candidate  = [[Cindy Hyde-Smith]] (incumbent)
++ | votes      = 779,491
++ | percentage = 56.4%
++}}
++{{Election box candidate with party link
++ | party      = Democratic Party (United States)
++ | candidate  = [[Mike Espy]]
++ | votes      = 578,332
++ | percentage = 41.9%
++}}
+ {{Election box candidate with party link
+  | party      = Libertarian Party (United States)
+  | candidate  = Jimmy Edwards
+- | votes      = 
+- | percentage = 
+-}}
+-{{Election box candidate with party link
+- | party      = Democratic Party (United States)
+- | candidate  = [[Mike Espy]]
+- | votes      = 
+- | percentage = 
+-}}
+-{{Election box candidate with party link
+- | party      = Republican Party (United States)
+- | candidate  = [[Cindy Hyde-Smith]] (incumbent)
+- | votes      = 
+- | percentage = 
++ | votes      = 23,145
++ | percentage = 1.7%
+ }}
+ {{Election box total
+- | votes      =
++ | votes      = 1,380,968
+  | percentage = 100.00%
+ }}
+ {{Election box end}}
+ 
+ ==Notes==
+ {{notelist}}
+ 
+ ==References==
+ {{Reflist}}
+ 
+ ==External links==
+ * {{citation |author= [[Government Documents Round Table]] of the American Library Association |work=Voting & Elections Toolkits |url= https://godort.libguides.com/votingtoolkit/mississippi |title= Mississippi }}
+ * {{citation |work=[[Vote.org]] |location=Oakland, CA |url= https://www.vote.org/state/mississippi/ |title= Mississippi: Election Tools, Deadlines, Dates, Rules, and Links }}
+ * {{cite web |title= League of Women Voters of Mississippi |url= https://www.lwv.org/local-leagues/find-local-league }} (State affiliate of the U.S. [[League of Women Voters]])
+ * {{Ballotpedia|Mississippi|Mississippi}}",2020-11-19 16:38:12+00:00,6,
+"--- 
++++ 
+@@ -1,16 +1,15 @@
+-{{Current election|date=November 2020}}
+ {{Use mdy dates|date=November 2020}}
+ {{use American English|date=November 2020}}
+ {{Infobox election
+ | election_name      = 2020 United States Senate election in South Dakota
+ | country            = South Dakota
+ | type               = presidential
+ | ongoing            = no
+ | previous_election  = 2014 United States Senate election in South Dakota
+ | previous_year      = 2014
+ | next_election      = 2026 United States Senate election in South Dakota
+ | next_year          = 2026
+ | election_date      = November 3, 2020
+ 
+ | votes_counted = 98
+ | last_update = Nov. 6, 2020, 12:38 AM",2020-11-19 16:59:29+00:00,6,
+"--- 
++++ 
+@@ -8,38 +8,38 @@
+ | type = presidential
+ | ongoing = no
+ | previous_election = 2014 United States Senate election in Massachusetts
+ | previous_year = 2014
+ | next_election = 2026 United States Senate election in Massachusetts
+ | next_year = 2026
+ | election_date = November 3, 2020
+ 
+ | votes_counted = 88
+ | last_update = Nov. 6, 2020, 1:36 AM
+ | time_zone = [[Eastern Time Zone|EST]]<ref>{{cite web |title=Massachussetts Election Results 2020|url=https://www.nytimes.com/interactive/2020/11/03/us/elections/results-massachusetts.html|work=The New York Times |accessdate=6 November 2020}}</ref>
+ 
+ | image1 = [[File:Edward Markey, official portrait, 114th Congress.jpg|x150px]]
+ | nominee1 = '''[[Ed Markey]]'''
+ | party1 = Democratic Party (United States)
+-| popular_vote1 = '''2,159,185'''
+-| percentage1 = '''65.9%'''
++| popular_vote1 = '''2,282,568'''
++| percentage1 = '''66.5%'''
+ 
+ | image2 = [[File:3x4.svg|x150px]]
+ | nominee2 = Kevin O'Connor
+ | party2 = Republican Party (United States)
+-| popular_vote2 = 1,094,136
+-| percentage2 = 33.4%
++| popular_vote2 = 1,149,842
++| percentage2 = 33.5%
+ 
+ | map_image = 
+ | map_size = 
+ | map_caption = County results
+ | title = U.S. Senator
+ | before_election = [[Ed Markey]]
+ | before_party = Democratic Party (United States)
+ | after_election = [[Ed Markey]]
+ | after_party = Democratic Party (United States)
+ }}{{Voting in massachusetts}}{{Elections in Massachusetts}}
+ The '''2020 United States Senate election in Massachusetts''' was held on November 3, 2020, to elect a member of the [[United States Senate]] to represent the [[Commonwealth of Massachusetts]], concurrently with the [[2020 U.S. presidential election]], as well as [[2020 United States Senate elections|elections]] to the United States Senate in other states, [[2020 United States House of Representatives elections|elections]] to the [[United States House of Representatives]] and various [[2020 United States elections|state and local elections]]. On September 1, incumbent Senator [[Ed Markey]] defeated U.S. Representative [[Joe Kennedy III]] in a competitive primary for the [[Democratic Party (United States)|Democratic]] nomination and Kevin O'Connor defeated [[Shiva Ayyadurai]] for the [[Republican Party (United States)|Republican]] nomination.
+ 
+ ==Democratic primary==
+ The state primary election took place on September 1, 2020.<ref name="":0"">{{cite web |url=https://www.sec.state.ma.us/CalendarWeb/Pages/MonthWeekCalendar.aspx |title= Election calendar|website= www.sec.state.ma.us|format=PDF|access-date=2020-08-03}}</ref> Incumbent Senator [[Ed Markey]] was challenged by U.S. Representative [[Joe Kennedy III]]. Kennedy and Markey have similar political positions, though Markey is considered more liberal on the [[NOMINATE (scaling method)|DW-Nominate]] scale.<ref>{{Cite web|last=Rakich|first=Nathaniel|date=2019-09-24|title=Joe Kennedy Isn't Your Usual Upstart Primary Challenger|url=https://fivethirtyeight.com/features/joe-kennedy-wants-to-unseat-a-senator-hes-not-your-usual-primary-challenger/|access-date=2020-09-02|website=FiveThirtyEight|language=en-US}}</ref> An elected senator has not been defeated in a primary since [[Richard Lugar]] in [[2012 United States Senate election in Indiana|2012]], and an elected Democrat has not been defeated since [[Joe Lieberman]] in [[2006 United States Senate election in Connecticut|2006]].<ref>{{Cite web|last=Jacobson|first=Louis|title=Markey vs. Kennedy: Welcome to the most unusual Senate primary in decades – Sabato's Crystal Ball|url=https://centerforpolitics.org/crystalball/articles/markey-vs-kennedy-welcome-to-the-most-unusual-senate-primary-in-decades/|access-date=2020-08-30|language=en-US}}. [[Arlen Specter]], who was elected as a Republican but switched parties to Democratic, was defeated in [[2010 United States Senate election in Pennsylvania|2010]] during his first Democratic primary.</ref>
+ 
+@@ -1442,49 +1442,49 @@
+ ! Undecided
+ |-
+ | style=""text-align:left;""| [https://commonwealthmagazine.org/politics/kennedy-holds-17-point-lead-over-markey-in-poll/ Change Research]
+ | August 23–25, 2019
+ | 1,008 (RV)
+ | ±&nbsp;3.1%
+ | 31%
+ | {{party shading/Republican}}| '''56%'''
+ | –
+ |}
+ {{collapse bottom}}
+ 
+ === Results ===
+ {{Election box begin| title= United States Senate election in Massachusetts, 2020
+ }}
+-{{Election box candidate with party link 
++{{Election box winning candidate with party link 
+  | party      = Democratic Party (United States)
+  | candidate  = [[Ed Markey]] (incumbent)
+- | votes      = 
+- | percentage =
++ | votes      = 2,282,568
++ | percentage = 66.5%
+ }}
+ {{Election box candidate with party link 
+  | party      = Republican Party (United States)
+  | candidate  = Kevin O'Connor
+- | votes      = 
+- | percentage = 
++ | votes      = 1,149,842
++ | percentage = 33.5%
+ }}
+ {{Election box write-in with party link
+  | votes      = 
+  | percentage = 
+  | change     = 
+ }}
+ {{Election box total 
+- | votes      = 
++ | votes      = 3,432,410
+  | percentage = 100.0%
+ }}
+ {{Election box end}}
+ 
+ ==See also==
+ * [[2020 Massachusetts general election]]
+ 
+ ==Notes==
+ ;General
+ {{notelist}}
+ ; Partisan clients
+ {{notelist-ua}}
+ 
+ ==References==
+ {{Reflist|30em}}",2020-11-19 16:19:55+00:00,6,
+"--- 
++++ 
+@@ -59,52 +59,52 @@
+ === Tenure ===
+ 
+ === Committee assignments ===
+ 
+ === Caucus memberships ===
+ 
+ ==Honors and awards==
+ Bice was chosen as one of 52 legislators across the U.S. for the State Legislative Leaders Foundation Emerging Leaders Class of 2015.<ref>{{Cite web|url=https://www.sllf.org/leadership-programs/emerging-leaders-program/emerging-leaders-program-past-participants/|title=Emerging Legislative Leaders Program: Past Participants|last=SLLF|publisher=The State Legislative Leaders Foundation|access-date=December 12, 2019}}</ref>{{better source|date=November 2020}} She was also selected as a [[GOPAC]] Emerging Leader for 2015 and received the Oklahoma State Chamber of Commerce Rising Star award.<ref name=""auto"">{{Cite web|url=https://www.gopac.org/2015/04/gopac-announces-2015-class-of-emerging-leaders/|title=GOPAC Announces 2015 Class of Emerging Leaders|date=April 26, 2015|publisher=GOPAC|access-date=December 12, 2019}}</ref><ref>{{Cite web|url=https://www.okstatechamber.com/blog/post/two-time-pulitzer-prize-winner-bob-woodward-speaks-oklahoma-business-leaders,%20http://www.okstatechamber.com/|title=Two-Time Pulitzer Prize-Winner Bob Woodward Speaks to Oklahoma Business Leaders {{!}} Oklahoma State Chamber News {{!}} Oklahoma State Chamber|date=May 18, 2017|publisher=Oklahoma State Chamber of Commerce |access-date=December 12, 2019}}</ref>{{better source|date=November 2020}} That year she also addressed the Southern Republican Leadership Conference held in Oklahoma City.<ref>{{Cite web|url=https://www.okgazette.com/oklahoma/srlc-local-lawmakers-urge-focus-on-urban-centers-female-candidates/Content?oid=2952741|title=SRLC: Local lawmakers urge focus on urban centers, female candidates|last=Felder|first=Ben|website=Oklahoma Gazette|access-date=December 12, 2019}}</ref> She was selected as one of 25 women for the Governing Institute's Leadership Class of 2016.<ref name=""auto""/>{{better source|date=November 2020}} Bice is an [[Aspen Institute]]–Rodel Fellow.<ref>{{Cite web|url=https://www.aspeninstitute.org/programs/rodel-fellowships-public-leadership/aspen-institute-rodel-fellowship-class-2016-3-2-2/|title=Aspen Institute-Rodel Fellowships Class of 2018|publisher=The Aspen Institute|access-date=December 12, 2019}}</ref>{{better source|date=November 2020}}
+ 
+ ==Personal life==
+ Bice graduated from Putnam City High School in Oklahoma.<ref name = ""campaign"">{{Cite web|title=About {{!}} Stephanie Bice for Congress|url=https://www.biceforcongress.com/about/|access-date=September 19, 2020|website=BiceforCongress.com}}</ref> She married Geoffrey Bice in 1996.<ref>{{Cite web|url=https://www.oscn.net/dockets/GetCaseInformation.aspx?db=oklahoma&number=ML-1996-241&cmid=981240|title=Bice Marriage License}}</ref> The Bices have two daughters.<ref name = ""campaign""/> Bice is Catholic and attends St. Eugene Catholic Church in Oklahoma City.<ref>{{Cite web|title=Oklahoma senator is named 'Friend of Faith' - Article Photos|url=https://oklahoman.com/gallery/articleid/5608998|access-date=September 19, 2020|website=Oklahoman.com|date=}}</ref>
+ 
+ ==Election results==
+ ===2020 congressional election===
+ {{Election box begin no change
+-| title = 2020 Republican Primary Runoff Results, Oklahoma's 5th Congressional District<ref>{{cite web |title=OK Election Results |url=https://results.okelections.us/OKER/?elecDate=20200825 |title=Oklahoma State Election Board Official Results, August 25, 2020 |website=Results.OKElections.us |accessdate=October 15, 2020}}</ref>
++| title = 2020 Republican primary runoff results, Oklahoma's 5th congressional district<ref>{{cite web |title=OK Election Results |url=https://results.okelections.us/OKER/?elecDate=20200825 |title=Oklahoma State Election Board Official Results, August 25, 2020 |website=Results.OKElections.us |accessdate=October 15, 2020}}</ref>
+ }}
+ {{Election box winning candidate with party link no change
+ | candidate = [[Stephanie Bice]]
+ | party = Republican Party (United States)
+ | votes = 27,402
+ | percentage = 52.9
+ }}
+ {{Election box candidate with party link no change
+ | candidate = [[Terry Neese]]
+ | party = Republican Party (United States)
+ | votes = 24,369
+ | percentage = 47.1
+ }}
+ {{Election box total no change
+ | votes = 51,771
+ | percentage = 100.0
+ }}
+ {{Election box end}}
+ 
+ {{Election box begin no change
+-| title = 2020 Republican Primary Results, Oklahoma's 5th Congressional District<ref name=""PrimaryNight""> {{Cite web|url=https://results.okelections.us/OKER/?elecDate=20200630|title=Oklahoma State Election Board Official Results, June 30, 2020 |website=Results.OKElections.us |access-date= June 30, 2020}}</ref> 
++| title = 2020 Republican primary results, Oklahoma's 5th congressional district<ref name=""PrimaryNight""> {{Cite web|url=https://results.okelections.us/OKER/?elecDate=20200630|title=Oklahoma State Election Board Official Results, June 30, 2020 |website=Results.OKElections.us |access-date= June 30, 2020}}</ref> 
+ }}
+ {{Election box winning candidate with party link no change
+ | candidate = Terry Neese
+ | party = Republican Party (United States)
+ | votes = 24,822
+ | percentage = 36.5
+ }}
+ {{Election box winning candidate with party link no change
+ | candidate = [[Stephanie Bice]]
+ | party = Republican Party (United States)
+ | votes = 17,289
+ | percentage = 25.4
+ }}
+ {{Election box candidate with party link no change
+ | candidate = David Hill
+@@ -144,78 +144,78 @@
+ }}
+ {{Election box candidate with party link no change
+ | candidate = Charles Tuffy Pringle
+ | party = Republican Party (United States)
+ | votes = 907
+ | percentage = 1.3
+ }}
+ {{Election box total no change
+ | votes = 68,032
+ | percentage = 100.0
+ }}
+ {{Election box end}}
+ 
+ ===2018 Oklahoma Senate election===
+ {{Election box begin
+-|title = 2018 General Election, Oklahoma Senate District 22
++|title = 2018 general election results, Oklahoma Senate District 22<ref>https://www.ok.gov/elections/support/20181106_seb.html</ref>
+ }}
+ {{Election box winning candidate with party link
+ | candidate = Stephanie Bice
+ | party = Republican Party (United States)
+ | votes = 24,465
+ | percentage = 68.3%
+ | change = N/A
+ }}
+ {{Election box candidate with party link
+ | candidate = William Andrews
+ | party = Democratic Party (United States)
+ | votes = 11,377
+ | percentage = 31.7%
+ | change = N/A
+ }}
+ {{Election box total
+ | votes = 35,842
+ | percentage = 100%
+ | change = N/A
+ }}
+ {{Election box end}}
+ 
+ ===2014 Oklahoma Senate election===
+ Bice was unopposed in the 2014 general election.<ref>https://www.kgou.org/post/now-official-many-uncontested-races-candidates-have-been-winners-awhile</ref>
+ {{Election box begin no change
+-|title=Republican runoff results State Senate District 22, 2014<ref>https://www.ok.gov/elections/Election_Info/20140826_Runoffprimaryelections.html</ref>
++|title=2014 Republican runoff primary results, Oklahoma Senate District 22<ref>https://www.ok.gov/elections/Election_Info/20140826_Runoffprimaryelections.html</ref>
+ }}
+ {{Election box winning candidate with party link no change
+ |candidate=Stephanie Bice
+ |party=Republican Party (United States)
+ |votes=2,693
+ |percentage=53.1
+ }}
+ {{Election box candidate with party link no change
+ |candidate=Mark Thomas
+ |party=Republican Party (United States)
+ |votes=2,381
+ |percentage=46.9
+ }}
+ {{Election box total no change
+ |votes=5,074
+ |percentage=100.0
+ }}
+ {{Election box end}}
+ 
+ {{Election box begin no change
+-|title=Republican primary results State Senate District 22, 2014<ref>https://www.ok.gov/elections/Election_Info/20140624_Primaryelections.html</ref>
++|title=2014 Republican primary results, Oklahoma Senate District 22<ref>https://www.ok.gov/elections/Election_Info/20140624_Primaryelections.html</ref>
+ }} 
+ {{Election box winning candidate with party link no change
+ |candidate=Stephanie Bice
+ |party=Republican Party (United States)
+ |votes=3,191
+ |percentage=37.1
+ }}
+ {{Election box winning candidate with party link no change
+ |candidate=Mark Thomas
+ |party=Republican Party (United States)
+ |votes=2,845
+ |percentage=33.2
+ }}
+ {{Election box candidate with party link no change
+ |party=Republican Party (United States)",2020-11-19 07:56:29+00:00,6,
+"--- 
++++ 
+@@ -9,43 +9,43 @@
+ | type = presidential
+ | ongoing = no
+ | previous_election = 2018 United States Senate special election in Minnesota
+ | previous_year = 2018 (special)
+ | next_election = 2026 United States Senate election in Minnesota
+ | next_year = 2026
+ | election_date = November 3, 2020
+ 
+ | votes_counted = 94
+ | last_update = Nov. 6, 2020, 12:46 AM
+ | time_zone = [[Eastern Time Zone|EST]]<ref>{{cite web |title=Minnesota Election Results 2020|url=https://www.nytimes.com/interactive/2020/11/03/us/elections/results-minnesota.html|work=The New York Times |accessdate=6 November 2020}}</ref>
+ 
+ | image1 = [[File:Tina Smith, official portrait, 116th congress (cropped).jpg|x150px]]
+ | nominee1 = '''[[Tina Smith]]'''
+ | party1 = Minnesota Democratic–Farmer–Labor Party
+-| popular_vote1 = '''1,564,996'''
++| popular_vote1 = '''1,568,390'''
+ | percentage1 = '''48.8%'''
+ 
+ | image2 = [[File:Jason Lewis, official portrait, 115th congress (cropped).jpg|x150px]]
+ | nominee2 = [[Jason Lewis (Minnesota politician)|Jason Lewis]]
+ | party2 = Republican Party (United States)
+-| popular_vote2 = 1,396,068
++| popular_vote2 = 1,399,723
+ | percentage2 = 43.5%
+ 
+ | image3 = [[File:3x4.svg|x150px]]
+ | nominee3 = Kevin O'Connor
+ | party3 = Legal Marijuana Now Party
+-| popular_vote3 = 189,760
++| popular_vote3 = 190,341
+ | percentage3 = 5.9%
+ 
+ | map_image = Minnesota Senatorial Election Results 2020.svg
+ | map_size = 250px
+ | map_caption = County results<br/>'''Smith:''' {{legend0|#a5b0ff|40-50%}} {{legend0|#7996e2|50-60%}} {{legend0|#6674de|60-70%}}<br/>'''Lewis:''' {{legend0|#ffb2b2|40-50%}} {{legend0|#e27f7f|50-60%}} {{legend0|#d75d5d|60-70%}}
+ | title = U.S. Senator
+ | before_election = [[Tina Smith]]
+ | before_party = Minnesota Democratic–Farmer–Labor Party
+ | after_election = [[Tina Smith]]
+ | after_party = Minnesota Democratic–Farmer–Labor Party
+ }}
+ {{Elections in Minnesota}}
+ 
+ The '''2020 United States Senate election in Minnesota''' was held on November 3, 2020, to elect a member of the [[United States Senate]] to represent the [[Minnesota|State of Minnesota]], concurrently with the [[2020 United States presidential election|2020 U.S. presidential election]], as well as [[2020 United States Senate elections|other elections]] to the United States Senate, [[2020 United States House of Representatives elections|elections]] to the [[United States House of Representatives]] and other [[2020 Minnesota elections|state and local elections]]. Incumbent [[Democratic Party (United States)|Democratic]] Senator [[Tina Smith]] won re-election to a full term in office.
+ 
+@@ -684,62 +684,62 @@
+ |style=""text-align:left;""|[https://www.scribd.com/document/474637138/MN-SEN-General-Election-Key-Findings-Memo-Harper-Polling Harper Polling (R)]{{efn-ua|Poll sponsored by Lewis' campaign}}
+ |May 26–28, 2020
+ |510 (LV)
+ | –
+ |{{party shading/Democratic}}|'''44%'''
+ |40%
+ | –
+ | –
+ |}
+ {{collapse bottom}}
+ 
+ === Results ===
+ {{Election box begin 
+ | title=United States Senate  election in Minnesota, 2020
+ }}
++{{Election box winning candidate with party link
++ | party      = Minnesota Democratic-Farmer-Labor Party
++ | candidate  = [[Tina Smith]] (incumbent)
++ | votes      = 1,568,390
++ | percentage = 48.8%
++}}
+ {{Election box candidate with party link
+  | party      = Republican Party (United States)
+  | candidate  = [[Jason Lewis (Minnesota politician)|Jason Lewis]]
+- | votes      = 
+- | percentage = 
++ | votes      = 1,399,723
++ | percentage = 43.5%
+ }}
+ {{Election box candidate with party link
+  | party      = Legal Marijuana Now Party
+  | candidate  = Kevin O'Connor
+- | votes      = 
+- | percentage = 
++ | votes      = 190,341
++ | percentage = 5.9%
+  | change = 
+-}}
+-{{Election box candidate with party link
+- | party      = Minnesota Democratic-Farmer-Labor Party
+- | candidate  = [[Tina Smith]] (incumbent)
+- | votes      = 
+- | percentage = 
+ }}
+ {{Election box candidate with party link
+  | party      = Grassroots Party
+  | candidate  = Oliver Steinberg
+- | votes      = 
+- | percentage = 
++ | votes      = 57,388
++ | percentage = 1.8%
+ }}
+ {{Election box write-in with party link
+  | votes      =
+  | percentage =
+  | change     = 
+ }}
+ {{Election box total
+-| votes      = 
++| votes      = 3,215,842
+ | percentage = 100.00%
+ }}
+ {{Election box end}}
+ 
+ ==See also==
+ * [[2020 Minnesota elections]]
+ 
+ ==Notes==
+ {{notelist}}
+ 
+ ;Partisan clients
+ {{notelist-ua}}
+ 
+ ==References==
+ {{Reflist}}",2020-11-19 16:34:15+00:00,6,
+"--- 
++++ 
+@@ -29,31 +29,31 @@
+ | popular_vote2      = 285,824
+ | percentage2        = 33.3%
+ 
+ | map_image          = Idaho Senate Election Results by County, 2020.svg
+ | map_size           = 150px
+ | map_caption        = Preliminary County Results
+ '''Risch:''' {{legend0|#e27f7f|50–60%}} {{legend0|#d75d5d|60–70%}} {{legend0|#d72f30|70–80%}} {{legend0|#c21b18|80–90%}} 
+ '''Jordan:''' {{legend0|#7996e2|50–60%}} {{legend0|#6674de|60–70%}} 
+ | before_election    = [[Jim Risch]]
+ | before_party       = Republican Party (United States)
+ | after_election     = [[Jim Risch]]
+ | after_party        = Republican Party (United States)
+ }}
+ {{Elections in Idaho}}
+ 
+-The '''2020 United States Senate election in Idaho''' was held on November 3, 2020, to elect a member of the [[United States Senate]] to represent the [[Idaho|State of Idaho]], concurrently with the [[2020 United States presidential election|2020 U.S. presidential election]], as well as [[2020 United States Senate elections|other elections]] to the United States Senate, [[2020 United States House of Representatives elections|elections]] to the [[United States House of Representatives]] and various [[2020 United States elections|state and local elections]]. Incumbent [[Republican Party (United States)|Republican]] Senator [[Jim Risch]] is running for reelection to a third term in office.
++The '''2020 United States Senate election in Idaho''' was held on November 3, 2020, to elect a member of the [[United States Senate]] to represent the [[Idaho|State of Idaho]], concurrently with the [[2020 United States presidential election|2020 U.S. presidential election]], as well as [[2020 United States Senate elections|other elections]] to the United States Senate, [[2020 United States House of Representatives elections|elections]] to the [[United States House of Representatives]] and various [[2020 United States elections|state and local elections]]. Incumbent [[Republican Party (United States)|Republican]] Senator [[Jim Risch]] won reelection to a third term in office, defeating Democratic nominee [[Paulette Jordan]].
+ 
+ ==Republican primary==
+ ===Candidates===
+ ====Nominee====
+ * [[Jim Risch]], incumbent U.S. Senator<ref>{{cite web |last1=Russell |first1=Betsy |title=Risch announces re-election bid for 3rd Senate term in 2020 |url=https://www.idahopress.com/eyeonboise/risch-announces-re-election-bid-for-rd-senate-term-in/article_f83e44c3-b1ea-5697-b0d3-418ae88065e6.html |website=Idaho Press |accessdate=August 12, 2019 |date=August 12, 2019}}</ref>
+ 
+ ===Results===
+ {{Election box begin no change
+ | title = Republican primary results<ref name=""IDsosr"">{{cite web |title=OFFICIAL ELECTION RESULTS |url=https://www.livevoterturnout.com/Idaho/LiveResults/1/en/Index_112.html |website=State of Idaho - Elections Department |accessdate=August 28, 2020}}</ref>
+ }}
+ {{Election box winning candidate with party link no change
+ | candidate = [[Jim Risch]] (incumbent)
+ | party = Republican Party (United States)
+ | votes = 200,184
+ | percentage = 100.00%",2020-11-19 00:41:44+00:00,6,
+"--- 
++++ 
+@@ -126,37 +126,30 @@
+ ** Congressional Friends of Jesuit Colleges and Universities Caucus (Co-Chair)
+ * [[115th United States Congress]]<ref name=""auto""/>
+ ** Congressional Cancer Survivors Caucus (Co-Chair)
+ ** Congressional Caucus on Urban Regional Studies (Co-Chair)
+ 
+ ====Membership<ref>{{Cite news|url=https://desaulnier.house.gov/about/caucuses|title=Caucuses|date=2015-04-07|work=Congressman Mark DeSaulnier|access-date=2017-11-16}}</ref>====
+ * American Sikh Congressional Caucus
+ * Innovation and the Human Condition Caucus
+ * '''[[Congressional Progressive Caucus]]'''<ref>{{cite web|title=Caucus Members|url=https://cpc-grijalva.house.gov/index.cfm?sectionid=71&sectiontree=2,71|publisher=Congressional Progressive Caucus|accessdate=January 30, 2018}}</ref>
+ * Gun Violence Prevention Task Force
+ * Out of Poverty Caucus
+ * Humanities Caucus
+ * Animal Protection Caucus
+ * Safe Climate Caucus
+ 
+-==Personal life==
+-A member of the Concord Chamber of Commerce and the Contra Costa Council, DeSaulnier lives in [[Concord, California]], where he raised his two sons. He is an avid runner and has completed twenty-one marathons.<ref>{{cite news|url = https://www.mercurynews.com/2020/03/21/rep-mark-desaulniers-conditions-worsens-now-listen-in-critical-care/|title = Rep. Mark DeSaulnier's condition worsens, now listed as critical|work = [[East Bay Times]]|date = March 21, 2020|accessdate = March 21, 2020|last = Gartell|first = Nate}}</ref>
+-
+-In May 2016, DeSaulnier announced that he had been diagnosed with [[chronic lymphocytic leukemia]] in 2015, and had undergone chemotherapy.<ref name=""cancer"">{{cite web|url=https://www.latimes.com/la-pol-ca-desaulnier-cancer-20160506-snap-story.html|title=U.S. Rep. Mark DeSaulnier says blood cancer won't keep him from seeking another term|publisher=[[Los Angeles Times]].com|accessdate=May 7, 2016|date=May 6, 2016|author=Sarah D. Wire}}</ref> While the cancer was described as incurable, DeSaulnier said he would still seek re-election.<ref name=""cancer""/>
+-
+-On March 13, 2020, DeSaulnier was hospitalized in [[Washington, D.C.]], for a rib fracture sustained during a run, as well as for pneumonia.<ref>{{cite news|url = https://www.mercurynews.com/2020/03/16/congressman-mark-desaulnier-hospitalized-in-running-fall/|title = Congressman Mark DeSaulnier hospitalized in running fall|work = [[The Mercury News]]|date = March 16, 2020|accessdate = March 21, 2020|last = Hurd|first = Rick}}</ref> On March 21, it was announced that his health had declined, and he was reported as being in [[medical state|critical condition]].<ref>{{cite news|url = https://www.politico.com/states/california/story/2020/03/21/rep-mark-desaulnier-declines-to-critical-condition-in-pneumonia-fight-1268645|title = Rep. Mark DeSaulnier declines to 'critical condition' in pneumonia fight|work = [[Politico]]|date = March 21, 2020|accessdate = March 21, 2020|last = White|first = Jeremy B.}}</ref> He steadily recovered, and was released from the hospital on May 4.<ref>{{Cite web|title=Rep. Mark DeSaulnier released after nearly two months in hospital|url=https://www.mercurynews.com/rep-mark-desaulnier-released-after-nearly-two-months-in-hospital|last=Borenstein|first=Daniel|date=2020-05-04|website=The Mercury News|language=en-US|url-status=live|archive-url=|archive-date=|access-date=2020-05-27}}</ref>
+-
+ == Electoral history ==
+ {| class=""wikitable""
+ |-
+ ! colspan=""4"" |California 11th Assembly District Democratic Primary Election, 2006
+ |-
+ |'''Party'''
+ |'''Candidate'''
+ |'''Votes'''
+ |'''%'''
+ |-
+ |Democratic
+ |'''Mark DeSaulnier'''
+ |20,328
+ |51.7
+ |-
+@@ -445,30 +438,37 @@
+ |'''Party'''
+ |'''Candidate'''
+ |'''Votes'''
+ |'''%'''
+ |-
+ |Democratic
+ |'''Mark DeSaulnier'''
+ |204,369
+ |74.1
+ |-
+ |Republican
+ |John Fitzgerald
+ |71,312
+ |25.9
+ |}
++
++==Personal life==
++A member of the Concord Chamber of Commerce and the Contra Costa Council, DeSaulnier lives in [[Concord, California]], where he raised his two sons. He is an avid runner and has completed twenty-one marathons.<ref>{{cite news|url = https://www.mercurynews.com/2020/03/21/rep-mark-desaulniers-conditions-worsens-now-listen-in-critical-care/|title = Rep. Mark DeSaulnier's condition worsens, now listed as critical|work = [[East Bay Times]]|date = March 21, 2020|accessdate = March 21, 2020|last = Gartell|first = Nate}}</ref>
++
++In May 2016, DeSaulnier announced that he had been diagnosed with [[chronic lymphocytic leukemia]] in 2015, and had undergone chemotherapy.<ref name=""cancer"">{{cite web|url=https://www.latimes.com/la-pol-ca-desaulnier-cancer-20160506-snap-story.html|title=U.S. Rep. Mark DeSaulnier says blood cancer won't keep him from seeking another term|publisher=[[Los Angeles Times]].com|accessdate=May 7, 2016|date=May 6, 2016|author=Sarah D. Wire}}</ref> While the cancer was described as incurable, DeSaulnier said he would still seek re-election.<ref name=""cancer""/>
++
++On March 13, 2020, DeSaulnier was hospitalized in [[Washington, D.C.]], for a rib fracture sustained during a run, as well as for pneumonia.<ref>{{cite news|url = https://www.mercurynews.com/2020/03/16/congressman-mark-desaulnier-hospitalized-in-running-fall/|title = Congressman Mark DeSaulnier hospitalized in running fall|work = [[The Mercury News]]|date = March 16, 2020|accessdate = March 21, 2020|last = Hurd|first = Rick}}</ref> On March 21, it was announced that his health had declined, and he was reported as being in [[medical state|critical condition]].<ref>{{cite news|url = https://www.politico.com/states/california/story/2020/03/21/rep-mark-desaulnier-declines-to-critical-condition-in-pneumonia-fight-1268645|title = Rep. Mark DeSaulnier declines to 'critical condition' in pneumonia fight|work = [[Politico]]|date = March 21, 2020|accessdate = March 21, 2020|last = White|first = Jeremy B.}}</ref> He steadily recovered, and was released from the hospital on May 4.<ref>{{Cite web|title=Rep. Mark DeSaulnier released after nearly two months in hospital|url=https://www.mercurynews.com/rep-mark-desaulnier-released-after-nearly-two-months-in-hospital|last=Borenstein|first=Daniel|date=2020-05-04|website=The Mercury News|language=en-US|url-status=live|archive-url=|archive-date=|access-date=2020-05-27}}</ref>
+ 
+ ==References==
+ 
+ {{Reflist|30em}}
+ 
+ ==External links==
+ {{commons category}}
+ {{Portal|Biography|Politics|San Francisco Bay Area|United States}}
+ * [https://desaulnier.house.gov Congressman Mark DeSaulnier] official U.S. House website
+ * [http://desaulnierforcongress.com Campaign website]
+ * {{Curlie|Regional/North_America/United_States/California/Government/Federal/US_House_of_Representatives/Mark_DeSaulnier_%5BD-11%5D}}
+ {{CongLinks | congbio=D000623 | votesmart=69477 | fec=H0CA10073 | congress=mark-desaulnier/D000623 }}
+ * {{C-SPAN|markdesaulnier}}
+ 
+ {{S-start}}",2020-11-21 01:52:07+00:00,7,
+"--- 
++++ 
+@@ -27,33 +27,36 @@
+ |predecessor3    = [[Jim Morrissey (politician)|Jim Morrissey]]
+ |successor3      = [[Tom Umberg]]
+ |birth_name      = Jose Luis Correa
+ |birth_date      = {{birth date and age|1958|1|24}}
+ |birth_place     = [[Anaheim, California|Anaheim]], [[California]], U.S.
+ |death_date      =
+ |death_place     =
+ |party           = [[Democratic Party (United States)|Democratic]]
+ |spouse          = {{marriage|Esther Correa|1990}}
+ |children        = 4
+ |education       = [[California State University, Fullerton]] ([[Bachelor of Arts|BA]])<br>[[University of California, Los Angeles]] ([[Juris Doctor|JD]], [[Master of Business Administration|MBA]])
+ |website         = {{url|correa.house.gov|House website}}
+ }}
+ '''Jose Luis Correa'''<ref>{{cite news|url=http://taxdollars.ocregister.com/2011/06/03/debt-collector-erroneously-garnishes-oc-lawmakers-wages/84371/|title=Debt collector erroneously garnishes OC lawmaker's wages|work=[[The Orange County Register]]|date=June 3, 2011|last=Joseph|first=Brian}}</ref> {{IPAc-en|k|ə|ˈ|r|eɪ|ə}} (born January 24, 1958 in [[Anaheim, California]]) is an American politician who is the [[United States House of Representatives|U.S. Representative]] for {{ushr|CA|46}}. A [[Democratic Party (United States)|Democrat]], he served as a member of the [[California State Senate]], representing the 34th Senate district.
+ 
+-A graduate of [[Anaheim High School]], Correa earned a [[Bachelor of Arts]] in [[Economics]] from [[California State University, Fullerton|Cal State Fullerton]] as well as a [[Juris Doctor]] and [[Master of Business Administration]] from [[University of California, Los Angeles|UCLA]]. He was an investment banker, a real estate broker, and a college instructor.
++Prior to his career in politics, Correa was an investment banker, a real estate broker, and a college instructor.
+ 
+-==Early career==
++==Early life and education==
++A graduate of [[Anaheim High School]], Correa earned a [[Bachelor of Arts]] in [[Economics]] from [[California State University, Fullerton|Cal State Fullerton]] as well as a [[Juris Doctor]] and [[Master of Business Administration]] from [[University of California, Los Angeles|UCLA]]. 
++
++==Early political career==
+ Correa's political career began in 1996 when he ran for the [[California State Assembly]] as the Democratic nominee in the 69th Assembly district. In a very close race, he lost to [[Republican Party (United States)|Republican]] incumbent [[Jim Morrissey (politician)|Jim Morrissey]] by just 93 votes.<ref>{{cite news|url=https://articles.latimes.com/1996-12-06/local/me-10398_1_recount-request|title=Vote Recount Called Off by Assembly Candidate|work=[[Los Angeles Times]]|date=December 6, 1996|last=Warren|first=Peter}}</ref> In a 1998 rematch, Correa was elected to the Assembly when he defeated Morrissey 54% to 43%.<ref>{{cite news|title=Decision '98: The Final Count|work=[[Los Angeles Times]]|date=November 5, 1998}}</ref>
+ 
+ While a member of the Assembly, Correa served on several committees and was the chair of the Committee on Business and Professions, the Public Employees, Retirement and Social Security Committee; the Select Committee on Mobile Homes; and the Select Committee on [[Marine Corps Air Station El Toro|MCAS El Toro]] Reuse.
+ 
+ Correa was re-elected to the Assembly twice but was forced from office by California's [[term limit]]s law, which restricts members from serving more than three two-year terms.
+ 
+ In 2004, he campaigned for and was elected to the [[Orange County Board of Supervisors]], becoming the first Democrat to serve on the board since 1987.<ref>{{cite news|title=Orange County Elections|work=[[Los Angeles Times]]|date=November 3, 2004|last=Weikel|first=Dan}}</ref> He represented the first district, which includes the cities of Garden Grove, Santa Ana, and Westminster as well as unincorporated areas of the county including [[Midway City, California|Midway City]].
+ 
+ ==State Senate==
+ [[File:Lou Correa.jpg|thumb|left|Correa during his time in the state Senate]]
+ In January 2006, Correa entered the race for the Democratic Party nomination for the California State Senate 34th district, a seat vacated by termed out Democratic State Senator [[Joe Dunn (California)|Joe Dunn]].<ref>{{cite news|url=http://www.ocregister.com/news/-193239--.html|title=34th Senate race likely to get heated, expensive|work=[[The Orange County Register]]|date=January 26, 2006|last=Quach|first=Hanh Kim}}</ref>
+ 
+ After defeating Assemblyman [[Tom Umberg]] in the contested June primary, Correa faced off against Republican Assemblywoman [[Lynn Daucher]] in the November general election. In yet another close race, Correa won the election with a margin of victory of 1,392 votes.<ref>{{cite news|url=http://www.ocregister.com/news/correa-188354-daucher-district.html|title=The Hot Senate Race|work=[[The Orange County Register]]|date=October 24, 2006|last=Wisckol|first=Martin}}</ref>  
+ 
+ Correa was sworn into the California State Senate on December 4, 2006.",2020-11-21 21:15:27+00:00,7,
+"--- 
++++ 
+@@ -444,31 +444,31 @@
+ |William Martinek
+ |19,255
+ |12.7
+ |-
+ |Democratic (Write-In)
+ |Crystal Sawyer-White
+ |22
+ |0.0
+ |-
+ | colspan=""2"" |'''Total votes'''
+ |'''151,795'''
+ |'''100.0'''
+ |}
+ 
+ ==Personal life==
+-McNerney resides in [[Stockton, California]]. He and his wife, Mary, have three children. {{citation needed|date=November 2014}}
++McNerney resides in [[Stockton, California]]. He and his wife, Mary, have three children: Michael, Windy and Greg.<ref name=""Vorderbrueggen"">{{cite news |last1=Vorderbrueggen |first1=Lisa |title=Mr. McNerney goes to Washington |url=https://www.eastbaytimes.com/2007/01/09/mr-mcnerney-goes-to-washington/ |accessdate=21 November 2020 |work=East Bay Times |date=9 January 2007}}</ref> McNerney is [[Roman Catholic]].<ref>{{cite web |title=Rep.-Elect Jerry McNerney (D—Calif.) - New York Times |url=https://archive.nytimes.com/www.nytimes.com/cq/2006/11/08/cq_1899.html |website=New York Times |accessdate=21 November 2020}}</ref>
+ 
+ ==References==
+ {{reflist|30em}}
+ 
+ ==External links==
+ {{commons category}}
+ *[https://mcnerney.house.gov/ Congressman Jerry McNerney] official U.S. House website
+ *[https://jerrymcnerney.org/ Jerry McNerney for Congress] 
+ *{{Dmoz|Regional/North_America/United_States/California/Government/Federal/US_House_of_Representatives/Jerry_McNerney_%5BD-09%5D|Jerry McNerney}}
+ {{CongLinks | congbio=M001166 | votesmart=29474 | fec=H4CA11081 | congress=jerry-mcnerney/M001166 }}
+ * {{C-SPAN|geraldmcnerney}}
+ 
+ {{s-start}}
+ {{s-par|us-hs}}
+ {{US House succession box",2020-11-21 01:41:51+00:00,7,
+,2020-11-29 18:13:35+00:00,8,
+,2020-11-29 05:18:57+00:00,8,
+"--- 
++++ 
+@@ -1,15 +1,16 @@
++{{pp-vandalism|small=yes}}
+ {{Infobox elections by state
+ | state = Ohio
+ | number_of_elections = 55
+ | voted_democrat = 17
+ | voted_republican = 30
+ | voted_whig = 3
+ | voted_dem_rep = 6
+ | voted_other = 0
+ | voted_winning = 45
+ | voted_losing = 10
+ }}	
+ Following is a table of '''United States presidential elections in Ohio''', ordered by year. Since its admission to statehood in 1803, [[Ohio]] has participated in every U.S. presidential election.
+ 
+ Ohio is considered a [[swing state]], being won by either the [[Democratic Party (United States)|Democratic]] or [[Republican Party (United States)|Republican]] candidates from election to election. As a swing state, Ohio is usually targeted by both major-party campaigns, especially in competitive elections.<ref>{{Cite web|url=http://fivethirtyeight.com/features/the-odds-of-an-electoral-college-popular-vote-split-are-increasing/|title=The Odds of an Electoral College-Popular Vote Split Are Increasing|date=2016-11-01|website=FiveThirtyEight|language=en-US|access-date=2016-11-06|archive-url=https://web.archive.org/web/20161221013034/http://fivethirtyeight.com/features/the-odds-of-an-electoral-college-popular-vote-split-are-increasing/|archive-date=December 21, 2016|url-status=live}}</ref> Pivotal in the election of [[1888 United States presidential election|1888]], Ohio has been a regular swing state since 1980.<ref>[https://www.nytimes.com/2004/10/02/arts/02camp.html Trolling the Campuses for Swing-State Votes] {{Webarchive|url=https://web.archive.org/web/20150528014334/http://www.nytimes.com/2004/10/02/arts/02camp.html |date=May 28, 2015 }}, Julie Salamon, ""[[The New York Times]]"", October 2, 2004</ref><ref>[http://www.slate.com/id/2108640/ Game Theory for Swingers] {{Webarchive|url=https://web.archive.org/web/20110201225851/http://www.slate.com/id/2108640/ |date=February 1, 2011 }}, Jordan Ellenberg, ""[[Slate.com]]"", October 25, 2004</ref>
+ ",2020-11-29 02:35:57+00:00,8,
