@@ -1,11 +1,10 @@
 [
   {
     "title": "Primary Colors (film)",
-    "timestamp": "2020-09-20T02:17:06+00:00",
-    "added": [
-      "* [[James Earl Jones]]",
-      "* [[James Earl Jones]] as CNN Voiceover"
-    ],
-    "deleted": []
+    "timestamp": "2021-10-04T14:40:53+00:00",
+    "added": [],
+    "deleted": [
+      "* {{rotten-tomatoes|primary_colors|Primary Colors}}"
+    ]
   }
 ]

@@ -1,14 +1,6 @@
 [
   {
     "title": "Kamala Harris",
-    "timestamp": "2020-11-07T16:49:20+00:00",
-    "added": [
-      "{{Current person|date=November 2020}}"
-    ],
-    "deleted": []
-  },
-  {
-    "title": "Kamala Harris",
     "timestamp": "2020-11-07T17:10:54+00:00",
     "added": [
       "",
@@ -20,35 +12,30 @@
   },
   {
     "title": "Kamala Harris",
-    "timestamp": "2020-11-07T18:27:46+00:00",
+    "timestamp": "2020-11-07T21:23:31+00:00",
     "added": [
-      "{{Current person|date=November 2020}}"
+      "{{Reflist|25em|refs=",
+      "<ref name=Cbc2020-11-07>",
+      "{{cite news",
+      "}}",
+      "Wanda Kagan's account of telling Kamala - her best friend - that she was being abused by her step-father, at 1:15 into the video.",
+      "She goes on to describe how Kamala then told her mom, and that her mom then generously invited Kagan to move into their household,",
+      "to finish her final year of high school.  She described Kamala's sister, Maya, also being very gracious in welcoming her, and that",
+      "Kamala's mom provided significant help for her to achieve independence from her family.",
+      "</ref>",
+      "}}"
     ],
     "deleted": []
   },
   {
     "title": "Kamala Harris",
-    "timestamp": "2020-11-07T21:41:50+00:00",
-    "added": [
-      "",
-      "On November 7, 2020, ''[[CBC News]]'' interviewed Wanda Kagan, a high school friend of Kamala.<ref name=Cbc2020-11-07/>  She described Kamala as her best friend, and described how she confided in her that she was being molested by her stepfather.  She said that Kamala told her mother who then insisted she come to live with them, for the remainder of her final year of high school.  She said Kamala had recently told her that their friendship, and playing a role in countering Wanda's exploitation, helped form the commitment she felt in protecting women and children, when she was a prosecutor."
-    ],
-    "deleted": []
-  },
-  {
-    "title": "Kamala Harris",
-    "timestamp": "2020-11-09T17:31:54+00:00",
-    "added": [
-      "{{reflist|group=nb}}"
-    ],
-    "deleted": []
-  },
-  {
-    "title": "Kamala Harris",
-    "timestamp": "2020-11-15T19:10:50+00:00",
+    "timestamp": "2020-11-07T21:58:54+00:00",
     "added": [],
     "deleted": [
-      "{{Current person|date=November 2020}}"
+      "",
+      "=== Scholastic ===",
+      "",
+      "=== Honorary degrees ==="
     ]
   },
   {
@@ -57,14 +44,6 @@
     "added": [],
     "deleted": [
       ""
-    ]
-  },
-  {
-    "title": "Kamala Harris",
-    "timestamp": "2020-11-29T08:05:45+00:00",
-    "added": [],
-    "deleted": [
-      "| name                = Kamala Harris"
     ]
   }
 ]

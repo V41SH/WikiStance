@@ -1,25 +1,11 @@
 [
   {
     "title": "Mike Pence",
-    "timestamp": "2021-01-06T17:13:40+00:00",
-    "added": [
-      "| status = [[Lame duck (politics)|Outgoing]]"
-    ],
-    "deleted": []
-  },
-  {
-    "title": "Mike Pence",
     "timestamp": "2021-01-09T12:01:24+00:00",
     "added": [],
     "deleted": [
       "",
-      "{{s-bef|before=[[Mitch Daniels]]}}",
-      "{{s-ttl|title=[[Republican Party (United States)|Republican]] nominee for Governor of Indiana|years=[[Indiana gubernatorial election, 2012|2012]], [[Indiana gubernatorial election, 2016|2016]] (withdrew)}}",
-      "{{s-aft|after=[[Eric Holcomb]]}}",
       "",
-      "{{s-bef|before=[[Paul Ryan]]}}",
-      "{{s-ttl|title=[[Republican Party (United States)|Republican]] [[List of United States Republican Party presidential tickets|nominee]] for Vice President of the United States|years=[[2016 United States presidential election|2016]], [[2020 United States presidential election|2020]]}}",
-      "{{s-inc|recent}}",
       ""
     ]
   },
@@ -28,33 +14,32 @@
     "timestamp": "2021-01-13T03:10:37+00:00",
     "added": [],
     "deleted": [
-      "{{Mike Pence series}}",
       ""
     ]
   },
   {
     "title": "Mike Pence",
-    "timestamp": "2021-01-20T06:27:11+00:00",
-    "added": [
-      "{{current person}}"
-    ],
-    "deleted": []
-  },
-  {
-    "title": "Mike Pence",
-    "timestamp": "2021-01-20T16:50:34+00:00",
-    "added": [
-      "| term_end1           = January 20, 2021",
-      "| successor1          = ''Vacant''"
-    ],
-    "deleted": []
-  },
-  {
-    "title": "Mike Pence",
-    "timestamp": "2021-01-20T17:38:52+00:00",
+    "timestamp": "2021-01-20T16:40:11+00:00",
     "added": [],
     "deleted": [
-      "{{current person}}"
+      ""
+    ]
+  },
+  {
+    "title": "Mike Pence",
+    "timestamp": "2021-01-20T17:22:05+00:00",
+    "added": [],
+    "deleted": [
+      "",
+      ""
+    ]
+  },
+  {
+    "title": "Mike Pence",
+    "timestamp": "2021-01-20T17:52:34+00:00",
+    "added": [],
+    "deleted": [
+      "* [http://www.mikepence.com/ MikePence.com]—official campaign site (now redirects to Donald Trump campaign website)"
     ]
   }
 ]

@@ -5,23 +5,11 @@
     "added": [],
     "deleted": [
       "{{Election box candidate no change |",
-      "|party = Nonpartisan",
-      "|candidate = Keith Jefferson",
-      "|votes =",
-      "|percentage =",
       "}}",
       "{{Election box candidate no change |",
-      "|party = Nonpartisan",
-      "|candidate = Lassaad Jeliti",
-      "|votes =",
-      "|percentage =",
       "}}",
-      "|votes =",
-      "|percentage =",
       "}}",
-      "{{Election box candidate no change |",
-      "|party = Nonpartisan",
-      "|candidate = Dana Kelly"
+      "{{Election box candidate no change |"
     ]
   },
   {
@@ -100,33 +88,5 @@
       "*Bret Narayan, member of the St. Louis Board of Aldermen for the [[Ward 24, St. Louis City|24th Ward]] (2019–present)<ref name=\"stl american endorsements\" />",
       "*Heather Navarro, member of the St. Louis Board of Aldermen for the [[Ward 28, St. Louis City|28th Ward]] (2017–present)<ref name=\"stl american endorsements\" />"
     ]
-  },
-  {
-    "title": "2021 St. Louis mayoral election",
-    "timestamp": "2021-03-03T06:01:06+00:00",
-    "added": [
-      "*[[Elizabeth Warren]], [[United States Senate|U.S. Senator]] from [[Massachusetts]] (2013-present)<ref>{{cite web |last1=Schlinkmann |first1=Mark |title=Tishaura Jones, Cara Spencer advance to St. Louis mayoral runoff |url=https://www.stltoday.com/news/local/govt-and-politics/tishaura-jones-cara-spencer-advance-to-st-louis-mayoral-runoff/article_94495271-2e1b-59e7-b669-25a4a0dbf9de.html |website=[[St. Louis Post-Dispatch]] |access-date=3 March 2021}}</ref>"
-    ],
-    "deleted": []
-  },
-  {
-    "title": "2021 St. Louis mayoral election",
-    "timestamp": "2021-03-03T16:44:57+00:00",
-    "added": [
-      "",
-      "== General election ==",
-      "",
-      "=== Results ===",
-      "{{Election box begin no change|title=2021 St. Louis mayoral general election results}}{{Election box candidate with party link no change|party=Nonpartisan|candidate=[[Tishaura Jones]]}}{{Election box candidate with party link no change|party=Nonpartisan|candidate=[[Cara Spencer]]}}{{Election box total no change}}{{Election box hold with party link no change|winner=Democratic Party (United States)}}{{Election box end}}"
-    ],
-    "deleted": []
-  },
-  {
-    "title": "2021 St. Louis mayoral election",
-    "timestamp": "2021-03-03T22:03:06+00:00",
-    "added": [
-      "| election_date      = March 2, 2021 (primary)<br>April 6, 2021 (general)"
-    ],
-    "deleted": []
   }
 ]

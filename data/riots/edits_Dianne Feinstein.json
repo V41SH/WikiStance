@@ -1,18 +1,11 @@
 [
   {
     "title": "Dianne Feinstein",
-    "timestamp": "2021-01-12T18:17:18+00:00",
-    "added": [
-      "|-{{Party shading/Democratic}}",
-      "|1992–1993",
-      "|[[102rd United States Congress|102rd]]",
-      "|[[United States Senate|U.S. Senate]]",
-      "|[[Democratic Party (United States)|Democratic]]",
-      "|[[George H. W. Bush]]",
-      "|",
-      "|[[Classes of United States Senators|1]]"
-    ],
-    "deleted": []
+    "timestamp": "2021-01-12T18:14:55+00:00",
+    "added": [],
+    "deleted": [
+      "}<br />"
+    ]
   },
   {
     "title": "Dianne Feinstein",
@@ -30,5 +23,13 @@
       "In January 2021, Feinstein filed the initial [[Federal Election Commission]] paperwork needed in order to seek re-election in 2024.At that time, shewill be 91.<ref>{{cite news |author= Matthew Tom |url=https://www.sfgate.com/politics/article/Sen-Feinstein-87-files-paperwork-to-run-for-15866190.php |title=Sen. Feinstein, 87, Files Initial Paperwork to Run for Re-Election in 2024 |newspaper=The San Francisco Chronicle |date=January 12, 2021}}</ref>"
     ],
     "deleted": []
+  },
+  {
+    "title": "Dianne Feinstein",
+    "timestamp": "2021-02-15T06:03:21+00:00",
+    "added": [],
+    "deleted": [
+      "{{s-ttl|title=[[Democratic Party (United States)|Democratic]] nominee for [[List of United States senators from California|U.S. Senator from California]]<br>([[Classes of United States senators|Class 1]])|years=[[1992 United States Senate special election in California|1992]], [[1994 United States Senate election in California|1994]], [[2000 United States Senate election in California|2000]], [[2006 United States Senate election in California|2006]], [[2012 United States Senate election in California|2012]], [[2018 United States Senate election in California|2018]]}"
+    ]
   }
 ]

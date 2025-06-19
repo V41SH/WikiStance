@@ -2,9 +2,19 @@
   {
     "title": "Mike Lawler",
     "timestamp": "2021-01-31T22:01:33+00:00",
+    "added": [],
+    "deleted": []
+  },
+  {
+    "title": "Mike Lawler",
+    "timestamp": "2021-01-31T22:13:05+00:00",
     "added": [
-      "",
-      "{{Uncategorized|date=January 2021}}"
+      "<references />",
+      "[[Category:Living people]]",
+      "[[Category:New York (state) Republicans]]",
+      "[[Category:Members of the New York State Assembly]]",
+      "[[Category:21st-century politicians]]",
+      "[[Category:Manhattan College alumni]]"
     ],
     "deleted": []
   },
@@ -14,7 +24,6 @@
     "added": [],
     "deleted": [
       "",
-      "{{Uncategorized|date=January 2021}}",
       "<references />"
     ]
   },
@@ -22,17 +31,24 @@
     "title": "Mike Lawler",
     "timestamp": "2021-01-31T22:14:25+00:00",
     "added": [
-      "",
-      "{{stub}}"
+      ""
     ],
     "deleted": []
   },
   {
     "title": "Mike Lawler",
-    "timestamp": "2021-01-31T22:17:16+00:00",
+    "timestamp": "2021-02-01T03:19:38+00:00",
     "added": [
-      "{{US-politician-stub}}"
+      "[[Suffern, New York|Suffern]], [[New York (state)|New York]], U.S."
     ],
     "deleted": []
+  },
+  {
+    "title": "Mike Lawler",
+    "timestamp": "2021-02-01T03:20:31+00:00",
+    "added": [],
+    "deleted": [
+      "[[Suffern, New York|Suffern]], [[New York (state)|New York]], U.S."
+    ]
   }
 ]

@@ -1,10 +1,9 @@
 [
   {
     "title": "2020 Summer Olympics",
-    "timestamp": "2021-01-20T11:43:29+00:00",
+    "timestamp": "2021-01-19T22:28:03+00:00",
     "added": [
-      "{{pp-vand|small=yes}}",
-      "{{pp-pc}}"
+      "Paralympics|2020SumOlympics|the Winter Youth Olympics in Lausanne, Switzerland|2020 Winter YouthO"
     ],
     "deleted": []
   },
@@ -27,14 +26,6 @@
   },
   {
     "title": "2020 Summer Olympics",
-    "timestamp": "2021-01-27T14:11:47+00:00",
-    "added": [],
-    "deleted": [
-      "{{pp-vand|small=yes}}"
-    ]
-  },
-  {
-    "title": "2020 Summer Olympics",
     "timestamp": "2021-02-06T23:09:16+00:00",
     "added": [
       "* {{flagIOC|CAF|2020 Summer|}}",
@@ -42,6 +33,14 @@
       "* {{flagIOC|CGO|2020 Summer|}}"
     ],
     "deleted": []
+  },
+  {
+    "title": "2020 Summer Olympics",
+    "timestamp": "2021-02-18T03:39:15+00:00",
+    "added": [],
+    "deleted": [
+      "{{Redirect"
+    ]
   },
   {
     "title": "2020 Summer Olympics",
@@ -58,22 +57,5 @@
     "deleted": [
       ""
     ]
-  },
-  {
-    "title": "2020 Summer Olympics",
-    "timestamp": "2021-03-20T20:47:51+00:00",
-    "added": [],
-    "deleted": [
-      "{{pp-pc}}"
-    ]
-  },
-  {
-    "title": "2020 Summer Olympics",
-    "timestamp": "2021-03-26T01:27:25+00:00",
-    "added": [
-      "[[Category:Shinzo Abe]]",
-      "[[Category:Shintaro Ishihara]]"
-    ],
-    "deleted": []
   }
 ]

@@ -1,22 +1,18 @@
 [
   {
     "title": "Aaron Burr",
-    "timestamp": "2020-10-21T07:23:34+00:00",
-    "added": [
-      "",
-      "And he really liked to wait....",
+    "timestamp": "2021-10-01T02:11:05+00:00",
+    "added": [],
+    "deleted": [
       ""
-    ],
-    "deleted": []
+    ]
   },
   {
     "title": "Aaron Burr",
-    "timestamp": "2020-10-21T07:24:27+00:00",
-    "added": [],
-    "deleted": [
-      "",
-      "And he really liked to wait....",
-      ""
-    ]
+    "timestamp": "2021-10-20T13:11:46+00:00",
+    "added": [
+      "{{Infobox officeholder"
+    ],
+    "deleted": []
   }
 ]

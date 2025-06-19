@@ -1,67 +1,24 @@
 [
   {
     "title": "Max Rose",
-    "timestamp": "2020-11-06T06:46:40+00:00",
-    "added": [
-      "{{pp-pc|small=yes}}"
-    ],
-    "deleted": []
-  },
-  {
-    "title": "Max Rose",
-    "timestamp": "2020-11-09T13:12:14+00:00",
-    "added": [],
-    "deleted": [
-      "{{pp-pc|small=yes}}"
-    ]
-  },
-  {
-    "title": "Max Rose",
     "timestamp": "2020-11-12T22:48:44+00:00",
     "added": [
       "}}",
-      "{{Election box end}}",
       "{{Election box begin no change",
       "}}",
       "{{Election box candidate with party link no change",
-      "| candidate = ''Max Rose''",
-      "| party = Democratic Party (United States)",
-      "| votes = 97,328",
-      "| percentage = 41.2%",
       "}}",
       "{{Election box candidate with party link no change",
-      "| candidate = ''Max Rose''",
-      "| party = Independence Party of New York",
-      "| votes = 1,896",
-      "| percentage = 0.8%",
       "}}",
       "{{Election box candidate no change",
-      "| candidate = [[Max Rose]] (incumbent)",
-      "| party = Total",
-      "| votes = 99,224",
-      "| percentage = 42.0%",
       "}}",
       "{{Election box candidate with party link no change",
-      "| candidate = ''Nicole Malliotakis''",
-      "| party = Republican Party (United States)",
-      "| votes = 126,061",
-      "| percentage = 53.4%",
       "}}",
       "{{Election box candidate with party link no change",
-      "| candidate = ''Nicole Malliotakis''",
-      "| party = Conservative Party of New York State",
-      "| votes = 10,321",
-      "| percentage = 4.4%",
       "}}",
       "{{Election box candidate no change",
-      "| candidate = [[Nicole Malliotakis]]",
-      "| party = Total",
-      "| votes = 136,382",
-      "| percentage = 57.8%",
       "}}",
-      "{{Election box total no change",
-      "| votes = 236,008",
-      "| percentage = 100.0"
+      "{{Election box total no change"
     ],
     "deleted": []
   },

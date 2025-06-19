@@ -26,11 +26,19 @@
   },
   {
     "title": "Social media use by Donald Trump",
-    "timestamp": "2021-01-14T16:52:07+00:00",
+    "timestamp": "2021-01-08T23:59:52+00:00",
     "added": [],
     "deleted": [
-      "{{redirect1|@realDonaldTrump}}"
+      "After years of pressure, on January 8, 2021, at 3:21 PM, Twitter announced that they had permanently suspended Donald Trump due to the threat of further incitement of violence.<ref name=suspends/><ref>{{Cite news|last=Tiku|first=Nitasha|last2=Romm|first2=Tony|title=Twitter permanently suspends Trump’s account|language=en-US|work=The Washington Post|url=https://www.washingtonpost.com/technology/2021/01/08/twitter-trump-dorsey/|access-date=2021-01-08|issn=0190-8286}}</ref> This came after his account had been locked for 12 hour intervals twice and after it had had three of its tweets removed for their roles in instigating [[2021 storming of the United States Capitol|the storming of the U.S. Capitol]]."
     ]
+  },
+  {
+    "title": "Social media use by Donald Trump",
+    "timestamp": "2021-01-18T21:39:21+00:00",
+    "added": [
+      "* {{cite web"
+    ],
+    "deleted": []
   },
   {
     "title": "Social media use by Donald Trump",
@@ -39,15 +47,5 @@
     "deleted": [
       "[[Category:Internet trolling]]"
     ]
-  },
-  {
-    "title": "Social media use by Donald Trump",
-    "timestamp": "2021-03-17T14:32:50+00:00",
-    "added": [
-      "|archive-url = https://web.archive.org/web/20201105145604/https://twitter.com/realDonaldTrump/status/1251169217531056130",
-      "|archive-date = November 5, 2020",
-      "|url-status =  dead"
-    ],
-    "deleted": []
   }
 ]

@@ -1,22 +1,6 @@
 [
   {
     "title": "Jim Risch",
-    "timestamp": "2021-01-16T06:39:06+00:00",
-    "added": [
-      "|status1       = Designate"
-    ],
-    "deleted": []
-  },
-  {
-    "title": "Jim Risch",
-    "timestamp": "2021-01-20T22:10:50+00:00",
-    "added": [],
-    "deleted": [
-      "| status1             ="
-    ]
-  },
-  {
-    "title": "Jim Risch",
     "timestamp": "2021-01-22T00:34:42+00:00",
     "added": [
       "",
@@ -33,8 +17,15 @@
       "===Biden-Blinken foreign policy===",
       "Responding to [[Antony Blinken#Foreign Policy]]'s opening statement at the confirmation hearing for [[Secretary of State]], Risch said that it was \"music to my ears.\"",
       "",
-      "===Trump-Tillerson-Pompeo-Kushner foreign policy===",
-      "{{expand section}}"
+      "===Trump-Tillerson-Pompeo-Kushner foreign policy==="
+    ],
+    "deleted": []
+  },
+  {
+    "title": "Jim Risch",
+    "timestamp": "2021-01-23T03:33:18+00:00",
+    "added": [
+      "Responding to [[Antony Blinken#Foreign Policy]]'s opening statement at the confirmation hearing for [[Secretary of State]], Risch said that it was \"music to my ears.\"<ref name=\"blinken-hearing\">{{Cite web|url=https://www.foreign.senate.gov/hearings/nominations-011921|title= Senate Foreign Relations Committee &mdash; 1/19/2021 &mdash; Antony Blinken nomination hearing for US Secretary of State}}</ref>"
     ],
     "deleted": []
   },

@@ -27,11 +27,18 @@
   },
   {
     "title": "Boris Johnson",
-    "timestamp": "2021-03-26T10:26:31+00:00",
+    "timestamp": "2021-02-22T09:08:59+00:00",
+    "added": [
+      "<ref><ref></ref></ref>{{Redirect|BoJo|other uses of the term|Bojo (disambiguation)}}"
+    ],
+    "deleted": []
+  },
+  {
+    "title": "Boris Johnson",
+    "timestamp": "2021-02-22T09:10:07+00:00",
     "added": [],
     "deleted": [
-      "",
-      "{{Commons category-inline}}"
+      "<ref><ref></ref></ref>{{Redirect|BoJo|other uses of the term|Bojo (disambiguation)}}"
     ]
   }
 ]

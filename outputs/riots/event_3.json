@@ -1,20 +1,20 @@
 [
   {
-    "text": "{{pp-vandalism|small=yes}}",
-    "timestamp": "2021-02-15 02:19:23+00:00",
-    "entity": "Susan Collins",
+    "text": " {{Election box hold with party link no change }}",
+    "timestamp": "2021-01-12 05:02:12+00:00",
+    "entity": "2017 Pittsburgh mayoral election",
     "event_id": 3
   },
   {
-    "text": "{{pp-vandalism|small=yes}}",
-    "timestamp": "2021-02-15 02:20:45+00:00",
-    "entity": "Lisa Murkowski",
+    "text": " == Electoral history == ===2018=== {{Election box open primary begin no change }} {{Election box candidate with party link no change }} {{Election box candidate with party link no change }} {{Election box candidate with party link no change }} {{Election box candidate with party link no change }} {{Election box candidate with party link no change }} {{Election box candidate with party link no change }} {{Election box total no change }} {{Election box winning candidate with party link no change }} {{Election box candidate with party link no change }} {{Election box total no change }} {{Election box gain with party link no change }}  ===2020=== {{Election box open primary begin no change }} {{Election box candidate with party link no change }} {{Election box candidate with party link no change }} {{Election box candidate with party link no change }} {{Election box total no change }} {{Election box winning candidate with party link no change }} {{Election box candidate with party link no change }} {{Election box total no change }} {{Election box gain with party link no change }}",
+    "timestamp": "2021-01-12 20:16:59+00:00",
+    "entity": "Dave Min",
     "event_id": 3
   },
   {
-    "text": "{{pp-vandalism|small=yes}}",
-    "timestamp": "2021-02-15 02:13:31+00:00",
-    "entity": "Ben Sasse",
+    "text": " {{Election box begin no change }} {{Election box winning candidate with party link no change }} {{Election box candidate with party link no change }} {{Election box candidate with party link no change }} {{Election box candidate with party link no change }} {{Election box total no change }} {{Election box hold with party link no change }}",
+    "timestamp": "2021-01-12 08:16:19+00:00",
+    "entity": "Steven Palazzo",
     "event_id": 3
   }
 ]

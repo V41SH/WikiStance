@@ -4,21 +4,13 @@
     "timestamp": "2020-11-04T17:58:40+00:00",
     "added": [
       "}}",
-      "{{Election box end}}",
       "{{Election box begin no change",
       "}}",
       "{{Election box winning candidate with party link no change",
-      "| party = Democratic Party of Illinois",
-      "| candidate = [[Theresa Mah]] ([[incumbent]])",
-      "| votes = 21241",
-      "| percentage = 100.0",
       "}}",
       "{{Election box total no change",
-      "| votes = 21241",
-      "| percentage = 100.0",
       "}}",
-      "{{Election box hold with party link no change",
-      "| winner = Democratic Party of Illinois"
+      "{{Election box hold with party link no change"
     ],
     "deleted": []
   },
@@ -27,21 +19,13 @@
     "timestamp": "2020-11-05T01:51:46+00:00",
     "added": [
       "}}",
-      "{{Election box end}}",
       "{{Election box begin no change",
       "}}",
       "{{Election box winning candidate with party link no change",
-      "| party = Democratic Party of Illinois",
-      "| candidate = [[Kelly Cassidy|Kelly M. Cassidy]] ([[incumbent]])",
-      "| votes = 31703",
-      "| percentage = 100.0",
       "}}",
       "{{Election box total no change",
-      "| votes = 31703",
-      "| percentage = 100.0",
       "}}",
-      "{{Election box hold with party link no change",
-      "| winner = Democratic Party of Illinois"
+      "{{Election box hold with party link no change"
     ],
     "deleted": []
   },
@@ -50,21 +34,13 @@
     "timestamp": "2020-11-06T18:54:13+00:00",
     "added": [
       "}}",
-      "{{Election box end}}",
       "{{Election box begin no change",
       "}}",
       "{{Election box winning candidate with party link no change",
-      "| party = Democratic Party of Illinois",
-      "| candidate = [[Michael Madigan|Michael J. Madigan]] ([[incumbent]])",
-      "| votes = 24968",
-      "| percentage = 100.0",
       "}}",
       "{{Election box total no change",
-      "| votes = 24968",
-      "| percentage = 100.0",
       "}}",
-      "{{Election box hold with party link no change",
-      "| winner = Democratic Party of Illinois"
+      "{{Election box hold with party link no change"
     ],
     "deleted": []
   },
@@ -73,21 +49,22 @@
     "timestamp": "2020-11-06T22:26:23+00:00",
     "added": [
       "}}",
-      "{{Election box end}}",
       "{{Election box begin no change",
       "}}",
       "{{Election box winning candidate with party link no change",
-      "| party = Democratic Party of Illinois",
-      "| candidate = [[Will Davis (politician)|William \"Will\" Davis]] ([[incumbent]])",
-      "| votes = 26611",
-      "| percentage = 100.0",
       "}}",
       "{{Election box total no change",
-      "| votes = 26611",
-      "| percentage = 100.0",
       "}}",
-      "{{Election box hold with party link no change",
-      "| winner = Democratic Party of Illinois"
+      "{{Election box hold with party link no change"
+    ],
+    "deleted": []
+  },
+  {
+    "title": "2020 Illinois House of Representatives election",
+    "timestamp": "2020-11-08T02:01:32+00:00",
+    "added": [
+      "}}",
+      "{{Election box hold with party link no change"
     ],
     "deleted": []
   },
@@ -96,21 +73,13 @@
     "timestamp": "2020-11-10T03:04:35+00:00",
     "added": [
       "}}",
-      "{{Election box end}}",
       "{{Election box begin no change",
       "}}",
       "{{Election box winning candidate with party link no change",
-      "| party = Democratic Party of Illinois",
-      "| candidate = [[Anna Moeller]] ([[incumbent]])",
-      "| votes = 22635",
-      "| percentage = 100.0",
       "}}",
       "{{Election box total no change",
-      "| votes = 22635",
-      "| percentage = 100.0",
       "}}",
-      "{{Election box hold with party link no change",
-      "| winner = Democratic Party of Illinois"
+      "{{Election box hold with party link no change"
     ],
     "deleted": []
   },
@@ -119,8 +88,34 @@
     "timestamp": "2020-11-20T06:36:41+00:00",
     "added": [
       "}}",
-      "{{Election box hold with party link no change",
-      "| winner = Illinois Republican Party"
+      "{{Election box hold with party link no change"
+    ],
+    "deleted": []
+  },
+  {
+    "title": "2020 Illinois House of Representatives election",
+    "timestamp": "2020-11-20T07:30:01+00:00",
+    "added": [
+      "}}",
+      "{{Election box hold with party link no change"
+    ],
+    "deleted": []
+  },
+  {
+    "title": "2020 Illinois House of Representatives election",
+    "timestamp": "2020-11-20T08:29:25+00:00",
+    "added": [
+      "}}",
+      "{{Election box hold with party link no change"
+    ],
+    "deleted": []
+  },
+  {
+    "title": "2020 Illinois House of Representatives election",
+    "timestamp": "2020-11-20T20:31:03+00:00",
+    "added": [
+      "}}",
+      "{{Election box hold with party link no change"
     ],
     "deleted": []
   },
@@ -129,8 +124,7 @@
     "timestamp": "2020-11-30T18:55:55+00:00",
     "added": [
       "}}",
-      "{{Election box hold with party link no change",
-      "| winner = Democratic Party of Illinois"
+      "{{Election box hold with party link no change"
     ],
     "deleted": []
   },
@@ -139,8 +133,7 @@
     "timestamp": "2020-12-02T14:49:43+00:00",
     "added": [
       "}}",
-      "{{Election box hold with party link no change",
-      "| winner = Democratic Party of Illinois"
+      "{{Election box hold with party link no change"
     ],
     "deleted": []
   }

@@ -1,26 +1,17 @@
 [
   {
     "title": "Isabel Guzman",
-    "timestamp": "2021-01-07T23:32:22+00:00",
-    "added": [
-      "{{short description|American government administrator and business advocate}}"
-    ],
-    "deleted": []
+    "timestamp": "2021-01-07T23:32:57+00:00",
+    "added": [],
+    "deleted": [
+      "<references />"
+    ]
   },
   {
     "title": "Isabel Guzman",
     "timestamp": "2021-01-08T00:50:54+00:00",
     "added": [
-      "{{s-start}}",
-      "{{s-off}}",
-      "{{s-bef|before=[[Jovita Carranza}}",
-      "{{s-ttl|title=[[Administrator of the Small Business Administration]]|years=Taking office 2021<!-- –present -->}}",
-      "{{s-non|reason=Nominee}}<!-- {{s-inc}} -->",
-      "{{s-end}}",
       "",
-      "<!-- {{Biden cabinet}}",
-      "{{Current U.S. Cabinet}}",
-      "{{SBA}} -->",
       "[[Category:1970s births]]",
       "[[Category:Administrators of the Small Business Administration]]",
       "[[Category:Biden administration cabinet members]]",
@@ -35,69 +26,6 @@
     "added": [],
     "deleted": [
       "<noinclude>{{User:RMCD bot/subject notice|1=Isabel Guzman|2=Talk:Isabel Casillas Guzman#Requested move }}</noinclude>"
-    ]
-  },
-  {
-    "title": "Isabel Guzman",
-    "timestamp": "2021-03-16T19:33:54+00:00",
-    "added": [
-      "|status      = Designate"
-    ],
-    "deleted": []
-  },
-  {
-    "title": "Isabel Guzman",
-    "timestamp": "2021-03-16T19:45:47+00:00",
-    "added": [],
-    "deleted": []
-  },
-  {
-    "title": "Isabel Guzman",
-    "timestamp": "2021-03-16T19:49:27+00:00",
-    "added": [],
-    "deleted": [
-      "[[Category:Jewish American government officials]]"
-    ]
-  },
-  {
-    "title": "Isabel Guzman",
-    "timestamp": "2021-03-16T19:50:32+00:00",
-    "added": [
-      "| succeeding          = [[Jovita Carranza]]"
-    ],
-    "deleted": []
-  },
-  {
-    "title": "Isabel Guzman",
-    "timestamp": "2021-03-22T15:28:01+00:00",
-    "added": [],
-    "deleted": [
-      "| office2             = Director of the [[California Governor's Office of Economic Development}]",
-      "| Governor2           = [[Gavin Newsom]]",
-      "| term_start2         = April, 2019",
-      "| term_end2            = March 17, 2021"
-    ]
-  },
-  {
-    "title": "Isabel Guzman",
-    "timestamp": "2021-03-25T02:37:00+00:00",
-    "added": [
-      "| predecessor         =",
-      "| successor           = Tara Lynn Gray"
-    ],
-    "deleted": []
-  },
-  {
-    "title": "Isabel Guzman",
-    "timestamp": "2021-03-26T00:25:29+00:00",
-    "added": [],
-    "deleted": [
-      "| office1             = Director of the  California Office of the Small Business Advocate",
-      "| governor1            = [[Gavin Newsom]]",
-      "| term_start1         = April 2019",
-      "| term_end1           = March 17, 2021",
-      "| predecessor1         =",
-      "| successor1          = Tara Lynn Gray"
     ]
   }
 ]

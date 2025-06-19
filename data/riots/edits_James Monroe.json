@@ -1,31 +1,17 @@
 [
   {
     "title": "James Monroe",
+    "timestamp": "2021-01-26T15:31:25+00:00",
+    "added": [],
+    "deleted": [
+      "{{About other people|the 5th president of the United States}}He also came to the future and gave Karen that D."
+    ]
+  },
+  {
+    "title": "James Monroe",
     "timestamp": "2021-02-03T00:32:38+00:00",
     "added": [
-      "{{short description|5th president of the United States}}",
-      "{{About other people|the 5th president of the United States}}",
-      "{{redirect|Senator Monroe}}",
-      "{{pp-move-indef|small=yes}}",
-      "{{Use mdy dates|date=December 2020}}",
-      "{{Infobox officeholder",
-      "| name                = James Monroe",
-      "| order               = 5th",
-      "| office              = President of the United States",
-      "| vicepresident       = [[Daniel D. Tompkins]]",
-      "| term_start          = March 4, 1817",
-      "| term_end            = March 4, 1825",
-      "| predecessor         = [[James Madison]]",
-      "| successor           = [[John Quincy Adams]]",
-      "| office1             = 7th [[United States Secretary of State]]",
-      "| president1          = [[James Madison]]",
-      "| term_start1         = April 6, 1811",
-      "| term_end1           = March 4, 1817",
-      "| predecessor1        = [[Robert Smith (Cabinet member)|Robert Smith]]",
-      "| successor1          = [[John Quincy Adams]]",
-      "| office2             = 8th [[United States Secretary of War]]",
-      "| president2          = [[James Madison]]",
-      "| term_start2         = September 27, 1814"
+      "{{Infobox officeholder"
     ],
     "deleted": []
   }

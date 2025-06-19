@@ -3,56 +3,24 @@
     "title": "List of presidents of the United States",
     "timestamp": "2020-11-04T06:06:18+00:00",
     "added": [],
-    "deleted": [
-      "|-",
-      "! [[Presidency of Joe Biden|46]]",
-      "|{{dts|January 20, 2020}}<br/>–<br/>''[[Incumbent]]''",
-      "|[[Joe Biden]]",
-      "|rowspan=2 style=\"background-color:{{Democratic Party (United States)/meta/color}}\" |",
-      "|[[Democratic Party (United States)|Democratic Party]]",
-      "|[[2020 United States presidential election|2020]]",
-      "|[[Kamala Harris]]"
-    ]
+    "deleted": []
   },
   {
     "title": "List of presidents of the United States",
     "timestamp": "2020-11-06T16:33:44+00:00",
     "added": [],
-    "deleted": [
-      "<!----",
-      "|- style=\"height:12em;\"",
-      "! 46",
-      "| {{dts|January 20, 2021}}<br/>–<br/>''[[President-elect of the United States|Elect]]''",
-      "| '''[[Joe Biden]]'''",
-      "| style=\"background-color:{{Democratic Party (United States)/meta/color}}\" |",
-      "| [[Democratic Party (United States)|Democratic]]",
-      "| [[2020 United States presidential election|2020]]",
-      "| data-sort-value=\"Harris, Kamala\"|[[Kamala Harris]]",
-      "---->"
-    ]
+    "deleted": []
   },
   {
     "title": "List of presidents of the United States",
     "timestamp": "2020-11-06T18:05:47+00:00",
     "added": [],
-    "deleted": [
-      "|- style=\"height:12em;\"",
-      "|-",
-      "! [[Presidency of Joe Biden|46]]",
-      "| {{dts|January 20 , 2021 }}<br/>–<br/>''[[TBA]]''",
-      "| '''[[Joe Biden]]'''",
-      "| style=\"background-color:{{Democratic Party (United States)/meta/color}}\" |",
-      "| [[Democratic Party (United States)|Democratic]]",
-      "| [[2020 United States presidential election|2020]]",
-      "| data-sort-value=\"TBA\"|[[TBA]]"
-    ]
+    "deleted": []
   },
   {
     "title": "List of presidents of the United States",
-    "timestamp": "2020-11-07T16:51:27+00:00",
-    "added": [
-      "{{Further information|Presidential transition of Joe Biden|Inauguration of Joe Biden}}"
-    ],
+    "timestamp": "2020-11-07T16:52:45+00:00",
+    "added": [],
     "deleted": []
   },
   {
@@ -60,31 +28,7 @@
     "timestamp": "2020-11-07T16:53:05+00:00",
     "added": [],
     "deleted": [
-      "",
-      "|- style=\"height:12em;\"",
-      "! [[Presidency of Joe Biden|46]]",
-      "| {{dts|January 20, 2021}}<br/>–<br/>",
-      "| '''[[Joe Biden]]'''",
-      "| style=\"background-color:{{Democratic Party (United States)/meta/color}}\" |",
-      "| [[Democratic Party (United States)|Democratic]]",
-      "| [[2020 United States presidential election|2020]]",
-      "| data-sort-value=\"Harris, Kamala\"|[[Kamala Harris]]"
+      ""
     ]
-  },
-  {
-    "title": "List of presidents of the United States",
-    "timestamp": "2020-11-07T17:15:13+00:00",
-    "added": [],
-    "deleted": [
-      "| ''{{dts|January 20, 2021}}"
-    ]
-  },
-  {
-    "title": "List of presidents of the United States",
-    "timestamp": "2020-11-07T17:16:38+00:00",
-    "added": [
-      "| ''Taking office <br> January 20, 2021"
-    ],
-    "deleted": []
   }
 ]

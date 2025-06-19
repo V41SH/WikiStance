@@ -1,26 +1,50 @@
 [
   {
-    "text": "}} {{Election box hold with party link no change | winner     = Democratic Party (United States) }} {{Election box gain with party link no change | winner     = Democratic Party (United States) | loser      = Republican Party (United States) }} {{Election box gain with party link no change | winner     = Democratic Party (United States) | loser      = Republican Party (United States) }} {{Election box hold with party link no change | winner     = Democratic Party (United States) | swing      = }} {{Election box hold with party link no change | winner     = Democratic Party (United States) }} {{Election box hold with party link no change | winner     = Republican Party (United States)",
-    "timestamp": "2020-11-08 17:34:19+00:00",
-    "entity": "2020 Delaware Senate election",
+    "text": "}} {{Election box hold with party link no change",
+    "timestamp": "2020-11-09 15:50:40+00:00",
+    "entity": "2020 United States House of Representatives elections in Nebraska",
     "event_id": 3
   },
   {
-    "text": "}} {{Election box hold with party link without swing | winner     = Republican Party (US) }} {{Election box end}}  === 2020 === {{Election box begin no change  }} {{Election box winning candidate with party link no change | party      = Republican Party (US) | candidate  = [[John Curtis (Utah politician)|John Curtis]] (Incumbent) | votes      = | percentage = }} {{Election box candidate with party link no change | party      = Democratic Party (US) | candidate  = Devin Thorpe | votes      = | percentage = }} {{Election box candidate with party link no change | party      = Constitution Party (United States) | candidate  = Daniel Cummings | votes      = | percentage = }} {{Election box candidate with party link no change | party      = United Utah Party | candidate  = Thomas McNeill | votes      = | percentage = }} {{Election box total no change | votes      = | percentage =",
-    "timestamp": "2020-11-08 10:10:30+00:00",
-    "entity": "Utah's 3rd congressional district",
+    "text": "}} {{collapsible list }} ]] {{Election box candidate with party link no change }} {{Election box candidate with party link no change }} {{Election box candidate with party link no change }} {{Election box candidate with party link no change }} {{Election box candidate with party link no change }} {{Election box candidate with party link no change }} {{Election box total no change }} {{Election box candidate with party link no change }} {{Election box candidate with party link no change }} {{Election box total no change",
+    "timestamp": "2020-11-09 22:21:37+00:00",
+    "entity": "Harley Rouda",
     "event_id": 3
   },
   {
-    "text": "}} {{Election box hold with party link without swing |winner     = Democratic Party (United States)",
-    "timestamp": "2020-11-08 14:38:11+00:00",
-    "entity": "2020 United States House of Representatives elections in Georgia",
+    "text": "}} {{Election box hold with party link no change",
+    "timestamp": "2020-11-09 16:32:31+00:00",
+    "entity": "2020 Texas Senate election",
     "event_id": 3
   },
   {
-    "text": "}} {{Election box gain with party link no change | winner = Republican Party (United States) | loser = Democratic Party (United States)",
-    "timestamp": "2020-11-08 23:53:03+00:00",
-    "entity": "Young Kim",
+    "text": "}} {{Election box hold with party link no change",
+    "timestamp": "2020-11-09 16:52:59+00:00",
+    "entity": "2020 Texas Senate election",
+    "event_id": 3
+  },
+  {
+    "text": "}} {{Election box hold with party link no change",
+    "timestamp": "2020-11-09 17:03:11+00:00",
+    "entity": "2020 Texas Senate election",
+    "event_id": 3
+  },
+  {
+    "text": "}} {{Election box hold with party link no change",
+    "timestamp": "2020-11-09 14:32:21+00:00",
+    "entity": "2020 United States House of Representatives elections in West Virginia",
+    "event_id": 3
+  },
+  {
+    "text": " On criminal justice reform, Van Duyne is opposed to ending cash bail.<ref name=\":0\" />",
+    "timestamp": "2020-11-09 15:58:09+00:00",
+    "entity": "Beth Van Duyne",
+    "event_id": 3
+  },
+  {
+    "text": " ====Results==== {{Election box begin no change }} {{Election box  candidate with party link no change }} {{Election box candidate with party link no change }} {{Election box candidate with party link no change }} {{Election box candidate with party link no change }} {{Election box candidate with party link no change }} {{Election box total no change }}",
+    "timestamp": "2020-11-09 18:55:26+00:00",
+    "entity": "Beth Van Duyne",
     "event_id": 3
   }
 ]

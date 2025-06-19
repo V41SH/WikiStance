@@ -1,10 +1,18 @@
 [
   {
     "title": "Mitch McConnell",
-    "timestamp": "2021-01-06T22:00:33+00:00",
+    "timestamp": "2021-01-06T21:58:36+00:00",
+    "added": [
+      "office1             = [[Party Leaders of the United States Senate|Senate Minority Leader]]"
+    ],
+    "deleted": []
+  },
+  {
+    "title": "Mitch McConnell",
+    "timestamp": "2021-01-06T21:59:50+00:00",
     "added": [],
     "deleted": [
-      "<!--| successor       = [[Chuck Schumer]]-->"
+      "office1             = [[Party Leaders of the United States Senate|Senate Minority Leader]]"
     ]
   },
   {
@@ -18,57 +26,10 @@
   },
   {
     "title": "Mitch McConnell",
-    "timestamp": "2021-01-06T23:03:16+00:00",
-    "added": [
-      "| term_start9         = January, 2021",
-      "| term_end9           =",
-      "| predecessor9        = [[Chuckc Schumer]]",
-      "| successor9          ="
-    ],
-    "deleted": []
-  },
-  {
-    "title": "Mitch McConnell",
-    "timestamp": "2021-01-06T23:08:35+00:00",
-    "added": [],
-    "deleted": [
-      "| term_start9         = January 2021",
-      "| term_end9           =",
-      "| predecessor9        = [[Chuck Schumer]]",
-      "| successor9          ="
-    ]
-  },
-  {
-    "title": "Mitch McConnell",
     "timestamp": "2021-01-10T00:44:03+00:00",
     "added": [],
     "deleted": [
       ""
-    ]
-  },
-  {
-    "title": "Mitch McConnell",
-    "timestamp": "2021-01-20T22:04:49+00:00",
-    "added": [],
-    "deleted": [
-      "{{current person}}"
-    ]
-  },
-  {
-    "title": "Mitch McConnell",
-    "timestamp": "2021-03-23T18:44:41+00:00",
-    "added": [
-      "{{in use}}"
-    ],
-    "deleted": []
-  },
-  {
-    "title": "Mitch McConnell",
-    "timestamp": "2021-03-31T06:30:22+00:00",
-    "added": [],
-    "deleted": [
-      "",
-      "After the [[2020 United States Senate elections]], McConnell returned to the position of minority leader. In February 2021, in the [[second impeachment trial of Donald Trump]], McConnell voted to acquit due to an issue concerning Constitutional jurisdiction. However, McConnell said he believed Trump had engaged in a \"disgraceful dereliction of duty\" and \"there is no question{{nbs}}... that President Trump is practically and morally responsible for provoking the event of that day.\"<ref>{{cite web|url= https://apnews.com/article/capitol-siege-donald-trump-impeachments-trump-impeachment-mitch-mcconnell-0a14d2e41e376331580b98a992f7d856|title= GOP's McConnell: Trump morally responsible for Jan. 6 attack|website= The Associated Press|access-date= February 13, 2021}}</ref><ref>{{cite web |title=Roll Call Vote 117th Congress – 1st Session |url=https://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?congress=117&session=1&vote=00059 |website=U.S. Senate |access-date=February 14, 2021}}</ref>"
     ]
   }
 ]

@@ -22,8 +22,8 @@ def worker(pages_chunk):
             continue
         main(
             title=item["title"],
-            start_ts="2020-11-03T23:50:00Z",
-            end_ts="2020-12-03T04:02:00Z",
+            start_ts="2021-09-01T23:50:00Z",
+            end_ts="2021-11-01T04:02:00Z",
             limit=20000
         )
 

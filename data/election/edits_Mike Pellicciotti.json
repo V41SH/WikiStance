@@ -1,9 +1,25 @@
 [
   {
     "title": "Mike Pellicciotti",
-    "timestamp": "2020-11-08T01:06:07+00:00",
+    "timestamp": "2020-11-08T01:00:48+00:00",
     "added": [
-      "|predecessor = [[Duane Davidson]]"
+      "Governor     = [[Jay Inslee]]"
+    ],
+    "deleted": []
+  },
+  {
+    "title": "Mike Pellicciotti",
+    "timestamp": "2020-11-08T01:03:57+00:00",
+    "added": [],
+    "deleted": [
+      "Governor     = [[Jay Inslee]]"
+    ]
+  },
+  {
+    "title": "Mike Pellicciotti",
+    "timestamp": "2020-11-08T01:19:13+00:00",
+    "added": [
+      "Pellicciotti defeated Davidson to become the next treasurer of Washington <ref> https://www.khq.com/hometown_election_headquarters/pellicciotti-looks-to-become-first-challenger-to-defeat-incumbent-state-treasurer-in-state-history/article_a5bfd288-1e66-11eb-8348-87fcaa93835f.html </ref>"
     ],
     "deleted": []
   },
@@ -12,13 +28,5 @@
     "timestamp": "2020-11-08T01:21:12+00:00",
     "added": [],
     "deleted": []
-  },
-  {
-    "title": "Mike Pellicciotti",
-    "timestamp": "2020-11-10T04:19:14+00:00",
-    "added": [],
-    "deleted": [
-      "{{s-start}}"
-    ]
   }
 ]

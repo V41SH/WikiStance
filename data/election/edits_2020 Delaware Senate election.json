@@ -5,34 +5,17 @@
     "added": [
       "}}",
       "{{Election box hold with party link no change",
-      "| winner     = Democratic Party (United States)",
       "}}",
       "{{Election box gain with party link no change",
-      "| winner     = Democratic Party (United States)",
-      "| loser      = Republican Party (United States)",
       "}}",
       "{{Election box gain with party link no change",
-      "| winner     = Democratic Party (United States)",
-      "| loser      = Republican Party (United States)",
       "}}",
       "{{Election box hold with party link no change",
-      "| winner     = Democratic Party (United States)",
-      "| swing      =",
       "}}",
       "{{Election box hold with party link no change",
-      "| winner     = Democratic Party (United States)",
       "}}",
-      "{{Election box hold with party link no change",
-      "| winner     = Republican Party (United States)"
+      "{{Election box hold with party link no change"
     ],
     "deleted": []
-  },
-  {
-    "title": "2020 Delaware Senate election",
-    "timestamp": "2020-11-15T20:48:13+00:00",
-    "added": [],
-    "deleted": [
-      "|colspan=15 align=center|"
-    ]
   }
 ]

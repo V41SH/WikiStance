@@ -1,11 +1,17 @@
 [
   {
     "title": "John W. Walter",
-    "timestamp": "2020-11-23T21:52:15+00:00",
+    "timestamp": "2020-11-23T21:40:08+00:00",
     "added": [
-      "{{notability|1=Biographies|date=November 2020}}",
-      ""
+      "[[Category:Trump family|Donald]]",
+      "[[Category:Incorporated Village of Flower Hill, New York]]"
     ],
+    "deleted": []
+  },
+  {
+    "title": "John W. Walter",
+    "timestamp": "2020-11-23T21:52:15+00:00",
+    "added": [],
     "deleted": []
   },
   {
@@ -22,5 +28,13 @@
       "[[Category:Norwich University alumni]]"
     ],
     "deleted": []
+  },
+  {
+    "title": "John W. Walter",
+    "timestamp": "2020-11-24T03:03:25+00:00",
+    "added": [],
+    "deleted": [
+      "<references />"
+    ]
   }
 ]

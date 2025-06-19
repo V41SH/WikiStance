@@ -9,43 +9,25 @@
   },
   {
     "title": "Gordon Brown",
+    "timestamp": "2021-01-11T16:22:16+00:00",
+    "added": [],
+    "deleted": [
+      "'''James Gordon Brown''' {{post-nominals|country=GBR|HFRSE}} (born 20 February 1951) is a British politician who was [[Prime Minister of the United Kingdom]] and [[Leader of the Labour Party (UK)|Leader of the Labour Party]] from [[2007 Labour Party leadership election (UK)|2007]] to [[2010 United Kingdom government formation|2010]]. He served as [[Chancellor of the Exchequer]] from [[1997 United Kingdom general election|1997]] to [[2007 Labour Party (UK) leadership election|2007]]. Brown was [[Member of Parliament (United Kingdom)|Member of Parliament]] (MP) from [[1983 United Kingdom general election|1983]] to [[2015 United Kingdom general election|2015]], first for [[Dunfermline East (UK Parliament constituency)|Dunfermline East]] and later for [[Kirkcaldy and Cowdenbeath (UK Parliament constituency)|Kirkcaldy and Cowdenbeath]]."
+    ]
+  },
+  {
+    "title": "Gordon Brown",
     "timestamp": "2021-01-12T22:11:10+00:00",
     "added": [],
     "deleted": []
   },
   {
     "title": "Gordon Brown",
-    "timestamp": "2021-03-01T15:30:08+00:00",
+    "timestamp": "2021-02-28T05:21:55+00:00",
     "added": [
-      "{{Undue}}"
+      "{{Collapsed infobox section begin |[[Shadow Cabinet]] posts",
+      "{{Collapsed infobox section begin |Parliamentary offices"
     ],
     "deleted": []
-  },
-  {
-    "title": "Gordon Brown",
-    "timestamp": "2021-03-01T15:34:48+00:00",
-    "added": [
-      "{{Undue|section|date=February 2021}}"
-    ],
-    "deleted": []
-  },
-  {
-    "title": "Gordon Brown",
-    "timestamp": "2021-03-16T11:52:57+00:00",
-    "added": [],
-    "deleted": [
-      "| honorific-prefix = [[The Noble]]",
-      "| honorific-suffix = {{post-nominals|country=GBR|size=100|HFRSE}}",
-      "| office           = [[Prime Minister of the United Kingdom]]",
-      "| monarch          = [[Elizabeth II]]"
-    ]
-  },
-  {
-    "title": "Gordon Brown",
-    "timestamp": "2021-03-16T11:53:46+00:00",
-    "added": [],
-    "deleted": [
-      ""
-    ]
   }
 ]

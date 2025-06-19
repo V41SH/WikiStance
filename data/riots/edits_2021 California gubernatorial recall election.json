@@ -4,14 +4,7 @@
     "timestamp": "2021-02-02T00:05:23+00:00",
     "added": [
       "{{Infobox referendum",
-      "|name=Vote on recall",
-      "|yes=",
-      "|no=",
-      "|total=",
-      "|mapdivision=",
-      "|notes=",
-      "}}",
-      "{{ElectionsCA}}"
+      "}}"
     ],
     "deleted": []
   },
@@ -43,7 +36,6 @@
       "",
       "==== Endorsements ====",
       "{{Endorsements box",
-      "| list =",
       ";State Assemblymembers",
       "* [[Marie Waldron]], minority leader of the [[California State Assembly]] from California's [[California's 75th State Assembly district|25th State Assembly district]]<ref name=\"Majority\">{{cite web|url=https://www.kevinfaulconer.com/news/majority-of-gop-state-legislators-rally-behind-faulconer-for-governor|title=Majority of GOP State Legislators Rally Behind Faulconer for Governor|website=[[Kevin Faulconer|kevinfaulconer]].com|access-date=February 5, 2021|url-status=live|archive-url=https://web.archive.org/web/20210205191505/https://www.kevinfaulconer.com/news/majority-of-gop-state-legislators-rally-behind-faulconer-for-governor|archive-date=February 5, 2021}}</ref>",
       "* [[Frank Bigelow]], state assemblymember from California's [[California's 5th State Assembly district|5th State Assembly district]]<ref name=\"Majority\" />",
@@ -66,185 +58,9 @@
   },
   {
     "title": "2021 California gubernatorial recall election",
-    "timestamp": "2021-02-19T13:51:13+00:00",
+    "timestamp": "2021-02-19T14:08:03+00:00",
     "added": [
-      "|-",
-      "|align=left|''WPA Intelligence'' (R)",
-      "|February 12–14, 2021",
-      "|645 {{abbr|LV|Likely voters}}",
-      "|±&nbsp;3.9%",
-      "|style=\"background: rgb(153, 255, 153);\"|47%",
-      "|43%",
-      "|10%",
-      "|<ref>{{cite web|url=https://www.politico.com/f/?id=00000177-b286-d644-a377-fe9f2d260000|title=Newsom's Recall is About Newsom, Not Trump|last=Wilson|first=Chris|date=February 15, 2021|publisher=WPA Intelligence|access-date=February 19, 2021|url-status=live|archive-url=https://web.archive.org/web/20210219140522/https://www.politico.com/f/?id=00000177-b286-d644-a377-fe9f2d260000|archive-date=February 19, 2021}}</ref>"
-    ],
-    "deleted": []
-  },
-  {
-    "title": "2021 California gubernatorial recall election",
-    "timestamp": "2021-03-25T05:38:29+00:00",
-    "added": [],
-    "deleted": [
-      "[[Category:Draft articles]]"
-    ]
-  },
-  {
-    "title": "2021 California gubernatorial recall election",
-    "timestamp": "2021-03-25T14:07:53+00:00",
-    "added": [
-      ";Polling notes",
-      "{{notelist-ua}}"
-    ],
-    "deleted": []
-  },
-  {
-    "title": "2021 California gubernatorial recall election",
-    "timestamp": "2021-03-25T14:41:05+00:00",
-    "added": [],
-    "deleted": [
-      "|-",
-      "|align=left|Probolsky Research (R)",
-      "|March 16–19, 2021",
-      "|900 (RV)",
-      "|±&nbsp;3.3%",
-      "|style=\"background: rgb(153, 255, 153);\"|'''42%'''",
-      "|39%",
-      "|19%",
-      "|<ref name=\"Probolsky\">{{cite web|url=https://www.probolskyresearch.com/2021/03/23/newsom-recall-poll/|title=Newsom Recall Poll|first=Adam|last=Probolsky|publisher=Probolsky Research|date=March 23, 2021|access-date=March 24, 2021|archive-url=https://web.archive.org/web/20210324075817/https://www.probolskyresearch.com/2021/03/23/newsom-recall-poll/|archive-date=March 24, 2021|url-status=live}}</ref>"
-    ]
-  },
-  {
-    "title": "2021 California gubernatorial recall election",
-    "timestamp": "2021-03-25T14:59:10+00:00",
-    "added": [
-      "|-",
-      "|align=left rowspan=3|[https://www.ppic.org/publication/ppic-statewide-survey-californians-and-their-government-october-2020/ Public Policy Institute of California]",
-      "|rowspan=3|October 9–18, 2020",
-      "|1,701 (A)",
-      "|±&nbsp;3.5%",
-      "|style=\"background: rgb(1,223,116);\"|'''58%'''",
-      "|33%",
-      "|9%",
-      "|-",
-      "|1,453 (RV)",
-      "|±&nbsp;3.8%",
-      "|style=\"background: rgb(1,223,116);\"|'''55%'''",
-      "|39%",
-      "|6%",
-      "|-",
-      "|1,185 (LV)",
-      "|±&nbsp;4.3%",
-      "|style=\"background: rgb(1,223,116);\"|'''57%'''",
-      "|39%",
-      "|4%"
-    ],
-    "deleted": []
-  },
-  {
-    "title": "2021 California gubernatorial recall election",
-    "timestamp": "2021-03-25T15:48:03+00:00",
-    "added": [
-      "|-",
-      "|align=left rowspan=2|[https://www.probolskyresearch.com/2021/03/23/newsom-recall-poll/ Probolsky Research (R)]",
-      "|rowspan=2|March 16–19, 2021",
-      "|900 (RV)",
-      "|±&nbsp;3.3%",
-      "|rowspan=2|Favorability",
-      "|style=\"background: rgb(153, 255, 153);\"|'''42%'''",
-      "|39%",
-      "|19%",
-      "|-",
-      "|900 (LV){{efn|name=\"weight\"}}",
-      "|±&nbsp;3.3%",
-      "|35%",
-      "|style=\"background: rgb(153, 255, 153);\"|'''47%'''",
-      "|37%",
-      "|16%"
-    ],
-    "deleted": []
-  },
-  {
-    "title": "2021 California gubernatorial recall election",
-    "timestamp": "2021-03-25T15:49:43+00:00",
-    "added": [],
-    "deleted": [
-      "|35%"
-    ]
-  },
-  {
-    "title": "2021 California gubernatorial recall election",
-    "timestamp": "2021-03-25T15:49:54+00:00",
-    "added": [
-      "|-",
-      "|align=left|[https://www.foxnews.com/elections/2020/general-results/voter-analysis?state=CA NORC]",
-      "|October 26 – November 3, 2020",
-      "|3,295 (LV)",
-      "|±&nbsp;1.7%",
-      "|Favorability",
-      "|style=\"background: rgb(1,223,116);\"|'''61%'''",
-      "|39%",
-      "|0%"
-    ],
-    "deleted": []
-  },
-  {
-    "title": "2021 California gubernatorial recall election",
-    "timestamp": "2021-03-25T18:07:59+00:00",
-    "added": [
-      "|-",
-      "|align=left|[https://advocacy.calchamber.com/wp-content/uploads/2021/02/2021-Business-Issues-The-peoples-voice.pdf Core Decision/Pierrepont Analytics]",
-      "|July 3–6, 2020",
-      "|1,000 (LV)",
-      "|±&nbsp;3.1%",
-      "|Approval",
-      "|style=\"background: rgb(1,223,116);\"|'''57%'''",
-      "|43%",
-      "|–"
-    ],
-    "deleted": []
-  },
-  {
-    "title": "2021 California gubernatorial recall election",
-    "timestamp": "2021-03-26T06:14:14+00:00",
-    "added": [
-      "| map ="
-    ],
-    "deleted": []
-  },
-  {
-    "title": "2021 California gubernatorial recall election",
-    "timestamp": "2021-03-31T22:55:29+00:00",
-    "added": [
-      ";Graphical summary",
-      "{{Graph:Chart",
-      "| width=700",
-      "| height=400",
-      "| xAxisTitle=",
-      "| yAxisTitle=% with opinion",
-      "| xAxisAngle = -40",
-      "| legend=Opinion",
-      "| interpolate = bundle",
-      "| size = 77",
-      "| xType = date",
-      "| y1Title=Yes on recall",
-      "| y2Title=No on recall",
-      "| y3Title=Undecided",
-      "| type=line",
-      "|xGrid=",
-      "| x=",
-      "2021/01/23, 2021/02/14, 2021/03/14, 2021/03/19, 2021/03/23",
-      "|y1=",
-      "36,47,38,35,40",
-      "|y2=",
-      "49,43,42,53,56",
-      "|y3=",
-      "15,10,14,13,5",
-      "| colors = #01DF74, #E96B67, #D2D2D4",
-      "| showSymbols = 1,1,1",
-      "| symbolsShape = cross",
-      "| yGrid = true",
-      "| linewidth = 2.0",
-      "}}"
+      "*[[Antonio Villaraigosa]], former [[mayor of Los Angeles]] (2005–2013)<ref>{{cite web|url=https://abc7news.com/california-governor-gavin-newsom-recall-election/10349090/|title='It will be a 3-ring circus' if recall election happens this year, CA political strategist predicts|first=Liz|last=Kreutz|work=[[KABC-TV]]|date=February 18, 2021|access-date=February 19, 2021|url-status=live|archive-url=https://web.archive.org/web/20210218060911/https://abc7news.com/california-governor-gavin-newsom-recall-election/10349090/|archive-date=February 18, 2021}}</ref>"
     ],
     "deleted": []
   }

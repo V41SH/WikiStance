@@ -1,6 +1,14 @@
 [
   {
     "title": "Mike Feuer",
+    "timestamp": "2020-11-08T03:35:19+00:00",
+    "added": [],
+    "deleted": [
+      ""
+    ]
+  },
+  {
+    "title": "Mike Feuer",
     "timestamp": "2020-11-08T03:42:47+00:00",
     "added": [
       "",
@@ -61,10 +69,20 @@
   },
   {
     "title": "Mike Feuer",
-    "timestamp": "2020-11-09T20:15:32+00:00",
+    "timestamp": "2020-11-09T20:16:16+00:00",
     "added": [
-      "{{short description|American politician and lawyer|bot=PearBOT 5}}",
-      "{{use mdy dates|date=July 2020}}"
+      "",
+      "",
+      "[[Category:Los Angeles City Attorneys]]",
+      "[[Category:Members of the California State Assembly]]",
+      "[[Category:Jewish American state legislators in California]]",
+      "[[Category:1958 births]]",
+      "[[Category:Harvard Law School alumni]]",
+      "[[Category:Los Angeles City Council members]]",
+      "[[Category:California Democrats]]",
+      "[[Category:California lawyers]]",
+      "[[Category:Living people]]",
+      "[[Category:21st-century American politicians]]"
     ],
     "deleted": []
   }

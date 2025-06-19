@@ -1,1 +1,26 @@
-[]
+[
+  {
+    "title": "John H. Cox",
+    "timestamp": "2021-09-15T10:54:41+00:00",
+    "added": [
+      "{{s-aft|after='''Incumbent'''"
+    ],
+    "deleted": []
+  },
+  {
+    "title": "John H. Cox",
+    "timestamp": "2021-09-15T10:55:49+00:00",
+    "added": [],
+    "deleted": [
+      "{{s-aft|after='''Incumbent'''"
+    ]
+  },
+  {
+    "title": "John H. Cox",
+    "timestamp": "2021-10-08T04:30:07+00:00",
+    "added": [
+      "[[Category:American conspiracy theorists]]"
+    ],
+    "deleted": []
+  }
+]

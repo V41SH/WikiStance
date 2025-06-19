@@ -1,23 +1,19 @@
 [
   {
     "title": "Lyndon B. Johnson",
-    "timestamp": "2021-01-22T15:39:39+00:00",
-    "added": [],
-    "deleted": [
-      "{{s-break}}",
-      "{{s-hon}}",
-      "{{s-bef|before=[[Harry S. Truman]]}}",
-      "{{s-ttl|title=[[Oldest living President of the United States]]|years=1972–1973}}",
-      "{{s-aft|after=[[Richard Nixon]]}}"
-    ]
-  },
-  {
-    "title": "Lyndon B. Johnson",
     "timestamp": "2021-02-01T17:56:58+00:00",
     "added": [],
     "deleted": [
       "",
       "From Johnson's death to Richard Nixon's resignation on August 9, 1974, there were no other living former presidents."
+    ]
+  },
+  {
+    "title": "Lyndon B. Johnson",
+    "timestamp": "2021-02-09T23:38:18+00:00",
+    "added": [],
+    "deleted": [
+      "se{{short description|36th president of the United States}}"
     ]
   }
 ]

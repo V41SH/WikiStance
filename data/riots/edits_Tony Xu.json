@@ -1,6 +1,24 @@
 [
   {
     "title": "Tony Xu",
+    "timestamp": "2021-01-16T01:48:03+00:00",
+    "added": [
+      "* [[University of California, Berkeley]] ([[Bachelor of Science|B.S.]])",
+      "* [[Stanford Graduate School of Business]] ([[Master of Business Administration|MBA]])"
+    ],
+    "deleted": []
+  },
+  {
+    "title": "Tony Xu",
+    "timestamp": "2021-01-16T01:55:44+00:00",
+    "added": [],
+    "deleted": [
+      "* [[University of California, Berkeley]] ([[Bachelor of Science|B.S.]])",
+      "*[[Stanford Graduate School of Business]] ([[Master of Business Administration|MBA]])"
+    ]
+  },
+  {
+    "title": "Tony Xu",
     "timestamp": "2021-02-27T04:26:36+00:00",
     "added": [
       "== Personal life==",

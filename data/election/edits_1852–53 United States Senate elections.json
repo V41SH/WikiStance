@@ -4,8 +4,7 @@
     "timestamp": "2020-11-07T16:37:00+00:00",
     "added": [
       "",
-      "The [[Connecticut legislature]] had failed to elect a senator for the term beginning in 1851.  Democrat [[Isaac Toucey]] was elected in May 1852 to finish the term.",
-      "{{Clear}}"
+      "The [[Connecticut legislature]] had failed to elect a senator for the term beginning in 1851.  Democrat [[Isaac Toucey]] was elected in May 1852 to finish the term."
     ],
     "deleted": []
   },
@@ -17,16 +16,28 @@
       "Democratic senator [[William K. Sebastian]] had been appointed May 12, 1848 to continue the term, to which he was elected later that year to finish.",
       "",
       "Sebastian was re-elected to a full term in 1853.",
-      "",
-      "{{Clear}}"
+      ""
     ],
     "deleted": []
   },
   {
     "title": "1852–53 United States Senate elections",
-    "timestamp": "2020-11-10T15:11:33+00:00",
+    "timestamp": "2020-11-10T15:14:18+00:00",
     "added": [
-      "{{Clear}}"
+      "Second-term Whig [[John M. Berrien]] resigned May 28, 1852 and Democrat [[Robert M. Charlton]] was appointed May 31, 1852 to finish the term.",
+      "",
+      "Democrat [[Robert Toombs]] was elected in 1852 and would serve through re-election in 1858 and until he withdrew in 1861.",
+      ""
+    ],
+    "deleted": []
+  },
+  {
+    "title": "1852–53 United States Senate elections",
+    "timestamp": "2020-11-10T19:34:36+00:00",
+    "added": [
+      "*{{Aye}} '''[[John M. Clayton]]''' (Whig)",
+      "* Unopposed<ref name=Delaware/>",
+      "}}"
     ],
     "deleted": []
   },
@@ -35,14 +46,22 @@
     "timestamp": "2020-11-10T20:42:25+00:00",
     "added": [
       "One-term Whig [[Joseph R. Underwood]] retired and Know Nothing [[John Burton Thompson]] was elected.",
-      "{{Clear}}",
       "Long-term Whig and former-[[United States Secretary of State|U.S. Secretary of State]] [[Henry Clay]] died June 24, 1852 and Democrat [[David Meriwether (Kentucky)|David Meriwether]] was appointed July 6, 1852 pending a special election, in which he was not a candidate.",
       "",
       "Whig [[Archibald Dixon]] was elected September 1, 1852 to finish the term that would end in 1855.",
-      "{{Clear}}",
       "In 1853 the [[Kentucky legislature]] elected Whig former senator [[John J. Crittenden]] to succeed Dixon, far in advance of the 1855 term.",
-      "",
-      "{{Clear}}"
+      ""
+    ],
+    "deleted": []
+  },
+  {
+    "title": "1852–53 United States Senate elections",
+    "timestamp": "2020-11-13T18:25:52+00:00",
+    "added": [
+      "*{{Aye}} '''[[Stephen A. Douglas]]''' (Democratic)75votes",
+      "* [[Joseph Gillespie]] (Whig) 19 votes",
+      "* [[James H. Collins]] 1 vote<ref name=Illinois/>",
+      "}}"
     ],
     "deleted": []
   },
@@ -50,47 +69,120 @@
     "title": "1852–53 United States Senate elections",
     "timestamp": "2020-11-14T18:16:36+00:00",
     "added": [
-      "* {{Cite book | last = Clark | first = Dan Elbert | title = History of Senatorial Elections in Iowa",
-      "| location = [[Iowa City, Iowa]] | date = 1913 | ref = {{SfnRef|Clark}} | url = https://books.google.com/books?id=jXJDAAAAIAAJ | via=[[Google Books]] }}"
+      "* {{Cite book | last = Clark | first = Dan Elbert | title = History of Senatorial Elections in Iowa"
     ],
     "deleted": []
   },
   {
     "title": "1852–53 United States Senate elections",
-    "timestamp": "2020-11-17T15:39:46+00:00",
+    "timestamp": "2020-11-14T21:50:28+00:00",
     "added": [
-      "{{End}}",
-      "{{End}}"
+      "{{Plainlist|",
+      "*{{Aye}} '''[[John Slidell]]''' (Democratic)70votes",
+      "* [[T.G. Hunt]] 37 votes<ref name=\"Louisiana special\"/>",
+      "}}"
     ],
     "deleted": []
   },
   {
     "title": "1852–53 United States Senate elections",
-    "timestamp": "2020-11-20T13:42:18+00:00",
+    "timestamp": "2020-11-17T20:50:46+00:00",
+    "added": [
+      "First-term Democrat [[James W. Bradbury]] retired and the [[Maine legislature]] failed to elect his replacement until long after the new Congress began.  It wasn't [[1854 United States Senate special election in Maine|until 1854]] that a new senator would be elected."
+    ],
+    "deleted": []
+  },
+  {
+    "title": "1852–53 United States Senate elections",
+    "timestamp": "2020-11-18T12:42:50+00:00",
     "added": [
       "",
-      "== Tennessee ==",
-      "<!--{{Main|1852 United States Senate election in Tennessee}}-->",
-      "{{See also|List of United States senators from Tennessee|1853 United States House of Representatives elections in Virginia}}",
-      "{{Expand section|date=November 2020}}"
+      "Free Soil senator [[John P. Hale]] [[1852 United States presidential election|ran for U.S. President]], coming in third place in the popular vote, but failing to win any states.  He lost to the Democratic fellow-New Hampshire senator [[Franklin Pierce]].  He then lost re-election to his senate seat when Democrats took over the [[New Hampshire legislature]] in 1852 state elections.",
+      "",
+      "Democratic former-senator [[Charles G. Atherton]] was returned to the Senate in Hale's place on November 25, 1852.",
+      "",
+      "{{Election box begin no change",
+      "{{Election box winning candidate with party link no change",
+      "}}",
+      "{{Election box candidate no change",
+      "}}",
+      "{{Election box candidate no change",
+      "}}",
+      "{{Election box candidate with party link no change",
+      "}}",
+      "{{Election box candidate with party link no change",
+      "}}",
+      "{{Election box candidate with party link no change",
+      "}}",
+      "{{Election box candidate no change",
+      "}}",
+      "{{Election box candidate no change",
+      "}}",
+      "{{Election box candidate with party link no change",
+      "}}",
+      "",
+      "{{Election box begin no change",
+      "{{Election box winning candidate with party link no change",
+      "}}",
+      "{{Election box candidate no change",
+      "}}",
+      "{{Election box candidate no change",
+      "}}",
+      "",
+      "Atherton died from pulmonary tuberculosis in the first year of his term.",
+      "",
+      "After Republicans retook the [[New Hampshire legislature]] in 1854, Hale was [[1855 United States Senate special election in New Hampshire|re-elected to finish the term]]."
     ],
     "deleted": []
   },
   {
     "title": "1852–53 United States Senate elections",
-    "timestamp": "2020-11-22T19:29:37+00:00",
+    "timestamp": "2020-11-19T14:58:13+00:00",
+    "added": [
+      "",
+      "Long-time Whig [[Willie Person Mangum|Willie Mangum]] was a candidate for re-election.  Although Democratic former-congressman [[James C. Dobbin]] was a top choice of the [[North Carolina Legislature]], no candidate received a majority of votes in either house, so the seat was left unfilled.<ref>See, e.g., {{Cite web | title= Journals of the Senate and House of Commons of the General Assembly of North-Carolina at its session in 1852 | page=769 | url=https://digital.ncdcr.gov/digital/collection/p249901coll22/id/493877/rec/24 | access-date=November 19, 2020 |website=digital.ncdcr.gov |language=en}}</ref>",
+      "",
+      "The seat would remain vacant until a [[1854 United States Senate special election in North Carolina|1854 special election]].",
+      "",
+      "Dobbin would then be appointed [[United States Secretary of the Navy|U.S. Secretary of the Navy]] and Magnum retired from public service."
+    ],
+    "deleted": []
+  },
+  {
+    "title": "1852–53 United States Senate elections",
+    "timestamp": "2020-11-20T13:40:47+00:00",
+    "added": [
+      "*{{Aye}} '''[[Sam Houston]]''' (Democratic)65votes",
+      "* [[John Hemphill (U.S. senator)|John Hemphill]] (Democratic) 14 votes",
+      "* [[George W. Smyth]] (Democratic) 1 vote<ref name=TexasHouse/>",
+      "}}"
+    ],
+    "deleted": []
+  },
+  {
+    "title": "1852–53 United States Senate elections",
+    "timestamp": "2020-11-22T22:14:25+00:00",
+    "added": [
+      "*{{Aye}} '''[[Robert M. T. Hunter]]''' (Democratic)126votes",
+      "* Scattering 63 votes<ref name=VirginiaDelegates>",
+      "}}"
+    ],
+    "deleted": []
+  },
+  {
+    "title": "1852–53 United States Senate elections",
+    "timestamp": "2020-11-23T14:37:36+00:00",
     "added": [],
     "deleted": [
-      "{{Expand section|date=November 2020}}"
+      "After an July 6, 1852 appointment in Kentucky."
     ]
   },
   {
     "title": "1852–53 United States Senate elections",
     "timestamp": "2020-11-23T18:47:56+00:00",
-    "added": [
-      "{{1852 United States elections}}",
-      "{{1853 United States elections}}"
-    ],
-    "deleted": []
+    "added": [],
+    "deleted": [
+      ""
+    ]
   }
 ]

@@ -1,14 +1,6 @@
 [
   {
     "title": "Doug Jones (politician)",
-    "timestamp": "2020-11-04T04:47:50+00:00",
-    "added": [
-      "{{pp-protected|reason=Persistent [[WP:Disruptive editing|disruptive editing]]|small=yes}}"
-    ],
-    "deleted": []
-  },
-  {
-    "title": "Doug Jones (politician)",
     "timestamp": "2020-11-08T23:55:39+00:00",
     "added": [],
     "deleted": [
@@ -28,14 +20,6 @@
   },
   {
     "title": "Doug Jones (politician)",
-    "timestamp": "2020-11-11T06:50:08+00:00",
-    "added": [],
-    "deleted": [
-      "{{pp-protected|reason=Persistent [[WP:Disruptive editing|disruptive editing]]|small=yes}}"
-    ]
-  },
-  {
-    "title": "Doug Jones (politician)",
     "timestamp": "2020-11-11T17:42:26+00:00",
     "added": [
       "",
@@ -47,34 +31,18 @@
     "title": "Doug Jones (politician)",
     "timestamp": "2020-12-02T17:44:37+00:00",
     "added": [
-      "{{Election box end}}",
       "===2020===",
-      "{{main|2020 United States Senate election in Alabama}}",
       "{{Election box begin no change",
       "}}",
       "{{Election box winning candidate with party link no change",
-      "| party = Republican Party (United States)",
-      "| candidate = [[Tommy Tuberville]]",
-      "| votes = 1,392,076",
-      "| percentage = 60.1%",
       "}}",
       "{{Election box candidate with party link no change",
-      "| party = Democratic Party (United States)",
-      "| candidate = [[Doug Jones (politician)|Doug Jones]] (incumbent)",
-      "| votes = 920,478",
-      "| percentage = 39.7%",
       "}}",
       "{{Election box write-in with party link no change",
-      "| votes = 3,891",
-      "| percentage = 0.2%",
       "}}",
       "{{Election box total no change",
-      "| votes = 2,316,445",
-      "| percentage = 100%",
       "}}",
       "{{Election box gain with party link no swing",
-      "|winner     = Republican Party (United States)",
-      "|loser      = Democratic Party (United States)",
       "}}",
       ""
     ],

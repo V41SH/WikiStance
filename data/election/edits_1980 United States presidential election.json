@@ -1,103 +1,82 @@
 [
   {
     "title": "1980 United States presidential election",
-    "timestamp": "2020-11-17T16:13:39+00:00",
-    "added": [],
-    "deleted": [
-      "{{USPresidentsElectoralHistory}}"
-    ]
-  },
-  {
-    "title": "1980 United States presidential election",
     "timestamp": "2020-11-19T02:29:53+00:00",
     "added": [],
     "deleted": [
-      "",
-      "<!-- Jimmy Carter -->",
-      "| nominee2           = [[Barry Goldwater]]",
-      "| party2             = Progressive Party (United States)",
-      "| home_state2        = [[New York|New York]]",
-      "| running_mate2      = [[Jo Jorgenson]]",
-      "| electoral_vote2    = 26",
-      "| states_carried2    = 2",
-      "| popular_vote2      = 35,480,115",
-      "| percentage2        = {{percent|<!-- CARTER: --> 35,480,115|<!-- TOTAL: --> 86,509,678|1|pad=yes}}"
+      ""
     ]
   },
   {
     "title": "1980 United States presidential election",
     "timestamp": "2020-11-19T02:30:27+00:00",
     "added": [],
+    "deleted": []
+  },
+  {
+    "title": "1980 United States presidential election",
+    "timestamp": "2020-11-19T02:31:39+00:00",
+    "added": [],
     "deleted": [
-      "| states_carried1    = '''48+ [[Washington D.C.|DC]]'''"
+      ""
+    ]
+  },
+  {
+    "title": "1980 United States presidential election",
+    "timestamp": "2020-11-19T02:34:41+00:00",
+    "added": [],
+    "deleted": [
+      ""
     ]
   },
   {
     "title": "1980 United States presidential election",
     "timestamp": "2020-11-19T02:35:33+00:00",
-    "added": [
-      "",
-      "<!-- John B. Anderson -->",
-      "| nominee3           = [[John B. Anderson]]",
-      "| party3             = independent (United States)",
-      "| home_state3        = [[Illinois]]",
-      "| running_mate3      = [[Patrick Lucey]]",
-      "| electoral_vote3    = 0",
-      "| states_carried3    = 0",
-      "| popular_vote3      = 5,719,850",
-      "| percentage3        = {{percent|<!-- ANDERSON: --> 5,719,850|<!-- TOTAL: --> 86,509,678|1|pad=yes}}"
-    ],
+    "added": [],
     "deleted": []
   },
   {
     "title": "1980 United States presidential election",
     "timestamp": "2020-11-19T02:44:14+00:00",
-    "added": [
-      "",
-      "<!-- John B. Anderson -->",
-      "| nominee3           = [[John B. Anderson]]",
-      "| party3             = independent (United States)",
-      "| home_state3        = [[Illinois]]",
-      "| running_mate3      = [[Patrick Lucey]]",
-      "| electoral_vote3    = 0",
-      "| states_carried3    = 0",
-      "| popular_vote3      = 5,719,850",
-      "| percentage3        = {{percent|<!-- ANDERSON: --> 5,719,850|<!-- TOTAL: --> 86,509,678|1|pad=yes}}"
-    ],
+    "added": [],
     "deleted": []
   },
   {
     "title": "1980 United States presidential election",
     "timestamp": "2020-11-21T15:51:30+00:00",
-    "added": [
-      "",
-      "<!-- John B. Anderson -->",
-      "| nominee3           = [[John B. Anderson]]",
-      "| party3             = independent (United States)",
-      "| home_state3        = [[Illinois]]",
-      "| running_mate3      = [[Patrick Lucey]]",
-      "| electoral_vote3    = 0",
-      "| states_carried3    = 0",
-      "| popular_vote3      = 5,719,850",
-      "| percentage3        = {{percent|<!-- ANDERSON: --> 5,719,850|<!-- TOTAL: --> 86,509,678|1|pad=yes}}"
-    ],
+    "added": [],
     "deleted": []
   },
   {
     "title": "1980 United States presidential election",
     "timestamp": "2020-11-24T19:53:59+00:00",
-    "added": [
-      "",
-      "<!-- John B. Anderson -->",
-      "| nominee3           = [[John B. Anderson]]",
-      "| party3             = independent (United States)",
-      "| home_state3        = [[Illinois]]",
-      "| running_mate3      = [[Patrick Lucey]]",
-      "| electoral_vote3    = 0",
-      "| states_carried3    = 0",
-      "| popular_vote3      = 5,719,850",
-      "| percentage3        = {{percent|<!-- ANDERSON: --> 5,719,850|<!-- TOTAL: --> 86,509,678|1|pad=yes}}"
-    ],
+    "added": [],
+    "deleted": []
+  },
+  {
+    "title": "1980 United States presidential election",
+    "timestamp": "2020-11-26T00:01:28+00:00",
+    "added": [],
+    "deleted": []
+  },
+  {
+    "title": "1980 United States presidential election",
+    "timestamp": "2020-11-26T16:01:09+00:00",
+    "added": [],
+    "deleted": []
+  },
+  {
+    "title": "1980 United States presidential election",
+    "timestamp": "2020-11-26T16:02:01+00:00",
+    "added": [],
+    "deleted": [
+      ""
+    ]
+  },
+  {
+    "title": "1980 United States presidential election",
+    "timestamp": "2020-11-26T16:06:49+00:00",
+    "added": [],
     "deleted": []
   }
 ]

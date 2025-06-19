@@ -13,19 +13,8 @@
     "timestamp": "2020-11-23T04:36:08+00:00",
     "added": [],
     "deleted": [
-      "",
-      "{{US-diplomat-stub}}",
-      "{{AfricanAmerican-stub}}",
-      "{{Women's-History-stub}}"
+      ""
     ]
-  },
-  {
-    "title": "Linda Thomas-Greenfield",
-    "timestamp": "2020-11-23T17:06:23+00:00",
-    "added": [
-      "| order2       =  43rd"
-    ],
-    "deleted": []
   },
   {
     "title": "Linda Thomas-Greenfield",
@@ -37,34 +26,5 @@
       "* {{Cite journal|last1=Thomas-Greenfield|first1=Linda|last2=Wharton|first2=D. Bruce|author-link2=Bruce Wharton|date=2019|title=Zimbabwe's Coup: Net Gain or No Gain?|url=https://www.armyupress.army.mil/Journals/Military-Review/English-Edition-Archives/Mar-Apr-2019/6-Zimbabwe/|journal=Military Review|language=en-US}}"
     ],
     "deleted": []
-  },
-  {
-    "title": "Linda Thomas-Greenfield",
-    "timestamp": "2020-12-01T16:49:52+00:00",
-    "added": [
-      "|name         = Linda Thomas-Greenfield",
-      "|office        = [[United States Ambassador to the United Nations]]",
-      "|status        = Nominee",
-      "|president     = [[Joe Biden]] (elect)",
-      "|term_start    = TBD",
-      "|term_end      =",
-      "|succeeding    = [[Kelly Craft]]",
-      "|successor     ="
-    ],
-    "deleted": []
-  },
-  {
-    "title": "Linda Thomas-Greenfield",
-    "timestamp": "2020-12-01T16:50:14+00:00",
-    "added": [],
-    "deleted": [
-      "|office        = [[United States Ambassador to the United Nations]]",
-      "|status        = Nominee",
-      "|president     = [[Joe Biden]] (elect)",
-      "|term_start    = TBD",
-      "|term_end      =",
-      "|succeeding    = [[Kelly Craft]]",
-      "|successor     ="
-    ]
   }
 ]

@@ -1,85 +1,58 @@
 [
   {
     "title": "List of African-American United States senators",
+    "timestamp": "2021-01-11T21:29:54+00:00",
+    "added": [],
+    "deleted": [
+      ";Political Affiliation",
+      ";{{legend2|{{Democratic Party (United States)/meta/color}}|[[Democratic Party (United States)|Democratic]]|border=1px solid #AAAAAA}} {{legend2|{{Republican Party (United States)/meta/color}}|[[Republican Party (United States)|Republican]]|border=1px solid #AAAAAA}}",
+      "====== Key ======"
+    ]
+  },
+  {
+    "title": "List of African-American United States senators",
+    "timestamp": "2021-01-11T22:08:31+00:00",
+    "added": [],
+    "deleted": []
+  },
+  {
+    "title": "List of African-American United States senators",
     "timestamp": "2021-01-11T22:13:52+00:00",
     "added": [],
     "deleted": [
-      "====== Key ======",
-      "{{legend2|#C8A2C8|Incumbent U.S. Senator|border=1px solid #AAAAAA}} {{legend2|#CCCCFF|U.S. Senator-Elect|border=1px solid #AAAAAA}}"
+      "====== Key ======"
     ]
   },
   {
     "title": "List of African-American United States senators",
-    "timestamp": "2021-01-18T18:28:46+00:00",
+    "timestamp": "2021-01-11T22:25:22+00:00",
     "added": [
-      "|-",
-      "| January 18, 2021|| 2 || <code>**</code>"
+      "====== Key ======"
     ],
     "deleted": []
   },
   {
     "title": "List of African-American United States senators",
-    "timestamp": "2021-01-20T22:46:41+00:00",
-    "added": [
-      "|{{#tag:ref |Elected to fill vacancy caused by the resignation of [[Johnny Isakson]], replacing appointee [[Kelly Loeffler]]. First African American to serve in the Senate from Georgia. |group=\"note\"}}"
-    ],
-    "deleted": []
-  },
-  {
-    "title": "List of African-American United States senators",
-    "timestamp": "2021-01-20T23:14:31+00:00",
+    "timestamp": "2021-01-11T22:52:25+00:00",
     "added": [],
     "deleted": [
-      "|}",
-      "",
-      "==Graphs==",
-      "",
-      "===Histograph===",
-      "{| class=\"wikitable sortable\"",
-      "|-",
-      "! Starting",
-      "! Total",
-      "! Graph",
-      "|-",
-      "| March 4, 1789 || 0 || &nbsp;",
-      "|-",
-      "| February 25, 1870 || 1 || <code>*</code>",
-      "|-",
-      "| March 4, 1871 || 0 || &nbsp;",
-      "|-",
-      "| March 4, 1875 || 1 || <code>*</code>",
-      "|-",
-      "| March 4, 1881 || 0 || &nbsp;",
-      "|-",
-      "| January 3, 1967 || 1 || <code>*</code>",
-      "|-",
-      "| January 4, 1979 || 0 || &nbsp;",
-      "|-",
-      "| January 3, 1993 || 1 || <code>*</code>",
-      "|-",
-      "| January 4, 1999 || 0 || &nbsp;",
-      "|-",
-      "| January 3, 2005 || 1 || <code>*</code>",
-      "|-",
-      "| November 17, 2008 || 0 || &nbsp;",
-      "|-",
-      "| January 15, 2009 || 1 || <code>*</code>",
-      "|-",
-      "| November 30, 2010 || 0 || &nbsp;",
-      "|-",
-      "| January 2, 2013|| 1 || <code>*</code>",
-      "|-",
-      "| February 1, 2013|| 2 || <code>**</code>",
-      "|-",
-      "| July 17, 2013|| 1 || <code>*</code>",
-      "|-",
-      "| October 31, 2013|| 2 || <code>**</code>",
-      "|-",
-      "| January 3, 2017 || 3|| <code>***</code>",
-      "|-",
-      "| January 18, 2021|| 2 || <code>**</code>",
-      "|-",
-      "| January 20, 2021|| 3|| <code>***</code>"
+      ""
     ]
+  },
+  {
+    "title": "List of African-American United States senators",
+    "timestamp": "2021-01-20T22:55:27+00:00",
+    "added": [],
+    "deleted": [
+      "=== Key ==="
+    ]
+  },
+  {
+    "title": "List of African-American United States senators",
+    "timestamp": "2021-01-20T23:47:11+00:00",
+    "added": [
+      "==History=="
+    ],
+    "deleted": []
   }
 ]

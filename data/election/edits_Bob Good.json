@@ -10,26 +10,7 @@
   {
     "title": "Bob Good",
     "timestamp": "2020-11-16T22:27:32+00:00",
-    "added": [
-      "",
-      "{{s-start}}",
-      "{{s-par|us-hs}}",
-      "{{s-bef|before=[[Denver Riggleman]]}}",
-      "{{s-ttl|title=Member of the [[List of United States Representatives from Virginia|U.S. House of Representatives]]<br>from [[Virginia's 5th congressional district]]|years=Taking office 2021<!-- –present -->}}",
-      "{{s-non|reason=Elect}}<!-- {{s-inc}}",
-      "|-",
-      "{{s-prec|usa}}",
-      "{{s-bef|before=[[]]}}",
-      "{{s-ttl|title=[[Seniority in the United States House of Representatives|United States Representatives by seniority]]|years=TBD}}",
-      "{{s-aft|after=[[]]}} -->",
-      "{{s-end}}",
-      "",
-      "<!-- {{VA-FedRep}}",
-      "{{Members of the U.S. House of Representatives}}",
-      "{{USCongRep-start | congresses= 117th [[United States Congress]]es | state=[[Virginia]]}}",
-      "{{USCongRep/VA/117}}",
-      "{{USCongRep-end}} -->"
-    ],
+    "added": [],
     "deleted": []
   }
 ]

@@ -1,16 +1,51 @@
 [
   {
     "title": "NFL Kickoff",
-    "timestamp": "2020-09-11T14:20:05+00:00",
+    "timestamp": "2021-09-04T00:11:37+00:00",
     "added": [],
+    "deleted": [
+      "ABC’s Super Bowl season starts on a high note"
+    ]
+  },
+  {
+    "title": "NFL Kickoff",
+    "timestamp": "2021-09-09T07:19:40+00:00",
+    "added": [
+      "",
+      "==Notes=="
+    ],
     "deleted": []
   },
   {
     "title": "NFL Kickoff",
-    "timestamp": "2020-09-11T14:22:06+00:00",
+    "timestamp": "2021-09-09T07:37:32+00:00",
     "added": [],
     "deleted": [
-      "}"
+      ""
     ]
+  },
+  {
+    "title": "NFL Kickoff",
+    "timestamp": "2021-09-10T01:15:39+00:00",
+    "added": [
+      "''Teams in the table are initially ordered based on [[winning percentage]].''"
+    ],
+    "deleted": []
+  },
+  {
+    "title": "NFL Kickoff",
+    "timestamp": "2021-09-10T01:26:27+00:00",
+    "added": [
+      "''Teams in the table are initially ordered based on winning percentage.''"
+    ],
+    "deleted": []
+  },
+  {
+    "title": "NFL Kickoff",
+    "timestamp": "2021-09-11T02:48:57+00:00",
+    "added": [
+      "{{dagger}} Preliminary figure"
+    ],
+    "deleted": []
   }
 ]

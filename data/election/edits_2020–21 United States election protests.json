@@ -43,39 +43,6 @@
     "timestamp": "2020-11-06T01:48:38+00:00",
     "added": [
       "{{Infobox civil conflict",
-      "| subtitle         =",
-      "| partof           = [[Presidency of Donald Trump]]",
-      "| date             = 3 November 2020 – present<br />({{Age in years, months, weeks and days |2020|11|03}})",
-      "| place            = [[United States]]",
-      "| coordinates      =",
-      "| causes           = [[2020 United States presidential election]]",
-      "| goals            =",
-      "| methods          = Demonstrations, marches, [[street dance]] protests, [[Blockade|street blockades]], [[riot]]",
-      "| status           = Ongoing",
-      "| result           =",
-      "| side1            = [[Republicans]]",
-      "| side2            = [[Democrats]]",
-      "| howmany1         =",
-      "| howmany2         =",
-      "| howmany3         =",
-      "| howmany4         =",
-      "| casualties1      =",
-      "| casualties2      =",
-      "| casualties3      =",
-      "| casualties4      =",
-      "| fatalities       =",
-      "| injuries         =",
-      "| arrests          =",
-      "| damage           =",
-      "| buildings        =",
-      "| detentions       =",
-      "| charged          =",
-      "| fined            =",
-      "| effect           =",
-      "| effect_label     =",
-      "| casualties_label =",
-      "| notes            =",
-      "| sidebox          =",
       "}}"
     ],
     "deleted": []
@@ -86,39 +53,6 @@
     "added": [],
     "deleted": [
       "{{Infobox civil conflict",
-      "| subtitle         =",
-      "| partof           = [[Presidency of Donald Trump]]",
-      "| date             = 3 November 2020 – present<br />({{Age in years, months, weeks and days |2020|11|03}})",
-      "| place            = [[United States]]",
-      "| coordinates      =",
-      "| causes           = [[2020 United States presidential election]]",
-      "| goals            =",
-      "| methods          = Demonstrations, marches, [[street dance]] protests, [[Blockade|street blockades]], [[riot]]",
-      "| status           = Ongoing",
-      "| result           =",
-      "| side1            = [[Republican Party (United States)|Republicans]]",
-      "| side2            = [[Democrat Party (United States)|Democrats]]",
-      "| howmany1         =",
-      "| howmany2         =",
-      "| howmany3         =",
-      "| howmany4         =",
-      "| casualties1      =",
-      "| casualties2      =",
-      "| casualties3      =",
-      "| casualties4      =",
-      "| fatalities       =",
-      "| injuries         =",
-      "| arrests          =",
-      "| damage           =",
-      "| buildings        =",
-      "| detentions       =",
-      "| charged          =",
-      "| fined            =",
-      "| effect           =",
-      "| effect_label     =",
-      "| casualties_label =",
-      "| notes            =",
-      "| sidebox          =",
       "}}"
     ]
   },
@@ -134,39 +68,6 @@
     "added": [],
     "deleted": [
       "{{Infobox civil conflict",
-      "| subtitle         =",
-      "| partof           = [[Presidency of Donald Trump]]",
-      "| date             = 3 November 2020 – present<br />({{Age in years, months, weeks and days |2020|11|03}})",
-      "| place            = [[United States]]",
-      "| coordinates      =",
-      "| causes           = [[2020 United States presidential election]]",
-      "| goals            =",
-      "| methods          = Demonstrations, marches, [[street dance]] protests, [[Blockade|street blockades]], [[riot]]",
-      "| status           = Ongoing",
-      "| result           =",
-      "| side1            = [[Republican Party (United States)|Republicans]]",
-      "| side2            = [[Democrat Party (United States)|Democrats]]",
-      "| howmany1         =",
-      "| howmany2         =",
-      "| howmany3         =",
-      "| howmany4         =",
-      "| casualties1      =",
-      "| casualties2      =",
-      "| casualties3      =",
-      "| casualties4      =",
-      "| fatalities       =",
-      "| injuries         =",
-      "| arrests          =",
-      "| damage           =",
-      "| buildings        =",
-      "| detentions       =",
-      "| charged          =",
-      "| fined            =",
-      "| effect           =",
-      "| effect_label     =",
-      "| casualties_label =",
-      "| notes            =",
-      "| sidebox          =",
       "}}"
     ]
   },
@@ -194,19 +95,21 @@
   },
   {
     "title": "2020–21 United States election protests",
-    "timestamp": "2020-11-06T06:50:26+00:00",
+    "timestamp": "2020-11-06T07:29:52+00:00",
     "added": [
-      "{{short description|Series of protests in aftermath of 2020 election}}"
+      "",
+      "{{Infobox event",
+      "}}"
     ],
     "deleted": []
   },
   {
     "title": "2020–21 United States election protests",
-    "timestamp": "2020-11-06T06:51:52+00:00",
-    "added": [
-      "{{short description|Series of protests in aftermath of 2020United Stateselection}}"
-    ],
-    "deleted": []
+    "timestamp": "2020-11-06T07:32:17+00:00",
+    "added": [],
+    "deleted": [
+      "- President Trump's encouragement of undemocratic processes"
+    ]
   },
   {
     "title": "2020–21 United States election protests",
@@ -216,6 +119,14 @@
       "[[Category:2020 protests]]"
     ],
     "deleted": []
+  },
+  {
+    "title": "2020–21 United States election protests",
+    "timestamp": "2020-11-06T07:59:51+00:00",
+    "added": [],
+    "deleted": [
+      ""
+    ]
   },
   {
     "title": "2020–21 United States election protests",
@@ -230,12 +141,33 @@
   },
   {
     "title": "2020–21 United States election protests",
-    "timestamp": "2020-11-06T13:12:00+00:00",
+    "timestamp": "2020-11-06T11:00:45+00:00",
     "added": [
-      "{{Use mdy dates|date=November 2020}}",
-      "{{Use American English|date=November 2020}}"
+      "*To halt the vote counting process (for pro-Trump supporters)<ref name = Bellisle>{{cite news|url=https://apnews.com/article/trump-backers-converge-michigan-arizona-0b5711044a940703045953fe7833d6aa|title=More than a dozen arrested as protesters demand vote count|last1=Bellisle|first1=Martha|last2=Geller|first2=Adam|date=November 6, 2020|work=AP News|accessdate=November 5, 2020}}</ref><ref>{{cite news|url=https://www.theguardian.com/us-news/2020/nov/05/arizona-trump-supporters-protest-at-voting-centre-over-early-election-call|title=Trump supporters protest at Arizona vote counting centre|last=Beaumont|first=Peter|date=November 5, 2020|work=The Guardian|accessdate=November 5, 2020}}</ref>",
+      "",
+      "*To continue the vote counting process (for anti-Trump supporters)<ref name = Bellisle/><ref>{{cite news|url=https://www.theguardian.com/us-news/2020/nov/05/arizona-trump-supporters-protest-at-voting-centre-over-early-election-call|title=Trump supporters protest at Arizona vote counting centre|last=Beaumont|first=Peter|date=November 5, 2020|work=The Guardian|accessdate=November 5, 2020}}</ref>"
     ],
     "deleted": []
+  },
+  {
+    "title": "2020–21 United States election protests",
+    "timestamp": "2020-11-06T11:01:17+00:00",
+    "added": [],
+    "deleted": [
+      "",
+      "== Causes ==",
+      "In remarks from the [[White House]] on the early hours of November 4, President Trump attacked the vote counting efforts without evidence, calling it \"fraud\".<ref name=\":2\">{{Cite web|title=In White House speech, Trump repeats unproven voter fraud claims|url=https://www.aljazeera.com/news/2020/11/6/trump-repeats-unproven-election-fraud-claims|access-date=2020-11-06|website=www.aljazeera.com|language=en}}</ref> The president remarked, \"We will win this. As far as I'm concerned, we already have won.\"<ref>{{Cite web|last=Videos|first= Ian Schwartz, RCP|title=Trump: \"We Did Win This Election,\" \"This Is A Major Fraud On Our Nation\"|url= https://www.https://www.realclearpolitics.com/video/2020/11/04/trump_we_did_win_this_election_this_is_a_major_fraud_on_our_nation.html|website= Real Clear Politics}}</ref> Major networks provided fact checks and variously interrupted the speech or carried it in full.<ref>{{cite web |last1=Keveney |first1=Bill |title=MSNBC, major networks interrupt Trump's falsehood-laden speech to fact-check; Fox, CNN carry in full |url=https://www.usatoday.com/story/entertainment/tv/2020/11/05/fox-cnn-covered-trumps-falsehood-laden-speech-msnbc-pulled-away/6182029002/ |website=USA TODAY |accessdate=6 November 2020}}</ref> Furthermore, former [[Counselor to the President|White House Chief Strategist]] [[Steve Bannon]] suggested violence against Dr. [[Anthony Fauci]] and FBI Director [[Christopher A. Wray]] could serve as “a warning to federal bureaucrats” to begin a second term for President Trump.<ref>{{Cite web|last=Reimann|first=Nicholas|title=Steve Bannon Condemned, Banned From Twitter After Suggesting Violence As ‘A Warning To Federal Bureaucrats’|url=https://www.forbes.com/sites/nicholasreimann/2020/11/05/steve-bannon-condemned-banned-from-twitter-after-suggesting-violence-as-a-warning-to-federal-bureaucrats/|access-date=2020-11-06|website=Forbes|language=en}}</ref>",
+      "",
+      "Observers had been suggesting for months about the possibility of a premature Trump victory claim and then a contested election based on the likelihood that the initial votes counted by Election Night would skew heavily Republican. This was because [[mail-in voting|mail-in ballots]] were expected to lean heavily Democratic, leading to a [[blue shift (politics)|blue shift]] that becomes more favorable to Biden as more votes are counted.<ref>{{Cite news|last=Chang|first=Alvin|date=2020-11-01|title='Blue shift': why votes counted after election day skew to the Democrats|language=en-GB|work=The Guardian|url=https://www.theguardian.com/us-news/2020/nov/01/why-itll-be-normal-if-results-shift-in-the-days-after-the-election|access-date=2020-11-05|issn=0261-3077}}</ref>"
+    ]
+  },
+  {
+    "title": "2020–21 United States election protests",
+    "timestamp": "2020-11-06T13:12:00+00:00",
+    "added": [],
+    "deleted": [
+      ""
+    ]
   },
   {
     "title": "2020–21 United States election protests",
@@ -313,6 +245,15 @@
   },
   {
     "title": "2020–21 United States election protests",
+    "timestamp": "2020-11-08T05:02:50+00:00",
+    "added": [
+      "<noinclude>{{User:RMCD bot/subject notice|1=Domestic Reactions to the 2020 US Presidential Election|2=Talk:2020 United States election protests#Requested move 8 November 2020 }}",
+      "</noinclude>{{merge to|2020 United States presidential election |discuss=Talk:2020_United_States_presidential_election#Merger_proposal| date=November 2020}}"
+    ],
+    "deleted": []
+  },
+  {
+    "title": "2020–21 United States election protests",
     "timestamp": "2020-11-08T05:43:25+00:00",
     "added": [
       "*In [[Lansing, Michigan|Lansing]], more than 500 Trump supporters protested at the state [[Michigan State Capitol|Capitol]] over what they consider to be a rigged presidential race that led to Biden's election as the president.<ref>{{Cite web|last=Martinez|first=Mark Johnson and Christian|title=Michigan protest: Trump supporters in Lansing rally against election results as race is called for Joe Biden|url=https://www.lansingstatejournal.com/story/news/2020/11/07/lansing-michigan-protestors-rally-against-election-results-joe-biden-appears-win/6202486002/|access-date=2020-11-08|website=Lansing State Journal|language=en-US}}</ref>"
@@ -344,27 +285,11 @@
   },
   {
     "title": "2020–21 United States election protests",
-    "timestamp": "2020-11-09T21:44:37+00:00",
-    "added": [
-      "{{pp-semi|small=yes}}"
-    ],
-    "deleted": []
-  },
-  {
-    "title": "2020–21 United States election protests",
     "timestamp": "2020-11-10T10:16:58+00:00",
     "added": [],
     "deleted": [
       "* In [[Seattle]], eight protesters were arrested.<ref>{{Cite web|last=Staff|first=KIRO 7 News|title=8 arrested in Seattle election night protests|url=https://www.kiro7.com/news/local/8-arrested-seattle-election-night-protests/DH2EH2QE5VFHXN5KKMKOR4NC2U/|access-date=2020-11-05|website=KIRO|language=en-US|archive-date=November 5, 2020|archive-url=https://web.archive.org/web/20201105001501/https://www.kiro7.com/news/local/8-arrested-seattle-election-night-protests/DH2EH2QE5VFHXN5KKMKOR4NC2U/|url-status=live}}</ref>"
     ]
-  },
-  {
-    "title": "2020–21 United States election protests",
-    "timestamp": "2020-11-15T05:22:32+00:00",
-    "added": [
-      "{{Joe Biden}}"
-    ],
-    "deleted": []
   },
   {
     "title": "2020–21 United States election protests",
@@ -520,15 +445,6 @@
   },
   {
     "title": "2020–21 United States election protests",
-    "timestamp": "2020-11-19T00:34:22+00:00",
-    "added": [
-      "{{Main|Demonstrations in support of Donald Trump}}",
-      "{{Main|Protests against Donald Trump}}"
-    ],
-    "deleted": []
-  },
-  {
-    "title": "2020–21 United States election protests",
     "timestamp": "2020-11-19T01:11:20+00:00",
     "added": [],
     "deleted": [
@@ -561,24 +477,6 @@
     "timestamp": "2020-11-25T09:09:31+00:00",
     "added": [],
     "deleted": []
-  },
-  {
-    "title": "2020–21 United States election protests",
-    "timestamp": "2020-11-25T09:11:33+00:00",
-    "added": [
-      "{{Main article|Demonstrations in support of Donald Trump}}",
-      "{{Main article|Protests against Donald Trump}}"
-    ],
-    "deleted": []
-  },
-  {
-    "title": "2020–21 United States election protests",
-    "timestamp": "2020-11-29T01:20:14+00:00",
-    "added": [],
-    "deleted": [
-      "{{Main article|Demonstrations in support of Donald Trump}}",
-      "{{Main article|Protests against Donald Trump}}"
-    ]
   },
   {
     "title": "2020–21 United States election protests",

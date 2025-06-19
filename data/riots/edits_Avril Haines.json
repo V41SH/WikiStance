@@ -21,30 +21,6 @@
   },
   {
     "title": "Avril Haines",
-    "timestamp": "2021-01-21T00:16:25+00:00",
-    "added": [
-      "{{notelist}}"
-    ],
-    "deleted": []
-  },
-  {
-    "title": "Avril Haines",
-    "timestamp": "2021-01-21T00:36:37+00:00",
-    "added": [],
-    "deleted": [
-      "| status              = Confirmee"
-    ]
-  },
-  {
-    "title": "Avril Haines",
-    "timestamp": "2021-01-21T01:07:56+00:00",
-    "added": [
-      "| succeeding          = [[Lora Shiao]] (acting)<br>[[John Ratcliffe (American politician)|John Ratcliffe]]"
-    ],
-    "deleted": []
-  },
-  {
-    "title": "Avril Haines",
     "timestamp": "2021-01-21T02:48:52+00:00",
     "added": [
       "",
@@ -63,12 +39,19 @@
   },
   {
     "title": "Avril Haines",
+    "timestamp": "2021-01-21T03:21:48+00:00",
+    "added": [
+      "[[Category:Biden administration cabinet members]]"
+    ],
+    "deleted": []
+  },
+  {
+    "title": "Avril Haines",
     "timestamp": "2021-01-21T03:24:45+00:00",
     "added": [],
     "deleted": [
       "",
       "==Notes==",
-      "{{notelist}}",
       "{{reflist|group=Note|refs=",
       "<ref name=Note01>Haines has been confirmed, but is not yet sworn-in, and does not yet hold the powers of Director of National Intelligence.</ref>",
       "}}"
@@ -76,29 +59,9 @@
   },
   {
     "title": "Avril Haines",
-    "timestamp": "2021-01-21T03:24:54+00:00",
+    "timestamp": "2021-01-21T23:53:37+00:00",
     "added": [
-      "{{Authority control}}"
-    ],
-    "deleted": []
-  },
-  {
-    "title": "Avril Haines",
-    "timestamp": "2021-01-21T23:12:45+00:00",
-    "added": [],
-    "deleted": [
-      "| succeeding          = [[Lora Shiao]] (acting)<br>[[John Ratcliffe (American politician)|John Ratcliffe]]"
-    ]
-  },
-  {
-    "title": "Avril Haines",
-    "timestamp": "2021-01-21T23:51:25+00:00",
-    "added": [
-      "|-",
-      "{{s-bef|before=[[John Ratcliffe (American politician) |John Ratcliffe]]}}",
-      "{{s-ttl|title=[[Director of National Intelligence]]|years=2021–present}}",
-      "{{s-inc}}",
-      "{{DNI}}"
+      "[[Category:United States Directors of National Intelligence]]"
     ],
     "deleted": []
   },

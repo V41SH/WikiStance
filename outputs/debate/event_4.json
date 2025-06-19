@@ -1,20 +1,20 @@
 [
   {
-    "text": "====Graphical summary==== {{Graph:Chart | width=700 | height=400 | xAxisTitle= | yAxisTitle=%support | xAxisAngle = -40 | legend=Candidate | interpolate = bundle | size = 77 | xType = date | y1Title=Trump | y2Title=Biden | y3Title=Jorgensen | y4Title=Hawkins | y5Title=Other | type=line | xGrid= | yGrid= | x= 2020/07/30 | y1= 29 | y2= 56 | y3=  | y4=  | y5= 06 | colors = #E81B23, #3333FF, #DCDCDC | showSymbols = 2, 2, 2 }} ",
-    "timestamp": "2020-09-19 01:14:15+00:00",
-    "entity": "2020 United States presidential election in Hawaii",
+    "text": "[[Category:20th-century American diplomats]]",
+    "timestamp": "2021-10-14 00:07:02+00:00",
+    "entity": "Archer Blood",
     "event_id": 4
   },
   {
-    "text": "====Graphical summary==== {{Graph:Chart | width=700 | height=400 | xAxisTitle= | yAxisTitle=%support | xAxisAngle = -40 | legend=Candidate | interpolate = bundle | size = 77 | xType = date | y1Title=Trump | y2Title=Biden | y3Title=Jorgensen | y4Title=Hawkins | y5Title=Other | type=line | xGrid= | yGrid= | x= 2019/10/03,2020/02/22,2020/04/21,2020/04/27,2020/06/26,2020/07/10,2020/07/13,2020/07/16,2020/07/24,2020/08/02,2020/08/27,2020/09/05 | y1= 54,56,51,45,52,51,49,52,50,54,48,50 | y2= 47,34,42,40,38,42,45,42,45,46,44,43 | y3= ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  , | y4= ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  , | y5= ,  ,  ,11,  ,  ,05,  ,  ,  ,  , | colors = #E81B23, #3333FF, <!--gold, green,--> #DCDCDC }} ",
-    "timestamp": "2020-09-19 02:28:35+00:00",
-    "entity": "2020 United States presidential election in Montana",
+    "text": "[[Category:20th-century American diplomats]]",
+    "timestamp": "2021-10-14 02:00:02+00:00",
+    "entity": "Richard H. Solomon",
     "event_id": 4
   },
   {
-    "text": "====Graphical summary==== {{Graph:Chart | width=700 | height=400 | xAxisTitle= | yAxisTitle=%support | xAxisAngle = -40 | legend=Candidate | interpolate = bundle | size = 77 | xType = date | y1Title=Trump | y2Title=Biden | y3Title=Jorgensen | y4Title=Hawkins | y5Title=Other | type=line | xGrid= | yGrid= | x= 2020/01/06,2020/04/21,2020/06/13,2020/09/02 | y1= 46,40,39,39 | y2= 54,52,53,54 | y3= ,  ,  ,  , | y4= ,  ,  ,  , | y5= ,  ,  ,  , | colors = #E81B23, #3333FF<!--, gold, green, #DCDCDC--> }} ",
-    "timestamp": "2020-09-19 02:11:59+00:00",
-    "entity": "2020 United States presidential election in New Mexico",
+    "text": "[[Category:20th-century American diplomats]]",
+    "timestamp": "2021-10-14 03:46:33+00:00",
+    "entity": "Thomas O. Enders",
     "event_id": 4
   }
 ]

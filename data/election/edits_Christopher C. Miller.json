@@ -4,33 +4,20 @@
     "timestamp": "2020-11-09T18:02:49+00:00",
     "added": [
       "{{Infobox officeholder",
-      "| name                = Christopher C. Miller",
-      "| office              = Acting [[United States Secretary of Defense]]",
-      "| president           = [[Donald Trump]]",
-      "| deputy              =",
-      "| term_start          = November 9, 2020",
-      "| term_end            =",
-      "| predecessor         =",
-      "| successor           =",
-      "| birth_name          =",
-      "| birth_date          =",
-      "| birth_place         =",
-      "| death_date          =",
-      "| death_place         =",
-      "| party               =",
-      "| spouse              =",
-      "| children            =",
-      "| education           =",
-      "| awards              =",
-      "| allegiance          =",
-      "| branch              =",
-      "| unit                =",
-      "| rank                =",
-      "| serviceyears        =",
-      "| battles             =",
-      "| mawards             =",
       "}}"
     ],
+    "deleted": []
+  },
+  {
+    "title": "Christopher C. Miller",
+    "timestamp": "2020-11-09T18:07:07+00:00",
+    "added": [],
+    "deleted": []
+  },
+  {
+    "title": "Christopher C. Miller",
+    "timestamp": "2020-11-09T18:20:00+00:00",
+    "added": [],
     "deleted": []
   },
   {
@@ -38,6 +25,14 @@
     "timestamp": "2020-11-09T18:20:35+00:00",
     "added": [],
     "deleted": []
+  },
+  {
+    "title": "Christopher C. Miller",
+    "timestamp": "2020-11-09T18:20:52+00:00",
+    "added": [],
+    "deleted": [
+      "}}"
+    ]
   },
   {
     "title": "Christopher C. Miller",
@@ -69,16 +64,7 @@
     "timestamp": "2020-11-09T21:28:03+00:00",
     "added": [],
     "deleted": [
-      "",
-      "{{US-gov-stub}}"
-    ]
-  },
-  {
-    "title": "Christopher C. Miller",
-    "timestamp": "2020-11-10T07:16:55+00:00",
-    "added": [],
-    "deleted": [
-      "|name         = Christopher Miller"
+      ""
     ]
   },
   {
@@ -86,27 +72,6 @@
     "timestamp": "2020-11-10T17:13:32+00:00",
     "added": [
       "*{{C-SPAN|126874}}"
-    ],
-    "deleted": []
-  },
-  {
-    "title": "Christopher C. Miller",
-    "timestamp": "2020-11-12T01:07:18+00:00",
-    "added": [
-      "|allegiance   = {{flag|United States}}",
-      "|branch       = {{flag|United States Army}}",
-      "|serviceyears = 1983–2014",
-      "|rank         = [[Colonel (United States)|Colonel]]",
-      "|unit         = [[5th Special Forces Group (United States)]]",
-      "|battles      = [[Iraq War]]<br>[[War in Afghanistan (2001–present)|War in Afghanistan]]"
-    ],
-    "deleted": []
-  },
-  {
-    "title": "Christopher C. Miller",
-    "timestamp": "2020-12-01T13:42:15+00:00",
-    "added": [
-      "| president1          = [[Donald Trump]]"
     ],
     "deleted": []
   }

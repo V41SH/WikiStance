@@ -1,21 +1,18 @@
 [
   {
     "title": "List of bills in the 116th United States Congress",
-    "timestamp": "2021-03-06T23:21:12+00:00",
+    "timestamp": "2021-01-15T02:08:55+00:00",
     "added": [],
     "deleted": [
-      "===Passed both houses, signed by Trump===",
-      "{| class=\"wikitable\"",
-      "",
-      "|- valign=\"bottom\"",
-      "! H.R. number",
-      "! Date of introduction",
-      "! Short title",
-      "! Description",
-      "|-",
-      "| {{USBill|116|S|47}} || January 8, 2019 || [[John D. Dingell Jr. Conservation, Management, and Recreation Act]] || This bill sets forth provisions regarding various programs, projects, activities, and studies for the management and conservation of natural resources on federal lands. '''Signed''' by President March 12, 2019.",
-      "|}",
-      ""
+      "*{{USBill|116|H.J.Res.|46}}:Relatingtoa[[National Emergency Concerning the Southern Border of the United States|national emergency declared by the President on February 15, 2019]]. ('''Vetoed''' March 15, 2019)"
+    ]
+  },
+  {
+    "title": "List of bills in the 116th United States Congress",
+    "timestamp": "2021-01-15T02:33:40+00:00",
+    "added": [],
+    "deleted": [
+      "* [[John D. Dingell Jr. Conservation, Management, and Recreation Act]]"
     ]
   }
 ]

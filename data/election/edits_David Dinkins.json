@@ -1,6 +1,22 @@
 [
   {
     "title": "David Dinkins",
+    "timestamp": "2020-11-24T04:37:00+00:00",
+    "added": [
+      "Died 11/23/2020"
+    ],
+    "deleted": []
+  },
+  {
+    "title": "David Dinkins",
+    "timestamp": "2020-11-24T04:39:48+00:00",
+    "added": [],
+    "deleted": [
+      "Died 11/23/2020"
+    ]
+  },
+  {
+    "title": "David Dinkins",
     "timestamp": "2020-11-24T05:36:06+00:00",
     "added": [],
     "deleted": [
@@ -32,14 +48,6 @@
     "timestamp": "2020-11-24T05:45:56+00:00",
     "added": [
       "[[Category:People from the Upper East Side]]"
-    ],
-    "deleted": []
-  },
-  {
-    "title": "David Dinkins",
-    "timestamp": "2020-11-24T15:10:40+00:00",
-    "added": [
-      "{{Wikiquote}}"
     ],
     "deleted": []
   },

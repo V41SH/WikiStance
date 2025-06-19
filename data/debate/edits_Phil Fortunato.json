@@ -1,1 +1,28 @@
-[]
+[
+  {
+    "title": "Phil Fortunato",
+    "timestamp": "2021-09-23T00:52:48+00:00",
+    "added": [
+      "",
+      "== Personal life ==",
+      "Fortunato's wife is Suzanne Fortunato. They have five children."
+    ],
+    "deleted": []
+  },
+  {
+    "title": "Phil Fortunato",
+    "timestamp": "2021-09-23T00:54:11+00:00",
+    "added": [
+      "Fortunato's wife is Suzanne Fortunato. They have five children.<ref name=\"votesmart_fortunato\"/>"
+    ],
+    "deleted": []
+  },
+  {
+    "title": "Phil Fortunato",
+    "timestamp": "2021-09-23T00:54:35+00:00",
+    "added": [
+      "Fortunato's wife is Suzanne Fortunato. They have five children. Fortunato and his family live in [[Auburn, Washington]]. <ref name=\"votesmart_fortunato\"/>"
+    ],
+    "deleted": []
+  }
+]

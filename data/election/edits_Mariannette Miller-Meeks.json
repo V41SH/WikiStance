@@ -1,6 +1,14 @@
 [
   {
     "title": "Mariannette Miller-Meeks",
+    "timestamp": "2020-11-16T04:31:17+00:00",
+    "added": [],
+    "deleted": [
+      ""
+    ]
+  },
+  {
+    "title": "Mariannette Miller-Meeks",
     "timestamp": "2020-11-16T17:35:07+00:00",
     "added": [
       "[[Category:21st-century American women physicians]]"
@@ -9,36 +17,10 @@
   },
   {
     "title": "Mariannette Miller-Meeks",
-    "timestamp": "2020-11-24T05:56:01+00:00",
-    "added": [],
-    "deleted": [
-      "| state = [[Iowa]]",
-      "| district = [[Iowa's 2th congressional district|2th]]",
-      "| term_start = January 3, 2021",
-      "| succeeding = [[Dave Loebsack]]"
-    ]
-  },
-  {
-    "title": "Mariannette Miller-Meeks",
-    "timestamp": "2020-11-24T05:57:50+00:00",
-    "added": [],
-    "deleted": []
-  },
-  {
-    "title": "Mariannette Miller-Meeks",
-    "timestamp": "2020-11-24T06:00:59+00:00",
-    "added": [],
-    "deleted": [
-      "| state = [[Iowa]]",
-      "| district = [[Iowa's 2th congressional district|2th]]",
-      "| term_start = January 3, 2021",
-      "| succeeding = [[Dave Loebsack]]"
-    ]
-  },
-  {
-    "title": "Mariannette Miller-Meeks",
     "timestamp": "2020-11-24T06:01:12+00:00",
-    "added": [],
+    "added": [
+      "{{Infobox officeholder"
+    ],
     "deleted": []
   },
   {
@@ -46,52 +28,13 @@
     "timestamp": "2020-11-24T06:01:45+00:00",
     "added": [],
     "deleted": [
-      "{{Infobox officeholder",
-      "| state = [[Iowa]]",
-      "| district = [[Iowa's 2th congressional district|2th]]",
-      "| term_start = January 3, 2021",
-      "| succeeding = [[Dave Loebsack]]"
-    ]
-  },
-  {
-    "title": "Mariannette Miller-Meeks",
-    "timestamp": "2020-11-24T06:02:01+00:00",
-    "added": [
-      "|state         = [[Iowa (U.S. state)|Iowa]]",
-      "|district      = {{ushr|IA|2|2th}}",
-      "|term_start    = January 3, 2021",
-      "|term_end      =",
-      "|succeeding    = [[Dave Loebsack]]",
-      "|predecessor   = [[Dave Loebsack]]",
-      "|successor     ="
-    ],
-    "deleted": []
-  },
-  {
-    "title": "Mariannette Miller-Meeks",
-    "timestamp": "2020-11-24T06:04:32+00:00",
-    "added": [],
-    "deleted": [
-      "|state         = [[Iowa (U.S. state)|Iowa]]",
-      "|district      = {{ushr|IA|2|2th}}",
-      "|term_start    = January 3, 2021",
-      "|term_end      =",
-      "|succeeding    = [[Dave Loebsack]]",
-      "|predecessor   = [[Dave Loebsack]]",
-      "|successor     ="
+      "{{Infobox officeholder"
     ]
   },
   {
     "title": "Mariannette Miller-Meeks",
     "timestamp": "2020-11-30T23:25:00+00:00",
     "added": [
-      "|state         = [[Iowa]]",
-      "|district      = {{ushr|IA|2|2nd}}",
-      "|term_start    = January 3, 2021",
-      "|term_end      =",
-      "|succeeding    = [[Dave Loebsack]]",
-      "|predecessor   = [[Dave Loebsack]]",
-      "|successor     =",
       "=== Tenure ===",
       "",
       "=== Committee assignments ===",
@@ -105,13 +48,6 @@
     "timestamp": "2020-12-01T00:16:47+00:00",
     "added": [],
     "deleted": [
-      "|state         = [[Iowa]]",
-      "|district      = {{ushr|IA|2|2nd}}",
-      "|term_start    = January 3, 2021",
-      "|term_end      =",
-      "|succeeding    = [[Dave Loebsack]]",
-      "|predecessor   = [[Dave Loebsack]]",
-      "|successor     =",
       "=== Tenure ===",
       "",
       "=== Committee assignments ===",

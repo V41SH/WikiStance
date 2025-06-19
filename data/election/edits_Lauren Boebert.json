@@ -1,23 +1,10 @@
 [
   {
     "title": "Lauren Boebert",
-    "timestamp": "2020-11-04T14:36:37+00:00",
+    "timestamp": "2020-11-04T20:55:27+00:00",
     "added": [
-      "|state        = [[Colorado]]",
-      "|district     = {{ushr|CO|3|3rd}}",
-      "|term_start   = January , 2021",
-      "|term_end     ="
-    ],
-    "deleted": []
-  },
-  {
-    "title": "Lauren Boebert",
-    "timestamp": "2020-11-04T14:38:31+00:00",
-    "added": [
-      "|state = [[Colorado]]",
-      "|district=[[Colorado's3rdcongressionaldistrict|3rd]]",
-      "|succeeding = [[Scott Tipton]]",
-      "|term_start = January3, 2021"
+      "}}",
+      "{{Election box candidate with party link no change"
     ],
     "deleted": []
   },

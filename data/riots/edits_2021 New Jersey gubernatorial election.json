@@ -7,28 +7,12 @@
   },
   {
     "title": "2021 New Jersey gubernatorial election",
-    "timestamp": "2021-01-14T02:17:57+00:00",
-    "added": [
-      "|<ref>https://newjerseyglobe.com/governor/singh-launches-bid-for-governor-against-murphy/</ref>"
-    ],
-    "deleted": []
-  },
-  {
-    "title": "2021 New Jersey gubernatorial election",
-    "timestamp": "2021-01-14T02:21:26+00:00",
+    "timestamp": "2021-01-14T02:04:35+00:00",
     "added": [],
     "deleted": [
-      "",
-      "====Potential====",
-      "*[[Neil Chatterjee]], former chairman of the [[Federal Energy Regulatory Commission]]<ref>{{cite news |last=Beitsch  |first=Rebecca |date=May 18, 2020 |title=FERC chairman mulls run for Virginia governor |url=https://thehill.com/policy/energy-environment/498387-ferc-chair-mulls-run-for-virginia-governor |work=The Hill |access-date=May 21, 2020 }}</ref>",
-      "*[[Emmett Hanger]], state senator for [[Virginia's 24th Senate district]]<ref>{{Cite web|url=https://richmond.com/news/state-and-regional/govt-and-politics/sen-hanger-launches-redistricting-pac-and-tests-waters-for-gop-run-for-governor/article_a0c87c6e-84f2-56a0-a7b7-67c5034da631.html|title=Sen. Hanger launches redistricting PAC — and tests waters for GOP run for governor|last=Martz|first=Michael|date=20 September 2020 |website=Richmond Times-Dispatch|language=en|access-date=September 20, 2020}}</ref>",
-      "*[[Pete Snyder]], technology executive and candidate for [[Lieutenant Governor of Virginia|Lieutenant Governor]] in [[Virginia lieutenant gubernatorial election, 2013|2013]]<ref>{{Cite web|url=https://www.washingtonpost.com/local/virginia-politics/entrepreneur-starts-fund-to-help-va-businesses-until-federal-aid-arrives/2020/04/05/db16ec58-7788-11ea-b6ff-597f170df8f8_story.html|title=Entrepreneur starts fund to help Va. businesses until federal aid arrives|last=Vozzella|first=Laura|date=5 April 2020 |website=Washington Post|language=en|access-date=April 15, 2020}}</ref>",
-      "* [[Bill Stanley (politician)|Bill Stanley]], state senator for [[Virginia's 20th Senate district]]<ref>{{Cite web|url=https://vpm.org/news/articles/11380/republican-bill-stanley-says-run-for-governor-hinges-on-trump|date=March 10, 2020|website=vpm.org| title=Republican Bill Stanley Says Run For Governor Hinges on Trump}}</ref>",
-      "",
-      "====Declined====",
-      "*[[Charles William Carrico Sr.]], former state senator for [[Virginia's 40th Senate district]] and retired state trooper ''(endorsed Cox)''<ref name=amy>{{Cite web|last=Friedenberger|first=Amy |title=Carrico won't run for governor, backs Cox|url=https://richmond.com/news/state-and-regional/govt-and-politics/carrico-wont-run-for-governor-backs-cox/article_c518139f-41fb-516c-9b2c-c8f441a4cd9c.html|access-date=2020-12-10|website=Richmond Times-Dispatch|language=en}}</ref>",
-      "*[[Nick Freitas]], state delegate for [[Virginia's 30th House of Delegates district]], candidate for U.S. Senate in 2018, and nominee for [[Virginia's 7th congressional district]] in [[2020 United States House of Representatives elections in Virginia#District 7|2020]]<ref>{{Cite web|url=https://www.washingtonpost.com/local/virginia-politics/del-nick-freitas-joins-republican-race-to-challenge-rep-spanberger/2019/12/02/c20455d8-1528-11ea-a659-7d69641c6ff7_story.html|title=Va. Del. Nicholas J. Freitas joins Republican race to challenge U.S. Rep. Abigail Spanberger|first=Jenna|last=Portnoy|website=Washington Post}}</ref>",
-      "*[[Corey Stewart]], attorney, former chairman of the [[Prince William Board of County Supervisors]], nominee for the U.S. Senate in [[2018 United States Senate election in Virginia|2018]] and candidate for Governor of Virginia in [[2017 Virginia gubernatorial election|2017]]<ref>{{cite web |last1=Vozzella |first1=Laura |title=As Va. GOP seeks new course, Corey Stewart says he's finished with statewide politics  |url=https://www.washingtonpost.com/local/virginia-politics/as-va-gop-seeks-a-new-course-corey-stewart-says-hes-done-statewide/2018/12/15/f7b7c706-fe35-11e8-83c0-b06139e540e5_story.html |website=[[The Washington Post]] |language=en |date=December 15, 2018|access-date=December 16, 2018}}</ref>"
+      "* [[Jack Ciattarelli]], former state assemblyman and candidate for Governor in [[2017 New Jersey gubernatorial election|2017]]<ref name=\"Ciattarelli\"/>",
+      "* Joseph Rudy Rullo, businessman, actor, and perennial candidate<ref>{{cite web |first=David |last=Wildstein |url=https://newjerseyglobe.com/governor/rullo-says-n-j-should-ditch-driver-licenses-for-undocumented-residents/ |title=Rullo says N.J. should ditch driver licenses for undocumented residents |website=New Jersey Globe |date=December 29, 2020 |access-date=January 2, 2021}}</ref>",
+      "* Hirsh Singh, engineer, businessman, and perennial candidate<ref name=\"Singh\"/>"
     ]
   },
   {
@@ -47,25 +31,41 @@
     "added": [],
     "deleted": [
       "==General election==",
-      "{| class=\"wikitable\" style=\"text-align:center\"",
-      "!Source",
-      "!Ranking",
-      "!As of",
-      "|-",
-      "| align=left | [[The Cook Political Report]]<ref name=\"Cook PR\">{{cite web | title=2022 Governor Race Ratings | url=https://cookpolitical.com/ratings/governor-race-ratings |website=The Cook Political Report | access-date=January 14, 2021}}</ref>",
-      "| {{USRaceRating|Solid|D}}",
-      "|February 1, 2021",
-      "|-",
-      "|}",
       ""
     ]
   },
   {
     "title": "2021 New Jersey gubernatorial election",
-    "timestamp": "2021-02-04T14:58:00+00:00",
+    "timestamp": "2021-02-04T14:55:57+00:00",
     "added": [
+      ">",
+      "==General election==",
+      "==References==",
       ""
     ],
+    "deleted": []
+  },
+  {
+    "title": "2021 New Jersey gubernatorial election",
+    "timestamp": "2021-02-04T14:56:55+00:00",
+    "added": [
+      ">==References=="
+    ],
+    "deleted": []
+  },
+  {
+    "title": "2021 New Jersey gubernatorial election",
+    "timestamp": "2021-02-04T14:57:31+00:00",
+    "added": [
+      ">",
+      "==References=="
+    ],
+    "deleted": []
+  },
+  {
+    "title": "2021 New Jersey gubernatorial election",
+    "timestamp": "2021-02-04T14:58:00+00:00",
+    "added": [],
     "deleted": []
   },
   {
@@ -83,34 +83,23 @@
     "deleted": [
       "",
       "==General election==",
-      "===Predictions===",
-      "{| class=\"wikitable\" style=\"text-align:center\"",
-      "! Source",
-      "! Ranking",
-      "! As of",
-      "|-",
-      "| align=left | [[The Cook Political Report]]<ref name=\"Cook PR\">{{cite web | title=2022 Governor Race Ratings | url=https://cookpolitical.com/ratings/governor-race-ratings |website=The Cook Political Report | access-date=February 4, 2021}}</ref>",
-      "| {{USRaceRating|Solid|D}}",
-      "| February 1, 2021",
-      "|-",
-      "|}"
+      "===Predictions==="
     ]
   },
   {
     "title": "2021 New Jersey gubernatorial election",
     "timestamp": "2021-02-04T17:33:39+00:00",
     "added": [],
-    "deleted": [
-      "{{reflist}}"
-    ]
+    "deleted": []
   },
   {
     "title": "2021 New Jersey gubernatorial election",
-    "timestamp": "2021-02-08T22:01:46+00:00",
-    "added": [
-      "{{main article|2021 United States gubernatorial elections}}"
-    ],
-    "deleted": []
+    "timestamp": "2021-02-04T17:37:28+00:00",
+    "added": [],
+    "deleted": [
+      "",
+      "[[The Cook Political Report|Cook Political Report]] rates the race as Solid D.<ref>{{Cite web|title=2022 Governor Race ratings|url=https://cookpolitical.com/ratings/governor-race-ratings|access-date=2021-02-03|website=The Cook Political Report|language=en}}</ref>"
+    ]
   },
   {
     "title": "2021 New Jersey gubernatorial election",
@@ -132,40 +121,17 @@
       "{{Election box begin no change",
       "}}",
       "{{Election box candidate with party link no change",
-      "| party = Republican Party (United States)",
-      "| candidate = [[Jack Ciattarelli]]",
-      "| votes =",
-      "| percentage =",
       "}}",
       "{{Election box candidate with party link no change",
-      "| party = Republican Party (United States)",
-      "| candidate = Brian Levine",
-      "| votes =",
-      "| percentage =",
       "}}",
       "{{Election box candidate with party link no change",
-      "| party = Republican Party (United States)",
-      "| candidate = Phil Rizzo",
-      "| votes =",
-      "| percentage =",
       "}}",
       "{{Election box candidate with party link no change",
-      "| party = Republican Party (United States)",
-      "| candidate = Joseph R. Rullo",
-      "| votes =",
-      "| percentage =",
       "}}",
       "{{Election box candidate with party link no change",
-      "| party = Republican Party (United States)",
-      "| candidate = Hirsh Singh",
-      "| votes =",
-      "| percentage =",
       "}}",
       "{{Election box total no change",
-      "| votes =",
-      "| percentage = 100.00%",
-      "}}",
-      "{{Election box end}}"
+      "}}"
     ],
     "deleted": []
   }

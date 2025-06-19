@@ -1,7 +1,24 @@
 [
   {
     "title": "Mike Pence",
-    "timestamp": "2020-10-09T04:33:29+00:00",
+    "timestamp": "2021-10-13T04:46:12+00:00",
+    "added": [
+      "",
+      "In April 2021, Pence underwent surgery to implant a [[pacemaker]] into him after he had a slow heart beat.<ref>{{cite web|url=https://thehill.com/homenews/administration/548501-pence-undergoes-surgery-to-receive-pacemaker|title=Pence undergoes surgery to receive pacemaker |work=The Hill|first=Brett|last=Samuels|date=April 15, 2021|access-date=April 17, 2021}}</ref><ref>{{cite news |last=Thrush |first=Glenn |title=Pence, suffering from a sluggish heartbeat, undergoes surgery for a pacemaker implant. |newspaper=[[The New York Times]] |date=April 15, 2021 |url=https://www.nytimes.com/2021/04/15/us/politics/mike-pence-pacemaker-surgery.html |access-date=April 17, 2021 }}</ref>"
+    ],
+    "deleted": []
+  },
+  {
+    "title": "Mike Pence",
+    "timestamp": "2021-10-13T04:53:12+00:00",
+    "added": [],
+    "deleted": [
+      ""
+    ]
+  },
+  {
+    "title": "Mike Pence",
+    "timestamp": "2021-10-13T05:04:51+00:00",
     "added": [],
     "deleted": []
   }

@@ -1,41 +1,8 @@
 [
   {
     "title": "List of United States Congresses",
-    "timestamp": "2021-01-03T17:06:05+00:00",
-    "added": [
-      "| rowspan=2 | January 3, 2023"
-    ],
-    "deleted": []
-  },
-  {
-    "title": "List of United States Congresses",
-    "timestamp": "2021-01-03T17:07:00+00:00",
-    "added": [],
-    "deleted": [
-      "|-",
-      "! rowspan=2 | {{USCongressOrdinalCongress|118}}",
-      "| rowspan=2 | January 3, 2023",
-      "| 1st session",
-      "| rowspan=\"4\" | TBD",
-      "| rowspan=2 | January 3, 2025",
-      "|-",
-      "| 2nd session"
-    ]
-  },
-  {
-    "title": "List of United States Congresses",
     "timestamp": "2021-01-03T17:15:36+00:00",
-    "added": [
-      "|rowspan=4 |",
-      "|-",
-      "|2nd session",
-      "",
-      "|-",
-      "! rowspan=\"2\" |{{USCongressOrdinalCongress|120}}",
-      "| rowspan=\"2\" |January 3, 2027",
-      "|1st session",
-      "| rowspan=\"2\" |January 3, 2029"
-    ],
+    "added": [],
     "deleted": []
   }
 ]

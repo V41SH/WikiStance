@@ -1,1 +1,26 @@
-[]
+[
+  {
+    "title": "2018 Alabama House of Representatives election",
+    "timestamp": "2021-09-06T09:05:51+00:00",
+    "added": [],
+    "deleted": [
+      "",
+      "== Closest races ==",
+      "Seats where the margin of victory was under 20%:"
+    ]
+  },
+  {
+    "title": "2018 Alabama House of Representatives election",
+    "timestamp": "2021-09-06T09:06:26+00:00",
+    "added": [
+      "",
+      "== Close races==",
+      "Seats where the margin of victory was under 10%:",
+      "# '''{{font color|red|District 3, 5.04%}} (gain)'''",
+      "# '''{{font color|red|District 65, 5.67%}} (gain)'''",
+      "# '''{{font color|blue|District 85, 7.71%}}'''",
+      "# '''{{font color|red|District 47, 8.57%}}'''"
+    ],
+    "deleted": []
+  }
+]

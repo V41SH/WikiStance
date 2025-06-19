@@ -27,18 +27,16 @@
   },
   {
     "title": "Trumpism",
-    "timestamp": "2020-11-08T22:31:31+00:00",
-    "added": [
-      "{{pp|small=yes}}"
-    ],
+    "timestamp": "2020-11-08T15:15:40+00:00",
+    "added": [],
     "deleted": []
   },
   {
     "title": "Trumpism",
-    "timestamp": "2020-11-10T02:55:32+00:00",
+    "timestamp": "2020-11-08T22:20:50+00:00",
     "added": [],
     "deleted": [
-      "{{pp|small=yes}}"
+      ""
     ]
   },
   {
@@ -111,9 +109,9 @@
   },
   {
     "title": "Trumpism",
-    "timestamp": "2020-11-22T00:14:48+00:00",
+    "timestamp": "2020-11-22T21:32:15+00:00",
     "added": [
-      "{{pp-vandalism|small=yes}}"
+      "* {{cite book |last=Neuborne |first=Burt |author-link1=Burt Neuborne |title=When at Times the Mob Is Swayed: A Citizen's Guide to Defending Our Republic |edition=[[ePub]]) |date=August 6, 2019 |publisher=The New Press |isbn=1620973588 |location=New York/London}}(Page numbers correspond to the [[ePub]] edition.)"
     ],
     "deleted": []
   },
@@ -124,29 +122,5 @@
     "deleted": [
       ""
     ]
-  },
-  {
-    "title": "Trumpism",
-    "timestamp": "2020-11-23T15:45:33+00:00",
-    "added": [
-      "{{distinguish|Political positions of Donald Trump}}"
-    ],
-    "deleted": []
-  },
-  {
-    "title": "Trumpism",
-    "timestamp": "2020-11-23T15:51:38+00:00",
-    "added": [],
-    "deleted": [
-      "{{distinguish|Political positions of Donald Trump}}"
-    ]
-  },
-  {
-    "title": "Trumpism",
-    "timestamp": "2020-11-24T16:36:56+00:00",
-    "added": [
-      "{{nationalism sidebar|related topics}}"
-    ],
-    "deleted": []
   }
 ]

@@ -1,9 +1,21 @@
 [
   {
     "title": "2020 Connecticut Senate election",
-    "timestamp": "2020-11-10T03:23:28+00:00",
+    "timestamp": "2020-11-10T19:08:41+00:00",
     "added": [
-      "{{In use|date=November 2020}}"
+      "{{Election box winning candidate with party link no change",
+      "}}",
+      "{{Election box candidate with party link no change",
+      "}}",
+      "{{Election box candidate with party link no change",
+      "}}",
+      "{{Election box winning candidate with party link no change",
+      "}}",
+      "{{Election box total no change",
+      "}}",
+      "{{Election box hold with party link no change",
+      "}}",
+      ""
     ],
     "deleted": []
   },
@@ -11,10 +23,7 @@
     "title": "2020 Connecticut Senate election",
     "timestamp": "2020-11-10T21:31:21+00:00",
     "added": [
-      "{{Election box total no change",
-      "| votes      = 65425",
-      "| percentage = 100.00",
-      "| change     ="
+      "{{Election box total no change"
     ],
     "deleted": []
   },
@@ -23,10 +32,7 @@
     "timestamp": "2020-11-10T21:32:40+00:00",
     "added": [],
     "deleted": [
-      "{{Election box total no change",
-      "| votes      = 65425",
-      "| percentage = 100.00",
-      "| change     ="
+      "{{Election box total no change"
     ]
   },
   {
@@ -42,30 +48,14 @@
     "timestamp": "2020-11-11T14:43:29+00:00",
     "added": [
       "Incumbent Democratic senator Carlo Leone defeated Republican challenger Eva Maldonado.",
-      "{{Election box begin no change|title=2020 Connecticut State Senate election, District 26<ref name=\"onlineresults\" />}}",
       "{{Election box winning candidate with party link no change",
-      "| party      = Democratic Party (United States)",
-      "| candidate  = Carlo Leone (Incumbent)",
-      "| votes      = 24,661",
-      "| percentage = 62.50",
-      "| change     =",
       "}}",
       "{{Election box candidate with party link no change",
-      "| party      = Republican Party (United States)",
-      "| candidate  = Eva Maldonado",
-      "| votes      = 14,796",
-      "| percentage = 37.50",
-      "| change     =",
       "}}",
       "{{Election box total no change",
-      "| votes      = 39457",
-      "| percentage = 100.00",
-      "| change     =",
       "}}",
       "{{Election box hold with party link no change",
-      "| winner = Democratic Party (United States)",
       "}}",
-      "{{Election box end}}",
       ""
     ],
     "deleted": []
@@ -91,30 +81,14 @@
     "timestamp": "2020-11-12T19:59:05+00:00",
     "added": [
       "Democratic Incumbent [[Alex Kasser]] narrowly defeated Republican challenger Ryan Fazio in a tight race.",
-      "{{Election box begin no change|title=2020 Connecticut State Senate election, District 36<ref name=\"onlineresults\" />}}",
       "{{Election box winning candidate with party link no change",
-      "| party      = Democratic Party (United States)",
-      "| candidate   = [[Alex Kasser]] (Incumbent)",
-      "| votes       = 29,133",
-      "| percentage  = 51.40",
-      "| change      =",
       "}}",
       "{{Election box candidate with party link no change",
-      "| party      = Republican Party (United States)",
-      "| candidate  = Ryan Fazio",
-      "| votes      = 27,570",
-      "| percentage = 48.60",
-      "| change     =",
       "}}",
       "{{Election box total no change",
-      "| votes      = 56703",
-      "| percentage = 100.00",
-      "| change     =",
       "}}",
       "{{Election box hold with party link no change",
-      "| winner = Democratic Party (United States)",
-      "}}",
-      "{{Election box end}}"
+      "}}"
     ],
     "deleted": []
   },
@@ -124,67 +98,30 @@
     "added": [],
     "deleted": [
       "Democratic Incumbent [[Alex Kasser]] narrowly defeated Republican challenger Ryan Fazio in a tight race.",
-      "{{Election box begin no change|title=2020 Connecticut State Senate election, District 36<ref name=\"onlineresults\" />}}",
       "{{Election box winning candidate with party link no change",
-      "| party      = Democratic Party (United States)",
-      "| candidate   = [[Alex Kasser]] (Incumbent)",
-      "| votes       = 29,133",
-      "| percentage  = 51.40",
-      "| change      =",
       "}}",
       "{{Election box candidate with party link no change",
-      "| party      = Republican Party (United States)",
-      "| candidate  = Ryan Fazio",
-      "| votes      = 27,570",
-      "| percentage = 48.60",
-      "| change     =",
       "}}",
       "{{Election box total no change",
-      "| votes      = 56703",
-      "| percentage = 100.00",
-      "| change     =",
       "}}",
       "{{Election box hold with party link no change",
-      "| winner = Democratic Party (United States)",
-      "}}",
-      "{{Election box end}}"
+      "}}"
     ]
   },
   {
     "title": "2020 Connecticut Senate election",
     "timestamp": "2020-11-12T20:00:26+00:00",
     "added": [
-      "{{Election box begin no change|title=2020 Connecticut State Senate election, District 1<ref name=\"onlineresults\">{{cite web |title=Public Reporting |url=https://ctemspublic.pcctg.net/#/races |work=Connecticut Elections Management System |access-date=November 10, 2020 |language=en}}</ref>}}",
       "{{Election box winning candidate with party link no change",
-      "| party      = Democratic Party (United States)",
-      "| candidate  = David Gronbach",
-      "| votes      = 24,158",
-      "| percentage = 44.90",
-      "| change     =",
       "}}",
       "{{Election box candidate with party link no change",
-      "| party      = Republican Party (United States)",
-      "| candidate  = [[Craig Miner]] (incumbent)",
-      "| votes      = 28,719",
-      "| percentage = 53.40",
-      "| change     =",
       "}}",
       "{{Election box candidate with party link no change",
-      "| party      = Independent Party",
-      "| candidate  = Joseph Bongiorno",
-      "| votes      = 937",
-      "| percentage = 1.70",
-      "| change     =",
       "}}",
       "{{Election box total no change",
-      "| votes      = 53814",
-      "| percentage = 100.00",
-      "| change     =",
       "}}",
       "{{Election box hold with party link no change",
-      "| winner = Republican Party (United States)",
-      "}}",
-      "{{Election box end}}"
+      "}}"
     ],
     "deleted": []
   },
@@ -193,30 +130,14 @@
     "timestamp": "2020-11-12T20:38:59+00:00",
     "added": [
       "Republican Incumbent [[Henri Martin(American politician)]] won re-election after defeating Democratic challenger Mary Fortier.",
-      "{{Election box begin no change|title=2020 Connecticut State Senate election, District 31<ref name=\"onlineresults\" />}}",
       "{{Election box  candidate with party link no change",
-      "| party      = Democratic Party (United States)",
-      "| candidate   = Mary Fortier",
-      "| votes       = 21,589",
-      "| percentage  = 41.90",
-      "| change      =",
       "}}",
       "{{Election box winning candidate with party link no change",
-      "| party      = Republican Party (United States)",
-      "| candidate  = [[Henri Martin(American politician)]]",
-      "| votes      = 29,884",
-      "| percentage = 58.10",
-      "| change     =",
       "}}",
       "{{Election box total no change",
-      "| votes      = 51473",
-      "| percentage = 100.00",
-      "| change     =",
       "}}",
       "{{Election box hold with party link no change",
-      "| winner = Republican Party (United States)",
       "}}",
-      "{{Election box end}}",
       ""
     ],
     "deleted": []
@@ -226,30 +147,14 @@
     "timestamp": "2020-11-12T22:01:51+00:00",
     "added": [
       "Newcomer Republican Paul Cicarella,Jr defeated Democratic challenger April Capone.The winner of this election will replace retirng Senate Minority leader and President pro tempore [[Len Fasano]].",
-      "{{Election box begin no change|title=2020 Connecticut State Senate election, District 34<ref name=\"onlineresults\" />}}",
       "{{Election box  candidate with party link no change",
-      "| party      = Democratic Party (United States)",
-      "| candidate   = April Capone",
-      "| votes       = 22,468",
-      "| percentage  = 44.80",
-      "| change      =",
       "}}",
       "{{Election box winning candidate with party link no change",
-      "| party      = Republican Party (United States)",
-      "| candidate  = Paul Cicarella,Jr",
-      "| votes      = 27,691",
-      "| percentage = 55.20",
-      "| change     =",
       "}}",
       "{{Election box total no change",
-      "| votes      = 50159",
-      "| percentage = 100.00",
-      "| change     =",
       "}}",
       "{{Election box hold with party link no change",
-      "| winner = Republican party (United States)",
       "}}",
-      "{{Election box end}}",
       ""
     ],
     "deleted": []
@@ -257,10 +162,9 @@
   {
     "title": "2020 Connecticut Senate election",
     "timestamp": "2020-11-19T18:47:21+00:00",
-    "added": [
-      "",
-      "{{Connecticut State Senators}}"
-    ],
-    "deleted": []
+    "added": [],
+    "deleted": [
+      ""
+    ]
   }
 ]

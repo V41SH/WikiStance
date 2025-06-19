@@ -4,18 +4,21 @@
     "timestamp": "2020-11-29T18:26:38+00:00",
     "added": [],
     "deleted": [
-      "<!-- Please do not remove or change this AfD message until the issue is settled -->",
-      "{{AfDM|page=Public image of Donald Trump (2nd nomination)|year=2017|month=March|day=6|substed=yes|origtag=afdx|help=off}}",
-      "<!-- End of AfD message, feel free to edit beyond this point -->",
       ""
     ]
   },
   {
     "title": "Public image of Donald Trump",
     "timestamp": "2020-11-29T18:27:15+00:00",
+    "added": [],
+    "deleted": []
+  },
+  {
+    "title": "Public image of Donald Trump",
+    "timestamp": "2020-11-29T18:30:32+00:00",
     "added": [
-      "",
-      "{{Drafts moved from mainspace|date=November 2020}}"
+      "{{Draft categories|",
+      "}}"
     ],
     "deleted": []
   },

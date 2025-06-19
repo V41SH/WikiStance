@@ -1,20 +1,32 @@
 [
   {
-    "text": "[[Category:2006 state legislature elections in the United States]]",
-    "timestamp": "2021-01-23 22:12:41+00:00",
-    "entity": "2006 Iowa House of Representatives election",
+    "text": "}}{{Election box candidate with party link no change|party=Democratic Party (United States)|candidate=[[Tammy Duckworth]]|votes=|percentage=}}",
+    "timestamp": "2021-01-03 20:02:03+00:00",
+    "entity": "2021 Speaker of the United States House of Representatives election",
     "event_id": 1
   },
   {
-    "text": "[[Category:2008 state legislature elections in the United States]]",
-    "timestamp": "2021-01-23 22:12:14+00:00",
-    "entity": "2008 Iowa House of Representatives election",
+    "text": "}} {{Election box candidate with party link no change| }} {{Election box candidate with party link no change| }}",
+    "timestamp": "2021-01-03 20:19:07+00:00",
+    "entity": "2021 Speaker of the United States House of Representatives election",
     "event_id": 1
   },
   {
-    "text": "[[Category:2008 state legislature elections in the United States]]",
-    "timestamp": "2021-01-23 22:24:45+00:00",
-    "entity": "2008 New York State legislative elections",
+    "text": "{{Election box candidate with party link no change|",
+    "timestamp": "2021-01-03 20:55:38+00:00",
+    "entity": "2021 Speaker of the United States House of Representatives election",
+    "event_id": 1
+  },
+  {
+    "text": " {{Election box begin no change }} {{Election box winning candidate with party link no change }} {{Election box winning candidate with party link no change }} {{Election box candidate with party link no change }} {{Election box candidate with party link no change }} {{Election box candidate with party link no change }} {{Election box candidate with party link no change }} {{Election box candidate with party link no change }} {{Election box candidate with party link no change }} {{Election box candidate with party link no change }} {{Election box candidate with party link no change }} {{Election box candidate with party link no change }} {{Election box candidate with party link no change }} {{Election box candidate with party link no change }} {{Election box candidate no change }} {{Election box candidate no change }} {{Election box candidate with party link no change }} {{Election box candidate with party link no change }} {{Election box candidate with party link no change }} {{Election box candidate with party link no change }} {{Election box write-in with party link no change }}  {{Election box begin no change | title=Washington's 10th congressional district, 2020 }} {{Election box winning candidate with party link no change }} {{Election box candidate with party link no change }} {{Election box write-in with party link no change }}",
+    "timestamp": "2021-01-03 19:32:12+00:00",
+    "entity": "Marilyn Strickland",
+    "event_id": 1
+  },
+  {
+    "text": " {{Election box begin no change | title=2021 election for [[Speaker of the United States House of Representatives|Speaker]]{{snd}}[[117th United States Congress|117th Congress]] }} {{Election box candidate with party link no change| }} {{Election box candidate with party link no change| }} {{Election box candidate with party link no change| }} {{Election box candidate with party link no change| }} {{Election box candidate with party link no change| }} {{Election box total no change }} {{Election box necessary no change }}",
+    "timestamp": "2021-01-03 21:07:33+00:00",
+    "entity": "List of Speaker of the United States House of Representatives elections",
     "event_id": 1
   }
 ]

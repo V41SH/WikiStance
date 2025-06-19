@@ -1,19 +1,11 @@
 [
   {
     "title": "2020 United States presidential election in Michigan",
-    "timestamp": "2020-11-04T16:00:13+00:00",
-    "added": [
-      "{{pp-protected|reason=Persistent [[WP:Disruptive editing|disruptive editing]]|small=yes}}"
-    ],
-    "deleted": []
-  },
-  {
-    "title": "2020 United States presidential election in Michigan",
     "timestamp": "2020-11-06T13:13:19+00:00",
-    "added": [
-      "| image_size = 200x200px"
-    ],
-    "deleted": []
+    "added": [],
+    "deleted": [
+      ""
+    ]
   },
   {
     "title": "2020 United States presidential election in Michigan",
@@ -38,11 +30,9 @@
   },
   {
     "title": "2020 United States presidential election in Michigan",
-    "timestamp": "2020-11-23T21:41:08+00:00",
+    "timestamp": "2020-11-18T09:36:43+00:00",
     "added": [],
-    "deleted": [
-      "| votes_counted = 99"
-    ]
+    "deleted": []
   },
   {
     "title": "2020 United States presidential election in Michigan",
@@ -50,22 +40,6 @@
     "added": [
       "",
       "Despite pressure from the Trump campaign to hand the decision over the state's presidential electors to the [[Michigan State Legislature]], which would have been an unprecedented maneuver in state history, the statewide results were certified in favor of the Biden/Harris ticket on November 23, with one Republican member of the [[Michigan Board of State Canvassers]] abstaining.<ref>{{cite news|url=https://www.detroitnews.com/story/news/politics/2020/11/23/michigan-election-state-canvassers-certification/6390475002/|work=The Detroit News|title=Michigan board certifies Nov. 3 election, cementing Biden victory|first1=Craig|last1=Mauger|first2=Melissa|last2=Nann Burke|date=November 23, 2020|accessdate=November 23, 2020}}</ref>"
-    ],
-    "deleted": []
-  },
-  {
-    "title": "2020 United States presidential election in Michigan",
-    "timestamp": "2020-11-24T12:37:58+00:00",
-    "added": [],
-    "deleted": [
-      "{{current election|date=November 2020}}"
-    ]
-  },
-  {
-    "title": "2020 United States presidential election in Michigan",
-    "timestamp": "2020-11-26T02:14:06+00:00",
-    "added": [
-      "| country = Michigan"
     ],
     "deleted": []
   }

@@ -1,1 +1,27 @@
-[]
+[
+  {
+    "title": "2018 Maryland Senate election",
+    "timestamp": "2021-09-06T11:03:54+00:00",
+    "added": [
+      "(United States)"
+    ],
+    "deleted": []
+  },
+  {
+    "title": "2018 Maryland Senate election",
+    "timestamp": "2021-09-06T11:04:45+00:00",
+    "added": [],
+    "deleted": [
+      "(United States)"
+    ]
+  },
+  {
+    "title": "2018 Maryland Senate election",
+    "timestamp": "2021-09-28T20:50:44+00:00",
+    "added": [],
+    "deleted": [
+      "{{Infobox election",
+      "}}"
+    ]
+  }
+]

@@ -1,11 +1,19 @@
 [
   {
     "title": "2020 North Carolina Senate election",
-    "timestamp": "2020-11-11T13:40:25+00:00",
+    "timestamp": "2020-11-04T15:55:19+00:00",
     "added": [
       "}}",
-      "{{Election box hold with party link no change",
-      "| winner     = Republican Party (United States)"
+      "{{Election box gain with party link no change"
+    ],
+    "deleted": []
+  },
+  {
+    "title": "2020 North Carolina Senate election",
+    "timestamp": "2020-11-11T13:37:29+00:00",
+    "added": [
+      "}}",
+      "{{Election box gain with party link no change"
     ],
     "deleted": []
   }

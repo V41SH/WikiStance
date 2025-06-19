@@ -2,28 +2,7 @@
   {
     "title": "1836 United States presidential election",
     "timestamp": "2020-11-06T02:23:57+00:00",
-    "added": [
-      "",
-      "| module = {{Infobox election",
-      "| child = yes",
-      "| election_name = 1837 contingent U.S. vice presidential election",
-      "| type = presidential",
-      "| ongoing = no",
-      "| election_date = February 8, 1837",
-      "| votes_for_election = 52 [[United States Senate|U.S. Senators]]",
-      "| needed_votes = 27",
-      "| vote_type = Senate",
-      "| candidate1 = '''[[Richard Mentor Johnson|Richard M. Johnson]]'''",
-      "| party1 = Democratic Party (United States)",
-      "| popular_vote1 = '''33'''",
-      "| percentage1 = '''63.46%'''",
-      "| candidate2 = [[Francis Granger]]",
-      "| party2 = Whig Party (United States)",
-      "| colour2 = C68B8E",
-      "| popular_vote2 = 16",
-      "| percentage2 = 30.77%",
-      "}}"
-    ],
+    "added": [],
     "deleted": []
   }
 ]

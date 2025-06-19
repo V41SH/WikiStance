@@ -21,26 +21,12 @@
     "added": [
       "",
       "=== Results ===",
-      "{{Election box begin no change|title=2015 Henrico County Commonwealth's Attorney – Republican Primary<ref>{{cite web|url=https://www.vpap.org/offices/henrico-county-commonwealths-attorney/election/8099/|title=Henrico County Commonwealths Attorney – 2015 Republican Primary (6/9/2015)|website=The Virginia Public Access Project}}</ref>}}",
       "{{Election box candidate with party link no change",
-      "|party      = Republican Party (United States)",
-      "|candidate  = '''Tony Pham'''",
-      "|votes      = '''7,381'''",
-      "|percentage = '''40.83%'''",
       "}}",
       "{{Election box candidate with party link no change",
-      "|party      = Republican Party (United States)",
-      "|candidate  = Jeffrey L. Everhart",
-      "|votes      = 7,314",
-      "|percentage = 40.46%",
       "}}",
       "{{Election box candidate with party link no change",
-      "|party      = Republican Party (United States)",
-      "|candidate  = Shannon Dillon",
-      "|votes      = 3,382",
-      "|percentage = 18.71%",
-      "}}",
-      "{{Election box end}}"
+      "}}"
     ],
     "deleted": []
   },

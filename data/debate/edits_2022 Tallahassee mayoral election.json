@@ -1,1 +1,19 @@
-[]
+[
+  {
+    "title": "2022 Tallahassee mayoral election",
+    "timestamp": "2021-09-18T04:48:42+00:00",
+    "added": [],
+    "deleted": [
+      "'''Leon County Commissioner, Seat 3 (2006–2018)'''"
+    ]
+  },
+  {
+    "title": "2022 Tallahassee mayoral election",
+    "timestamp": "2021-09-18T04:49:36+00:00",
+    "added": [
+      "{{Infobox election",
+      "}}"
+    ],
+    "deleted": []
+  }
+]

@@ -1,11 +1,10 @@
 [
   {
     "title": "Donna Shalala",
-    "timestamp": "2021-02-24T12:17:59+00:00",
-    "added": [
-      "| 1blankname6       = {{nowrap|[[United States Secretary of Housing and Urban Development|Secretary]]}}",
-      "| 1namedata6        = [[Patricia Roberts Harris|Patricia Harris]]<br>[[Moon Landrieu]]"
-    ],
-    "deleted": []
+    "timestamp": "2021-01-05T15:27:07+00:00",
+    "added": [],
+    "deleted": [
+      "{{s-aft|after=[[Maria Elvira Salazar]]}"
+    ]
   }
 ]

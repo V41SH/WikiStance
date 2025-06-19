@@ -1,1 +1,19 @@
-[]
+[
+  {
+    "title": "David Ige",
+    "timestamp": "2021-09-09T04:33:30+00:00",
+    "added": [
+      "{{Election box candidate with party link no change"
+    ],
+    "deleted": []
+  },
+  {
+    "title": "David Ige",
+    "timestamp": "2021-09-09T04:35:22+00:00",
+    "added": [],
+    "deleted": [
+      "}}",
+      "{{Election box hold with party link without swing"
+    ]
+  }
+]

@@ -165,5 +165,5 @@ def main(title, start_ts, end_ts, limit, delta=60):
                 prev_changes = curr_changes
 
         time.sleep(0.5)
-    with open(f"election/edits_{title}.json", "w", encoding="utf-8") as f:
+    with open(f"debate/edits_{title}.json", "w", encoding="utf-8") as f:
         json.dump(results, f, ensure_ascii=False, indent=2)

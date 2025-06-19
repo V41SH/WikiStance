@@ -1,20 +1,26 @@
 [
   {
-    "text": "{{Update|date=November 2020}}",
-    "timestamp": "2020-11-21 01:52:07+00:00",
-    "entity": "Mark DeSaulnier",
+    "text": "}} {{Election box hold with party link without swing",
+    "timestamp": "2020-11-17 22:32:32+00:00",
+    "entity": "2020 United States House of Representatives elections in Idaho",
     "event_id": 7
   },
   {
-    "text": "{{Multiple issues| {{Update|date=November 2020}} }}",
-    "timestamp": "2020-11-21 21:15:27+00:00",
-    "entity": "Lou Correa",
+    "text": "}} {{Election box hold with party link without swing",
+    "timestamp": "2020-11-17 03:19:24+00:00",
+    "entity": "1994 United States Senate election in Minnesota",
     "event_id": 7
   },
   {
-    "text": "{{Update|date=November 2020}}",
-    "timestamp": "2020-11-21 01:41:51+00:00",
-    "entity": "Jerry McNerney",
+    "text": "}} {{Election box hold with party link no change",
+    "timestamp": "2020-11-17 03:35:44+00:00",
+    "entity": "2020 United States House of Representatives elections in New Hampshire",
+    "event_id": 7
+  },
+  {
+    "text": "}} {{Election box hold with party link no change",
+    "timestamp": "2020-11-17 03:30:16+00:00",
+    "entity": "2020 United States House of Representatives elections in Louisiana",
     "event_id": 7
   }
 ]

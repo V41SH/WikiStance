@@ -4,17 +4,8 @@
     "timestamp": "2020-11-22T02:46:09+00:00",
     "added": [],
     "deleted": [
-      "{{AFC submission|||u=SunshineStatesman45|ns=2|ts=20201023002946}} <!-- Do not remove this line! -->",
       ""
     ]
-  },
-  {
-    "title": "1996 Metro-Dade County mayoral election",
-    "timestamp": "2020-11-22T02:46:11+00:00",
-    "added": [
-      "{{short description|Mayoral election}}"
-    ],
-    "deleted": []
   },
   {
     "title": "1996 Metro-Dade County mayoral election",
@@ -22,18 +13,21 @@
     "added": [],
     "deleted": [
       "",
-      "== References ==",
-      "<!-- Inline citations added to your article will automatically display here. See en.wikipedia.org/wiki/WP:REFB for instructions on how to add citations. -->",
-      "{{reflist}}"
+      "== References =="
     ]
   },
   {
     "title": "1996 Metro-Dade County mayoral election",
     "timestamp": "2020-11-22T02:48:30+00:00",
+    "added": [],
+    "deleted": []
+  },
+  {
+    "title": "1996 Metro-Dade County mayoral election",
+    "timestamp": "2020-11-22T02:50:19+00:00",
     "added": [
       "",
-      "== References ==",
-      "{{reflist}}"
+      "== References =="
     ],
     "deleted": []
   },
@@ -47,10 +41,16 @@
   },
   {
     "title": "1996 Metro-Dade County mayoral election",
-    "timestamp": "2020-12-02T15:09:32+00:00",
+    "timestamp": "2020-11-23T10:12:19+00:00",
     "added": [],
     "deleted": [
-      "{{linkrot|date=December 2020}}"
+      ""
     ]
+  },
+  {
+    "title": "1996 Metro-Dade County mayoral election",
+    "timestamp": "2020-12-02T15:09:32+00:00",
+    "added": [],
+    "deleted": []
   }
 ]

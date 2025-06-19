@@ -9,41 +9,43 @@
     "title": "Madeleine Dean",
     "timestamp": "2021-01-25T23:47:52+00:00",
     "added": [
-      "| percentage = 100.0",
       "}}",
       "{{Election box hold with party link no change",
-      "| winner = Democratic Party (United States)",
       "}}",
-      "{{Election box end}}",
       "",
       "{{Election box begin no change",
       "}}",
       "{{Election box winning candidate with party link no change",
-      "| candidate  = Madeleine Dean (incumbent)",
-      "| party      = Democratic Party (United States)",
-      "| votes      = 264,637",
-      "| percentage = 59.53",
       "}}",
       "{{Election box candidate with party link no change",
-      "| candidate  = Kathy Barnette",
-      "| party      = Republican Party (United States)",
-      "| votes      = 179,926",
-      "| percentage = 40.47",
       "}}",
-      "{{Election box total no change",
-      "| votes      = {{sum|264637|179926}}"
+      "{{Election box total no change"
     ],
     "deleted": []
   },
   {
     "title": "Madeleine Dean",
     "timestamp": "2021-01-25T23:52:20+00:00",
+    "added": [],
+    "deleted": [
+      "",
+      "{{Election box begin no change",
+      "}}",
+      "{{Election boxwinning candidatewith party link no change",
+      "}}",
+      "{{Election box candidate with party link no change",
+      "}}",
+      "{{Election box total no change",
+      "}}",
+      "{{Election box hold with party link no change",
+      "}}"
+    ]
+  },
+  {
+    "title": "Madeleine Dean",
+    "timestamp": "2021-01-25T23:55:19+00:00",
     "added": [
-      "{{Electionboxbeginno change|title=Pennsylvania's 4th congressional district, 2020<ref name=\"PAgenr\"/>}}",
-      "{{Election box winning candidate with party link no change|candidate=Madeleine Dean (incumbent)|party=Democratic Party (United States)|votes=264,637|percentage=59.5}}",
-      "{{Election box candidate with party link no change|candidate=Kathy Barnette|party=Republican Party (United States)|votes=179,926|percentage=40.5}}",
-      "{{Election box total no change|votes=444,563|percentage=100.0}}",
-      "{{Election boxholdwith party link no change|winner=Democratic Party (United States)}}"
+      ""
     ],
     "deleted": []
   }

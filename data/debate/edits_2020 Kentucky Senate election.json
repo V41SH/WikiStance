@@ -1,10 +1,13 @@
 [
   {
     "title": "2020 Kentucky Senate election",
-    "timestamp": "2020-10-25T22:49:16+00:00",
+    "timestamp": "2021-09-08T01:56:15+00:00",
     "added": [
-      "{{Distinguish|2020 United States Senate election in Kentucky}}",
-      ""
+      "",
+      "=== Closest races ===",
+      "Seats where the margin of victory was under 10%:",
+      "# '''{{font color|red|District 7, 9.5%}} gain'''",
+      "# '''{{font color|red|District 29, 6.8%}} gain'''"
     ],
     "deleted": []
   }

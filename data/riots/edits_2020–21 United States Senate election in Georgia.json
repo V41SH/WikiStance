@@ -1,28 +1,14 @@
 [
   {
     "title": "2020–21 United States Senate election in Georgia",
-    "timestamp": "2021-01-05T17:30:03+00:00",
-    "added": [
-      "|-",
-      "|style=\"text-align:left;\"|[https://drive.google.com/file/d/1zLjHWUhF1vmwo-R1ttpJSaj6OBg4DWva/view Trafalgar Group]",
-      "|January 2–4, 2021",
-      "|1,056 (LV)",
-      "|±&nbsp;2.9%",
-      "|'''49%'''",
-      "|'''49%'''",
-      "| 2%"
-    ],
-    "deleted": []
-  },
-  {
-    "title": "2020–21 United States Senate election in Georgia",
-    "timestamp": "2021-01-06T05:16:41+00:00",
-    "added": [
-      "| reporting = 97",
-      "| last_update = 12:00 am",
-      "| time_zone = [[Eastern Time Zone|EST]]"
-    ],
-    "deleted": []
+    "timestamp": "2021-01-06T05:38:26+00:00",
+    "added": [],
+    "deleted": [
+      "{{Election box candidate with party link",
+      "}}",
+      "{{Election box candidate with party link",
+      "}}"
+    ]
   },
   {
     "title": "2020–21 United States Senate election in Georgia",
@@ -31,6 +17,14 @@
       "* [[Rick Scott]], U.S. Senator from Florida (2019–present)<ref>https://twitter.com/ScottforFlorida/status/1346256972665004032</ref>"
     ],
     "deleted": []
+  },
+  {
+    "title": "2020–21 United States Senate election in Georgia",
+    "timestamp": "2021-01-06T07:04:51+00:00",
+    "added": [],
+    "deleted": [
+      ""
+    ]
   },
   {
     "title": "2020–21 United States Senate election in Georgia",
@@ -75,44 +69,50 @@
   },
   {
     "title": "2020–21 United States Senate election in Georgia",
-    "timestamp": "2021-01-06T09:56:24+00:00",
+    "timestamp": "2021-01-06T09:58:22+00:00",
     "added": [
-      "{{pp-30-500|small=yes}}"
+      "{{Election box candidate with party link",
+      "}}",
+      "{{Election box candidate with party link",
+      "}}"
     ],
     "deleted": []
+  },
+  {
+    "title": "2020–21 United States Senate election in Georgia",
+    "timestamp": "2021-01-06T22:09:07+00:00",
+    "added": [
+      "{{Reflist|refs=",
+      "<ref name=\"DDHQ county results\">{{Citation |url= https://results.decisiondeskhq.com/2020/general/georgia |title= Georgia 2020/21 General & Runoff Results; Senate Results; Runoff; County |website=[[Decision Desk HQ]] |date=January 6, 2021 |archiveurl=https://web.archive.org/web/20210106133257/https://results.decisiondeskhq.com/2020/general/georgia |archivedate=January 6, 2021 }}</ref>",
+      "}}"
+    ],
+    "deleted": []
+  },
+  {
+    "title": "2020–21 United States Senate election in Georgia",
+    "timestamp": "2021-01-06T22:25:16+00:00",
+    "added": [],
+    "deleted": [
+      "{{Reflist|refs=",
+      "<ref name=\"DDHQ county results\">{{Citation |url= https://results.decisiondeskhq.com/2020/general/georgia |title= Georgia 2020/21 General & Runoff Results; Senate Results; Runoff; County |website=[[Decision Desk HQ]] |date=January 6, 2021 |archiveurl=https://web.archive.org/web/20210106133257/https://results.decisiondeskhq.com/2020/general/georgia |archivedate=January 6, 2021 }}</ref>",
+      "}}"
+    ]
   },
   {
     "title": "2020–21 United States Senate election in Georgia",
     "timestamp": "2021-01-07T01:35:51+00:00",
     "added": [
       "}}",
-      "{{Election box gain with party link no swing",
-      "| winner     = Democratic Party (United States)",
-      "| loser      = Republican Party (United States)"
+      "{{Election box gain with party link no swing"
     ],
     "deleted": []
   },
   {
     "title": "2020–21 United States Senate election in Georgia",
-    "timestamp": "2021-01-25T19:18:28+00:00",
-    "added": [],
-    "deleted": [
-      "|-",
-      "| style=\"text-align:left;\"|[https://poll.qu.edu/images/polling/ga/ga09292020_gwko66.pdf Quinnipiac University]",
-      "| September 23–27, 2020",
-      "| 1,125 (LV)",
-      "| ±&nbsp;2.9%",
-      "| {{party shading/Republican}}|'''48%'''",
-      "| {{party shading/Democratic}}|'''49%'''",
-      "| 3%{{efn|Undecided with 3%}}"
-    ]
-  },
-  {
-    "title": "2020–21 United States Senate election in Georgia",
-    "timestamp": "2021-02-07T16:46:08+00:00",
-    "added": [],
-    "deleted": [
-      "{{pp-30-500|small=yes}}"
-    ]
+    "timestamp": "2021-01-07T01:49:42+00:00",
+    "added": [
+      "{{Election box candidate with party link"
+    ],
+    "deleted": []
   }
 ]

@@ -1,53 +1,11 @@
 [
   {
     "title": "2006 Wyoming gubernatorial election",
-    "timestamp": "2020-12-02T03:49:40+00:00",
-    "added": [
-      "|-",
-      "|align=\"center\" {{party shading/Democratic}}|[[Albany County, Wyoming|Albany]]"
-    ],
-    "deleted": []
-  },
-  {
-    "title": "2006 Wyoming gubernatorial election",
-    "timestamp": "2020-12-02T03:58:35+00:00",
-    "added": [],
-    "deleted": [
-      "! style=\"width:10%;\"| Votes",
-      "! style=\"width:10%;\"| Others"
-    ]
-  },
-  {
-    "title": "2006 Wyoming gubernatorial election",
-    "timestamp": "2020-12-02T03:59:14+00:00",
-    "added": [
-      "|-",
-      "|align=\"center\" {{party shading/Democratic}}|[[Big Horn County, Wyoming|Big Horn]]"
-    ],
-    "deleted": []
-  },
-  {
-    "title": "2006 Wyoming gubernatorial election",
     "timestamp": "2020-12-02T04:00:37+00:00",
     "added": [],
     "deleted": [
       "",
-      "===Results by County===",
-      "{| style=\"width:45%;\" class=\"wikitable sortable\"",
-      "|- style=\"background:lightgrey;\"",
-      "! style=\"width:10%;\"| [[List of counties in Wyoming|County]]",
-      "! style=\"width:10%;\"| Freudenthal",
-      "! style=\"width:10%;\"| Votes",
-      "! style=\"width:10%;\"| Hunkins",
-      "! style=\"width:10%;\"| Votes",
-      "|-",
-      "|align=\"center\" {{party shading/Democratic}}|[[Albany County, Wyoming|Albany]]",
-      "| style=\"text-align:center;\"|'''79.62%'''",
-      "| style=\"text-align:center;\"|'''9,472'''",
-      "| style=\"text-align:center;\"|20.38%",
-      "| style=\"text-align:center;\"|2,425",
-      "|-",
-      "|align=\"center\" {{party shading/Democratic}}|[[Big Horn County, Wyoming|Big Horn]]"
+      "===Results by County==="
     ]
   }
 ]

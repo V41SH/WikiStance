@@ -2,8 +2,8 @@ import json
 import csv
 from pathlib import Path
 
-IN_PATH = Path("riots.json")   # merged events file
-OUT_CSV = "riots.csv"
+IN_PATH = Path("debate.json")   # merged events file
+OUT_CSV = "debate.csv"
 
 rows = []
 with IN_PATH.open(encoding="utf-8") as f:

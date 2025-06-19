@@ -27,14 +27,6 @@
   },
   {
     "title": "Electoral fraud",
-    "timestamp": "2020-11-05T19:34:23+00:00",
-    "added": [
-      "{{pp-vandalism|small=yes}}"
-    ],
-    "deleted": []
-  },
-  {
-    "title": "Electoral fraud",
     "timestamp": "2020-11-07T20:33:44+00:00",
     "added": [],
     "deleted": [
@@ -47,8 +39,6 @@
     "added": [],
     "deleted": [
       "{{Multiple issues|",
-      "{{cleanup|reason=tone, [[WP:OR|OR]], flow, possible [[WP:UNDUE|UNDUE]] weight|date=May 2018}}",
-      "{{original research|date=November 2016}}",
       "}}",
       ""
     ]

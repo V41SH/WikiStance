@@ -1,28 +1,54 @@
 [
   {
     "title": "2020 Alaska House of Representatives election",
-    "timestamp": "2020-11-15T03:01:19+00:00",
+    "timestamp": "2020-11-15T02:01:43+00:00",
     "added": [
-      ";General election"
+      ";Republican primary",
+      ";General election",
+      "}}",
+      "{{Election box candidate with party link no change",
+      "{{Election box hold with party link no change",
+      "}}"
     ],
     "deleted": []
   },
   {
     "title": "2020 Alaska House of Representatives election",
-    "timestamp": "2020-11-18T05:04:31+00:00",
+    "timestamp": "2020-11-15T02:49:01+00:00",
     "added": [
-      "| {{sortname|Grier|Hopkins}}",
-      "| style=\"background:{{Democratic Party (United States)/meta/color}};\"|",
-      "| Dem",
-      "| {{sortname|Chris|Tuck}}",
-      "| style=\"background:{{Democratic Party (United States)/meta/color}};\"|",
-      "| Dem",
-      "| '''{{sortname|Calvin|Schrage}}'''",
-      "| style=\"background:{{Independent (United States)/meta/color}};\"|",
-      "| '''Ind'''",
-      "| {{sortname|Dan|Ortiz|Dan Ortiz (politician)}}",
-      "| style=\"background:{{Independent (United States)/meta/color}};\"|",
-      "| Ind"
+      ";AD primary",
+      ";Republican primary",
+      ";General election",
+      "}}",
+      "{{Election box candidate with party link no change"
+    ],
+    "deleted": []
+  },
+  {
+    "title": "2020 Alaska House of Representatives election",
+    "timestamp": "2020-11-15T03:43:42+00:00",
+    "added": [
+      "}}",
+      "{{Election box candidate with party link no change"
+    ],
+    "deleted": []
+  },
+  {
+    "title": "2020 Alaska House of Representatives election",
+    "timestamp": "2020-11-18T05:00:39+00:00",
+    "added": [
+      "}}",
+      "{{Election box candidate with party link no change"
+    ],
+    "deleted": []
+  },
+  {
+    "title": "2020 Alaska House of Representatives election",
+    "timestamp": "2020-11-18T05:02:22+00:00",
+    "added": [
+      "{{Election boxwinningcandidate with party link no change",
+      "{{Election box hold with party link no change",
+      "}}"
     ],
     "deleted": []
   },

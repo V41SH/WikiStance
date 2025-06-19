@@ -1,12 +1,25 @@
 [
   {
     "title": "2020 Maine House of Representatives election",
+    "timestamp": "2021-01-03T19:37:00+00:00",
+    "added": [
+      "{{reflist|refs=",
+      "",
+      "<ref name=\"mainehouse\">{{Cite web|title=Maine House of Representatives|url=https://legislature.maine.gov/house/house/|access-date=2020-07-01|website=legislature.maine.gov}}</ref>",
+      "",
+      "<ref name=\"bdnresults\">{{cite web |title=Maine Election Central |url=https://bangordailynews.com/maine-elections/legislative-races/ |website=Bangor Daily News |access-date=3 January 2021 |archive-url=https://archive.is/Akf4M |archive-date=3 January 2021}}</ref>",
+      "",
+      "}}"
+    ],
+    "deleted": []
+  },
+  {
+    "title": "2020 Maine House of Representatives election",
     "timestamp": "2021-01-03T20:24:56+00:00",
     "added": [],
     "deleted": [
       "",
-      "",
-      "{{Maine-election-stub}}"
+      ""
     ]
   },
   {
@@ -24,7 +37,6 @@
       "",
       "==Term-limited incumbents==",
       "22 incumbent representatives (eighteen Democrats, three Republicans and one independent) were term-limited and constitutionally prevented from seeking a fifth consecutive term.",
-      "{{div col begin}}",
       "#[[Richard Campbell]] (R), District 130",
       "#[[Janice Cooper]] (D), District 47",
       "#[[Matthea Daughtry]] (D), District 49 ''([[2020 Maine State Senate election#District 24|Ran for State Senate]])''",
@@ -47,7 +59,6 @@
       "#[[John Schneck]] (D), District 126",
       "#[[Stephen Stanley]] (D), District 143",
       "#[[Ryan Tipping]] (D), District 123",
-      "{{div col end}}",
       "",
       "==Retiring incumbents==",
       "Eight incumbent representatives were eligible to seek another term but chose not to.",

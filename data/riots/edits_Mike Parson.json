@@ -1,25 +1,24 @@
 [
   {
     "title": "Mike Parson",
-    "timestamp": "2021-01-03T03:57:39+00:00",
-    "added": [
-      "{{distinguish|Mike Barson|Mike Garson|Mike Person}}"
-    ],
-    "deleted": []
-  },
-  {
-    "title": "Mike Parson",
-    "timestamp": "2021-01-03T04:01:13+00:00",
-    "added": [
-      "{{distinguish|Mike Barson|Mike Garson|Mike Marson|Mike Person}}"
-    ],
-    "deleted": []
-  },
-  {
-    "title": "Mike Parson",
     "timestamp": "2021-02-12T06:05:44+00:00",
     "added": [
       "*{{Ballotpedia|Mike_Parson|Mike Parson}}"
+    ],
+    "deleted": []
+  },
+  {
+    "title": "Mike Parson",
+    "timestamp": "2021-02-12T06:09:15+00:00",
+    "added": [],
+    "deleted": []
+  },
+  {
+    "title": "Mike Parson",
+    "timestamp": "2021-02-12T06:22:14+00:00",
+    "added": [
+      "*{{army|United States}}",
+      "** [[Military Police Corps (United States)|Military Police Corps]]"
     ],
     "deleted": []
   }

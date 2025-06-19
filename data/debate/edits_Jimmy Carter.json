@@ -1,1 +1,63 @@
-[]
+[
+  {
+    "title": "Jimmy Carter",
+    "timestamp": "2021-09-02T14:35:04+00:00",
+    "added": [],
+    "deleted": []
+  },
+  {
+    "title": "Jimmy Carter",
+    "timestamp": "2021-09-07T19:04:54+00:00",
+    "added": [],
+    "deleted": [
+      "=== Legacy ==="
+    ]
+  },
+  {
+    "title": "Jimmy Carter",
+    "timestamp": "2021-09-07T19:05:38+00:00",
+    "added": [],
+    "deleted": []
+  },
+  {
+    "title": "Jimmy Carter",
+    "timestamp": "2021-09-08T19:28:02+00:00",
+    "added": [
+      "* {{cite book |author=Steven F. Hayward |title=The Age of Reagan: The Fall of the Old Liberal Order: 1964–1980 |url=https://books.google.com/books?id=0BafgsBIlrwC&pg=PA497 |year=2009 |publisher=Random House Digital, Inc. |isbn=978-0-307-45370-9}}"
+    ],
+    "deleted": []
+  },
+  {
+    "title": "Jimmy Carter",
+    "timestamp": "2021-09-08T19:29:27+00:00",
+    "added": [
+      "* {{cite book |first1=Steven F.|last1=Hayward |title=The Age of Reagan: The Fall of the Old Liberal Order: 1964–1980 |url=https://books.google.com/books?id=0BafgsBIlrwC&pg=PA497 |year=2009 |publisher=Random House Digital, Inc. |isbn=978-0-307-45370-9}}"
+    ],
+    "deleted": []
+  },
+  {
+    "title": "Jimmy Carter",
+    "timestamp": "2021-09-08T19:30:11+00:00",
+    "added": [],
+    "deleted": [
+      "* {{cite book |title=Jimmy Carter, American Moralist |url=https://archive.org/details/jimmycarterameri00morr |url-access=registration |first=Kenneth Earl |last=Morris |publisher=University of Georgia Press |year=1996|isbn=9780820318622 }}"
+    ]
+  },
+  {
+    "title": "Jimmy Carter",
+    "timestamp": "2021-10-01T01:38:39+00:00",
+    "added": [],
+    "deleted": []
+  },
+  {
+    "title": "Jimmy Carter",
+    "timestamp": "2021-10-31T10:14:45+00:00",
+    "added": [],
+    "deleted": [
+      "* [[American Campaign Medal]]",
+      "* [[World War II Victory Medal (United States)|World War II Victory Medal]]",
+      "* [[China Service Medal]]",
+      "* [[National Defense Service Medal]]"
+    ]
+  }
+]

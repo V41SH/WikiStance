@@ -34,32 +34,30 @@
   },
   {
     "title": "Carlo Leone",
+    "timestamp": "2020-11-16T19:50:52+00:00",
+    "added": [],
+    "deleted": []
+  },
+  {
+    "title": "Carlo Leone",
+    "timestamp": "2020-11-16T19:51:32+00:00",
+    "added": [
+      "=== 2012 ==="
+    ],
+    "deleted": []
+  },
+  {
+    "title": "Carlo Leone",
     "timestamp": "2020-11-19T00:32:09+00:00",
     "added": [
-      "{{Election box begin no change|title=2020 Connecticut State Senate election, District 26<ref name=\"onlineresults\" />}}",
       "{{Election box winning candidate with party link no change",
-      "| party      = Democratic Party (United States)",
-      "| candidate   = [[Carlo Leone]]",
-      "| votes       = 4,517",
-      "| percentage  = 54.80",
-      "| change      =",
       "}}",
       "{{Election box candidate with party link no change",
-      "| party      = Republican Party (United States)",
-      "| candidate  = Bob Kolenberg",
-      "| votes      = 3,725",
-      "| percentage = 45.20",
-      "| change     =",
       "}}",
       "{{Election box total no change",
-      "| votes      = 8242",
-      "| percentage = 100.00",
-      "| change     =",
       "}}",
       "{{Election box hold with party link no change",
-      "| winner = Democratic Party (United States)",
-      "}}",
-      "{{Election box end}}"
+      "}}"
     ],
     "deleted": []
   }

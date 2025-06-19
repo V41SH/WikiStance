@@ -40,17 +40,30 @@
     "added": [],
     "deleted": [
       "*{{cite web|accessdate=2008-10-13",
-      "|url=http://www.mnci.centcom.mil/default.htm",
-      "|publisher=[[CENTCOM]]}}",
       "*[http://americanrhetoric.com/speeches/lloydaustiniraqcommand.htm Complete transcript and audio and video of Gen. Austin speech on assuming command of USF-I]"
     ]
   },
   {
     "title": "Lloyd Austin",
-    "timestamp": "2020-11-28T16:33:52+00:00",
-    "added": [
-      "{{Unreferenced section|date=November 2020}}"
-    ],
-    "deleted": []
+    "timestamp": "2020-12-02T02:20:05+00:00",
+    "added": [],
+    "deleted": [
+      "",
+      "==Awards and decorations==",
+      ""
+    ]
+  },
+  {
+    "title": "Lloyd Austin",
+    "timestamp": "2020-12-02T04:24:08+00:00",
+    "added": [],
+    "deleted": [
+      "",
+      "==Notes==",
+      "*{{cite web|accessdate=",
+      "*{{cite web",
+      "}}",
+      "*{{cite web|accessdate=2010-10-01"
+    ]
   }
 ]

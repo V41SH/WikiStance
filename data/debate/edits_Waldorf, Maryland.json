@@ -1,1 +1,37 @@
-[]
+[
+  {
+    "title": "Waldorf, Maryland",
+    "timestamp": "2021-09-12T10:43:46+00:00",
+    "added": [],
+    "deleted": [
+      "Waldorf is located at {{Coord|38|38|46|N|76|53|54|W|type:city}} (38.646173, &minus;76.898217).<ref name=\"GR1\">{{cite web|url=https://www.census.gov/geographies/reference-files/time-series/geo/gazetteer-files.html|publisher=[[United States Census Bureau]]|access-date=2011-04-23|date=2011-02-12|title=US Gazetteer files: 2010, 2000, and 1990}}</ref>",
+      ""
+    ]
+  },
+  {
+    "title": "Waldorf, Maryland",
+    "timestamp": "2021-09-12T11:11:17+00:00",
+    "added": [],
+    "deleted": [
+      "",
+      "==Government==",
+      "The [[U.S. Postal Service]] operates the Waldorf Post Office.<ref>\"[https://tools.usps.com/go/POLocatorDetailsAction!input.action?locationTypeQ=all&address=Accokeek%2C+Maryland&radius=20&locationType=po&locationID=1386212&locationName=WALDORF&address2=&address1=150+POST+OFFICE+RD&city=WALDORF&state=MD&zip5=20602&zip4=9996&tollFree=800-ASK-USPS%26reg%3B%26nbsp%3B%28800-275-8777%29&fax=301-843-8404&tAddress=&tAddress1Ams=&tAddress2Ams=&tCityAms=&tStateAms=&tZipAms=&tCarrierRouteAms=&latitude=38.616504&longitude=-76.902662&sWithin=20&&&&&&&&& WALDORF].\" [[U.S. Postal Service]]. Retrieved on September 11, 2018. \"150 POST OFFICE RD WALDORF, MD 20602-9996\"</ref>"
+    ]
+  },
+  {
+    "title": "Waldorf, Maryland",
+    "timestamp": "2021-09-12T11:18:42+00:00",
+    "added": [
+      "The [[Southern Maryland Blue Crabs]], established in 2006, complete in the [[Atlantic League of Professional Baseball]], playing at [[Regency Furniture Stadium]].{{cn}}"
+    ],
+    "deleted": []
+  },
+  {
+    "title": "Waldorf, Maryland",
+    "timestamp": "2021-09-12T11:25:35+00:00",
+    "added": [
+      "The [[Southern Maryland Blue Crabs]], established in 2006, complete in the [[Atlantic League of Professional Baseball]], playing at [[Regency Furniture Stadium]].{{cn|date=September 2021}}"
+    ],
+    "deleted": []
+  }
+]

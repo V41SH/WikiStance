@@ -1,20 +1,38 @@
 [
   {
-    "text": "{{pp-vandalism|small=yes}}",
-    "timestamp": "2020-11-29 18:13:35+00:00",
-    "entity": "Trump Card (2020 film)",
+    "text": "}} {{Election box hold with party link no swing",
+    "timestamp": "2020-11-19 16:38:12+00:00",
+    "entity": "2020 United States Senate election in Mississippi",
     "event_id": 8
   },
   {
-    "text": "{{pp-vandalism|small=yes}}",
-    "timestamp": "2020-11-29 05:18:57+00:00",
-    "entity": "1920 United States presidential election",
+    "text": "}} {{Election box hold with party link no swing",
+    "timestamp": "2020-11-19 16:59:29+00:00",
+    "entity": "2020 United States Senate election in South Dakota",
     "event_id": 8
   },
   {
-    "text": "{{pp-vandalism|small=yes}}",
-    "timestamp": "2020-11-29 02:35:57+00:00",
-    "entity": "United States presidential elections in Ohio",
+    "text": "}} {{Election box hold with party link no swing",
+    "timestamp": "2020-11-19 16:19:55+00:00",
+    "entity": "2020 United States Senate election in Massachusetts",
+    "event_id": 8
+  },
+  {
+    "text": "}} {{Election box winning candidate with party link no change }} {{Election box candidate with party link no change }} {{Election box total no change }}  {{Election box begin no change",
+    "timestamp": "2020-11-19 07:56:29+00:00",
+    "entity": "Stephanie Bice",
+    "event_id": 8
+  },
+  {
+    "text": "}} {{Election box hold with party link no swing",
+    "timestamp": "2020-11-19 16:34:15+00:00",
+    "entity": "2020 United States Senate election in Minnesota",
+    "event_id": 8
+  },
+  {
+    "text": "}} {{Election box hold with party link no swing",
+    "timestamp": "2020-11-19 00:41:44+00:00",
+    "entity": "2020 United States Senate election in Idaho",
     "event_id": 8
   }
 ]

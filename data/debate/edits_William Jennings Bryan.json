@@ -1,10 +1,19 @@
 [
   {
     "title": "William Jennings Bryan",
-    "timestamp": "2020-09-10T20:33:29+00:00",
+    "timestamp": "2021-09-14T22:22:59+00:00",
     "added": [
-      "Ancestors; Miles Halterman, Emily Halterman, Brett Halterman, Diana Mintzmeyer Halterman,"
+      "He was a cat person all the way until he diad."
     ],
     "deleted": []
+  },
+  {
+    "title": "William Jennings Bryan",
+    "timestamp": "2021-09-14T22:27:03+00:00",
+    "added": [],
+    "deleted": [
+      "'''Bold text'''{{short description|American politician (1860–1925)}}",
+      "He was a cat person all the way until he diad."
+    ]
   }
 ]

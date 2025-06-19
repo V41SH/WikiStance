@@ -1,24 +1,32 @@
 [
   {
     "title": "Bill Clinton",
-    "timestamp": "2021-01-17T02:05:41+00:00",
-    "added": [
-      "{{Bill Clinton series}}"
-    ],
-    "deleted": []
-  },
-  {
-    "title": "Bill Clinton",
     "timestamp": "2021-02-03T05:17:09+00:00",
     "added": [],
     "deleted": []
   },
   {
     "title": "Bill Clinton",
-    "timestamp": "2021-03-13T17:24:12+00:00",
-    "added": [
-      "* Palmer, David. \"'What Might Have Been'--Bill Clinton and American Political Power.\" ''Australasian Journal of American Studies'' (2005): 38-58. [https://www.jstor.org/stable/41416024 online]",
+    "timestamp": "2021-02-11T02:49:32+00:00",
+    "added": [],
+    "deleted": [
       ""
+    ]
+  },
+  {
+    "title": "Bill Clinton",
+    "timestamp": "2021-02-11T02:55:29+00:00",
+    "added": [
+      "}}unver"
+    ],
+    "deleted": []
+  },
+  {
+    "title": "Bill Clinton",
+    "timestamp": "2021-02-26T21:31:19+00:00",
+    "added": [
+      "{{Quote box",
+      "}}"
     ],
     "deleted": []
   }

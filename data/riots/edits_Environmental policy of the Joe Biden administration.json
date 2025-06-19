@@ -39,10 +39,13 @@
   {
     "title": "Environmental policy of the Joe Biden administration",
     "timestamp": "2021-01-31T10:57:18+00:00",
-    "added": [
-      "{{See also|Paris Agreement}}",
-      ""
-    ],
+    "added": [],
+    "deleted": []
+  },
+  {
+    "title": "Environmental policy of the Joe Biden administration",
+    "timestamp": "2021-02-02T12:18:36+00:00",
+    "added": [],
     "deleted": []
   },
   {
@@ -56,7 +59,7 @@
   },
   {
     "title": "Environmental policy of the Joe Biden administration",
-    "timestamp": "2021-02-19T10:56:24+00:00",
+    "timestamp": "2021-02-19T10:48:56+00:00",
     "added": [],
     "deleted": [
       ""
@@ -64,11 +67,10 @@
   },
   {
     "title": "Environmental policy of the Joe Biden administration",
-    "timestamp": "2021-03-18T14:59:11+00:00",
+    "timestamp": "2021-02-19T10:56:24+00:00",
     "added": [],
     "deleted": [
-      "",
-      "According to a study published in February 2021 (table 1), for giving the world a 50% chance of avoiding a temperature rise of 2 degrees or more USA should increase its climate commitments by 38%. For a 95% chance it should increase the commitments by 125%. For giving a 50% chance of staying below 1.5 degrees USA should increase its commitments by 203%<ref>{{cite journal |last1=R. Liu |first1=Peiran |last2=E. Raftery |first2=Adrian |title=Table 1 Percent increase in emissions reductions relative to the NDCs needed to achieve different objectives in the Paris Agreement for top emitting countries. |journal=Communications Earth & Environment |date=9 February 2021 |volume=2 |doi=10.1038/s43247-021-00097-8 |url=https://www.nature.com/articles/s43247-021-00097-8/tables/1 |access-date=9 March 2021}}</ref><ref>{{cite journal |last1=R. Liu |first1=Peiran |last2=E. Raftery |first2=Adrian |title=Country-based rate of emissions reductions should increase by 80% beyond nationally determined contributions to meet the 2 °C target |journal=Communications Earth & Environment |date=9 February 2021 |volume=2 |doi=10.1038/s43247-021-00097-8 |url=https://www.nature.com/articles/s43247-021-00097-8 |access-date=9 March 2021}}</ref>"
+      ""
     ]
   }
 ]

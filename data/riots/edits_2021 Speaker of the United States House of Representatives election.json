@@ -7,6 +7,18 @@
   },
   {
     "title": "2021 Speaker of the United States House of Representatives election",
+    "timestamp": "2021-01-03T19:39:37+00:00",
+    "added": [],
+    "deleted": []
+  },
+  {
+    "title": "2021 Speaker of the United States House of Representatives election",
+    "timestamp": "2021-01-03T19:40:03+00:00",
+    "added": [],
+    "deleted": []
+  },
+  {
+    "title": "2021 Speaker of the United States House of Representatives election",
     "timestamp": "2021-01-03T20:02:03+00:00",
     "added": [
       "}}{{Election box candidate with party link no change|party=Democratic Party (United States)|candidate=[[Tammy Duckworth]]|votes=|percentage=}}"
@@ -15,13 +27,21 @@
   },
   {
     "title": "2021 Speaker of the United States House of Representatives election",
+    "timestamp": "2021-01-03T20:19:07+00:00",
+    "added": [
+      "}}",
+      "{{Election box candidate with party link no change|",
+      "}}",
+      "{{Election box candidate with party link no change|",
+      "}}"
+    ],
+    "deleted": []
+  },
+  {
+    "title": "2021 Speaker of the United States House of Representatives election",
     "timestamp": "2021-01-03T20:55:38+00:00",
     "added": [
-      "{{Election box candidate with party link no change|",
-      "|party= None (United States)",
-      "|candidate=[[Present]] ([[-----]])",
-      "|votes= 3",
-      "|percentage= 0.4%"
+      "{{Election box candidate with party link no change|"
     ],
     "deleted": []
   },
@@ -29,14 +49,6 @@
     "title": "2021 Speaker of the United States House of Representatives election",
     "timestamp": "2021-01-03T20:57:09+00:00",
     "added": [],
-    "deleted": []
-  },
-  {
-    "title": "2021 Speaker of the United States House of Representatives election",
-    "timestamp": "2021-01-03T20:58:19+00:00",
-    "added": [
-      "{{current election}}"
-    ],
     "deleted": []
   },
   {
@@ -56,21 +68,16 @@
   },
   {
     "title": "2021 Speaker of the United States House of Representatives election",
-    "timestamp": "2021-01-03T21:53:13+00:00",
+    "timestamp": "2021-01-03T21:59:14+00:00",
     "added": [],
     "deleted": [
-      "| reporting = 100",
-      "| last_update = 4:46",
-      "| time_zone = [[Eastern Standard Time|EST]]"
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
     ]
-  },
-  {
-    "title": "2021 Speaker of the United States House of Representatives election",
-    "timestamp": "2021-01-03T22:01:59+00:00",
-    "added": [
-      "{{EngvarB|date=January 2021}}"
-    ],
-    "deleted": []
   },
   {
     "title": "2021 Speaker of the United States House of Representatives election",
@@ -78,20 +85,13 @@
     "added": [],
     "deleted": [
       "}}",
-      "{{Election box candidate with party link no change|",
-      "|party= N/A",
-      "|candidate=[[Abstention|Present]]",
-      "|votes= 3",
-      "|percentage= 0.8%"
+      "{{Election box candidate with party link no change|"
     ]
   },
   {
     "title": "2021 Speaker of the United States House of Representatives election",
     "timestamp": "2021-01-03T23:10:18+00:00",
-    "added": [
-      "",
-      "{{Nancy Pelosi}}"
-    ],
+    "added": [],
     "deleted": []
   },
   {
@@ -99,8 +99,7 @@
     "timestamp": "2021-01-04T15:50:26+00:00",
     "added": [
       "",
-      "==Notes==",
-      "{{notelist}}"
+      "==Notes=="
     ],
     "deleted": []
   }

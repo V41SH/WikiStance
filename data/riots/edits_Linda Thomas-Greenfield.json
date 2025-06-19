@@ -27,19 +27,6 @@
   },
   {
     "title": "Linda Thomas-Greenfield",
-    "timestamp": "2021-02-01T09:10:13+00:00",
-    "added": [],
-    "deleted": [
-      "|office4      = Principal Deputy Assistant Secretary for African Affairs",
-      "|president4   = George W. Bush",
-      "|term_start4  = January 6, 2006",
-      "|term_end4    = July 15, 2008",
-      "|predecessor4 = [[Michael Ranneberger]]",
-      "|successor4   = [[Phillip Carter (ambassador)|Phillip Carter]]"
-    ]
-  },
-  {
-    "title": "Linda Thomas-Greenfield",
     "timestamp": "2021-02-04T21:37:15+00:00",
     "added": [],
     "deleted": [
@@ -48,10 +35,22 @@
   },
   {
     "title": "Linda Thomas-Greenfield",
-    "timestamp": "2021-02-23T17:20:19+00:00",
+    "timestamp": "2021-02-23T21:36:56+00:00",
+    "added": [
+      "*[[Director General of the United States Foreign Service]]",
+      "*[[Bureau of Global Talent Management|Director of the Bureau of Human Resources]]",
+      "}}"
+    ],
+    "deleted": []
+  },
+  {
+    "title": "Linda Thomas-Greenfield",
+    "timestamp": "2021-02-23T21:45:02+00:00",
     "added": [],
     "deleted": [
-      "|status        = Incumbent"
+      "* [[Director General of the United States Foreign Service]]",
+      "*[[Bureau of Global Talent Management|Director of the Bureau of Human Resources]]",
+      "}}"
     ]
   }
 ]

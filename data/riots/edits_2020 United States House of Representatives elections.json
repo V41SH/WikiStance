@@ -1,20 +1,9 @@
 [
   {
     "title": "2020 United States House of Representatives elections",
-    "timestamp": "2021-01-03T21:49:46+00:00",
-    "added": [
-      "{{div col}}",
-      "{{div col end}}"
-    ],
-    "deleted": []
-  },
-  {
-    "title": "2020 United States House of Representatives elections",
-    "timestamp": "2021-02-04T22:35:37+00:00",
+    "timestamp": "2021-01-21T01:33:11+00:00",
     "added": [],
-    "deleted": [
-      "{{pp-protected|reason=Persistent [[WP:Disruptive editing|disruptive editing]]|small=yes}}"
-    ]
+    "deleted": []
   },
   {
     "title": "2020 United States House of Representatives elections",
@@ -32,15 +21,6 @@
       "== Races undecided ==",
       "#{{ushr|NY|22|X}}",
       ""
-    ]
-  },
-  {
-    "title": "2020 United States House of Representatives elections",
-    "timestamp": "2021-02-07T00:07:43+00:00",
-    "added": [],
-    "deleted": [
-      "| seats_before1      = 232",
-      "| seats_before2      = 197"
     ]
   }
 ]

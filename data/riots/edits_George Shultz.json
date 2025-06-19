@@ -1,9 +1,18 @@
 [
   {
     "title": "George Shultz",
-    "timestamp": "2021-02-07T17:47:46+00:00",
+    "timestamp": "2021-02-07T17:55:07+00:00",
     "added": [
-      "|death_date   = {{death date and age|2021|2|7|}}"
+      "",
+      "He died on February 6, 2021."
+    ],
+    "deleted": []
+  },
+  {
+    "title": "George Shultz",
+    "timestamp": "2021-02-07T18:14:37+00:00",
+    "added": [
+      "He died on February 6, 2021, on the campus of [[Stanford University]]."
     ],
     "deleted": []
   },
@@ -35,10 +44,11 @@
   },
   {
     "title": "George Shultz",
-    "timestamp": "2021-02-07T19:24:03+00:00",
+    "timestamp": "2021-02-07T19:28:56+00:00",
     "added": [],
     "deleted": [
-      "{{pp-vandalism|small=yes}}"
+      "",
+      "He died on February 7, 2021 at age 100.<ref>{{Cite web|last=Kaplan|first=Talia|date=2021-02-07|title=George Shultz, former Reagan secretary of state who helped negotiate end of Cold War, dead at 100|url=https://www.foxnews.com/politics/former-secretary-of-state-george-shultz-dead-at-100|access-date=2021-02-07|website=Fox News|language=en-US}}</ref>"
     ]
   },
   {
@@ -60,19 +70,20 @@
   },
   {
     "title": "George Shultz",
-    "timestamp": "2021-02-08T03:43:10+00:00",
+    "timestamp": "2021-02-07T23:26:17+00:00",
     "added": [
-      "* Williams, Walter. \"George shultz on managing the white house.\" ''Journal of Policy Analysis and Management'' 13.2 (1994): 369-375. [https://www.jstor.org/stable/3325019 online]"
+      "* World War II",
+      "** [[Battle of Angaur]]"
     ],
     "deleted": []
   },
   {
     "title": "George Shultz",
-    "timestamp": "2021-02-08T04:52:11+00:00",
-    "added": [],
-    "deleted": [
-      "{{recent death|Shultz, George}}"
-    ]
+    "timestamp": "2021-02-08T03:43:10+00:00",
+    "added": [
+      "* Williams, Walter. \"George shultz on managing the white house.\" ''Journal of Policy Analysis and Management'' 13.2 (1994): 369-375. [https://www.jstor.org/stable/3325019 online]"
+    ],
+    "deleted": []
   },
   {
     "title": "George Shultz",
@@ -95,42 +106,10 @@
   },
   {
     "title": "George Shultz",
-    "timestamp": "2021-02-14T01:55:01+00:00",
-    "added": [
-      "{{external media| float = left| video1 = [https://www.c-span.org/video/?44051-1/turmoil-triumph ''Booknotes'' interview with Shultz on ''Turmoil and Triumph'', June 27, 1993], [[C-SPAN]]}}"
-    ],
-    "deleted": []
-  },
-  {
-    "title": "George Shultz",
     "timestamp": "2021-02-14T01:59:11+00:00",
     "added": [],
     "deleted": [
       "* [https://web.archive.org/web/20120922053741/http://www.booknotes.org/Watch/44051-1/George+Shultz.aspx ''Booknotes'' interview with Shultz on ''Turmoil and Triumph: My Years as Secretary of State'', June 27, 1993.]"
     ]
-  },
-  {
-    "title": "George Shultz",
-    "timestamp": "2021-02-14T01:59:55+00:00",
-    "added": [
-      "{{external media| float = left| video1 = [https://www.c-span.org/video/?298581-1/george-shultz-oral-history-interview George Shultz Oral History, Nixon Presidential Library, May 10, 2007], [[C-SPAN]]}}"
-    ],
-    "deleted": []
-  },
-  {
-    "title": "George Shultz",
-    "timestamp": "2021-02-14T02:02:32+00:00",
-    "added": [
-      "{{external media| float = left| video1 = [https://www.c-span.org/video/?298581-1/george-shultz-oral-history-interview George Shultz Oral History, Nixon Presidential Library, May 10, 2007], [[C-SPAN]]}}"
-    ],
-    "deleted": []
-  },
-  {
-    "title": "George Shultz",
-    "timestamp": "2021-02-14T02:03:51+00:00",
-    "added": [
-      "{{external media| float = left| video1 = [https://www.c-span.org/video/?298581-1/george-shultz-oral-history-interview George Shultz Oral History, Nixon Presidential Library, May 10, 2007], [[C-SPAN]]}}"
-    ],
-    "deleted": []
   }
 ]

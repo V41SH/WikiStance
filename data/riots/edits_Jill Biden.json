@@ -9,34 +9,27 @@
   },
   {
     "title": "Jill Biden",
-    "timestamp": "2021-01-17T01:02:30+00:00",
-    "added": [
-      "{{pp-protected|small=yes}}"
-    ],
-    "deleted": []
-  },
-  {
-    "title": "Jill Biden",
-    "timestamp": "2021-01-18T15:48:22+00:00",
-    "added": [
-      "| president           = [[Joe Biden]]",
-      "| office              = [[First Lady of the United States]]",
-      "| termstart           = January 20, 2021",
-      "| preceded by         = [[Melania Trump]]",
-      "| predecessor         = [[Melania Trump]]"
-    ],
-    "deleted": []
-  },
-  {
-    "title": "Jill Biden",
-    "timestamp": "2021-01-18T15:50:09+00:00",
+    "timestamp": "2021-01-19T18:59:44+00:00",
     "added": [],
     "deleted": [
-      "| president           = [[Joe Biden]]",
-      "| office              = [[First Lady of the United States]]",
-      "| termstart           = January 20, 2021",
-      "| preceded by         = [[Melania Trump]]",
-      "| predecessor         = [[Melania Trump]]"
+      "}}"
+    ]
+  },
+  {
+    "title": "Jill Biden",
+    "timestamp": "2021-01-19T19:01:35+00:00",
+    "added": [],
+    "deleted": [
+      "",
+      ""
+    ]
+  },
+  {
+    "title": "Jill Biden",
+    "timestamp": "2021-01-20T16:50:28+00:00",
+    "added": [],
+    "deleted": [
+      "office             = [[First Lady of the United States]]"
     ]
   },
   {
@@ -63,35 +56,5 @@
       "* [https://obamawhitehouse.archives.gov/administration/jill-biden White House biography] (archived)"
     ],
     "deleted": []
-  },
-  {
-    "title": "Jill Biden",
-    "timestamp": "2021-02-27T13:01:19+00:00",
-    "added": [],
-    "deleted": [
-      "| term_end     ="
-    ]
-  },
-  {
-    "title": "Jill Biden",
-    "timestamp": "2021-03-12T13:49:55+00:00",
-    "added": [],
-    "deleted": [
-      "[[Category:Converts to Roman Catholicism from Presbyterianism]]"
-    ]
-  },
-  {
-    "title": "Jill Biden",
-    "timestamp": "2021-03-29T22:35:35+00:00",
-    "added": [],
-    "deleted": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
-    ]
   }
 ]

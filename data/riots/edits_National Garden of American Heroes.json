@@ -20,12 +20,9 @@
   },
   {
     "title": "National Garden of American Heroes",
-    "timestamp": "2021-01-18T20:05:03+00:00",
+    "timestamp": "2021-01-18T20:05:56+00:00",
     "added": [
-      "{{div col|colwidth=20em}}",
-      "{{div col end}}",
-      "{{div col|colwidth=20em}}",
-      "{{div col end}}"
+      "*[[Breonna Taylor]]"
     ],
     "deleted": []
   },
@@ -90,13 +87,7 @@
   {
     "title": "National Garden of American Heroes",
     "timestamp": "2021-01-18T21:44:24+00:00",
-    "added": [
-      "{{div col|colwidth=20em}}",
-      "{{div col end}}",
-      "",
-      "{{div col|colwidth=20em}}",
-      "{{div col end}}"
-    ],
+    "added": [],
     "deleted": []
   },
   {
@@ -134,40 +125,11 @@
   },
   {
     "title": "National Garden of American Heroes",
-    "timestamp": "2021-01-20T17:15:07+00:00",
-    "added": [
-      "{{pp-protect|small=yes}}"
-    ],
-    "deleted": []
-  },
-  {
-    "title": "National Garden of American Heroes",
     "timestamp": "2021-01-20T18:30:48+00:00",
     "added": [],
     "deleted": [
       "",
       "{{Navboxes",
-      "|list=",
-      "{{John Adams}}",
-      "{{Susan B. Anthony}}",
-      "{{Davy Crockett}}",
-      "{{Frederick Douglass}}",
-      "{{Benjamin Franklin}}",
-      "{{Billy Graham}}",
-      "{{Alexander Hamilton}}",
-      "{{Thomas Jefferson}}",
-      "{{Martin Luther King, Jr.|state=collapsed}}",
-      "{{Abraham Lincoln}}",
-      "{{Douglas MacArthur}}",
-      "{{James Madison}}",
-      "{{Audie Murphy}}",
-      "{{Ronald Reagan}}",
-      "{{Jackie Robinson}}",
-      "{{Harriet Beecher Stowe}}",
-      "{{Harriet Tubman}}",
-      "{{Booker T. Washington}}",
-      "{{George Washington}}",
-      "{{Wright aircraft}}",
       "}}"
     ]
   },

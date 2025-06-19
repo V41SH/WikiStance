@@ -1,11 +1,25 @@
 [
   {
     "title": "United States presidential elections in Arizona",
-    "timestamp": "2020-09-08T01:25:03+00:00",
+    "timestamp": "2021-10-07T18:14:04+00:00",
+    "added": [
+      "'''Note''' {{Endash}} A double dagger ({{Double-dagger|alt=national winner}}) indicates the national winner.",
+      ""
+    ],
+    "deleted": []
+  },
+  {
+    "title": "United States presidential elections in Arizona",
+    "timestamp": "2021-10-07T18:25:42+00:00",
     "added": [],
     "deleted": [
-      "",
-      "No Republican has won a U.S. Presidential election without Arizona since it became a state."
+      "}}{{In use||Kavyansh.Singh}}"
     ]
+  },
+  {
+    "title": "United States presidential elections in Arizona",
+    "timestamp": "2021-10-07T18:26:50+00:00",
+    "added": [],
+    "deleted": []
   }
 ]

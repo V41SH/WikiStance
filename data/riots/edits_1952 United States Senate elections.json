@@ -1,6 +1,29 @@
 [
   {
     "title": "1952 United States Senate elections",
+    "timestamp": "2021-01-05T18:43:48+00:00",
+    "added": [
+      "",
+      "{{Infobox election",
+      "'''Holland:''' {{legend0|#0d056c|>90%}}",
+      "}}",
+      "",
+      "==General election==",
+      "===Results===",
+      "{{Election box begin",
+      "",
+      "{{Election box winning candidate with party link",
+      "}}",
+      "{{Election box candidate with party link",
+      "}}",
+      "{{Election box total no change",
+      "",
+      "}}"
+    ],
+    "deleted": []
+  },
+  {
+    "title": "1952 United States Senate elections",
     "timestamp": "2021-01-05T18:45:26+00:00",
     "added": [],
     "deleted": [
@@ -9,11 +32,19 @@
   },
   {
     "title": "1952 United States Senate elections",
-    "timestamp": "2021-01-10T21:27:38+00:00",
+    "timestamp": "2021-01-10T21:27:08+00:00",
     "added": [
-      "",
-      "{{clear}}"
+      "}}",
+      "{{Election box candidate with party link"
     ],
     "deleted": []
+  },
+  {
+    "title": "1952 United States Senate elections",
+    "timestamp": "2021-01-10T21:27:38+00:00",
+    "added": [],
+    "deleted": [
+      ""
+    ]
   }
 ]

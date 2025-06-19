@@ -33,10 +33,6 @@
     "timestamp": "2021-01-30T10:03:10+00:00",
     "added": [],
     "deleted": [
-      "{{pp-pc}}",
-      "{{short description|58th United States presidential inauguration}}",
-      "{{Use American English|date = August 2019}}",
-      "{{Use mdy dates|date=February 2019}}",
       "{{Infobox event"
     ]
   },
@@ -44,17 +40,8 @@
     "title": "First inauguration of Donald Trump",
     "timestamp": "2021-01-30T10:03:41+00:00",
     "added": [
-      "{{pp-pc}}",
-      "{{short description|58th United States presidential inauguration}}",
-      "{{Use American English|date = August 2019}}",
-      "{{Use mdy dates|date=February 2019}}",
       "{{Infobox event",
-      "| image_alt    = With right hand raised, Donald Trump looks at John Roberts with his back to the camera, as Melania Trump and others watch.",
-      "[[President of the United States]].",
-      "| date         = {{Start date and age|mf=yes|2017|01|20}}",
-      "| location     = [[United States Capitol]],<br />[[Washington, D.C.]]",
-      "| organizers   = [[Joint Committee on Inaugural Ceremonies#2017 committee|Joint Congressional Committee on Inaugural Ceremonies]], [https://web.archive.org/web/20170101220456/https://www.58pic2017.org/ Inaugural Committee]",
-      "| participants = [[Donald Trump]]<br />45th President of the United States<br />''— Assuming office''<br /><hr>[[John Roberts]]<br />[[Chief Justice of the United States]]<br />''— Administering oath''<br /><hr>[[Mike Pence]]<br />48th Vice President of the United States<br />''— Assuming office''<br /><hr>[[Clarence Thomas]]<br />[[Associate Justice of the Supreme Court of the United States]]<br />''— Administering oath''"
+      "[[President of the United States]]."
     ],
     "deleted": []
   }

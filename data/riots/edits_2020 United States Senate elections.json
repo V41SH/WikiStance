@@ -1,65 +1,65 @@
 [
   {
     "title": "2020 United States Senate elections",
-    "timestamp": "2021-01-06T07:30:11+00:00",
+    "timestamp": "2021-01-06T07:31:35+00:00",
     "added": [],
-    "deleted": [
-      "| map_caption = '''Map key'''<br/>'''Warnock:''' {{legend0|#d8ecff|20–30%}} {{legend0|#bdd3ff|30–40%}} {{legend0|#a5b0ff|40–50%}} {{legend0|#7996e2|50–60%}} {{legend0|#6674de|60–70%}} {{legend0|#584cde|70–80%}} {{legend0|#3933e5|80–90%}}<br/>'''Loeffler:''' {{legend0|#ffe0ea|20–30%}} {{legend0|#ffc8cd|30–40%}} {{legend0|#ffb2b2|40–50%}} {{legend0|#e27f7f|50–60%}} {{legend0|#d75d5d|60–70%}} {{legend0|#d72f30|70–80%}} {{legend0|#c21b18|80–90%}} {{legend0|#a80000|90–100%}}<br/>'''Collins:''' {{legend0|#ffdac1|20–30%}} {{legend0|#ffcca9|30–40%}} {{legend0|#ffb580|40–50%}} {{legend0|#ff9a50|50–60%}}<br/>"
-    ]
+    "deleted": []
   },
   {
     "title": "2020 United States Senate elections",
-    "timestamp": "2021-01-06T07:31:35+00:00",
+    "timestamp": "2021-01-06T07:35:35+00:00",
     "added": [
       "",
-      "|-",
-      "! [[#Georgia (special)|Georgia (special)]]",
-      "| data-sort-value=-0.5 {{Party shading/Democratic}} | Democratic (flip)",
-      "| 1.04%"
+      "Warnock defeated Loeffler by a narrow margin in the runoff."
     ],
     "deleted": []
   },
   {
     "title": "2020 United States Senate elections",
-    "timestamp": "2021-01-06T07:36:34+00:00",
+    "timestamp": "2021-01-06T21:59:01+00:00",
+    "added": [],
+    "deleted": []
+  },
+  {
+    "title": "2020 United States Senate elections",
+    "timestamp": "2021-01-06T22:19:38+00:00",
     "added": [],
     "deleted": [
-      "| candidate4 = [[Doug Collins (politician)|Doug Collins]]",
-      "| party4 = Republican Party (United States)",
-      "| 1data4 = 980,454<br />20.0%",
-      "| 2data4 = ''Eliminated''",
-      "| candidate5 = \tDeborah Jackson",
-      "| party5 = Democratic Party (United States)",
-      "| 1data5 = 324,118<br />6.60%",
-      "| 2data5 = ''Eliminated''"
+      "<noinclude>{{User:RMCD bot/subject notice|1=2020–21 United States Senate elections|2=Talk:2020 United States Senate elections#Requested move 18 December 2020 }}",
+      "</noinclude>{{current election|date=December 2020}}"
     ]
   },
   {
     "title": "2020 United States Senate elections",
-    "timestamp": "2021-01-06T21:51:35+00:00",
+    "timestamp": "2021-01-06T22:30:14+00:00",
+    "added": [
+      ""
+    ],
+    "deleted": []
+  },
+  {
+    "title": "2020 United States Senate elections",
+    "timestamp": "2021-01-07T06:35:37+00:00",
     "added": [],
     "deleted": [
-      "| party4             = Independent (US)",
-      "| seats_before4      = 2{{efn|name=caucus|The two independent senators, [[Bernie Sanders]] and [[Angus King]], have caucused with the Democratic Party since joining the Senate.}}"
+      ""
     ]
   },
   {
     "title": "2020 United States Senate elections",
-    "timestamp": "2021-01-06T21:55:02+00:00",
+    "timestamp": "2021-01-07T18:06:16+00:00",
     "added": [
-      "| party4             = Independent (US)",
-      "| seats_before4      = 2{{efn|name=caucus|The two independent senators, [[Bernie Sanders]] and [[Angus King]], have caucused with the Democratic Party since joining the Senate.}}"
+      "I'm{{short description|Part of the U.S. elections held November 3, 2020}}"
     ],
     "deleted": []
   },
   {
     "title": "2020 United States Senate elections",
-    "timestamp": "2021-01-07T18:00:17+00:00",
-    "added": [
-      "<!--See page from 2000 senate election for precedent. Republicans should be listed first as they effectively retained control of the chamber after the senate election. Change in partisan control happens after the senate election, when the new administration takes office.-->",
-      "<!--See page from 2000 senate election for precedent. Democrats should be listed second as they do not gain control as a result of the election. Change in partisan control happens after the senate election, when the new administration takes office.-->"
-    ],
-    "deleted": []
+    "timestamp": "2021-01-07T18:15:14+00:00",
+    "added": [],
+    "deleted": [
+      "I'm{{short description|Part of the U.S. elections held November 3, 2020}}"
+    ]
   },
   {
     "title": "2020 United States Senate elections",
@@ -67,6 +67,14 @@
     "added": [],
     "deleted": [
       "These are the election dates for the regularly scheduled general elections."
+    ]
+  },
+  {
+    "title": "2020 United States Senate elections",
+    "timestamp": "2021-01-08T14:58:43+00:00",
+    "added": [],
+    "deleted": [
+      ""
     ]
   },
   {
@@ -82,27 +90,8 @@
   },
   {
     "title": "2020 United States Senate elections",
-    "timestamp": "2021-01-09T18:43:12+00:00",
-    "added": [
-      "{{pp-protect|small=yes}}"
-    ],
-    "deleted": []
-  },
-  {
-    "title": "2020 United States Senate elections",
-    "timestamp": "2021-01-13T01:25:42+00:00",
-    "added": [
-      "| after_election     = [[Chuck Schumer]]",
-      "| after_party        = Democratic Party (United States)"
-    ],
-    "deleted": []
-  },
-  {
-    "title": "2020 United States Senate elections",
-    "timestamp": "2021-02-10T06:23:36+00:00",
+    "timestamp": "2021-01-11T22:06:52+00:00",
     "added": [],
-    "deleted": [
-      "{{pp|small=yes}}"
-    ]
+    "deleted": []
   }
 ]

@@ -1,21 +1,16 @@
 [
   {
     "title": "2020 Libertarian Party presidential primaries",
-    "timestamp": "2020-11-17T03:44:09+00:00",
-    "added": [
-      "{{legend|#32CD32|Adam Kokesh|border=0}}"
-    ],
-    "deleted": []
+    "timestamp": "2020-11-04T15:02:24+00:00",
+    "added": [],
+    "deleted": [
+      "'"
+    ]
   },
   {
     "title": "2020 Libertarian Party presidential primaries",
     "timestamp": "2020-11-17T05:27:53+00:00",
-    "added": [
-      "| map = {{Switcher",
-      "| First place by popular vote",
-      "| First place by convention roll call| default = 1",
-      "}}"
-    ],
+    "added": [],
     "deleted": []
   },
   {
@@ -23,16 +18,23 @@
     "timestamp": "2020-11-17T08:22:19+00:00",
     "added": [],
     "deleted": [
-      "| map_caption= '''First place by popular vote'''",
       ""
     ]
   },
   {
     "title": "2020 Libertarian Party presidential primaries",
-    "timestamp": "2020-11-18T01:46:52+00:00",
-    "added": [
-      "{{legend|#88aa00|Kim Ruff|border=0}}"
-    ],
-    "deleted": []
+    "timestamp": "2020-11-23T02:32:08+00:00",
+    "added": [],
+    "deleted": [
+      "}}"
+    ]
+  },
+  {
+    "title": "2020 Libertarian Party presidential primaries",
+    "timestamp": "2020-11-23T02:49:10+00:00",
+    "added": [],
+    "deleted": [
+      ""
+    ]
   }
 ]

@@ -1,1 +1,26 @@
-[]
+[
+  {
+    "title": "Henry Adams",
+    "timestamp": "2020-11-05T19:23:06+00:00",
+    "added": [],
+    "deleted": [
+      "{{other people}"
+    ]
+  },
+  {
+    "title": "Henry Adams",
+    "timestamp": "2020-11-05T19:23:27+00:00",
+    "added": [
+      "Devon Arvelo 7th grader"
+    ],
+    "deleted": []
+  },
+  {
+    "title": "Henry Adams",
+    "timestamp": "2020-11-05T19:23:59+00:00",
+    "added": [],
+    "deleted": [
+      "Devon Arvelo 7th grader"
+    ]
+  }
+]

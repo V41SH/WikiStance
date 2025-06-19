@@ -2,34 +2,39 @@
   {
     "title": "1916 United States presidential election in Delaware",
     "timestamp": "2020-11-22T22:02:22+00:00",
+    "added": [],
+    "deleted": []
+  },
+  {
+    "title": "1916 United States presidential election in Delaware",
+    "timestamp": "2020-11-23T00:07:31+00:00",
+    "added": [],
+    "deleted": [
+      ""
+    ]
+  },
+  {
+    "title": "1916 United States presidential election in Delaware",
+    "timestamp": "2020-11-23T00:10:06+00:00",
     "added": [
       "",
-      "{{AfC submission|||ts=20201122220313|u=Assorted-Interests|ns=118}}",
-      ""
+      "[[Category:November 1916 events]]",
+      "[[Category:1916 Delaware elections]]"
     ],
     "deleted": []
   },
   {
     "title": "1916 United States presidential election in Delaware",
     "timestamp": "2020-11-23T00:10:09+00:00",
-    "added": [
-      "",
-      "{{Improve categories|date=November 2020}}"
-    ],
+    "added": [],
     "deleted": []
   },
   {
     "title": "1916 United States presidential election in Delaware",
     "timestamp": "2020-11-24T17:49:51+00:00",
     "added": [
-      "{{col-start}}",
-      "{{col-2}}",
       "'''Hughes'''",
-      "{{legend|#e27f90|50-60%}}",
-      "{{col-2}}",
-      "'''Wilson'''",
-      "{{legend|#86b6f2|50-60%}}",
-      "{{col-end}}"
+      "'''Wilson'''"
     ],
     "deleted": []
   }

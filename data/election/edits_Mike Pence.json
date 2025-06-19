@@ -1,34 +1,11 @@
 [
   {
     "title": "Mike Pence",
-    "timestamp": "2020-11-07T16:45:57+00:00",
-    "added": [
-      "| status              = [[Lame duck (politics)|Outgoing]]"
-    ],
-    "deleted": []
-  },
-  {
-    "title": "Mike Pence",
-    "timestamp": "2020-11-07T17:22:17+00:00",
+    "timestamp": "2020-11-07T18:59:39+00:00",
     "added": [],
     "deleted": [
-      "| status              = [[Lame duck (politics)|Outgoing]]"
-    ]
-  },
-  {
-    "title": "Mike Pence",
-    "timestamp": "2020-11-07T18:15:05+00:00",
-    "added": [
-      "| status          = [[Lame duck (politics)|Outgoing]]"
-    ],
-    "deleted": []
-  },
-  {
-    "title": "Mike Pence",
-    "timestamp": "2020-11-07T18:15:31+00:00",
-    "added": [],
-    "deleted": [
-      "| status          = [[Lame duck (politics)|Outgoing]]"
+      "{{Navboxes",
+      "}}"
     ]
   },
   {
@@ -42,26 +19,10 @@
   },
   {
     "title": "Mike Pence",
-    "timestamp": "2020-11-12T19:50:34+00:00",
-    "added": [
-      "{{pp-vandalism|small=yes}}"
-    ],
-    "deleted": []
-  },
-  {
-    "title": "Mike Pence",
-    "timestamp": "2020-11-12T22:31:26+00:00",
-    "added": [
-      "{{pp-move-indef}}"
-    ],
-    "deleted": []
-  },
-  {
-    "title": "Mike Pence",
-    "timestamp": "2020-11-14T02:16:35+00:00",
-    "added": [
-      "| successor = [[Kamala Harris]] (elect)"
-    ],
-    "deleted": []
+    "timestamp": "2020-11-12T18:46:09+00:00",
+    "added": [],
+    "deleted": [
+      ""
+    ]
   }
 ]

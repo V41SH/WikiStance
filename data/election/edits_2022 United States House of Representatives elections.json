@@ -4,7 +4,6 @@
     "timestamp": "2020-11-08T22:56:28+00:00",
     "added": [
       "",
-      "{{US-election-stub}}",
       "",
       "[[Category:2022 United States House of Representatives elections]]"
     ],
@@ -12,10 +11,16 @@
   },
   {
     "title": "2022 United States House of Representatives elections",
-    "timestamp": "2020-11-11T00:05:33+00:00",
+    "timestamp": "2020-11-11T00:06:14+00:00",
     "added": [],
     "deleted": [
-      "{{Main|2022 United States House of Representatives election ratings}}"
+      "**[[List of freshman class members of the 118th United States Congress]]"
     ]
+  },
+  {
+    "title": "2022 United States House of Representatives elections",
+    "timestamp": "2020-11-16T02:44:24+00:00",
+    "added": [],
+    "deleted": []
   }
 ]

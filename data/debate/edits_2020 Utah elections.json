@@ -1,44 +1,8 @@
 [
   {
     "title": "2020 Utah elections",
-    "timestamp": "2020-09-05T21:29:27+00:00",
-    "added": [
-      "",
-      "===General election===",
-      "{{Election box begin",
-      "}}",
-      "{{Election box candidate with party link",
-      "| party      = Republican Party (United States)",
-      "| candidate  = [[Sean Reyes]] (incumbent)",
-      "| votes      =",
-      "| percentage =",
-      "}}",
-      "{{Election box candidate with party link",
-      "| party      = Democratic Party (United States)",
-      "| candidate  = Greg Skordas",
-      "| votes      =",
-      "| percentage =",
-      "}}",
-      "{{Election box candidate with party link",
-      "| party      = Libertarian Party (United States)",
-      "| candidate  = Rudy Bautista",
-      "| votes      =",
-      "| percentage =",
-      "}}",
-      "{{Election box total",
-      "| votes      =",
-      "| percentage = 100.0%",
-      "}}",
-      "{{Election box end}}"
-    ],
-    "deleted": []
-  },
-  {
-    "title": "2020 Utah elections",
-    "timestamp": "2020-10-07T00:45:17+00:00",
+    "timestamp": "2021-10-05T08:00:49+00:00",
     "added": [],
-    "deleted": [
-      "{{Main|2020 United States presidential election in Utah|2020 Utah Republican primary}}"
-    ]
+    "deleted": []
   }
 ]

@@ -1,10 +1,18 @@
 [
   {
     "title": "Chrissy Houlahan",
-    "timestamp": "2021-01-08T16:58:16+00:00",
+    "timestamp": "2021-01-08T16:57:02+00:00",
+    "added": [
+      "<ref>{{Cite web|last=|first=|date=|title=2020 Pennsylvania Elections - Official Results|url=https://electionreturns.pa.gov/General/OfficeResults?OfficeID=11&ElectionID=undefined&ElectionType=undefined&IsActive=undefined|url-status=live|archive-url=|archive-date=|access-date=2021-01-08|website=Pennsylvania Department of State}}</ref>{{Election box begin no change | title=Pennsylvania's 6th congressional district, 2020}}"
+    ],
+    "deleted": []
+  },
+  {
+    "title": "Chrissy Houlahan",
+    "timestamp": "2021-01-08T16:57:48+00:00",
     "added": [],
     "deleted": [
-      "{{Election box begin no change|title=Democratic primary results}}{{Election box winning candidate with party link no change|candidate=Chrissy Houlahan|party=Democratic Party (United States)|votes=34,947|percentage=100.0}}{{Election box total no change|votes=34,947|percentage=100.0}}{{Election box end}}"
+      "<ref>{{Cite web|last=|first=|date=|title=2020 Pennsylvania Elections - Official Results|url=https://electionreturns.pa.gov/General/OfficeResults?OfficeID=11&ElectionID=undefined&ElectionType=undefined&IsActive=undefined|url-status=live|archive-url=|archive-date=|access-date=2021-01-08|website=Pennsylvania Department of State}}</ref>{{Election box begin no change | title=Pennsylvania's 6th congressional district, 2020}}"
     ]
   }
 ]

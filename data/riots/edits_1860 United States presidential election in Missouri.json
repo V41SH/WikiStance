@@ -1,11 +1,18 @@
 [
   {
     "title": "1860 United States presidential election in Missouri",
+    "timestamp": "2021-02-02T02:07:17+00:00",
+    "added": [
+      "'''Unknown/No Vote'''"
+    ],
+    "deleted": []
+  },
+  {
+    "title": "1860 United States presidential election in Missouri",
     "timestamp": "2021-02-10T02:19:25+00:00",
     "added": [
       "",
-      "==Notes==",
-      "{{notelist}}"
+      "==Notes=="
     ],
     "deleted": []
   }

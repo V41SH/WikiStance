@@ -48,15 +48,12 @@
     "added": [
       "",
       "",
-      "{{s-start}}",
-      "{{s-off}}",
       "{{succession box |",
       "before= position established|",
       "title= [[Director of the Cybersecurity and Infrastructure Security Agency]] |",
       "after=Vacant|",
       "years=November 16, 2018 - November 17, 2020 |",
-      "}}",
-      "{{s-end}}"
+      "}}"
     ],
     "deleted": []
   },
@@ -67,32 +64,20 @@
     "deleted": [
       "",
       "",
-      "{{s-start}}",
-      "{{s-off}}",
       "{{succession box |",
       "before= position established|",
       "title= [[Director of the Cybersecurity and Infrastructure Security Agency]] |",
       "after=Vacant|",
       "years=November 16, 2018{{spnd}}November 17, 2020 |",
-      "}}",
-      "{{s-end}}"
+      "}}"
     ]
-  },
-  {
-    "title": "Chris Krebs",
-    "timestamp": "2020-11-18T01:58:01+00:00",
-    "added": [
-      "{{pp-vandalism|small=yes}}"
-    ],
-    "deleted": []
   },
   {
     "title": "Chris Krebs",
     "timestamp": "2020-11-18T09:33:27+00:00",
     "added": [
       "",
-      "== Explanatory notes==",
-      "{{Notelist}}"
+      "== Explanatory notes=="
     ],
     "deleted": []
   },
@@ -101,22 +86,6 @@
     "timestamp": "2020-11-18T21:20:57+00:00",
     "added": [
       "[[Category:People from Atlanta]]"
-    ],
-    "deleted": []
-  },
-  {
-    "title": "Chris Krebs",
-    "timestamp": "2020-11-29T17:36:49+00:00",
-    "added": [],
-    "deleted": [
-      "{{Distinguish|text = unrelated cybersecurity journalist [[Brian Krebs]]}}"
-    ]
-  },
-  {
-    "title": "Chris Krebs",
-    "timestamp": "2020-11-30T14:26:57+00:00",
-    "added": [
-      "{{pp-protected|reason=Persistent [[WP:Disruptive editing|disruptive editing]]|small=yes}}"
     ],
     "deleted": []
   },

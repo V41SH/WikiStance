@@ -1,6 +1,37 @@
 [
   {
     "title": "Kyrsten Sinema",
+    "timestamp": "2021-01-04T02:03:14+00:00",
+    "added": [],
+    "deleted": [
+      "{{s-new|constituency",
+      "}}",
+      "{{s-ttl",
+      "}}",
+      "{{s-aft",
+      "}}",
+      "{{s-bef",
+      "}}",
+      "{{s-ttl",
+      "}}",
+      "{{s-inc|recent",
+      "}}",
+      "{{s-bef",
+      "}}",
+      "{{s-ttl",
+      "}}",
+      "{{s-inc",
+      "}}",
+      "{{s-bef",
+      "}}",
+      "{{s-ttl",
+      "}}",
+      "{{s-aft",
+      "}}"
+    ]
+  },
+  {
+    "title": "Kyrsten Sinema",
     "timestamp": "2021-02-13T00:58:37+00:00",
     "added": [],
     "deleted": [
@@ -28,21 +59,5 @@
     "timestamp": "2021-02-13T01:19:16+00:00",
     "added": [],
     "deleted": []
-  },
-  {
-    "title": "Kyrsten Sinema",
-    "timestamp": "2021-03-05T22:20:08+00:00",
-    "added": [
-      "{{pp-vandalism|small=yes}}"
-    ],
-    "deleted": []
-  },
-  {
-    "title": "Kyrsten Sinema",
-    "timestamp": "2021-03-12T22:21:12+00:00",
-    "added": [],
-    "deleted": [
-      "{{pp-vandalism|small=yes}}"
-    ]
   }
 ]

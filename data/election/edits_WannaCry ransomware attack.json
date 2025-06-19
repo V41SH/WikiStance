@@ -1,10 +1,51 @@
 [
   {
     "title": "WannaCry ransomware attack",
-    "timestamp": "2020-11-21T09:34:48+00:00",
+    "timestamp": "2020-11-21T09:30:17+00:00",
     "added": [],
     "deleted": [
-      "{{Use dmy dates|date=May 2019}}"
+      "{{Commons category}}http://atharori.net/-89874QDCU/3AVE?rndad=1498047576-1605950891",
+      "* at Microsoft Malware Protection Center",
+      "* {{twitter|id=actual_ransom|name=@actual_ransom}}, a [[Twitterbot]] tracking the ransom payments",
+      ""
     ]
+  },
+  {
+    "title": "WannaCry ransomware attack",
+    "timestamp": "2020-11-21T09:34:48+00:00",
+    "added": [
+      ""
+    ],
+    "deleted": []
+  },
+  {
+    "title": "WannaCry ransomware attack",
+    "timestamp": "2020-11-21T09:39:38+00:00",
+    "added": [],
+    "deleted": [
+      "{{Infobox computer virus",
+      "}}"
+    ]
+  },
+  {
+    "title": "WannaCry ransomware attack",
+    "timestamp": "2020-11-21T09:53:01+00:00",
+    "added": [
+      "{{Infobox computer virus",
+      "}}",
+      "* [https://www.microsoft.com/security/portal/threat/encyclopedia/Entry.aspx?Name=Ransom:Win32/WannaCrypt Ransom:Win32/WannaCrypt] at Microsoft Malware Protection Center",
+      "* {{twitter|id=actual_ransom|name=@actual_ransom}}, a [[Twitterbot]] tracking the ransom payments",
+      ""
+    ],
+    "deleted": []
+  },
+  {
+    "title": "WannaCry ransomware attack",
+    "timestamp": "2020-11-21T09:58:02+00:00",
+    "added": [
+      "{{Infobox computer virus",
+      "}}"
+    ],
+    "deleted": []
   }
 ]

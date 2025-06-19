@@ -1,49 +1,58 @@
 [
   {
     "title": "Spotify",
-    "timestamp": "2020-09-05T20:06:58+00:00",
+    "timestamp": "2021-09-13T12:12:33+00:00",
     "added": [],
     "deleted": [
+      "",
+      "2,746 in (United States)<ref>https://www.yahoo.com/lifestyle/spotify-tells-employees-home-until-143227724.html</ref>",
+      "",
+      "1,688 in (Sweden)<ref>https://www.yahoo.com/lifestyle/spotify-tells-employees-home-until-143227724.html</ref>",
+      "",
+      "463 in (United kingdom)<ref>https://www.yahoo.com/lifestyle/spotify-tells-employees-home-until-143227724.html</ref>",
+      "",
       ""
     ]
   },
   {
     "title": "Spotify",
-    "timestamp": "2020-09-17T15:09:26+00:00",
-    "added": [
-      "The Spotify app was launched on 7 October 2008. While free accounts remained available by invitation, the launch opened paid subscriptions to everyone. At the same time, Spotify AB announced licensing deals with major music labels.{{Citation needed|date=May 2020}}"
-    ],
+    "timestamp": "2021-09-16T02:05:43+00:00",
+    "added": [],
     "deleted": []
   },
   {
     "title": "Spotify",
-    "timestamp": "2020-10-09T05:59:29+00:00",
+    "timestamp": "2021-09-16T02:09:55+00:00",
     "added": [],
     "deleted": [
-      "| key_people = Daniel Ek ([[Chief executive officer|CEO]] and  [[chairman]])"
+      "* [https://spotify-kids.fandom.com/wiki/Spotify_Kids Spotify Kids]"
     ]
   },
   {
     "title": "Spotify",
-    "timestamp": "2020-10-25T20:03:51+00:00",
+    "timestamp": "2021-09-21T09:51:55+00:00",
     "added": [],
     "deleted": [
+      "* [https://techjustify.com/spotify-premium-account-free-forever/ Spotify Premium Account Free Forever]"
+    ]
+  },
+  {
+    "title": "Spotify",
+    "timestamp": "2021-09-24T17:01:01+00:00",
+    "added": [],
+    "deleted": [
+      "NUGGER"
+    ]
+  },
+  {
+    "title": "Spotify",
+    "timestamp": "2021-10-03T20:02:24+00:00",
+    "added": [
       "",
-      "Mirac Music",
-      "Mercz Thefirst",
-      "MiracTV",
-      "Mercz The 1st",
-      "Mercz The1st - Take It There",
-      "www.merczthe1st.com",
-      "merczthe1st"
-    ]
-  },
-  {
-    "title": "Spotify",
-    "timestamp": "2020-10-27T18:56:28+00:00",
-    "added": [],
-    "deleted": [
-      "*https://spotifyspace.com/spotify-premium-apk/"
-    ]
+      "The RADAR program is Spotify’s global artist program, exclusively designed to help emerging artists around the world reach the next stage in their careers and strengthen their connection to listeners.",
+      "",
+      "Spotify provides artists taking part in RADAR with resources and access to integrated marketing opportunities to help them boost their careers, in addition to expanded reach and exposure to 178 markets worldwide.<ref>{{Cite web|date=2021-05-30|title=The Tea with AleXa: An Exclusive Interview with the K-Pop Sensation!|url=https://www.el-shai.com/alexa-exclusive-interview-with-the-k-pop-sensation/|access-date=2021-10-03|website=El-Shai|language=en-US}}</ref>"
+    ],
+    "deleted": []
   }
 ]

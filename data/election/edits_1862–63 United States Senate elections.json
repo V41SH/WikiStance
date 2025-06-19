@@ -1,15 +1,10 @@
 [
   {
     "title": "1862–63 United States Senate elections",
-    "timestamp": "2020-11-16T13:26:54+00:00",
+    "timestamp": "2020-11-16T13:26:19+00:00",
     "added": [
-      "First-term Republican [[Lot M. Morrill]] was elected to his first full term January 13, 1863.",
       "",
-      "{{Plainlist|",
-      "* {{Aye}} '''[[Lot M. Morrill]]''' (Republican) 14 votes",
-      "* [[William P. Haines]] 1 vote<ref name=Maine>{{Cite book | title=Journal of the Senate of Maine 1863 | year=1863 | location=[[Augusta, Maine]] | publisher=Stevens & Sayward, Printers to the State | url=https://babel.hathitrust.org/cgi/pt?id=uiug.30112069043096&view=1up&seq=61 | page=57}}</ref>",
-      "}}",
-      "{{Clear}}"
+      "=== Indiana (Regular) ==="
     ],
     "deleted": []
   },
@@ -19,8 +14,6 @@
     "added": [
       "",
       "== West Virginia ==",
-      "<!--{{Main|1863 United States Senate elections in West Virginia}}-->",
-      "{{See also|List of United States senators from West Virginia|1863 United States House of Representatives elections in West Virginia}}",
       "",
       "There were two races for the new state.",
       "",
@@ -28,8 +21,24 @@
       "",
       "Van Winkle would serve just until the 1869 end of his term.",
       "",
-      "Before being elected senator from West Virginia, Willey was a senator from Virginia representing the [[Restored Government of Virginia]], presenting their petition to Congress for West Virginia's statehood.  He would be re-elected in 1865 to the next term served until the end of that term in 1871.",
-      "{{Clear}}"
+      "Before being elected senator from West Virginia, Willey was a senator from Virginia representing the [[Restored Government of Virginia]], presenting their petition to Congress for West Virginia's statehood.  He would be re-elected in 1865 to the next term served until the end of that term in 1871."
+    ],
+    "deleted": []
+  },
+  {
+    "title": "1862–63 United States Senate elections",
+    "timestamp": "2020-11-16T20:45:39+00:00",
+    "added": [
+      "Two-term Republican [[Charles Sumner]] was re-elected.",
+      "",
+      "{{Plainlist|",
+      "* {{Aye}} '''[[Charles Sumner]]''' 137 votes (74.46%)",
+      "* [[Josiah Gardner Abbott]] (Democratic) 43 votes (23.37%)",
+      "* [[Charles Francis Adams Sr.]] (Republican) 2 votes (1.09%)",
+      "* [[Caleb Cushing]] (Democratic) 2 votes (1.09%)<ref name=\"MassachusettsOurCampaigns\">{{Cite web |title=Our Campaigns - MA US Senate Race - Jan 15, 1863 |url=https://www.ourcampaigns.com/RaceDetail.html?RaceID=406079 |access-date=November 16, 2020 |website=OurCampaigns.com}} (citing [[Lowell Daily Citizen and News]], January 16, 1863)</ref>",
+      "}}",
+      "",
+      "Sumner would be re-elected again in 1869 and serve until his death in 1874."
     ],
     "deleted": []
   }

@@ -5,25 +5,8 @@
     "added": [
       "",
       "===President-elect===",
-      "{{Main|President-elect of the United States}}",
-      "{{Further|Presidential transition of Joe Biden|Inauguration of Joe Biden}}",
       "",
-      "{| class=\"wikitable\" style=\"text-align:center;\"",
-      "! colspan=2 | Presidency",
-      "! colspan=2 | President",
-      "! colspan=2 | Party{{efn|Reflects the president's political party at the start of their presidency. Changes during their time in office are noted. Also reflects the vice president's political party unless otherwise noted beside the individual's name.}}",
-      "! Election",
-      "! Vice President",
-      "|- style=\"height:12em;\"",
-      "! ''[[Presidency of Joe Biden|46]]''",
-      "|  nowrap | ''Scheduled to begin<br>January 20, 2021",
-      "| '''[[Joe Biden]]'''",
-      "| style=\"background-color:{{Democratic Party (United States)/meta/color}}\" |",
-      "| [[Democratic Party (United States)|Democratic]]",
-      "| [[2020 United States presidential election|2020]]",
-      "| data-sort-value=\"Harris, Kamala\"|[[Kamala Harris]]",
-      "",
-      "|}"
+      ""
     ],
     "deleted": []
   },
@@ -32,29 +15,11 @@
     "timestamp": "2021-01-06T18:31:23+00:00",
     "added": [],
     "deleted": [
-      "|}",
       "",
       "=== Acting presidents ===",
-      "{{Main|Acting president of the United States}}",
       "An acting president of the United States is an individual who legitimately exercises the [[Powers of the president of the United States|powers and duties]] of the [[president of the United States]] even though that person does not hold the office in their own right.",
-      "{| class=\"wikitable\"",
-      "!'''Tenure'''",
-      "! colspan=\"2\" | Acting president",
-      "! colspan=\"2\" | Party",
-      "|-",
-      "|July 13, 1985",
       "11:28 am – 7:22 pm [[Eastern Time Zone|EDT]]",
-      "| '''{{nowrap|[[George H. W. Bush]]}}'''",
-      "| style=\"background-color:{{Republican Party (United States)/meta/color}}\" |",
-      "| [[Republican Party (United States)|Republican]]",
-      "|-",
-      "|June 29, 2002",
       "7:09 am – 9:24 am EDT",
-      "| rowspan=\"2\" | [[Dick Cheney|'''Dick Cheney''']]",
-      "| rowspan=\"2\" style=\"background-color:{{Republican Party (United States)/meta/color}}\" |",
-      "| rowspan=\"2\" | [[Republican Party (United States)|Republican]]",
-      "|-",
-      "|July 21, 2007",
       "7:16 am – 9:21 am EDT"
     ]
   },
@@ -76,9 +41,40 @@
   },
   {
     "title": "List of presidents of the United States",
-    "timestamp": "2021-01-24T04:46:48+00:00",
+    "timestamp": "2021-01-20T16:26:18+00:00",
+    "added": [],
+    "deleted": [
+      "",
+      "===President-elect===",
+      ""
+    ]
+  },
+  {
+    "title": "List of presidents of the United States",
+    "timestamp": "2021-01-20T16:49:01+00:00",
+    "added": [],
+    "deleted": [
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "title": "List of presidents of the United States",
+    "timestamp": "2021-01-20T16:54:23+00:00",
+    "added": [],
+    "deleted": [
+      "",
+      "===President-elect===",
+      ""
+    ]
+  },
+  {
+    "title": "List of presidents of the United States",
+    "timestamp": "2021-01-20T16:55:32+00:00",
     "added": [
-      "|- style=\"height:12em;\""
+      "–",
+      "''Incumbent''"
     ],
     "deleted": []
   },
@@ -92,35 +88,8 @@
   },
   {
     "title": "List of presidents of the United States",
-    "timestamp": "2021-03-23T18:42:57+00:00",
+    "timestamp": "2021-01-28T03:53:17+00:00",
     "added": [],
-    "deleted": [
-      "|- style=\"height:12em;\"",
-      "! [[Presidency of Joe Biden|46]]",
-      "| {{dts|January 20, 2021}}<br/>–<br/>''Incumbent''",
-      "| '''[[Joe Biden]]'''",
-      "| style=\"background-color:{{Democratic Party (United States)/meta/color}}\" |",
-      "| [[Democratic Party (United States)|Democratic]]",
-      "| [[2020 United States presidential election|2020]]",
-      "| data-sort-value=\"Harris, Kamala\"|[[Kamala Harris]]",
-      "|-"
-    ]
-  },
-  {
-    "title": "List of presidents of the United States",
-    "timestamp": "2021-03-23T19:07:57+00:00",
-    "added": [],
-    "deleted": [
-      "| {{dts|January 20, 2017}}<br/>–<br/>{{Present}}",
-      ""
-    ]
-  },
-  {
-    "title": "List of presidents of the United States",
-    "timestamp": "2021-03-23T22:21:27+00:00",
-    "added": [
-      "{{pp-vandalism|small=yes}}"
-    ],
     "deleted": []
   }
 ]

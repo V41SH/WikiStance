@@ -1,6 +1,14 @@
 [
   {
     "title": "Andrew Garbarino",
+    "timestamp": "2021-01-04T20:03:30+00:00",
+    "added": [
+      "{{s-inc}}<!--"
+    ],
+    "deleted": []
+  },
+  {
+    "title": "Andrew Garbarino",
     "timestamp": "2021-01-09T16:40:08+00:00",
     "added": [
       "Garbarino was sworn in on January 3, 2021.<ref>Hoey, Peggy Spellman. “Freshman Congressman Garbarino Takes Oath In Washington, D.C.” Wantagh-Seaford, NY Patch, Patch, 4 Jan. 2021, patch.com/new-york/wantagh/freshman-congressman-garbarino-takes-oath-washington-d-c. </ref>",
@@ -13,14 +21,6 @@
     "timestamp": "2021-01-09T16:45:17+00:00",
     "added": [
       "Garbarino was sworn in on January 3, 2021.<ref>Hoey, Peggy Spellman. “Freshman Congressman Garbarino Takes Oath In Washington, D.C.” Wantagh-Seaford, NY Patch, Patch, 4 Jan. 2021,http://patch.com/new-york/wantagh/freshman-congressman-garbarino-takes-oath-washington-d-c. </ref>"
-    ],
-    "deleted": []
-  },
-  {
-    "title": "Andrew Garbarino",
-    "timestamp": "2021-01-23T15:40:45+00:00",
-    "added": [
-      "| birth_name = Andrew Reed Garbarino"
     ],
     "deleted": []
   }

@@ -1,40 +1,11 @@
 [
   {
     "title": "Apple Inc.",
-    "timestamp": "2020-09-03T15:39:57+00:00",
+    "timestamp": "2021-09-14T17:19:58+00:00",
     "added": [],
-    "deleted": []
-  },
-  {
-    "title": "Apple Inc.",
-    "timestamp": "2020-09-19T08:54:50+00:00",
-    "added": [],
-    "deleted": []
-  },
-  {
-    "title": "Apple Inc.",
-    "timestamp": "2020-09-19T09:00:19+00:00",
-    "added": [],
-    "deleted": []
-  },
-  {
-    "title": "Apple Inc.",
-    "timestamp": "2020-09-19T09:18:40+00:00",
-    "added": [],
-    "deleted": []
-  },
-  {
-    "title": "Apple Inc.",
-    "timestamp": "2020-09-22T14:56:31+00:00",
-    "added": [],
-    "deleted": []
-  },
-  {
-    "title": "Apple Inc.",
-    "timestamp": "2020-09-22T14:58:36+00:00",
-    "added": [
-      "{{copyvio-revdel|url=https://techtalkhome.com/apple-news-for-ipad-air-4th-gen-and-ipad/|url2=https://techtalkhome.com/apple-watch-6-release-date-price-and-specs-good/|start1=979185097|end1=979744214}}"
-    ],
-    "deleted": []
+    "deleted": [
+      "",
+      "* [[ANDRIOD IS BETTER]]"
+    ]
   }
 ]

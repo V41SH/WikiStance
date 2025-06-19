@@ -20,16 +20,15 @@
     "title": "Alexander Cummings (territorial governor)",
     "timestamp": "2021-02-21T14:03:17+00:00",
     "added": [
-      "{{cite journal",
-      "|last= Hanchett",
-      "|first= William",
-      "|date= April 1957",
-      "|url= https://www.historycolorado.org/sites/default/files/media/document/2018/ColoradoMagazine_v34n2_April1957.pdf",
-      "|journal= The Colorado Magazine",
-      "|volume= XXXIV",
-      "|issue= 2",
-      "|pages= 81-104",
-      "|access-date=February 21, 2021}}"
+      "{{cite journal"
+    ],
+    "deleted": []
+  },
+  {
+    "title": "Alexander Cummings (territorial governor)",
+    "timestamp": "2021-02-21T14:11:56+00:00",
+    "added": [
+      "*{{cite journal"
     ],
     "deleted": []
   },
@@ -124,14 +123,6 @@
       "==External links==",
       "*[https://www.loc.gov/resource/rbpe.0020400a/?st=text Library of Congress - Reply to Governor Cummings letter in the Press of November 8]",
       ""
-    ],
-    "deleted": []
-  },
-  {
-    "title": "Alexander Cummings (territorial governor)",
-    "timestamp": "2021-02-22T21:50:38+00:00",
-    "added": [
-      "| resting_place = [[Laurel Hill Cemetery]], Philadelphia, Pennsylvania, U.S."
     ],
     "deleted": []
   }

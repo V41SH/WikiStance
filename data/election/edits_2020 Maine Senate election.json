@@ -1,17 +1,18 @@
 [
   {
     "title": "2020 Maine Senate election",
-    "timestamp": "2020-11-24T20:42:11+00:00",
+    "timestamp": "2020-11-24T20:48:10+00:00",
     "added": [
-      "{| style=\"width:60%; text-align:center;\"",
-      "|+ ↓",
-      "|- style=\"color:white;\"",
-      "| style=\"background:blue; width:62.86%;\" | 22",
-      "| style=\"background:red; width:37.14%;\" | 13",
-      "|-",
-      "| <span style=\"color:blue;\">'''Democratic'''</span>",
-      "| <span style=\"color:red;\">'''Republican'''</span>",
-      "|}"
+      "}}",
+      "{{Election box hold with party link no change",
+      "}}",
+      "{{Election box gain with party link no change",
+      "}}",
+      "{{Election box hold with party link no change",
+      "}}",
+      "{{Election box gain with party link no change",
+      "}}",
+      "{{Election box hold with party link no change"
     ],
     "deleted": []
   }

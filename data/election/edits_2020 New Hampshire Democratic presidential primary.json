@@ -1,21 +1,10 @@
 [
   {
     "title": "2020 New Hampshire Democratic presidential primary",
-    "timestamp": "2020-11-19T14:42:40+00:00",
+    "timestamp": "2020-11-19T14:17:41+00:00",
     "added": [],
     "deleted": [
-      "| candidate4 = [[Elizabeth Warren]]",
-      "| color4 = b61b28",
-      "| home_state4 = [[Massachusetts]]",
-      "| delegate_count4 = 0",
-      "| popular_vote4 = 27,429",
-      "| percentage4 = 9.2%",
-      "| candidate5 = [[Joe Biden]]",
-      "| color5 = 224192",
-      "| home_state5 = [[Delaware]]",
-      "| delegate_count5 = 0",
-      "| popular_vote5 = 24,944",
-      "| percentage5 = 8.4%"
+      "<section end=\"NHresults\" />"
     ]
   }
 ]

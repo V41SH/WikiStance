@@ -1,21 +1,124 @@
 [
   {
     "title": "2021 New York City Council election",
-    "timestamp": "2020-09-27T14:23:23+00:00",
+    "timestamp": "2021-09-17T01:09:27+00:00",
+    "added": [
+      "{{Endorsements box",
+      ";Organizations",
+      "*[[American Institute of Architects]]<ref name=Architects/>",
+      "}}"
+    ],
+    "deleted": []
+  },
+  {
+    "title": "2021 New York City Council election",
+    "timestamp": "2021-09-17T10:35:41+00:00",
+    "added": [
+      ";Labor unions",
+      "*[[Professional Staff Congress]]<ref name=\"PSC\"/>"
+    ],
+    "deleted": []
+  },
+  {
+    "title": "2021 New York City Council election",
+    "timestamp": "2021-10-02T04:49:32+00:00",
     "added": [],
     "deleted": [
-      "Incumbent Democrat [[Jimmy Van Bramer]] is term-limited and cannot seek a fourth consecutive term."
+      "*[[Laborers International Union of North America - NY (LiUNA)]]",
+      "*[[Alliance of South Asian American Labor (ASAAL)]]",
+      "*[[New York Pan-Asian Democratic Club]]",
+      "*[[New American Voter Association (NAVA)]]"
     ]
   },
   {
     "title": "2021 New York City Council election",
-    "timestamp": "2020-10-19T20:41:01+00:00",
+    "timestamp": "2021-10-12T00:14:51+00:00",
     "added": [
-      "{{Election box total no change",
-      "| votes =",
-      "| percentage = 100",
       "}}",
-      "{{Election box end}}"
+      "{{Endorsements box",
+      ";Individuals",
+      "*[[Black Rob]], rapper ''(Deceased)''<ref name=AMNY9/>",
+      "{{Endorsements box",
+      ";Organizations",
+      "*[[Black Lives Matter]] PAC<ref>{{cite web|url=http://amsterdamnews.com/news/2021/jun/17/candidates-try-get-black-vote-through-activism/|title=Candidates try to get Black vote through activism|website=New York Amsterdam News|last1=Barker|first1=Cyril Josh|date=June 17, 2021|accessdate=Occtober 12, 2021}}</ref>",
+      "}}",
+      "{{Endorsements box",
+      ";Labor unions",
+      "*[[Correction Officers' Benevolent Association]]<ref name=Coba>{{cite web|url=https://www.cobanyc.org/sites/default/files/pdf/2021/26391%20COBA%20June_2021.pdf|title=Rank 1# the following candidates endorsed by COBA in the primary election June 22|date=June 2021|website=COBA NYC|page=5|accessdate=October 12, 2021}}</ref>",
+      "}}"
+    ],
+    "deleted": []
+  },
+  {
+    "title": "2021 New York City Council election",
+    "timestamp": "2021-10-12T00:41:20+00:00",
+    "added": [],
+    "deleted": [
+      ";Organizations"
+    ]
+  },
+  {
+    "title": "2021 New York City Council election",
+    "timestamp": "2021-10-13T01:27:49+00:00",
+    "added": [],
+    "deleted": []
+  },
+  {
+    "title": "2021 New York City Council election",
+    "timestamp": "2021-10-13T01:30:53+00:00",
+    "added": [],
+    "deleted": []
+  },
+  {
+    "title": "2021 New York City Council election",
+    "timestamp": "2021-10-13T01:37:44+00:00",
+    "added": [],
+    "deleted": []
+  },
+  {
+    "title": "2021 New York City Council election",
+    "timestamp": "2021-10-13T01:39:58+00:00",
+    "added": [],
+    "deleted": []
+  },
+  {
+    "title": "2021 New York City Council election",
+    "timestamp": "2021-10-17T04:22:24+00:00",
+    "added": [
+      ";State officials",
+      "*[[Jessica Ramos]], state senator<ref name=PBS>{{cite web|url=https://politicsny.com/2021/02/08/city-council-district-33-candidates-pits-progressives-vs-small-biz-advocates/|title=City Council District 33 Candidates Pits Progressives Vs Small Biz Advocates|website=Politics NY|date=February 8, 2021|accessdate=October 17, 2021}}</ref>",
+      ";Local officials",
+      "*[[Helen Rosenthal]], NYC Councilmember<ref name=PBS/>"
+    ],
+    "deleted": []
+  },
+  {
+    "title": "2021 New York City Council election",
+    "timestamp": "2021-10-20T00:18:05+00:00",
+    "added": [
+      "===General election===",
+      "{{Election box candidate with party link no change",
+      "}}",
+      "{{Election box write-in with party link no change",
+      "}}",
+      "{{Election box total no change",
+      "}}"
+    ],
+    "deleted": []
+  },
+  {
+    "title": "2021 New York City Council election",
+    "timestamp": "2021-10-20T00:56:26+00:00",
+    "added": [
+      "====General election====",
+      "{{Election box candidate with party link no change",
+      "}}",
+      "{{Election box candidate with party link no change",
+      "}}",
+      "{{Election box write-in with party link no change",
+      "}}",
+      "{{Election box total no change",
+      "}}"
     ],
     "deleted": []
   }

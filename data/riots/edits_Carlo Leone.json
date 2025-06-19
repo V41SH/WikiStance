@@ -1,10 +1,10 @@
 [
   {
     "title": "Carlo Leone",
-    "timestamp": "2021-01-02T01:38:11+00:00",
+    "timestamp": "2021-01-02T01:27:27+00:00",
     "added": [
-      "=== DOT adviser ===",
-      "Beginning January 9, 2021, Leone will serve as [[ConnDOT]] adviser to DOT commissioner Joseph Giulietti.<ref>{{cite web |last1=Dixon |first1=Ken |title=Veteran Stamford senator will take job with Lamont administration |url=https://www.ctpost.com/news/article/Veteran-Stamford-senator-will-take-job-with-15839146.php |website=Ctpost.com |publisher=Connecticut Post |access-date=January 1, 2021 |ref=1}}</ref>"
+      "{{Infobox officeholder",
+      "}}"
     ],
     "deleted": []
   },
@@ -23,37 +23,5 @@
       "*[https://www.leoneforsenate.net/ Carlo Leone campaign website]"
     ],
     "deleted": []
-  },
-  {
-    "title": "Carlo Leone",
-    "timestamp": "2021-03-08T23:28:09+00:00",
-    "added": [
-      "| successor1 = Patricia Miller (elect)"
-    ],
-    "deleted": []
-  },
-  {
-    "title": "Carlo Leone",
-    "timestamp": "2021-03-09T19:41:44+00:00",
-    "added": [
-      "Leone ran virtually unopposed in the 2008 election. Easily coasting to re-election against David Bedell, the write in candidate who scored 8 votes."
-    ],
-    "deleted": []
-  },
-  {
-    "title": "Carlo Leone",
-    "timestamp": "2021-03-10T02:19:31+00:00",
-    "added": [
-      "| image_caption = Leone at a conference, 2013."
-    ],
-    "deleted": []
-  },
-  {
-    "title": "Carlo Leone",
-    "timestamp": "2021-03-10T02:20:08+00:00",
-    "added": [],
-    "deleted": [
-      "|image_caption= Leone at a conference, 2013."
-    ]
   }
 ]

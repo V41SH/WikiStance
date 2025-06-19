@@ -1,8 +1,8 @@
 import json
 from pathlib import Path
 
-src_dir = Path("presidential debate (sep1 - nov1 2020)")          # adjust to the directory with the JSON files
-out_file = "debate.json"
+src_dir = Path("riots")          # adjust to the directory with the JSON files
+out_file = "riots.json"
 
 combined = []
 for fp in src_dir.glob("*.json"):

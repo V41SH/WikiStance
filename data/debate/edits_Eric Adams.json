@@ -1,15 +1,30 @@
 [
   {
     "title": "Eric Adams",
-    "timestamp": "2020-10-23T07:16:18+00:00",
-    "added": [],
-    "deleted": [
-      "{{Use mdy dates|date=September 2018}}",
-      "{{Multiple issues|",
-      "{{COI|date=January 2020}}",
-      "{{BLP sources|date=January 2020}}",
-      "{{cleanup|reason=This article needs to be upgraded more to wiki standards. This includes grammar and reference fixes|date=September 2016}}",
-      "}}"
-    ]
+    "timestamp": "2021-10-24T23:33:34+00:00",
+    "added": [
+      "In the 1990s, Adams began to eye a political career, with the ultimate goal to become the Mayor of New York City. He spoke to [[William Lynch Jr.]], who was an advisor to Mayor [[David Dinkins]], about a political career.<ref name=\"Kind\" /> Lynch encouraged Adams to first obtain a bachelors degree, rise within the NYPD's ranks and successfully run for a lower political office.<ref name=\"Kind\" />",
+      ""
+    ],
+    "deleted": []
+  },
+  {
+    "title": "Eric Adams",
+    "timestamp": "2021-10-25T01:03:55+00:00",
+    "added": [
+      "",
+      "Following his primary victory, Adams hosted a series of pricey political fundraisers in [[The Hamptons]] and [[Martha’s Vineyard]] and vacationed in [[Monte Carlo]], which critics contend contradicts his message of being a \"blue-collar\" mayor.<ref name=\"Kind\" />"
+    ],
+    "deleted": []
+  },
+  {
+    "title": "Eric Adams",
+    "timestamp": "2021-10-25T18:09:32+00:00",
+    "added": [
+      "",
+      "====Gentrification====",
+      "In 2017 when speaking about gentrification, Adams said  \"Our young people coming in need to understand that they are not the modern-day Christopher Columbus: They did not discover Brooklyn. Brooklyn was here long before they set sail, and if anything they need to be part of the greatness of Brooklyn and add their flavor, but not destroy what we are.\"<ref name=\"Town\" />"
+    ],
+    "deleted": []
   }
 ]

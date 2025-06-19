@@ -9,84 +9,11 @@
   },
   {
     "title": "2020 United States presidential election in Mississippi",
-    "timestamp": "2021-01-25T03:36:09+00:00",
-    "added": [
-      "{|class=wikitable",
-      "! District",
-      "! Trump",
-      "! Biden",
-      "! Representative",
-      "|- align=center"
-    ],
-    "deleted": []
-  },
-  {
-    "title": "2020 United States presidential election in Mississippi",
-    "timestamp": "2021-01-25T03:36:54+00:00",
-    "added": [],
-    "deleted": [
-      "{|class=wikitable",
-      "! District",
-      "! Trump",
-      "! Biden",
-      "! Representative",
-      "|- align=center"
-    ]
-  },
-  {
-    "title": "2020 United States presidential election in Mississippi",
-    "timestamp": "2021-01-25T03:37:53+00:00",
-    "added": [],
-    "deleted": []
-  },
-  {
-    "title": "2020 United States presidential election in Mississippi",
     "timestamp": "2021-01-25T03:38:39+00:00",
     "added": [],
     "deleted": [
       "====By congressional district====",
-      "Trump won 3 of 4 congressional districts.",
-      "{|class=wikitable",
-      "! District",
-      "! Trump",
-      "! Biden",
-      "! Representative",
-      "|- align=center"
+      "Trump won 3 of 4 congressional districts."
     ]
-  },
-  {
-    "title": "2020 United States presidential election in Mississippi",
-    "timestamp": "2021-03-17T11:40:09+00:00",
-    "added": [
-      "===By congressional district===",
-      "Trump won 3 of 4 congressional districts.",
-      "{|class=wikitable",
-      "! District",
-      "! Trump",
-      "! Biden",
-      "! Representative",
-      "|- align=center",
-      "! {{party shading/Republican}}|{{ushr|Mississippi|1|1st}}",
-      "| '''%'''",
-      "| %",
-      "| {{party shading/Republican}}|[[Trent Kelly]]",
-      "|- align=center",
-      "! {{party shading/Democratic}}|{{ushr|Mississippi|2|2nd}}",
-      "| %",
-      "| '''%'''",
-      "| {{party shading/Democratic}}|[[Bennie Thompson]]",
-      "|- align=center",
-      "! {{party shading/Republican}}|{{ushr|Mississippi|3|3rd}}",
-      "| '''%'''",
-      "| %",
-      "| {{party shading/Republican}}|[[Gregg Harper]]",
-      "|- align=center",
-      "! {{party shading/Republican}}|{{ushr|Mississippi|4|4th}}",
-      "| '''%'''",
-      "| %",
-      "| {{party shading/Republican}}|[[Steven Palazzo]]",
-      "|}"
-    ],
-    "deleted": []
   }
 ]

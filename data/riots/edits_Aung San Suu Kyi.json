@@ -2,27 +2,24 @@
   {
     "title": "Aung San Suu Kyi",
     "timestamp": "2021-01-31T23:41:23+00:00",
-    "added": [
-      "{{Current person|event=detained as part of a potential military coup}}",
+    "added": [],
+    "deleted": []
+  },
+  {
+    "title": "Aung San Suu Kyi",
+    "timestamp": "2021-02-01T00:15:52+00:00",
+    "added": [],
+    "deleted": [
       ""
-    ],
-    "deleted": []
+    ]
   },
   {
     "title": "Aung San Suu Kyi",
-    "timestamp": "2021-01-31T23:51:15+00:00",
-    "added": [
-      "{{Current |2=Aung San Suu Kyi was detained during [[2021 Myanmar coup d'état attempt]]|date=1 February 2021}}"
-    ],
-    "deleted": []
-  },
-  {
-    "title": "Aung San Suu Kyi",
-    "timestamp": "2021-02-01T00:13:06+00:00",
-    "added": [
-      "{{Current person|event=detained as part of a potential military coup}}"
-    ],
-    "deleted": []
+    "timestamp": "2021-02-01T11:35:57+00:00",
+    "added": [],
+    "deleted": [
+      "}}{{Pp-semi-indef|small=yes}}{{Aung San Suu Kyi series}}"
+    ]
   },
   {
     "title": "Aung San Suu Kyi",
@@ -34,28 +31,11 @@
   },
   {
     "title": "Aung San Suu Kyi",
-    "timestamp": "2021-02-01T13:47:20+00:00",
-    "added": [
-      "{{main|2021 Myanmar coup d'état}}"
-    ],
-    "deleted": []
-  },
-  {
-    "title": "Aung San Suu Kyi",
     "timestamp": "2021-02-01T16:58:16+00:00",
     "added": [
       "[[Category:Leaders ousted by a coup]]"
     ],
     "deleted": []
-  },
-  {
-    "title": "Aung San Suu Kyi",
-    "timestamp": "2021-02-02T10:34:50+00:00",
-    "added": [],
-    "deleted": [
-      "{{Current ASEAN Leaders}}",
-      "{{ASEAN Foreign}}"
-    ]
   },
   {
     "title": "Aung San Suu Kyi",
@@ -68,10 +48,22 @@
   },
   {
     "title": "Aung San Suu Kyi",
-    "timestamp": "2021-02-08T13:34:56+00:00",
+    "timestamp": "2021-02-03T10:45:02+00:00",
+    "added": [],
+    "deleted": []
+  },
+  {
+    "title": "Aung San Suu Kyi",
+    "timestamp": "2021-02-20T11:25:11+00:00",
     "added": [
-      "{{Family name hatnote|Aung San Suu Kyi|lang=Burmese}}"
+      "}}</ref> She has served as the president of the [[National League for Democracy]] (NLD) since 2011, having been the General Secretary from 1988 to 2011. She played a vital role in [[Myanmar]]'s transition from military junta to partial [[democracy]] in the 2010s."
     ],
+    "deleted": []
+  },
+  {
+    "title": "Aung San Suu Kyi",
+    "timestamp": "2021-02-26T03:34:26+00:00",
+    "added": [],
     "deleted": []
   }
 ]

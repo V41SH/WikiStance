@@ -1,14 +1,6 @@
 [
   {
     "title": "Theodore Roosevelt",
-    "timestamp": "2021-01-24T23:22:57+00:00",
-    "added": [
-      "| awards = [[Nobel Peace Prize]] (1906)"
-    ],
-    "deleted": []
-  },
-  {
-    "title": "Theodore Roosevelt",
     "timestamp": "2021-02-04T22:32:32+00:00",
     "added": [],
     "deleted": [
@@ -16,9 +8,6 @@
       "==Arms==",
       "",
       "{{Infobox COA wide",
-      "|escutcheon = Argent, upon a grassy mound a rose bush proper bearing three roses Gules barbed and seeded proper.",
-      "|crest = three ostrich plumes each per pale Gules and Argent.",
-      "|motto = ''Qui plantavit curabit'' (He who planted will preserve).<ref name=Roosevelt>{{cite web|last1=McMillan|first1=Joseph|title=Theodore Roosevelt and Franklin Delano Roosevelt, 26th and 32nd presidents of the United States|url=https://www.americanheraldry.org/heraldry-in-the-usa/arms-of-famous-americans/presidents-of-the-united-states/theodore-roosevelt-and-franklin-delano-roosevelt-26th-and-32nd-presidents-of-the-united-states|website=The American Heraldry Society|access-date=February 16, 2018}}</ref>",
       "}}"
     ]
   },
@@ -35,14 +24,6 @@
     "deleted": [
       "",
       "Two of the most influential Japanese statesmen that Theodore Roosevelt allied with to promote goodwill between the United States and Japan were [[Shibusawa Eiichi|Baron Shibusawa Eiichi]] and [[Tokugawa Iesato|Prince Tokugawa Iesato]]. <ref>{{Cite book|last=Katz|first=Stan S.|title=The Art of Peace: an illustrated biography on U.S. Japan relations.|publisher=Horizon Productions|year=2019|isbn=|location=|pages=24, 37, 55–56, 64n11, 198–202, 237, 358, 384n11}}</ref> <ref>{{Cite web|last=|first=|date=April 1, 2020|title=Shibusawa Eiichi: Father of Japanese Capitalism|url=https://www.theodorerooseveltcenter.org/Blog/Item/Shibusawa%20Eiichi:%20Father%20of%20Japanese%20Capitalism|url-status=live|archive-url=|archive-date=|access-date=|website=Theodore Roosevelt Center}}</ref>"
-    ]
-  },
-  {
-    "title": "Theodore Roosevelt",
-    "timestamp": "2021-03-04T15:59:40+00:00",
-    "added": [],
-    "deleted": [
-      "https://en.wikipedia.org/wiki/WorldCat_Identities_(identifier)"
     ]
   }
 ]

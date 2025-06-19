@@ -1,18 +1,1 @@
-[
-  {
-    "title": "Bob Menendez",
-    "timestamp": "2021-01-16T06:32:59+00:00",
-    "added": [
-      "| status1             = Designate"
-    ],
-    "deleted": []
-  },
-  {
-    "title": "Bob Menendez",
-    "timestamp": "2021-01-20T22:10:12+00:00",
-    "added": [],
-    "deleted": [
-      "| status1             ="
-    ]
-  }
-]
+[]

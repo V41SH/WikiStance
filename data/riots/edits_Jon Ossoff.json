@@ -1,14 +1,6 @@
 [
   {
     "title": "Jon Ossoff",
-    "timestamp": "2021-01-06T06:13:37+00:00",
-    "added": [],
-    "deleted": [
-      "| occupation          = Politician, documentary film producer, investigative journalist"
-    ]
-  },
-  {
-    "title": "Jon Ossoff",
     "timestamp": "2021-01-06T14:30:52+00:00",
     "added": [
       "",
@@ -35,60 +27,34 @@
       "{{Election box begin",
       "}}",
       "{{Election box winning candidate with party link",
-      "| candidate  = David Perdue (incumbent)",
-      "| party      = Republican Party (United States)",
-      "| votes      = 2,462,617",
-      "| percentage = 49.73%",
-      "| change     = -3.16%",
       "}}",
       "{{Election box winning candidate with party link",
-      "| candidate  = [[Jon Ossoff]]",
-      "| party      = Democratic Party (United States)",
-      "| votes      = 2,374,519",
-      "| percentage = 47.95%",
-      "| change     = +2.74%",
       "}}",
       "{{Election box candidate with party link",
-      "| candidate  = Shane T. Hazel",
-      "| party      = Libertarian Party (United States)",
-      "| votes      = 115,039",
-      "| percentage = 2.32%",
-      "| change     = +0.42%",
       "}}",
       "{{Election box write-in with party link",
-      "| votes      = 952",
-      "| percentage = 0.02%",
-      "| change     = n/a",
       "}}",
       "{{Election box total",
-      "| votes      = 4,953,127",
-      "| percentage = 100.0",
       "}}",
-      "{{Election box end}}",
       "",
       "{{Election box begin",
       "}}",
       "{{Election box candidate with party link",
-      "| candidate  = David Perdue",
-      "| party      = Republican Party (United States)",
-      "| votes      =",
-      "| percentage =",
-      "| change     =",
       "}}",
       "{{Election box candidate with party link",
-      "| candidate  = [[Jon Ossoff]]",
-      "| party      = Democratic Party (United States)",
-      "| votes      =",
-      "| percentage =",
-      "| change     =",
       "}}",
       "{{Election box total",
-      "| votes      =",
-      "| percentage =",
-      "}}",
-      "{{Election box end}}"
+      "}}"
     ],
     "deleted": []
+  },
+  {
+    "title": "Jon Ossoff",
+    "timestamp": "2021-01-07T00:04:13+00:00",
+    "added": [],
+    "deleted": [
+      ""
+    ]
   },
   {
     "title": "Jon Ossoff",
@@ -113,14 +79,6 @@
       "",
       "=== Public image ===",
       "Women's fashion magazines such as ''[[Vogue magazine|Vogue]]'' have described Ossoff as \"hot\" and having the appeal of a \"grown-up [[Timothée Chalamet]]\".<ref>{{cite magazine|url=https://www.vogue.com/article/jon-ossoff-internet-thirst-strong|title=The Internet Thirst for Jon Ossoff Is Strong|work=Vogue|date=Condé Nast|date=January 4, 2021|last=Ruiz|first=Michelle}}</ref><ref>{{cite magazine|url=https://www.instyle.com/celebrity/hot-politicians-2020|title=At Least There Were Hot Politicians in 2020|work=InStyle|date=December 24, 2020|publisher=Meredith Beauty Group}}</ref> Ossoff has been described as able to appeal to the younger generation by using [[TikTok]], the social media app most popular with teenagers.<ref>{{cite news|url=https://www.nbcnews.com/politics/politics-news/gen-z-using-tiktok-encourage-youth-voter-turnout-georgia-s-n1252787|title=Gen Z is using TikTok to encourage youth voter turnout in Georgia's runoffs|work=NBC News|date=January 4, 2021|last=Rosenblatt|first=Kathleen|publisher=NBC Universal}}</ref>"
-    ],
-    "deleted": []
-  },
-  {
-    "title": "Jon Ossoff",
-    "timestamp": "2021-01-07T17:01:07+00:00",
-    "added": [
-      "{{wikiquotes}}"
     ],
     "deleted": []
   },
@@ -169,14 +127,6 @@
   },
   {
     "title": "Jon Ossoff",
-    "timestamp": "2021-01-11T08:31:36+00:00",
-    "added": [],
-    "deleted": [
-      "| occupation          = {{hlist|Politician|film producer|investigative journalist}}"
-    ]
-  },
-  {
-    "title": "Jon Ossoff",
     "timestamp": "2021-01-11T20:12:13+00:00",
     "added": [],
     "deleted": []
@@ -191,41 +141,17 @@
   },
   {
     "title": "Jon Ossoff",
-    "timestamp": "2021-01-11T20:15:52+00:00",
+    "timestamp": "2021-01-20T18:42:10+00:00",
     "added": [
-      "{{notelist}}"
+      "{{s-non|reason=Incumbent}}<!-- {{s-inc}"
     ],
     "deleted": []
   },
   {
     "title": "Jon Ossoff",
-    "timestamp": "2021-01-20T05:29:51+00:00",
+    "timestamp": "2021-01-20T19:03:54+00:00",
     "added": [
-      "{{EngvarA|date=December 2020}}"
-    ],
-    "deleted": []
-  },
-  {
-    "title": "Jon Ossoff",
-    "timestamp": "2021-01-20T17:17:28+00:00",
-    "added": [],
-    "deleted": [
-      "| succeeding          = [[David Perdue]]"
-    ]
-  },
-  {
-    "title": "Jon Ossoff",
-    "timestamp": "2021-01-20T19:12:50+00:00",
-    "added": [],
-    "deleted": [
-      "| alongside           = [[Raphael Warnock]]"
-    ]
-  },
-  {
-    "title": "Jon Ossoff",
-    "timestamp": "2021-01-20T20:06:52+00:00",
-    "added": [
-      "{{current person}}"
+      "{{s-inc}"
     ],
     "deleted": []
   },
@@ -247,16 +173,10 @@
   },
   {
     "title": "Jon Ossoff",
-    "timestamp": "2021-01-20T21:27:10+00:00",
-    "added": [
-      "{{pp-protected|reason=Persistent addition of [[WP:INTREF|unsourced or poorly sourced content]]|small=yes}}"
-    ],
-    "deleted": []
-  },
-  {
-    "title": "Jon Ossoff",
     "timestamp": "2021-01-20T21:52:47+00:00",
-    "added": [],
+    "added": [
+      ""
+    ],
     "deleted": []
   },
   {
@@ -264,17 +184,16 @@
     "timestamp": "2021-01-20T22:21:41+00:00",
     "added": [
       "",
-      "==Notes==",
-      "{{notelist}}"
+      "==Notes=="
     ],
     "deleted": []
   },
   {
     "title": "Jon Ossoff",
-    "timestamp": "2021-01-20T22:27:35+00:00",
+    "timestamp": "2021-01-21T04:23:54+00:00",
     "added": [],
     "deleted": [
-      "{{current person}}"
+      ""
     ]
   },
   {
@@ -298,22 +217,5 @@
     "timestamp": "2021-02-23T01:48:43+00:00",
     "added": [],
     "deleted": []
-  },
-  {
-    "title": "Jon Ossoff",
-    "timestamp": "2021-02-24T00:44:22+00:00",
-    "added": [
-      "{{pp-vandalism|small=yes}}"
-    ],
-    "deleted": []
-  },
-  {
-    "title": "Jon Ossoff",
-    "timestamp": "2021-02-25T10:30:07+00:00",
-    "added": [],
-    "deleted": [
-      "| blank1              = Handedness",
-      "| data1               = [[Right-handedness|Right]]"
-    ]
   }
 ]

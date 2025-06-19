@@ -10,10 +10,18 @@
   },
   {
     "title": "United States Electoral College",
-    "timestamp": "2021-01-31T04:51:31+00:00",
-    "added": [],
-    "deleted": [
-      "{{TOC limit}}"
-    ]
+    "timestamp": "2021-01-31T04:57:39+00:00",
+    "added": [
+      "After the Thirteenth Amendment abolished slavery, white voters in Southern states benefited from elimination of the Three-Fifths Compromise because former slaves then counted for a full person. But after the end of Reconstruction, Jim Crow voter suppression techniques and threats of violence prevented most black people from voting.Many Northern representatives argued for the elimination of the electoral college, and argued for direct election of the President by all U.S. voters.<ref>{{cite web |url=https://www.npr.org/2020/09/30/918717270/the-electoral-college |title=Throughline - The Electoral College |date=2020-10-15}}</ref>"
+    ],
+    "deleted": []
+  },
+  {
+    "title": "United States Electoral College",
+    "timestamp": "2021-01-31T04:58:08+00:00",
+    "added": [
+      "After the Thirteenth Amendment abolished slavery, white voters in Southern states benefited from elimination of the Three-Fifths Compromise because former slaves then counted for a full person. But after the end of Reconstruction, Jim Crow voter suppression techniques and threats of violence prevented most black people from voting anddilutingthewhitevote.<ref>{{cite web |url=https://www.npr.org/2020/09/30/918717270/the-electoral-college |title=Throughline - The Electoral College |date=2020-10-15}}</ref>"
+    ],
+    "deleted": []
   }
 ]

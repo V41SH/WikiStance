@@ -66,28 +66,21 @@
   },
   {
     "title": "2022 California gubernatorial election",
+    "timestamp": "2021-02-12T01:20:51+00:00",
+    "added": [],
+    "deleted": [
+      "",
+      "",
+      "Com Order functional Paid",
+      ""
+    ]
+  },
+  {
+    "title": "2022 California gubernatorial election",
     "timestamp": "2021-02-18T17:05:33+00:00",
     "added": [
-      "|}",
       "",
-      ";with Faulconer and Villaraigosa",
-      "{| class=\"wikitable\" style=\"font-size:90%;text-align:center;\"",
-      "|- valign=bottom",
-      "! Poll source",
-      "! Date(s)<br>administered",
-      "! Sample<br>size{{efn|name=\"Key\"}}",
-      "! Margin<br>of error",
-      "! style=\"width:100px;\"| Kevin<br>Faulconer (R)",
-      "! style=\"width:100px;\"| Antonio<br>Villaraigosa (D)",
-      "! Undecided",
-      "|-",
-      "|style=\"text-align:left;\"|[https://www.politico.com/f/?id=00000177-b286-d644-a377-fe9f2d260000 WPA Intelligence (R)]{{efn-ua|name=\"Faulconer\"}}",
-      "|February 12–14, 2021",
-      "|645 (LV)",
-      "|±&nbsp;3.9%",
-      "|{{party shading/Republican}}|'''31%'''",
-      "|28%",
-      "|{{party shading/Undecided}}|'''41%'''"
+      ";with Faulconer and Villaraigosa"
     ],
     "deleted": []
   },
@@ -98,78 +91,5 @@
       "* [https://diegomartinezforgovernor.com/ Diego Martinez (R) for Governor]"
     ],
     "deleted": []
-  },
-  {
-    "title": "2022 California gubernatorial election",
-    "timestamp": "2021-03-02T00:57:49+00:00",
-    "added": [],
-    "deleted": [
-      "*[[David Rudnick]], businessman, political activist, U.S. Marine Corps Veteran and 2020 U.S. Congressional Candidate<ref name=\"Rudnick Facebook\" group=\"\">{{cite web |last1=Rudnick |first1=Frederick |title=David Rudnick for Congress |url=https://www.facebook.com/VoteRudnickForCA25/posts/475912960458583 |website=Facebook |publisher=Facebook |access-date=27 February 2021}}</ref>"
-    ]
-  },
-  {
-    "title": "2022 California gubernatorial election",
-    "timestamp": "2021-03-18T10:31:12+00:00",
-    "added": [
-      "* [https://laurasmithforcagovernor.com/ Laura Smith (R) for Governor]"
-    ],
-    "deleted": []
-  },
-  {
-    "title": "2022 California gubernatorial election",
-    "timestamp": "2021-03-18T11:28:54+00:00",
-    "added": [],
-    "deleted": [
-      "===Endorsements===",
-      "{{Endorsements box",
-      "| list =",
-      "TMR FIREARMS TRAINING; Gun ownership / Responsibility / CCW",
-      "}}",
-      ""
-    ]
-  },
-  {
-    "title": "2022 California gubernatorial election",
-    "timestamp": "2021-03-18T14:06:53+00:00",
-    "added": [
-      "===Endorsements===",
-      "{{Endorsements box",
-      "| list =",
-      "TMR FIREARMS TRAINING; Gun ownership / Responsibility / CCW",
-      "}}",
-      ""
-    ],
-    "deleted": []
-  },
-  {
-    "title": "2022 California gubernatorial election",
-    "timestamp": "2021-03-19T22:37:30+00:00",
-    "added": [],
-    "deleted": [
-      "Meghan Markle"
-    ]
-  },
-  {
-    "title": "2022 California gubernatorial election",
-    "timestamp": "2021-03-19T22:37:47+00:00",
-    "added": [],
-    "deleted": []
-  },
-  {
-    "title": "2022 California gubernatorial election",
-    "timestamp": "2021-03-19T22:39:31+00:00",
-    "added": [],
-    "deleted": [
-      "*[[Meghan Markle]]"
-    ]
-  },
-  {
-    "title": "2022 California gubernatorial election",
-    "timestamp": "2021-03-25T15:31:57+00:00",
-    "added": [],
-    "deleted": [
-      ";Partisan clients",
-      "{{notelist-ua}}"
-    ]
   }
 ]

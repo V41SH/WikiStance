@@ -1,54 +1,30 @@
 [
   {
     "title": "2020 Pennsylvania Senate election",
+    "timestamp": "2021-01-13T03:44:14+00:00",
+    "added": [],
+    "deleted": [
+      ""
+    ]
+  },
+  {
+    "title": "2020 Pennsylvania Senate election",
     "timestamp": "2021-01-18T02:23:24+00:00",
+    "added": [],
+    "deleted": []
+  },
+  {
+    "title": "2020 Pennsylvania Senate election",
+    "timestamp": "2021-01-18T02:34:14+00:00",
     "added": [
-      "",
-      "{{Election box begin no change|title=[[Pennsylvania Senate, District 48]] special election, 2020}}{{Election box winning candidate with party link no change|candidate=David Arnold|party=Republican Party (United States)|votes=18,234|percentage=68.70}}",
-      "{{Election box candidate with party link no change|candidate=Michael Schroeder|party=Democratic Party (United States)|votes=9,950|percentage=35.30}}",
-      "{{Election box total no change|votes={{sum|9950|18234}}|percentage=100.00}}",
-      "{{Election box hold with party link no change|winner=Republican Party (United States)}}",
-      "{{Election box end}}"
+      "*[[2020 Pennsylvania House of Representatives election]]"
     ],
     "deleted": []
   },
   {
     "title": "2020 Pennsylvania Senate election",
     "timestamp": "2021-02-15T03:12:19+00:00",
-    "added": [
-      "",
-      "<!--        Independents        -->",
-      "| image4            =",
-      "| image4_size       = 160px",
-      "| image4_upright    =",
-      "| colour4           =",
-      "| leader4           =",
-      "| party4            = Independent (US)",
-      "| alliance4         =",
-      "",
-      "<!-- legislative or parliamentary -->",
-      "| leader_since4     =",
-      "| leaders_seat4     =",
-      "| last_election4    =",
-      "| seats_before4     = 1",
-      "| seats_needed4     =",
-      "| seats4            = 0",
-      "| seats_after4      = 1",
-      "| seat_change4      = {{steady}}",
-      "",
-      "<!-- any -->",
-      "| popular_vote4     =",
-      "| percentage4       =",
-      "| swing4            = <!-- legislative or parliamentary only-->"
-    ],
-    "deleted": []
-  },
-  {
-    "title": "2020 Pennsylvania Senate election",
-    "timestamp": "2021-02-15T03:21:37+00:00",
     "added": [],
-    "deleted": [
-      "| party1            = Pennsylvania Republican Party"
-    ]
+    "deleted": []
   }
 ]

@@ -1,30 +1,53 @@
 [
   {
     "title": "1978 United States Senate elections",
+    "timestamp": "2021-01-01T23:56:43+00:00",
+    "added": [
+      "{{Infobox election",
+      "",
+      "",
+      "",
+      "}}",
+      "",
+      "",
+      "Democrat [[Dick Clark (senator)|Dick Clark]] decided to run for re-election to a second term, but was defeated by [[Roger Jepsen]], the Republican nominee and former Lieutenant Governor of Iowa.",
+      ""
+    ],
+    "deleted": []
+  },
+  {
+    "title": "1978 United States Senate elections",
     "timestamp": "2021-01-02T02:06:06+00:00",
     "added": [
       "{{Infobox election",
-      "| election_name      = Louisiana election",
-      "| country            = Louisiana",
-      "| flag_year          = 1912",
-      "| type               = presidential",
-      "| ongoing            = no",
-      "| previous_election  = 1972 United States Senate election in Louisiana",
-      "| previous_year      = 1972",
-      "| next_election      = 1984 United States Senate election in Louisiana",
-      "| next_year          = 1984",
       "",
-      "| nominee1           = '''[[J. Bennett Johnston]]'''",
-      "| party1             = Democratic Party (United States)",
-      "| popular_vote1      =",
-      "| percentage1        =",
       "",
-      "| before_election    = [[J. Bennett Johnston]]",
-      "| before_party       = Democratic Party (United States)",
-      "| after_election     = [[J. Bennett Johnston]]",
-      "| after_party        = Democratic Party (United States)",
       "}}",
       ""
+    ],
+    "deleted": []
+  },
+  {
+    "title": "1978 United States Senate elections",
+    "timestamp": "2021-01-02T07:59:19+00:00",
+    "added": [
+      "{{Infobox election",
+      "",
+      "",
+      "",
+      "}}",
+      "",
+      "",
+      "Republican [[Dewey F. Bartlett]] retired instead of seeking a second term. In the elections, Democratic nominee [[Davis Boren]] won the open seat over Republican [[Robert B. Kamm]].",
+      ""
+    ],
+    "deleted": []
+  },
+  {
+    "title": "1978 United States Senate elections",
+    "timestamp": "2021-01-02T08:03:12+00:00",
+    "added": [
+      "Republican [[Dewey F. Bartlett]] retired instead of seeking a second term. In the elections, Democratic nominee [[DavidBoren]] won the open seat over Republican [[Robert B. Kamm]]."
     ],
     "deleted": []
   }

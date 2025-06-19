@@ -1,19 +1,9 @@
 [
   {
     "title": "2020 United States presidential election in Pennsylvania",
-    "timestamp": "2020-11-04T15:57:00+00:00",
-    "added": [
-      "{{pp-vandalism|small=yes}}"
-    ],
-    "deleted": []
-  },
-  {
-    "title": "2020 United States presidential election in Pennsylvania",
-    "timestamp": "2020-11-11T18:03:06+00:00",
+    "timestamp": "2020-11-05T19:25:53+00:00",
     "added": [],
-    "deleted": [
-      "{{pp-vandalism|small=yes}}"
-    ]
+    "deleted": []
   },
   {
     "title": "2020 United States presidential election in Pennsylvania",
@@ -21,6 +11,14 @@
     "added": [
       "",
       "Biden flipped back [[Erie County, Pennsylvania|Erie]] and [[Northampton County, Pennsylvania|Northampton]] Counties democratic."
+    ],
+    "deleted": []
+  },
+  {
+    "title": "2020 United States presidential election in Pennsylvania",
+    "timestamp": "2020-11-12T23:27:42+00:00",
+    "added": [
+      "'''| change ="
     ],
     "deleted": []
   },
@@ -35,6 +33,14 @@
   },
   {
     "title": "2020 United States presidential election in Pennsylvania",
+    "timestamp": "2020-11-16T08:18:07+00:00",
+    "added": [],
+    "deleted": [
+      "'''| change ="
+    ]
+  },
+  {
+    "title": "2020 United States presidential election in Pennsylvania",
     "timestamp": "2020-11-18T09:23:35+00:00",
     "added": [],
     "deleted": [
@@ -44,10 +50,11 @@
   },
   {
     "title": "2020 United States presidential election in Pennsylvania",
-    "timestamp": "2020-11-24T16:57:00+00:00",
+    "timestamp": "2020-11-19T06:03:49+00:00",
     "added": [],
     "deleted": [
-      "| votes_counted = 99"
+      "{{collapse bottom}}</noinclude>",
+      ""
     ]
   },
   {
@@ -65,14 +72,6 @@
     "timestamp": "2020-11-25T21:22:09+00:00",
     "added": [
       "On November 25, 2020, the Pennsylvania Senate Majority (Republican) Policy committee held a public hearing regarding thecountingofballotsin thiselection.<ref>{{cite web|url=https://www.youtube.com/watch?v=ohe2dQbNJwM|title=The Pennsylvania Senate Majority Policy Committee is holding a public hearing to discuss 2020 election issues and irregularities, at the request of Republican Senator Doug Mastriano}}</ref>"
-    ],
-    "deleted": []
-  },
-  {
-    "title": "2020 United States presidential election in Pennsylvania",
-    "timestamp": "2020-11-30T06:29:41+00:00",
-    "added": [
-      "{{main|2020 United States presidential election}}"
     ],
     "deleted": []
   }

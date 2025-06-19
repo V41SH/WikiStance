@@ -1,37 +1,10 @@
 [
   {
     "title": "Joe Biden",
-    "timestamp": "2020-11-06T14:01:12+00:00",
-    "added": [],
-    "deleted": [
-      "| president    = [[Barack Obama]]"
-    ]
-  },
-  {
-    "title": "Joe Biden",
-    "timestamp": "2020-11-07T05:42:59+00:00",
-    "added": [
-      "<!--| office              = [[President of the United States|President-elect of the United States]]",
-      "| vicepresident       = [[Kamala Harris]] (elect)",
-      "| term_start          = January 20, 2021",
-      "| term_end            =",
-      "| succeeding           = [[Donald Trump]]-->",
-      "| successor           = <!--[[Joe Biden]] (elect)-->"
-    ],
-    "deleted": []
-  },
-  {
-    "title": "Joe Biden",
     "timestamp": "2020-11-07T15:31:26+00:00",
     "added": [],
     "deleted": [
-      "",
-      "<!--| office              = [[President of the United States|President-elect of the United States]]",
-      "| vicepresident       = [[Kamala Harris]] (elect)",
-      "| term_start          = January 20, 2021",
-      "| term_end            =",
-      "| succeeding           = [[Donald Trump]]-->",
-      "| successor           = <!---->"
+      ""
     ]
   },
   {
@@ -57,14 +30,6 @@
     "timestamp": "2020-11-07T16:56:15+00:00",
     "added": [
       "== President (2021–2025) =="
-    ],
-    "deleted": []
-  },
-  {
-    "title": "Joe Biden",
-    "timestamp": "2020-11-07T17:32:47+00:00",
-    "added": [
-      "{{url|buildbackbetter.com|Transition website}}"
     ],
     "deleted": []
   },
@@ -134,88 +99,6 @@
     "added": [],
     "deleted": [
       "{{Navboxes",
-      "|list1=",
-      "{{s-start}}",
-      "{{s-ppo}}",
-      "{{s-bef|before=[[James M. Tunnell Jr.]]}}",
-      "{{s-ttl|title=[[Democratic Party (United States)|Democratic]] nominee for [[List of United States Senators from Delaware|U.S. Senator]] from [[Delaware]]<br/>([[Classes of United States Senators|Class 2]])|years=[[United States Senate election in Delaware, 1972|1972]], [[United States Senate election in Delaware, 1978|1978]], [[United States Senate election in Delaware, 1984|1984]], [[United States Senate election in Delaware, 1990|1990]], [[United States Senate election in Delaware, 1996|1996]], [[United States Senate election in Delaware, 2002|2002]], [[United States Senate election in Delaware, 2008|2008]]}}",
-      "{{s-aft|after=[[Chris Coons]]}}",
-      "{{s-break}}",
-      "{{s-bef|before=[[John Edwards]]}}",
-      "{{s-ttl|title=[[Democratic Party (United States)|Democratic]] [[List of United States Democratic Party presidential tickets|nominee]] for Vice President of the United States|years=[[2008 United States presidential election|2008]], [[2012 United States presidential election|2012]]}}",
-      "{{s-aft|after=[[Tim Kaine]]}}",
-      "{{s-break}}",
-      "{{s-bef|before=[[Hillary Clinton]]}}",
-      "{{s-ttl|title=[[Democratic Party (United States)|Democratic]] [[List of United States Democratic Party presidential tickets|nominee]] for [[President of the United States]]|years=[[2020 United States presidential election|2020]]}}",
-      "{{s-inc|recent}}",
-      "{{s-break}}",
-      "{{s-par|us-sen}}",
-      "{{s-bef|before=[[J. Caleb Boggs]]}}",
-      "{{s-ttl|title=[[List of United States Senators from Delaware|United States Senator (Class 2) from Delaware]]|years=1973–2009|alongside=[[William V. Roth Jr.]], [[Tom Carper]]}}",
-      "{{s-aft|after=[[Ted Kaufman]]}}",
-      "{{s-break}}",
-      "{{s-bef|before=[[Strom Thurmond]]}}",
-      "{{s-ttl|title=Ranking Member of the [[United States Senate Committee on the Judiciary|Senate Judiciary Committee]]|years=1981–1987}}",
-      "{{s-aft|after=[[Strom Thurmond]]}}",
-      "{{s-break}}",
-      "{{s-new|office}}",
-      "{{s-ttl|title=Ranking Member of the [[International Narcotics Control Caucus|Senate Narcotics Caucus]]|years=1985–1987}}",
-      "{{s-aft|after=[[Chuck Grassley]]}}",
-      "{{s-break}}",
-      "{{s-bef|before=[[Strom Thurmond]]}}",
-      "{{s-ttl|title=Chair of the [[United States Senate Committee on the Judiciary|Senate Judiciary Committee]]|years=1987–1995}}",
-      "{{s-aft|after=[[Orrin Hatch]]}}",
-      "{{s-break}}",
-      "{{s-bef|before=[[Chuck Grassley]]}}",
-      "{{s-ttl|title=Chair of the [[International Narcotics Control Caucus|Senate Narcotics Caucus]]|years=1987–1995}}",
-      "{{s-aft|after=[[Chuck Grassley]]}}",
-      "{{s-break}}",
-      "{{s-bef|before=[[Orrin Hatch]]}}",
-      "{{s-ttl|title=Ranking Member of the [[United States Senate Committee on the Judiciary|Senate Judiciary Committee]]|years=1995–1997}}",
-      "{{s-aft|after=[[Patrick Leahy]]}}",
-      "{{s-break}}",
-      "{{s-bef|before=[[Chuck Grassley]]}}",
-      "{{s-ttl|title=Ranking Member of the [[International Narcotics Control Caucus|Senate Narcotics Caucus]]|years=1995–2001}}",
-      "{{s-aft|after=[[Chuck Grassley]]}}",
-      "{{s-break}}",
-      "{{s-bef|before=[[Claiborne Pell]]}}",
-      "{{s-ttl|title=Ranking Member of the [[United States Senate Committee on Foreign Relations|Senate Foreign Relations Committee]]|years=1997–2001}}",
-      "{{s-aft|after=[[Jesse Helms]]}}",
-      "{{s-break}}",
-      "{{s-bef|before=[[Jesse Helms]]}}",
-      "{{s-ttl|title=Chair of the [[United States Senate Committee on Foreign Relations|Senate Foreign Relations Committee]]|years=2001–2003}}",
-      "{{s-aft|after=[[Richard Lugar]]}}",
-      "{{s-break}}",
-      "{{s-bef|before=[[Chuck Grassley]]}}",
-      "{{s-ttl|title=Chair of the [[International Narcotics Control Caucus|Senate Narcotics Caucus]]|years=2001–2003}}",
-      "{{s-aft|after=Chuck Grassley}}",
-      "{{s-break}}",
-      "{{s-bef|before=[[Jesse Helms]]}}",
-      "{{s-ttl|title=Ranking Member of the [[United States Senate Committee on Foreign Relations|Senate Foreign Relations Committee]]|years=2003–2007}}",
-      "{{s-aft|after=[[Richard Lugar]]}}",
-      "{{s-break}}",
-      "{{s-bef|before=[[Chuck Grassley]]}}",
-      "{{s-ttl|title=Ranking Member of the [[International Narcotics Control Caucus|Senate Narcotics Caucus]]|years=2003–2007}}",
-      "{{s-aft|after=[[Dianne Feinstein]]}}",
-      "{{s-break}}",
-      "{{s-bef|before=[[Richard Lugar]]}}",
-      "{{s-ttl|title=Chair of the [[United States Senate Committee on Foreign Relations|Senate Foreign Relations Committee]]|years=2007–2009}}",
-      "{{s-aft|after=[[John Kerry]]}}",
-      "{{s-break}}",
-      "{{s-bef|before=[[Chuck Grassley]]}}",
-      "{{s-ttl|title=Chair of the [[International Narcotics Control Caucus|Senate Narcotics Caucus]]|years=2007–2009}}",
-      "{{s-aft|after=[[Dianne Feinstein]]}}",
-      "{{s-break}}",
-      "{{s-hon}}",
-      "{{s-bef|before=[[John V. Tunney]]}}",
-      "{{s-ttl|title=[[List of youngest members of the United States Congress|Baby of the United States Senate]]|years=1973–1979}}",
-      "{{s-aft|after=[[Bill Bradley]]}}",
-      "{{s-break}}",
-      "{{s-off}}",
-      "{{s-bef|before=[[Dick Cheney]]}}",
-      "{{s-ttl|title=[[Vice President of the United States]]|years=2009–2017}}",
-      "{{s-aft|after=[[Mike Pence]]}}",
-      "{{s-end}}",
       "}}"
     ]
   },
@@ -236,18 +119,10 @@
   {
     "title": "Joe Biden",
     "timestamp": "2020-11-09T04:38:38+00:00",
-    "added": [
-      "{{further|Presidential transition of Joe Biden}}"
-    ],
-    "deleted": []
-  },
-  {
-    "title": "Joe Biden",
-    "timestamp": "2020-11-09T21:20:37+00:00",
-    "added": [
-      "{{United States presidential election, 2020}}"
-    ],
-    "deleted": []
+    "added": [],
+    "deleted": [
+      ""
+    ]
   },
   {
     "title": "Joe Biden",
@@ -338,41 +213,14 @@
   },
   {
     "title": "Joe Biden",
-    "timestamp": "2020-11-11T15:28:35+00:00",
-    "added": [],
-    "deleted": [
-      "{{Current person|date=November 2020}}"
-    ]
-  },
-  {
-    "title": "Joe Biden",
     "timestamp": "2020-11-12T05:31:28+00:00",
     "added": [],
     "deleted": []
   },
   {
     "title": "Joe Biden",
-    "timestamp": "2020-11-23T07:46:09+00:00",
-    "added": [
-      "| image_upright = 0.8"
-    ],
-    "deleted": []
-  },
-  {
-    "title": "Joe Biden",
-    "timestamp": "2020-11-24T04:28:49+00:00",
-    "added": [],
-    "deleted": [
-      "| image_upright = 0.8"
-    ]
-  },
-  {
-    "title": "Joe Biden",
     "timestamp": "2020-11-24T20:23:40+00:00",
-    "added": [
-      "",
-      "{{toc limit|3}}"
-    ],
+    "added": [],
     "deleted": []
   },
   {
@@ -410,14 +258,6 @@
       "[[Category:Vice Presidents of the United States]]"
     ],
     "deleted": []
-  },
-  {
-    "title": "Joe Biden",
-    "timestamp": "2020-11-30T03:27:02+00:00",
-    "added": [],
-    "deleted": [
-      "{{Spitting Image 2020}}"
-    ]
   },
   {
     "title": "Joe Biden",
